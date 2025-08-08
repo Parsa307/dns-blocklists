@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 08:20 UTC
-# Version: 2025.0808.0820.22
+# Last modified: 08 Aug 2025 16:11 UTC
+# Version: 2025.0808.1611.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5243
+# Number of entries: 5248
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -401,6 +401,7 @@ local=/fr-dns1.bancuh.com/
 local=/jp-dns1.bancuh.com/
 local=/sg-dns1.bancuh.com/
 local=/base99.com/
+local=/anamoxe.baselinux.net/
 local=/boltnixe.baselinux.net/
 local=/mass.church.baselinux.net/
 local=/dogeproxiex.baselinux.net/
@@ -646,6 +647,7 @@ local=/freedns.kiuo-utopias.chickenkiller.com/
 local=/mathhomeworkplus.chickenkiller.com/
 local=/mathiseasy.chickenkiller.com/
 local=/nathanlikesgames.chickenkiller.com/
+local=/nirbytesboltxero.chickenkiller.com/
 local=/oluka.chickenkiller.com/
 local=/whydidiask.chickenkiller.com/
 local=/dns.chilimac.net/
@@ -1352,6 +1354,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1499,6 +1502,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1741,6 +1745,7 @@ local=/goodssh.com/
 local=/dns.google.com/
 local=/google-public-dns-a.google.com/
 local=/google-public-dns-b.google.com/
+local=/dns-tunnel-check.googlezip.net/
 local=/tunnel.googlezip.net/
 local=/goosevpn.com/
 local=/performance.gosami.xyz/
@@ -2434,6 +2439,7 @@ local=/ynbziad.math-solver.com/
 local=/dns.mathewakhil.online/
 local=/mathlearning.tech/
 local=/mathnotes.help/
+local=/tips.mathsofthelibrary.homes/
 local=/matterhero.org/
 local=/maxfong.cc/
 local=/dns.maybe.icu/
@@ -2885,7 +2891,6 @@ local=/openproxylist.com/
 local=/opentunnel.net/
 local=/openvpn.cc/
 local=/openvpn.com/
-local=/openvpn.net/
 local=/openvpn-ssh.com/
 local=/hitman.malam.or.id/
 local=/jacksunblocked.malam.or.id/
@@ -2902,6 +2907,7 @@ local=/oraclevpn.com/
 local=/orangeproxy.net/
 local=/proxy.ordentlichbreit.de/
 local=/learning.orestpena.com/
+local=/fnrkrbvtpy.abbotsfordhallforhire.org.au/
 local=/resolver.dnsprivacy.org.uk/
 local=/oliverdiepiogreedycheckers.sponsorafuture.org.uk/
 local=/dns.oryxlabs.com/
@@ -4228,7 +4234,7 @@ local=/fb80256653edfbd9468b6d580605b0a338ea2a16-m.proxy2.startpage.com/
 local=/fb90d67e62e07ca6733db0f5aa8b7d21d0d8ff3b-m.proxy2.startpage.com/
 local=/febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com/
 local=/session.proxy2.startpage.com/
-local=/130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com/
+local=/proxy3.startpage.com/
 local=/ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us1-browse.startpage.com/
@@ -5103,7 +5109,6 @@ local=/windscribe.com/
 local=/windscribe.net/
 local=/thirteen13.windsormetalbattery.com/
 local=/buy.wine-software.com/
-local=/wireguard.com/
 local=/wirevpn.app/
 local=/wirevpn.cc/
 local=/adguard.wirimij.nl/
