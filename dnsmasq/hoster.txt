@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 14:41 UTC
-# Version: 2025.0808.1441.32
+# Last modified: 08 Aug 2025 18:41 UTC
+# Version: 2025.0808.1841.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2138
+# Number of entries: 2139
 #
 local=/000a.de/
 local=/000free.us/
@@ -1302,6 +1302,7 @@ local=/klammert.de/
 local=/klingler.us/
 local=/kolido.net/
 local=/kr.gp/
+local=/kraftonevent.com/
 local=/kulichki.net/
 local=/kulichki.ru/
 local=/kurzschliessen.de/

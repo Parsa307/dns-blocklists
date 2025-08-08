@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754664000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754678400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Aug 2025 14:40 UTC
-; Version: 2025.0808.1440.00
+; Last modified: 08 Aug 2025 18:40 UTC
+; Version: 2025.0808.1840.18
 ; Syntax: RPZ
-; Number of entries: 28154
+; Number of entries: 28188
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1355,6 +1355,8 @@ levuna.ch CNAME .
 *.levuna.ch CNAME .
 lunion.ch CNAME .
 *.lunion.ch CNAME .
+luzern-mode.ch CNAME .
+*.luzern-mode.ch CNAME .
 magicoa.ch CNAME .
 *.magicoa.ch CNAME .
 martincouture.ch CNAME .
@@ -9263,6 +9265,8 @@ kidebro.com CNAME .
 *.kidebro.com CNAME .
 kids-premium.com CNAME .
 *.kids-premium.com CNAME .
+kidsstylehub.com CNAME .
+*.kidsstylehub.com CNAME .
 killenclinical.com CNAME .
 *.killenclinical.com CNAME .
 kilokits.com CNAME .
@@ -9343,6 +9347,8 @@ klarsteinhaushaltspar.com CNAME .
 *.klarsteinhaushaltspar.com CNAME .
 klassischesfahrradneu.com CNAME .
 *.klassischesfahrradneu.com CNAME .
+kleiderweltboutique.com CNAME .
+*.kleiderweltboutique.com CNAME .
 kleidungangebote.com CNAME .
 *.kleidungangebote.com CNAME .
 kleidungfrilufts.com CNAME .
@@ -9995,6 +10001,8 @@ lorenzettibrasil-vendas.com CNAME .
 *.lorenzettibrasil-vendas.com CNAME .
 lorifygleam.com CNAME .
 *.lorifygleam.com CNAME .
+lorinthewild.com CNAME .
+*.lorinthewild.com CNAME .
 lorryspottingshop.com CNAME .
 *.lorryspottingshop.com CNAME .
 lostmiumia.com CNAME .
@@ -10025,6 +10033,8 @@ loveandtogether.com CNAME .
 *.loveandtogether.com CNAME .
 lovebikestore.com CNAME .
 *.lovebikestore.com CNAME .
+lovefortennis.com CNAME .
+*.lovefortennis.com CNAME .
 loveprintiful.com CNAME .
 *.loveprintiful.com CNAME .
 lovercloth.com CNAME .
@@ -10133,6 +10143,8 @@ lynch-care.com CNAME .
 *.lynch-care.com CNAME .
 mabanco.com CNAME .
 *.mabanco.com CNAME .
+machicshop.com CNAME .
+*.machicshop.com CNAME .
 machinerypartsmarket.com CNAME .
 *.machinerypartsmarket.com CNAME .
 mackagedenmark.com CNAME .
@@ -20425,6 +20437,8 @@ kachi-berlin.de CNAME .
 *.kachi-berlin.de CNAME .
 kadiwo.de CNAME .
 *.kadiwo.de CNAME .
+kadonimo.de CNAME .
+*.kadonimo.de CNAME .
 kaffee-aus-leidenschaft.de CNAME .
 *.kaffee-aus-leidenschaft.de CNAME .
 kaffee-held24.de CNAME .
@@ -20915,6 +20929,8 @@ linear-antrieb.de CNAME .
 *.linear-antrieb.de CNAME .
 linearnetrik.de CNAME .
 *.linearnetrik.de CNAME .
+linevo.de CNAME .
+*.linevo.de CNAME .
 link-handel24.de CNAME .
 *.link-handel24.de CNAME .
 linodo.de CNAME .
@@ -20927,6 +20943,8 @@ liospire.de CNAME .
 *.liospire.de CNAME .
 lisascholzhunde3.de CNAME .
 *.lisascholzhunde3.de CNAME .
+lisawelpenhaus.de CNAME .
+*.lisawelpenhaus.de CNAME .
 litflare.de CNAME .
 *.litflare.de CNAME .
 liviaberlin.de CNAME .
@@ -20989,6 +21007,8 @@ loungembelnic.de CNAME .
 *.loungembelnic.de CNAME .
 lovera-berlin.de CNAME .
 *.lovera-berlin.de CNAME .
+lovert.de CNAME .
+*.lovert.de CNAME .
 lovozo.de CNAME .
 *.lovozo.de CNAME .
 lowadeutschland.de CNAME .
@@ -21057,6 +21077,8 @@ luxavita-berlin.de CNAME .
 *.luxavita-berlin.de CNAME .
 luxde.de CNAME .
 *.luxde.de CNAME .
+luxeberlin.de CNAME .
+*.luxeberlin.de CNAME .
 luxfewo.de CNAME .
 *.luxfewo.de CNAME .
 luxhause.de CNAME .
@@ -24005,6 +24027,8 @@ balancecentrum.eu CNAME .
 *.balancecentrum.eu CNAME .
 budgetmagic.eu CNAME .
 *.budgetmagic.eu CNAME .
+d-ortelle.eu CNAME .
+*.d-ortelle.eu CNAME .
 drberg.eu CNAME .
 *.drberg.eu CNAME .
 dubaifix.eu CNAME .
@@ -24965,6 +24989,8 @@ jp-performance.net CNAME .
 *.jp-performance.net CNAME .
 kabahinfo.net CNAME .
 *.kabahinfo.net CNAME .
+karhusneakersnorge.net CNAME .
+*.karhusneakersnorge.net CNAME .
 kedscanada.net CNAME .
 *.kedscanada.net CNAME .
 kevindurantshoes.net CNAME .
@@ -25441,6 +25467,8 @@ jobtalentde.online CNAME .
 *.jobtalentde.online CNAME .
 kaufhausde.online CNAME .
 *.kaufhausde.online CNAME .
+levitra-20mg-priceof.online CNAME .
+*.levitra-20mg-priceof.online CNAME .
 lidlde.online CNAME .
 *.lidlde.online CNAME .
 marecuperadora.online CNAME .
@@ -26551,6 +26579,8 @@ kiks-de.shop CNAME .
 *.kiks-de.shop CNAME .
 kimberlybishop.shop CNAME .
 *.kimberlybishop.shop CNAME .
+kimcreem.shop CNAME .
+*.kimcreem.shop CNAME .
 kindgesundava.shop CNAME .
 *.kindgesundava.shop CNAME .
 kindgesundeu.shop CNAME .
@@ -26605,6 +26635,8 @@ lenaborke.shop CNAME .
 *.lenaborke.shop CNAME .
 leobabysoutlet.shop CNAME .
 *.leobabysoutlet.shop CNAME .
+leohome.shop CNAME .
+*.leohome.shop CNAME .
 leperfume.shop CNAME .
 *.leperfume.shop CNAME .
 atu.liades.shop CNAME .
@@ -26615,6 +26647,8 @@ lieberklein.shop CNAME .
 *.lieberklein.shop CNAME .
 liewoodd.shop CNAME .
 *.liewoodd.shop CNAME .
+lights4funvdb.shop CNAME .
+*.lights4funvdb.shop CNAME .
 liluschka.shop CNAME .
 *.liluschka.shop CNAME .
 lilymix.shop CNAME .

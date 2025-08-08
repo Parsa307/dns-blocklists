@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754664060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754678520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Aug 2025 14:41 UTC
-; Version: 2025.0808.1441.55
+; Last modified: 08 Aug 2025 18:42 UTC
+; Version: 2025.0808.1842.17
 ; Syntax: RPZ
-; Number of entries: 9492
+; Number of entries: 9524
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -104,6 +104,8 @@ flp.ai CNAME .
 *.flp.ai CNAME .
 fltr.ai CNAME .
 *.fltr.ai CNAME .
+font.ai CNAME .
+*.font.ai CNAME .
 grdt.ai CNAME .
 *.grdt.ai CNAME .
 hmt.ai CNAME .
@@ -204,6 +206,8 @@ h4g3z1-urlshortener.web.app CNAME .
 *.h4g3z1-urlshortener.web.app CNAME .
 san.aq CNAME .
 *.san.aq CNAME .
+annah.ar CNAME .
+*.annah.ar CNAME .
 hotm.art CNAME .
 *.hotm.art CNAME .
 placesunknown.art CNAME .
@@ -596,6 +600,8 @@ small.cat CNAME .
 *.7fth.cc CNAME .
 88nb.cc CNAME .
 *.88nb.cc CNAME .
+89bet69.cc CNAME .
+*.89bet69.cc CNAME .
 98pro.cc CNAME .
 *.98pro.cc CNAME .
 9o9.cc CNAME .
@@ -638,6 +644,8 @@ covgo.cc CNAME .
 *.covgo.cc CNAME .
 ez1.cc CNAME .
 *.ez1.cc CNAME .
+famu.cc CNAME .
+*.famu.cc CNAME .
 fbook.cc CNAME .
 *.fbook.cc CNAME .
 fmurl.cc CNAME .
@@ -758,6 +766,8 @@ tlot.cc CNAME .
 *.tlot.cc CNAME .
 to8.cc CNAME .
 *.to8.cc CNAME .
+topurl.cc CNAME .
+*.topurl.cc CNAME .
 toui.cc CNAME .
 *.toui.cc CNAME .
 tovgo.cc CNAME .
@@ -1834,6 +1844,8 @@ track3.davydovlaw.com CNAME .
 *.track3.davydovlaw.com CNAME .
 go.dbs.com CNAME .
 *.go.dbs.com CNAME .
+dealsfindersgroup.com CNAME .
+*.dealsfindersgroup.com CNAME .
 decenturl.com CNAME .
 *.decenturl.com CNAME .
 defigodirect.com CNAME .
@@ -2178,6 +2190,8 @@ linklada.com CNAME .
 *.linklada.com CNAME .
 linklyhq.com CNAME .
 *.linklyhq.com CNAME .
+linkmonet.com CNAME .
+*.linkmonet.com CNAME .
 linkpop.com CNAME .
 *.linkpop.com CNAME .
 linkpug4d.com CNAME .
@@ -2376,6 +2390,8 @@ peak-prosperity.com CNAME .
 *.peak-prosperity.com CNAME .
 pecurgoa.com CNAME .
 *.pecurgoa.com CNAME .
+peekstory.com CNAME .
+*.peekstory.com CNAME .
 petesmarketinghub.com CNAME .
 *.petesmarketinghub.com CNAME .
 short.php8developer.com CNAME .
@@ -3340,6 +3356,8 @@ lil.ee CNAME .
 *.lil.ee CNAME .
 lin.ee CNAME .
 *.lin.ee CNAME .
+linkb.ee CNAME .
+*.linkb.ee CNAME .
 linkfr.ee CNAME .
 *.linkfr.ee CNAME .
 linktr.ee CNAME .
@@ -3592,6 +3610,8 @@ go.lamotte.fr CNAME .
 *.go.lamotte.fr CNAME .
 lemde.fr CNAME .
 *.lemde.fr CNAME .
+lnks.fr CNAME .
+*.lnks.fr CNAME .
 lstu.fr CNAME .
 *.lstu.fr CNAME .
 lurl.fr CNAME .
@@ -6152,6 +6172,8 @@ yo.ma CNAME .
 *.yo.ma CNAME .
 zi.ma CNAME .
 *.zi.ma CNAME .
+matmacakiem222.makeup CNAME .
+*.matmacakiem222.makeup CNAME .
 knf.md CNAME .
 *.knf.md CNAME .
 nej.md CNAME .
@@ -6282,6 +6304,8 @@ ezbz.me CNAME .
 *.ezbz.me CNAME .
 ezclick.me CNAME .
 *.ezclick.me CNAME .
+f-ast.me CNAME .
+*.f-ast.me CNAME .
 fandw.me CNAME .
 *.fandw.me CNAME .
 fav.me CNAME .
@@ -6406,6 +6430,8 @@ links2.me CNAME .
 *.links2.me CNAME .
 ln-k.me CNAME .
 *.ln-k.me CNAME .
+lyt.me CNAME .
+*.lyt.me CNAME .
 m.me CNAME .
 *.m.me CNAME .
 mby.me CNAME .
@@ -6816,6 +6842,8 @@ redsto.ne CNAME .
 *.4h.net CNAME .
 5url.net CNAME .
 *.5url.net CNAME .
+89bet69.net CNAME .
+*.89bet69.net CNAME .
 8tm.net CNAME .
 *.8tm.net CNAME .
 ai6.net CNAME .
@@ -8316,6 +8344,8 @@ xn--ms8h.st CNAME .
 *.9splay.store CNAME .
 medusa88.store CNAME .
 *.medusa88.store CNAME .
+pedalhub.store CNAME .
+*.pedalhub.store CNAME .
 situsslotzeus.store CNAME .
 *.situsslotzeus.store CNAME .
 tj-bet88.store CNAME .
@@ -9184,6 +9214,8 @@ link-me.vip CNAME .
 *.link-me.vip CNAME .
 linkrefferal.vip CNAME .
 *.linkrefferal.vip CNAME .
+masterpoing.vip CNAME .
+*.masterpoing.vip CNAME .
 megalink.vip CNAME .
 *.megalink.vip CNAME .
 mt88.vip CNAME .

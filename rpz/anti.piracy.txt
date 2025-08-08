@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754669160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754683620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Aug 2025 16:06 UTC
-; Version: 2025.0808.1606.00
+; Last modified: 08 Aug 2025 20:07 UTC
+; Version: 2025.0808.2007.11
 ; Syntax: RPZ
-; Number of entries: 20376
+; Number of entries: 20412
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -845,6 +845,8 @@ goldesel.bz CNAME .
 *.goldesel.bz CNAME .
 kinokong.bz CNAME .
 *.kinokong.bz CNAME .
+kinox.bz CNAME .
+*.kinox.bz CNAME .
 myboerse.bz CNAME .
 *.myboerse.bz CNAME .
 openloadmovies.bz CNAME .
@@ -1861,6 +1863,8 @@ italia-film.co CNAME .
 *.italia-film.co CNAME .
 jpmangas.co CNAME .
 *.jpmangas.co CNAME .
+katcr.co CNAME .
+*.katcr.co CNAME .
 kickassto.co CNAME .
 *.kickassto.co CNAME .
 kinoz.co CNAME .
@@ -4745,6 +4749,8 @@ kastatus.com CNAME .
 *.kastatus.com CNAME .
 katfile.com CNAME .
 *.katfile.com CNAME .
+katunblock.com CNAME .
+*.katunblock.com CNAME .
 katzddl.com CNAME .
 *.katzddl.com CNAME .
 kavkisfile.com CNAME .
@@ -4975,6 +4981,8 @@ macgamesland.com CNAME .
 *.macgamesland.com CNAME .
 macgamesworld.com CNAME .
 *.macgamesworld.com CNAME .
+macgamez-download.com CNAME .
+*.macgamez-download.com CNAME .
 macnulled.com CNAME .
 *.macnulled.com CNAME .
 macserialjunkie.com CNAME .
@@ -8661,6 +8669,8 @@ italiafilm.fun CNAME .
 *.italiafilm.fun CNAME .
 kickass2.fun CNAME .
 *.kickass2.fun CNAME .
+kinox.fun CNAME .
+*.kinox.fun CNAME .
 lookmovie.fun CNAME .
 *.lookmovie.fun CNAME .
 losmovies.fun CNAME .
@@ -9317,6 +9327,8 @@ legittorrents.info CNAME .
 *.legittorrents.info CNAME .
 lermangasonline.info CNAME .
 *.lermangasonline.info CNAME .
+limetorrents.info CNAME .
+*.limetorrents.info CNAME .
 lk21official.info CNAME .
 *.lk21official.info CNAME .
 lonkero.info CNAME .
@@ -9819,6 +9831,8 @@ gostream.is CNAME .
 *.gostream.is CNAME .
 iwannawatch.is CNAME .
 *.iwannawatch.is CNAME .
+letmewatchthis.is CNAME .
+*.letmewatchthis.is CNAME .
 libgen.is CNAME .
 *.libgen.is CNAME .
 movieroom.is CNAME .
@@ -10199,6 +10213,8 @@ hdmovie2.link CNAME .
 *.hdmovie2.link CNAME .
 tracker.leechshield.link CNAME .
 *.tracker.leechshield.link CNAME .
+limetorrents.link CNAME .
+*.limetorrents.link CNAME .
 macapps.link CNAME .
 *.macapps.link CNAME .
 mserver.link CNAME .
@@ -11267,6 +11283,8 @@ juraganfilm.mobi CNAME .
 *.juraganfilm.mobi CNAME .
 kinox.mobi CNAME .
 *.kinox.mobi CNAME .
+liteapks.mobi CNAME .
+*.liteapks.mobi CNAME .
 lookmovie.mobi CNAME .
 *.lookmovie.mobi CNAME .
 tantifilm.mobi CNAME .
@@ -12459,6 +12477,8 @@ lalbatte.net CNAME .
 *.lalbatte.net CNAME .
 layer13.net CNAME .
 *.layer13.net CNAME .
+leakshare.net CNAME .
+*.leakshare.net CNAME .
 learningdl.net CNAME .
 *.learningdl.net CNAME .
 legendary-torrents.net CNAME .
@@ -14695,6 +14715,8 @@ kickass2.org CNAME .
 *.kickass2.org CNAME .
 kinoclub.org CNAME .
 *.kinoclub.org CNAME .
+kinotochka.org CNAME .
+*.kinotochka.org CNAME .
 kinotracker.org CNAME .
 *.kinotracker.org CNAME .
 kinozavr.org CNAME .
@@ -16007,6 +16029,8 @@ kinoua.pro CNAME .
 *.kinoua.pro CNAME .
 limetor.pro CNAME .
 *.limetor.pro CNAME .
+limetorrents.pro CNAME .
+*.limetorrents.pro CNAME .
 live7.pro CNAME .
 *.live7.pro CNAME .
 tv2.lk21official.pro CNAME .
@@ -16655,6 +16679,8 @@ leelo.ru CNAME .
 *.leelo.ru CNAME .
 line-net.ru CNAME .
 *.line-net.ru CNAME .
+watch.lonelil.ru CNAME .
+*.watch.lonelil.ru CNAME .
 m2v.ru CNAME .
 *.m2v.ru CNAME .
 maxwarez.ru CNAME .
@@ -17197,6 +17223,8 @@ italia-film.site CNAME .
 *.italia-film.site CNAME .
 juraganfilm.site CNAME .
 *.juraganfilm.site CNAME .
+kiosfilm21.site CNAME .
+*.kiosfilm21.site CNAME .
 tracker.kitaujisub.site CNAME .
 *.tracker.kitaujisub.site CNAME .
 kokodayo.site CNAME .
@@ -17307,6 +17335,8 @@ dood.so CNAME .
 *.dood.so CNAME .
 gogoanime.so CNAME .
 *.gogoanime.so CNAME .
+kickass.so CNAME .
+*.kickass.so CNAME .
 limetorrents.so CNAME .
 *.limetorrents.so CNAME .
 onstream.so CNAME .
@@ -17971,6 +18001,8 @@ kickasstorrents.to CNAME .
 *.kickasstorrents.to CNAME .
 kickme.to CNAME .
 *.kickme.to CNAME .
+kimcartoon.to CNAME .
+*.kimcartoon.to CNAME .
 kinomax.to CNAME .
 *.kinomax.to CNAME .
 kinos.to CNAME .
@@ -17987,6 +18019,8 @@ letsupload.to CNAME .
 *.letsupload.to CNAME .
 levidia.to CNAME .
 *.levidia.to CNAME .
+limetorrents.to CNAME .
+*.limetorrents.to CNAME .
 load.to CNAME .
 *.load.to CNAME .
 lookmovie2.to CNAME .
@@ -18727,6 +18761,8 @@ juraganfilm.tv CNAME .
 *.juraganfilm.tv CNAME .
 kinomix.tv CNAME .
 *.kinomix.tv CNAME .
+kinoua.tv CNAME .
+*.kinoua.tv CNAME .
 kinox.tv CNAME .
 *.kinox.tv CNAME .
 kinozal.tv CNAME .

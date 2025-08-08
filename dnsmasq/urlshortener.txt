@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 14:41 UTC
-# Version: 2025.0808.1441.55
+# Last modified: 08 Aug 2025 18:42 UTC
+# Version: 2025.0808.1842.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4746
+# Number of entries: 4762
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -244,6 +244,8 @@ local=/888df.com/
 local=/88link.me/
 local=/88nb.cc/
 local=/88win.link/
+local=/89bet69.cc/
+local=/89bet69.net/
 local=/89q.sk/
 local=/8n.ink/
 local=/8tm.net/
@@ -448,6 +450,7 @@ local=/andauth.co/
 local=/ane.ong/
 local=/angl.at/
 local=/anizam.ru/
+local=/annah.ar/
 local=/anon.to/
 local=/anp.su/
 local=/ansg.media/
@@ -1108,6 +1111,7 @@ local=/dcshru.ru/
 local=/dd.ma/
 local=/ddw.nu/
 local=/dealc.me/
+local=/dealsfindersgroup.com/
 local=/deb.li/
 local=/decat.de/
 local=/decenturl.com/
@@ -1349,6 +1353,7 @@ local=/ezexzo.link/
 local=/ezstat.ru/
 local=/ezurl.co/
 local=/ezyurl.co/
+local=/f-ast.me/
 local=/f0rk.in/
 local=/f1.tf/
 local=/f1m.in/
@@ -1363,6 +1368,7 @@ local=/facebookid.live/
 local=/fadurl.com/
 local=/fal.cn/
 local=/fam.ag/
+local=/famu.cc/
 local=/fandan.co/
 local=/fandom.link/
 local=/fandw.me/
@@ -1429,6 +1435,7 @@ local=/fnote.it/
 local=/foe.hn/
 local=/folu.me/
 local=/fon.gs/
+local=/font.ai/
 local=/foodtv.com/
 local=/fooji.info/
 local=/ford.to/
@@ -2209,6 +2216,7 @@ local=/linkai.in/
 local=/linkaku.pro/
 local=/linkapp.click/
 local=/linkasli.pro/
+local=/linkb.ee/
 local=/linkbear.me/
 local=/linkbio.co/
 local=/linkbirdy.com/
@@ -2252,6 +2260,7 @@ local=/linkjp.org/
 local=/linkjust.com/
 local=/linklada.com/
 local=/linklyhq.com/
+local=/linkmonet.com/
 local=/linkmpomax.live/
 local=/linkn.co/
 local=/linko.page/
@@ -2337,6 +2346,7 @@ local=/lnkiy.com/
 local=/lnkiy.in/
 local=/lnks.ai/
 local=/lnks.es/
+local=/lnks.fr/
 local=/lnkshk.com/
 local=/lnkw.co/
 local=/lnky.jp/
@@ -2399,6 +2409,7 @@ local=/lyn.bz/
 local=/lync.cc/
 local=/lynks.in/
 local=/lynkz.in/
+local=/lyt.me/
 local=/lz.com/
 local=/lzd.co/
 local=/lzd.page/
@@ -2437,11 +2448,13 @@ local=/marveliness.com/
 local=/mas.si/
 local=/mas.so/
 local=/masklink.org/
+local=/masterpoing.vip/
 local=/masuk-id.info/
 local=/masuksini.my/
 local=/masy.uk/
 local=/matchurl.com/
 local=/mathmayr.com/
+local=/matmacakiem222.makeup/
 local=/matten1.life/
 local=/mattes.live/
 local=/matwo.fr/
@@ -2910,7 +2923,9 @@ local=/pe.ga/
 local=/peak.fan/
 local=/peak-prosperity.com/
 local=/pecurgoa.com/
+local=/pedalhub.store/
 local=/peek.link/
+local=/peekstory.com/
 local=/peen.ca/
 local=/pekcamke.link/
 local=/pens.pe/
@@ -3985,6 +4000,7 @@ local=/toplistt.com/
 local=/topsitus.com/
 local=/topsubcvelens.life/
 local=/topt.al/
+local=/topurl.cc/
 local=/topurl.link/
 local=/toui.cc/
 local=/tov1.net/
