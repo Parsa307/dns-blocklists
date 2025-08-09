@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 18:42 UTC
-# Version: 2025.0808.1842.17
+# Last modified: 08 Aug 2025 23:02 UTC
+# Version: 2025.0808.2302.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4762
+# Number of entries: 4766
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -2490,6 +2490,7 @@ local=/meck.co/
 local=/medusa88.online/
 local=/medusa88.store/
 local=/meetu.ps/
+local=/megalink.pro/
 local=/megalink.vip/
 local=/meliodaslonesita.live/
 local=/mely.me/
@@ -2522,6 +2523,8 @@ local=/migre.me/
 local=/mii.pm/
 local=/mikale.me/
 local=/mikgr.si/
+local=/millerreception.com/
+local=/min.bz/
 local=/mineurl.top/
 local=/minggu.cfd/
 local=/d.minifun.games/
@@ -2659,6 +2662,7 @@ local=/mymst.co/
 local=/myof.uk/
 local=/myown.bio/
 local=/myown.click/
+local=/short.mypaste.fun/
 local=/mypoya.com/
 local=/myppt.cc/
 local=/myqrcode.mobi/

@@ -319,7 +319,6 @@ https://www.void.gr/kargig/void-gr-filters.txt
 https://www.vzhh.de/themen/einkauf-reise-freizeit/online-shopping/fake-shop-liste-wenn-guenstig-richtig-teuer-wird
 https://www.watchlist-internet.at/liste-abo-fallen/
 https://www.watchlist-internet.at/liste-betruegerischer-shops/
-https://www.watchlist-internet.at/liste-betruegerischer-shops/csv
 https://www.watchlist-internet.at/liste-finanzbetrug/
 https://www.watchlist-internet.at/liste-handwerksdienste/
 https://www.watchlist-internet.at/liste-immobilienagenturen/

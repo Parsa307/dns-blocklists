@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 20:07 UTC
-# Version: 2025.0808.2007.11
+# Last modified: 08 Aug 2025 23:02 UTC
+# Version: 2025.0808.2302.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10206
+# Number of entries: 10215
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -5415,6 +5415,7 @@ local=/mapple.tv/
 local=/marcrobledo.com/
 local=/mariocube.com/
 local=/mariumnetwork.com/
+local=/market-re.quest/
 local=/tracker.marshyonline.net/
 local=/martin-gebhardt.eu/
 local=/massgrave.dev/
@@ -5635,6 +5636,7 @@ local=/mmult.ru/
 local=/mo9999.net/
 local=/mob.org/
 local=/mobdro.to/
+local=/mobilecrack.world/
 local=/mobilesites.org/
 local=/mobilestan.net/
 local=/mobiletvshows.site/
@@ -5702,6 +5704,7 @@ local=/moonline.tv/
 local=/moonline.ws/
 local=/mooslo.com/
 local=/moovbob.com/
+local=/tracker.morethantv.me/
 local=/moriyashrine.org/
 local=/morpheustvhd.com/
 local=/wg.mortis.me/
@@ -5723,6 +5726,7 @@ local=/movie-forum.co/
 local=/movie-web.me/
 local=/movie2k.to/
 local=/movie4k.ag/
+local=/movie4k.is/
 local=/movie4k.org/
 local=/movie4k.sx/
 local=/movie4k.to/
@@ -5751,6 +5755,7 @@ local=/moviehaat.net/
 local=/moviehdfree.net/
 local=/movieheaven.org/
 local=/moviehunterz.cc/
+local=/moviejesus.com/
 local=/moviekids.tv/
 local=/movieking.cc/
 local=/movielabor.com/
@@ -5803,6 +5808,7 @@ local=/movieseriestv.net/
 local=/movieserver.net/
 local=/moviesfoundonline.com/
 local=/movieshd.watch/
+local=/moviesite.hu/
 local=/moviesjoy.is/
 local=/moviesjoy.life/
 local=/moviesjoy.net/
@@ -5900,6 +5906,7 @@ local=/mrtwig.net/
 local=/mrunblock.bond/
 local=/mrunblock.pro/
 local=/ettv.mrunblock.bar/
+local=/torrentdownloads.mrunblock.xyz/
 local=/mrunlock.space/
 local=/mscracks.com/
 local=/mserver.link/
@@ -5919,7 +5926,9 @@ local=/multicanais.com/
 local=/multicanais.fans/
 local=/multicanais.in/
 local=/multicanais.live/
+local=/multicanais.nz/
 local=/multicanaishd.online/
+local=/multreactor.ru/
 local=/mults.info/
 local=/munki.org/
 local=/murmurs.com/

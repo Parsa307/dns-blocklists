@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754683620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754694120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Aug 2025 20:07 UTC
-; Version: 2025.0808.2007.11
+; Last modified: 08 Aug 2025 23:02 UTC
+; Version: 2025.0808.2302.35
 ; Syntax: RPZ
-; Number of entries: 20412
+; Number of entries: 20430
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5229,6 +5229,8 @@ movieboxbd.com CNAME .
 *.movieboxbd.com CNAME .
 movieglide.com CNAME .
 *.movieglide.com CNAME .
+moviejesus.com CNAME .
+*.moviejesus.com CNAME .
 movielabor.com CNAME .
 *.movielabor.com CNAME .
 moviemaya.com CNAME .
@@ -8913,6 +8915,8 @@ diablotorrent.hu CNAME .
 *.diablotorrent.hu CNAME .
 impulsive.hu CNAME .
 *.impulsive.hu CNAME .
+moviesite.hu CNAME .
+*.moviesite.hu CNAME .
 ncore.hu CNAME .
 *.ncore.hu CNAME .
 pirateclub.hu CNAME .
@@ -9835,6 +9839,8 @@ letmewatchthis.is CNAME .
 *.letmewatchthis.is CNAME .
 libgen.is CNAME .
 *.libgen.is CNAME .
+movie4k.is CNAME .
+*.movie4k.is CNAME .
 movieroom.is CNAME .
 *.movieroom.is CNAME .
 moviesjoy.is CNAME .
@@ -10995,6 +11001,8 @@ moneybag.me CNAME .
 *.moneybag.me CNAME .
 tracker.monitorit4.me CNAME .
 *.tracker.monitorit4.me CNAME .
+tracker.morethantv.me CNAME .
+*.tracker.morethantv.me CNAME .
 wg.mortis.me CNAME .
 *.wg.mortis.me CNAME .
 motogpstream.me CNAME .
@@ -13685,6 +13693,8 @@ kisscartoon.nz CNAME .
 *.kisscartoon.nz CNAME .
 mega.nz CNAME .
 *.mega.nz CNAME .
+multicanais.nz CNAME .
+*.multicanais.nz CNAME .
 torrent.nz CNAME .
 *.torrent.nz CNAME .
 torrentz2.nz CNAME .
@@ -16209,6 +16219,8 @@ eurostreaming.quest CNAME .
 *.eurostreaming.quest CNAME .
 ilgeniodellostreaming.quest CNAME .
 *.ilgeniodellostreaming.quest CNAME .
+market-re.quest CNAME .
+*.market-re.quest CNAME .
 pirateproxy.quest CNAME .
 *.pirateproxy.quest CNAME .
 cb01.racing CNAME .
@@ -16705,6 +16717,8 @@ retracker.local.msn-net.ru CNAME .
 *.retracker.local.msn-net.ru CNAME .
 multi-torrent.ru CNAME .
 *.multi-torrent.ru CNAME .
+multreactor.ru CNAME .
+*.multreactor.ru CNAME .
 myflixer.ru CNAME .
 *.myflixer.ru CNAME .
 myflixerhd.ru CNAME .
@@ -19731,6 +19745,8 @@ igram.world CNAME .
 *.igram.world CNAME .
 ilgeniodellostreaming.world CNAME .
 *.ilgeniodellostreaming.world CNAME .
+mobilecrack.world CNAME .
+*.mobilecrack.world CNAME .
 net3lix.world CNAME .
 *.net3lix.world CNAME .
 stresser.world CNAME .
@@ -20225,6 +20241,8 @@ movies1234.xyz CNAME .
 *.movies1234.xyz CNAME .
 movieswatch.xyz CNAME .
 *.movieswatch.xyz CNAME .
+torrentdownloads.mrunblock.xyz CNAME .
+*.torrentdownloads.mrunblock.xyz CNAME .
 myp2px.xyz CNAME .
 *.myp2px.xyz CNAME .
 mythicalstress.xyz CNAME .

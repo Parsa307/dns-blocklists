@@ -29,6 +29,13 @@
       }
     },
     {
+      "PK": "acs-events.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "activity.windows.com",
       "action": {
         "do": 0,
@@ -64,7 +71,35 @@
       }
     },
     {
+      "PK": "ads-act-test.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads-act.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads.bing.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adsdemandcatalogapi.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adsdemandcatalog.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -148,6 +183,13 @@
       }
     },
     {
+      "PK": "adsl.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads.microsoft.com",
       "action": {
         "do": 0,
@@ -184,6 +226,13 @@
     },
     {
       "PK": "adstore.response.gcp.eastus.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -394,6 +443,27 @@
     },
     {
       "PK": "auc-visio-telemetry.officeapps.live.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "avdab-p-corniche-events-relay.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "avdab-s-corniche-events-relay.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "avdab-t-corniche-events-relay.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1177,6 +1247,13 @@
       }
     },
     {
+      "PK": "eudfmeventsapiprod.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eurffc-word-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
@@ -1297,6 +1374,13 @@
     },
     {
       "PK": "fp.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "fraudeventsvc-ppe.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1794,6 +1878,13 @@
     },
     {
       "PK": "o.xbox.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "partnerfraudevents.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -2655,6 +2746,13 @@
     },
     {
       "PK": "track.notif.careersppe.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "traf-fraudevents-int.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1

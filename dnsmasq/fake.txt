@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 18:40 UTC
-# Version: 2025.0808.1840.18
+# Last modified: 08 Aug 2025 23:17 UTC
+# Version: 2025.0808.2317.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14094
+# Number of entries: 14105
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -7890,6 +7890,7 @@ local=/mallof.shop/
 local=/malls-12.top/
 local=/malls-36.top/
 local=/malschule-wetzlar.de/
+local=/mambojamboaruba.com/
 local=/mammabump.de/
 local=/mammutwien.at/
 local=/mamomi-shopping.de/
@@ -7981,11 +7982,14 @@ local=/marlenesparke.shop/
 local=/marlenetasset.com/
 local=/marlinyason.shop/
 local=/marmot-outlet.com/
+local=/marpure.shop/
+local=/marrbudm.top/
 local=/marsilius-tech.de/
 local=/marta-paul.shop/
 local=/marta-paulbuy.shop/
 local=/martialarts-plus.com/
 local=/martincouture.ch/
+local=/martizz.store/
 local=/marvelous-shopping.com/
 local=/marylambert.shop/
 local=/maryrosecuskelly.com/
@@ -8069,6 +8073,7 @@ local=/medeurope24.com/
 local=/media-deals24.de/
 local=/media-fix.de/
 local=/media-genius.eu/
+local=/media-guardian.com/
 local=/media-voigt.de/
 local=/media-weber.com/
 local=/media24.live/
@@ -8297,6 +8302,7 @@ local=/milanowood.de/
 local=/milaravibes.de/
 local=/milea-wien.at/
 local=/milentech.com/
+local=/milgriom.com/
 local=/milleis-bk.com/
 local=/milleniumchain.com/
 local=/millioncrystal.com/
@@ -8478,6 +8484,7 @@ local=/molveri.dk/
 local=/molveschuhe.de/
 local=/momentarye.com/
 local=/momentokuecheneu.shop/
+local=/momentoss.shop/
 local=/momentosssale.shop/
 local=/momentsofharmony.de/
 local=/momoftrenton.com/
@@ -8520,6 +8527,7 @@ local=/montrereplique.to/
 local=/monvada.de/
 local=/moodcheerful.com/
 local=/moodlily.de/
+local=/moodofthecity.com/
 local=/moon-invest.fr/
 local=/moonboot-suomi.com/
 local=/moonbootargentina.com/
@@ -8571,6 +8579,7 @@ local=/motogorilla.shop/
 local=/motorcyclecastlex.com/
 local=/motorcyclezesty.com/
 local=/motorrad-levy-elsa.com/
+local=/motorrader24.de/
 local=/motorraderhelme.de/
 local=/motorraders.de/
 local=/motorsensen-shop.com/
@@ -8649,6 +8658,7 @@ local=/musikwelt-lindner.de/
 local=/mustang-parts-shop.de/
 local=/musthavecycle.com/
 local=/muttermode.de/
+local=/muvastore.com/
 local=/muzam.de/
 local=/muzenaudio.com/
 local=/mvfahrrad.de/
@@ -8917,6 +8927,7 @@ local=/neumann-mobel.de/
 local=/neumann-reifenhandel.com/
 local=/neumobelgeschaft.com/
 local=/neunagel.de/
+local=/neurath.net/
 local=/neveda-berlin.de/
 local=/nevermindshoes.com/
 local=/nevrtheles.com/

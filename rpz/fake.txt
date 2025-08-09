@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754678400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754695020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Aug 2025 18:40 UTC
-; Version: 2025.0808.1840.18
+; Last modified: 08 Aug 2025 23:17 UTC
+; Version: 2025.0808.2317.16
 ; Syntax: RPZ
-; Number of entries: 28188
+; Number of entries: 28210
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -10255,6 +10255,8 @@ maliseandeve.com CNAME .
 *.maliseandeve.com CNAME .
 mall-outdoors.com CNAME .
 *.mall-outdoors.com CNAME .
+mambojamboaruba.com CNAME .
+*.mambojamboaruba.com CNAME .
 man-investments.com CNAME .
 *.man-investments.com CNAME .
 managementinvest.com CNAME .
@@ -10437,6 +10439,8 @@ mechanicsn.com CNAME .
 *.mechanicsn.com CNAME .
 medeurope24.com CNAME .
 *.medeurope24.com CNAME .
+media-guardian.com CNAME .
+*.media-guardian.com CNAME .
 media-weber.com CNAME .
 *.media-weber.com CNAME .
 mediafritz.com CNAME .
@@ -10639,6 +10643,8 @@ mikewatch2.com CNAME .
 *.mikewatch2.com CNAME .
 milentech.com CNAME .
 *.milentech.com CNAME .
+milgriom.com CNAME .
+*.milgriom.com CNAME .
 milleis-bk.com CNAME .
 *.milleis-bk.com CNAME .
 milleniumchain.com CNAME .
@@ -10863,6 +10869,8 @@ monthlyi.com CNAME .
 *.monthlyi.com CNAME .
 moodcheerful.com CNAME .
 *.moodcheerful.com CNAME .
+moodofthecity.com CNAME .
+*.moodofthecity.com CNAME .
 moonboot-suomi.com CNAME .
 *.moonboot-suomi.com CNAME .
 moonbootargentina.com CNAME .
@@ -11001,6 +11009,8 @@ musikpowerboxing.com CNAME .
 *.musikpowerboxing.com CNAME .
 musthavecycle.com CNAME .
 *.musthavecycle.com CNAME .
+muvastore.com CNAME .
+*.muvastore.com CNAME .
 muzenaudio.com CNAME .
 *.muzenaudio.com CNAME .
 mvfurs.com CNAME .
@@ -21523,6 +21533,8 @@ moser-handels-gmbh.de CNAME .
 *.moser-handels-gmbh.de CNAME .
 mosmankoch.de CNAME .
 *.mosmankoch.de CNAME .
+motorrader24.de CNAME .
+*.motorrader24.de CNAME .
 motorraderhelme.de CNAME .
 *.motorraderhelme.de CNAME .
 motorraders.de CNAME .
@@ -25091,6 +25103,8 @@ net-investissement.net CNAME .
 *.net-investissement.net CNAME .
 netum.net CNAME .
 *.netum.net CNAME .
+neurath.net CNAME .
+*.neurath.net CNAME .
 nobullbelgie.net CNAME .
 *.nobullbelgie.net CNAME .
 nobullgreece.net CNAME .
@@ -26723,6 +26737,8 @@ marlenesparke.shop CNAME .
 *.marlenesparke.shop CNAME .
 marlinyason.shop CNAME .
 *.marlinyason.shop CNAME .
+marpure.shop CNAME .
+*.marpure.shop CNAME .
 marta-paul.shop CNAME .
 *.marta-paul.shop CNAME .
 marta-paulbuy.shop CNAME .
@@ -26791,6 +26807,8 @@ mokshaman.shop CNAME .
 *.mokshaman.shop CNAME .
 momentokuecheneu.shop CNAME .
 *.momentokuecheneu.shop CNAME .
+momentoss.shop CNAME .
+*.momentoss.shop CNAME .
 momentosssale.shop CNAME .
 *.momentosssale.shop CNAME .
 mondversand.shop CNAME .
@@ -27577,6 +27595,8 @@ mans-power.store CNAME .
 *.mans-power.store CNAME .
 marketelectroshop.store CNAME .
 *.marketelectroshop.store CNAME .
+martizz.store CNAME .
+*.martizz.store CNAME .
 mastermoveis.store CNAME .
 *.mastermoveis.store CNAME .
 masti.store CNAME .
@@ -27833,6 +27853,8 @@ malls-12.top CNAME .
 *.malls-12.top CNAME .
 malls-36.top CNAME .
 *.malls-36.top CNAME .
+marrbudm.top CNAME .
+*.marrbudm.top CNAME .
 medicnfousa.top CNAME .
 *.medicnfousa.top CNAME .
 mennal.top CNAME .

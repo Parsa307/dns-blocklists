@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754678520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754694120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Aug 2025 18:42 UTC
-; Version: 2025.0808.1842.17
+; Last modified: 08 Aug 2025 23:02 UTC
+; Version: 2025.0808.2302.09
 ; Syntax: RPZ
-; Number of entries: 9524
+; Number of entries: 9532
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -502,6 +502,8 @@ m-rx.bz CNAME .
 *.m-rx.bz CNAME .
 met.bz CNAME .
 *.met.bz CNAME .
+min.bz CNAME .
+*.min.bz CNAME .
 mng.bz CNAME .
 *.mng.bz CNAME .
 mrx.bz CNAME .
@@ -2274,6 +2276,8 @@ microsoftaistories.com CNAME .
 *.microsoftaistories.com CNAME .
 midiavip.com CNAME .
 *.midiavip.com CNAME .
+millerreception.com CNAME .
+*.millerreception.com CNAME .
 minilien.com CNAME .
 *.minilien.com CNAME .
 miniurl.com CNAME .
@@ -3684,6 +3688,8 @@ mainterus.fun CNAME .
 *.mainterus.fun CNAME .
 minitv.fun CNAME .
 *.minitv.fun CNAME .
+short.mypaste.fun CNAME .
+*.short.mypaste.fun CNAME .
 sikilat.fun CNAME .
 *.sikilat.fun CNAME .
 zlink.fun CNAME .
@@ -7648,6 +7654,8 @@ loginmaxwin.pro CNAME .
 *.loginmaxwin.pro CNAME .
 lowrihouston.pro CNAME .
 *.lowrihouston.pro CNAME .
+megalink.pro CNAME .
+*.megalink.pro CNAME .
 nathanaeldan.pro CNAME .
 *.nathanaeldan.pro CNAME .
 qlink.pro CNAME .

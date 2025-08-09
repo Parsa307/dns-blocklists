@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 08:19 UTC
-# Version: 2025.0808.0819.24
+# Last modified: 08 Aug 2025 23:00 UTC
+# Version: 2025.0808.2300.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1468
+# Number of entries: 1469
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -1033,6 +1033,7 @@ local=/nerdpol.ovh/
 local=/net-freaks.com/
 local=/netcabo.pt/
 local=/netdorm.com/
+local=/netlord.de/
 local=/netmask.ca/
 local=/networkguru.com/
 local=/networkoutpost.com/
