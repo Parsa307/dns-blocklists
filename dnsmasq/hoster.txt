@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 18:41 UTC
-# Version: 2025.0808.1841.53
+# Last modified: 09 Aug 2025 10:41 UTC
+# Version: 2025.0809.1041.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2139
+# Number of entries: 2140
 #
 local=/000a.de/
 local=/000free.us/
@@ -1639,6 +1639,7 @@ local=/radiola.club/
 local=/raidersfanteamshop.com/
 local=/re2.de/
 local=/reblog.hu/
+local=/recentblog.net/
 local=/reco.ws/
 local=/regruhosting.ru/
 local=/rentvalues.biz/

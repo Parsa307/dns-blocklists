@@ -309,6 +309,7 @@ https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.data.gouv.fr/fr/datasets/r/d2d9df6d-1cd2-41a8-96f5-684cb3057ecb
 https://www.domcop.com/files/top/top10milliondomains.csv.zip
 https://www.globalantiscam.org/scam-websites
+https://www.kushari.org/downloads/mal.txt
 https://www.spamhaus.org/drop/drop.txt
 https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
@@ -319,6 +320,7 @@ https://www.void.gr/kargig/void-gr-filters.txt
 https://www.vzhh.de/themen/einkauf-reise-freizeit/online-shopping/fake-shop-liste-wenn-guenstig-richtig-teuer-wird
 https://www.watchlist-internet.at/liste-abo-fallen/
 https://www.watchlist-internet.at/liste-betruegerischer-shops/
+https://www.watchlist-internet.at/liste-betruegerischer-shops/csv
 https://www.watchlist-internet.at/liste-finanzbetrug/
 https://www.watchlist-internet.at/liste-handwerksdienste/
 https://www.watchlist-internet.at/liste-immobilienagenturen/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754694120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754736120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Aug 2025 23:02 UTC
-; Version: 2025.0808.2302.09
+; Last modified: 09 Aug 2025 10:42 UTC
+; Version: 2025.0809.1042.18
 ; Syntax: RPZ
-; Number of entries: 9532
+; Number of entries: 9546
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3068,6 +3068,8 @@ ad.cr CNAME .
 *.ad.cr CNAME .
 got.cr CNAME .
 *.got.cr CNAME .
+pp.cr CNAME .
+*.pp.cr CNAME .
 soc.cr CNAME .
 *.soc.cr CNAME .
 cnb.cx CNAME .
@@ -3630,6 +3632,8 @@ minurl.fr CNAME .
 *.minurl.fr CNAME .
 nity.fr CNAME .
 *.nity.fr CNAME .
+nordlitt.fr CNAME .
+*.nordlitt.fr CNAME .
 o-x.fr CNAME .
 *.o-x.fr CNAME .
 plots.fr CNAME .
@@ -3738,6 +3742,8 @@ is.gd CNAME .
 *.is.gd CNAME .
 lnk.gd CNAME .
 *.lnk.gd CNAME .
+ou.gd CNAME .
+*.ou.gd CNAME .
 pic.gd CNAME .
 *.pic.gd CNAME .
 ta.gd CNAME .
@@ -4940,6 +4946,8 @@ pse.is CNAME .
 *.pse.is CNAME .
 redir.is CNAME .
 *.redir.is CNAME .
+s4.is CNAME .
+*.s4.is CNAME .
 shorten.is CNAME .
 *.shorten.is CNAME .
 shorturl.is CNAME .
@@ -5170,6 +5178,8 @@ onx.la CNAME .
 *.onx.la CNAME .
 pag.la CNAME .
 *.pag.la CNAME .
+pre.la CNAME .
+*.pre.la CNAME .
 sini.la CNAME .
 *.sini.la CNAME .
 syb.la CNAME .
@@ -5946,6 +5956,8 @@ rotf.lol CNAME .
 *.rotf.lol CNAME .
 rxe.lol CNAME .
 *.rxe.lol CNAME .
+senin.lol CNAME .
+*.senin.lol CNAME .
 seogilak.lol CNAME .
 *.seogilak.lol CNAME .
 tdy.lol CNAME .
@@ -9512,6 +9524,8 @@ shortmds.xyz CNAME .
 *.shortmds.xyz CNAME .
 shortme.xyz CNAME .
 *.shortme.xyz CNAME .
+shrinkin.xyz CNAME .
+*.shrinkin.xyz CNAME .
 spidz.xyz CNAME .
 *.spidz.xyz CNAME .
 srturl.xyz CNAME .

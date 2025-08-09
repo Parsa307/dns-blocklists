@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 23:02 UTC
-# Version: 2025.0808.2302.09
+# Last modified: 09 Aug 2025 10:42 UTC
+# Version: 2025.0809.1042.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4766
+# Number of entries: 4773
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -2754,6 +2754,7 @@ local=/nofnec.live/
 local=/noicindya.life/
 local=/nokia.ly/
 local=/nord.click/
+local=/nordlitt.fr/
 local=/notlong.com/
 local=/nov.io/
 local=/nov.link/
@@ -2861,6 +2862,7 @@ local=/twirl.otee.dev/
 local=/otolink.pl/
 local=/otp.li/
 local=/ottv.co/
+local=/ou.gd/
 local=/oua.be/
 local=/ouo.io/
 local=/ouo.press/
@@ -3003,6 +3005,7 @@ local=/posh.mk/
 local=/post.ly/
 local=/posted.at/
 local=/go.poweren.ir/
+local=/pp.cr/
 local=/pplx.ai/
 local=/ppt.cc/
 local=/ppt.li/
@@ -3013,6 +3016,7 @@ local=/l.prageru.com/
 local=/pragmaticurl.com/
 local=/prbly.us/
 local=/prdct.school/
+local=/pre.la/
 local=/prel.ink/
 local=/premex.link/
 local=/preml.ge/
@@ -3298,6 +3302,7 @@ local=/s21.us/
 local=/s23.us/
 local=/s3vip.tw/
 local=/s3w.net/
+local=/s4.is/
 local=/s4w.in/
 local=/s7y.us/
 local=/sa-link.cc/
@@ -3369,6 +3374,7 @@ local=/selink.top/
 local=/selnd.com/
 local=/sendgrid.net/
 local=/sendurl.me/
+local=/senin.lol/
 local=/sensasi777.love/
 local=/seogilak.lol/
 local=/seq.vc/
@@ -3546,6 +3552,7 @@ local=/shrink-your-link.org/
 local=/shrinkearn.com/
 local=/shrinkforearn.in/
 local=/shrinkify.com/
+local=/shrinkin.xyz/
 local=/shrinkly.co/
 local=/shrinkme.in/
 local=/shrinkme.ink/
