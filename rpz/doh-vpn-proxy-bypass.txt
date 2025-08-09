@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754741460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754770860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Aug 2025 12:11 UTC
-; Version: 2025.0809.1211.14
+; Last modified: 09 Aug 2025 20:21 UTC
+; Version: 2025.0809.2021.30
 ; Syntax: RPZ
-; Number of entries: 10680
+; Number of entries: 10698
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -392,6 +392,8 @@ parkviewenglish.buzz CNAME .
 *.parkviewenglish.buzz CNAME .
 proxyserver.buzz CNAME .
 *.proxyserver.buzz CNAME .
+unblocked.buzz CNAME .
+*.unblocked.buzz CNAME .
 doh.datahata.by CNAME .
 *.doh.datahata.by CNAME .
 dns.npe.bz CNAME .
@@ -1682,6 +1684,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2624,6 +2628,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -4760,6 +4766,8 @@ totallyacdn.com CNAME .
 *.totallyacdn.com CNAME .
 totalvpn.com CNAME .
 *.totalvpn.com CNAME .
+totovps.com CNAME .
+*.totovps.com CNAME .
 towervpn.com CNAME .
 *.towervpn.com CNAME .
 home.sso.toythieves.com CNAME .
@@ -6428,6 +6436,8 @@ vpneasy.info CNAME .
 *.vpneasy.info CNAME .
 vpnfree.info CNAME .
 *.vpnfree.info CNAME .
+vpnhost.info CNAME .
+*.vpnhost.info CNAME .
 webypass.info CNAME .
 *.webypass.info CNAME .
 ylink.info CNAME .
@@ -7024,6 +7034,8 @@ theproxy.me CNAME .
 *.theproxy.me CNAME .
 doh.thio.me CNAME .
 *.doh.thio.me CNAME .
+tubeunblock.me CNAME .
+*.tubeunblock.me CNAME .
 unblocked.me CNAME .
 *.unblocked.me CNAME .
 unblocked4.me CNAME .
@@ -8180,6 +8192,8 @@ debate.major.ulrik.net CNAME .
 *.debate.major.ulrik.net CNAME .
 ultimateproxy.net CNAME .
 *.ultimateproxy.net CNAME .
+ultrafun.net CNAME .
+*.ultrafun.net CNAME .
 unblockblocked.net CNAME .
 *.unblockblocked.net CNAME .
 unblocked2.net CNAME .
@@ -9870,6 +9884,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -10352,6 +10368,8 @@ siteunblocked.website CNAME .
 *.siteunblocked.website CNAME .
 unblock2.website CNAME .
 *.unblock2.website CNAME .
+unblocksite.website CNAME .
+*.unblocksite.website CNAME .
 yuvelirtut.website CNAME .
 *.yuvelirtut.website CNAME .
 zakaria.website CNAME .

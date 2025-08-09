@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754741400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754770800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Aug 2025 12:10 UTC
-; Version: 2025.0809.1210.28
+; Last modified: 09 Aug 2025 20:20 UTC
+; Version: 2025.0809.2020.39
 ; Syntax: RPZ
-; Number of entries: 2940
+; Number of entries: 2944
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1403,6 +1403,8 @@ toshibanetcam.com CNAME .
 *.toshibanetcam.com CNAME .
 toythieves.com CNAME .
 *.toythieves.com CNAME .
+trieditmyself.com CNAME .
+*.trieditmyself.com CNAME .
 truthvid.com CNAME .
 *.truthvid.com CNAME .
 tvlinux.com CNAME .
@@ -2613,6 +2615,8 @@ sumibi.org CNAME .
 *.sumibi.org CNAME .
 tantrum.org CNAME .
 *.tantrum.org CNAME .
+theblacklist.org CNAME .
+*.theblacklist.org CNAME .
 themcmillans.org CNAME .
 *.themcmillans.org CNAME .
 thenest.org CNAME .

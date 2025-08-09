@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Aug 2025 12:11 UTC
-# Version: 2025.0809.1211.14
+# Last modified: 09 Aug 2025 20:21 UTC
+# Version: 2025.0809.2021.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5340
+# Number of entries: 5349
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1354,6 +1354,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1501,6 +1502,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2621,6 +2623,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -4608,6 +4611,7 @@ local=/sushi.tosochilemat.cl/
 local=/totallyacdn.com/
 local=/totalvpn.com/
 local=/doh.totoro.pub/
+local=/totovps.com/
 local=/touchvpn.net/
 local=/towervpn.com/
 local=/home.sso.toythieves.com/
@@ -4640,6 +4644,7 @@ local=/dns.tryk.app/
 local=/arxthegoat.ts0880.es/
 local=/doh.ibr.cs.tu-bs.de/
 local=/tubeprox.com/
+local=/tubeunblock.me/
 local=/tubeunblock.net/
 local=/tujenasnaszato.xyz/
 local=/tunnelbear.com/
@@ -4685,6 +4690,7 @@ local=/ultimatepro.us/
 local=/ultimateproxy.net/
 local=/ultrabestproxy.com/
 local=/ultrafastproxy.com/
+local=/ultrafun.net/
 local=/ultraproxy.biz/
 local=/ultraproxyweb.com/
 local=/ultrasurf.es/
@@ -4727,6 +4733,7 @@ local=/unblocked.africa/
 local=/unblocked.asia/
 local=/unblocked.biz/
 local=/unblocked.black/
+local=/unblocked.buzz/
 local=/unblocked.cloud/
 local=/unblocked.foo/
 local=/unblocked.green/
@@ -4810,6 +4817,7 @@ local=/unblocksite.id/
 local=/unblocksite.org/
 local=/unblocksite.pw/
 local=/unblocksite.space/
+local=/unblocksite.website/
 local=/unblocksites.online/
 local=/unblocksites.org/
 local=/unblockvid.com/
@@ -5052,6 +5060,7 @@ local=/vpngate2.jp/
 local=/vpngorilla.com/
 local=/vpnhack.com/
 local=/vpnhellings.nl/
+local=/vpnhost.info/
 local=/vpnhub.com/
 local=/vpnintouch.com/
 local=/vpnjantit.com/

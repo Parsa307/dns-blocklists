@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Aug 2025 10:42 UTC
-# Version: 2025.0809.1042.18
+# Last modified: 09 Aug 2025 18:43 UTC
+# Version: 2025.0809.1843.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4773
+# Number of entries: 4783
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -3741,6 +3741,7 @@ local=/starz.tv/
 local=/statistics4u.net/
 local=/steveendow.link/
 local=/stfly.me/
+local=/stke.xyz/
 local=/stmodel.com/
 local=/stoodsef.com/
 local=/stor.ee/
@@ -3822,6 +3823,7 @@ local=/taiwangov.com/
 local=/proposal.talecraft.io/
 local=/tamar.is/
 local=/tanks.ly/
+local=/tao.mba/
 local=/taplink.cc/
 local=/tapz.in/
 local=/targeterpro.com/
@@ -3903,6 +3905,7 @@ local=/tidd.ly/
 local=/tiger77.monster/
 local=/tighturl.com/
 local=/tik.la/
+local=/tik.lat/
 local=/tik.lol/
 local=/tin.li/
 local=/go.tinder.com/
@@ -3942,6 +3945,7 @@ local=/tinyurl.hu/
 local=/tinyurl.mobi/
 local=/tinyurl.ph/
 local=/tinyurl.rocks/
+local=/tinyurl.win/
 local=/tinyurls.io/
 local=/tinyurlwebsite.com/
 local=/tinyurlz.co/
@@ -4026,6 +4030,7 @@ local=/tpmr.com/
 local=/tprk.us/
 local=/tprurl.at/
 local=/tr.ee/
+local=/tr.im/
 local=/tr.link/
 local=/tr5.in/
 local=/traceurl.com/
@@ -4090,6 +4095,7 @@ local=/tw.uy/
 local=/twb.nz/
 local=/tweetable.link/
 local=/tweetburner.com/
+local=/twi.im/
 local=/twirl.at/
 local=/twitspin.win/
 local=/twitterpan.com/
@@ -4112,6 +4118,7 @@ local=/u.nu/
 local=/u.to/
 local=/u-rl.li/
 local=/u0c.net/
+local=/u2l.io/
 local=/u301.com/
 local=/u3l.co/
 local=/u6e.de/
@@ -4272,6 +4279,7 @@ local=/urlsmall.link/
 local=/urlsshares.cc/
 local=/urltamil.in/
 local=/urlth.me/
+local=/urltin.com/
 local=/urlty.co/
 local=/urluno.com/
 local=/urlverkorten.com/
@@ -4315,6 +4323,7 @@ local=/go.uv.es/
 local=/links.uv.es/
 local=/uwat.ca/
 local=/ux5.de/
+local=/uxild.com/
 local=/v.gd/
 local=/v3d.net/
 local=/va.lk/
@@ -4463,6 +4472,7 @@ local=/webprotech.live/
 local=/webrc.net/
 local=/webshort.org/
 local=/webshortner.com/
+local=/webuji4d.life/
 local=/webyank4d.live/
 local=/webz.cc/
 local=/wec.li/

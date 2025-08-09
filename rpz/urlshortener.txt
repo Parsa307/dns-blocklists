@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754736120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754764980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Aug 2025 10:42 UTC
-; Version: 2025.0809.1042.18
+; Last modified: 09 Aug 2025 18:43 UTC
+; Version: 2025.0809.1843.25
 ; Syntax: RPZ
-; Number of entries: 9546
+; Number of entries: 9566
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2888,6 +2888,8 @@ urlshortx.com CNAME .
 *.urlshortx.com CNAME .
 urlsmall.com CNAME .
 *.urlsmall.com CNAME .
+urltin.com CNAME .
+*.urltin.com CNAME .
 urluno.com CNAME .
 *.urluno.com CNAME .
 urlverkorten.com CNAME .
@@ -2918,6 +2920,8 @@ utracky.com CNAME .
 *.utracky.com CNAME .
 utraker.com CNAME .
 *.utraker.com CNAME .
+uxild.com CNAME .
+*.uxild.com CNAME .
 vanityurlshorteners.com CNAME .
 *.vanityurlshorteners.com CNAME .
 vd55.com CNAME .
@@ -4118,6 +4122,10 @@ t.im CNAME .
 *.t.im CNAME .
 tny.im CNAME .
 *.tny.im CNAME .
+tr.im CNAME .
+*.tr.im CNAME .
+twi.im CNAME .
+*.twi.im CNAME .
 valv.im CNAME .
 *.valv.im CNAME .
 vats.im CNAME .
@@ -4806,6 +4814,8 @@ tlsn.io CNAME .
 *.tlsn.io CNAME .
 tpc.io CNAME .
 *.tpc.io CNAME .
+u2l.io CNAME .
+*.u2l.io CNAME .
 ubm.io CNAME .
 *.ubm.io CNAME .
 ugp.io CNAME .
@@ -5202,6 +5212,8 @@ add.lat CNAME .
 *.add.lat CNAME .
 shrt.lat CNAME .
 *.shrt.lat CNAME .
+tik.lat CNAME .
+*.tik.lat CNAME .
 tvt.lat CNAME .
 *.tvt.lat CNAME .
 whatsapp2.lat CNAME .
@@ -5446,6 +5458,8 @@ vinmalamsuwdwdc.life CNAME .
 *.vinmalamsuwdwdc.life CNAME .
 volamtruyenky.life CNAME .
 *.volamtruyenky.life CNAME .
+webuji4d.life CNAME .
+*.webuji4d.life CNAME .
 e.lilly CNAME .
 *.e.lilly CNAME .
 1to3.link CNAME .
@@ -6192,6 +6206,8 @@ zi.ma CNAME .
 *.zi.ma CNAME .
 matmacakiem222.makeup CNAME .
 *.matmacakiem222.makeup CNAME .
+tao.mba CNAME .
+*.tao.mba CNAME .
 knf.md CNAME .
 *.knf.md CNAME .
 nej.md CNAME .
@@ -9336,6 +9352,8 @@ shorturl.win CNAME .
 *.shorturl.win CNAME .
 ss777.win CNAME .
 *.ss777.win CNAME .
+tinyurl.win CNAME .
+*.tinyurl.win CNAME .
 twitspin.win CNAME .
 *.twitspin.win CNAME .
 vpn2.win CNAME .
@@ -9530,6 +9548,8 @@ spidz.xyz CNAME .
 *.spidz.xyz CNAME .
 srturl.xyz CNAME .
 *.srturl.xyz CNAME .
+stke.xyz CNAME .
+*.stke.xyz CNAME .
 sukatobrut.xyz CNAME .
 *.sukatobrut.xyz CNAME .
 short.swurl.xyz CNAME .
