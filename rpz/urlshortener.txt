@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754764980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754793600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Aug 2025 18:43 UTC
-; Version: 2025.0809.1843.25
+; Last modified: 10 Aug 2025 02:40 UTC
+; Version: 2025.0810.0240.33
 ; Syntax: RPZ
-; Number of entries: 9566
+; Number of entries: 9604
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -328,6 +328,8 @@ s.ggwp.be CNAME .
 *.s.ggwp.be CNAME .
 hoo.be CNAME .
 *.hoo.be CNAME .
+itty.be CNAME .
+*.itty.be CNAME .
 kissa.be CNAME .
 *.kissa.be CNAME .
 l-k.be CNAME .
@@ -354,6 +356,8 @@ y2u.be CNAME .
 *.y2u.be CNAME .
 zaq.be CNAME .
 *.zaq.be CNAME .
+radiances.beauty CNAME .
+*.radiances.beauty CNAME .
 hu.berlin CNAME .
 *.hu.berlin CNAME .
 fighter234.best CNAME .
@@ -494,6 +498,8 @@ gst.bz CNAME .
 *.gst.bz CNAME .
 hut.bz CNAME .
 *.hut.bz CNAME .
+iti.bz CNAME .
+*.iti.bz CNAME .
 lnk.bz CNAME .
 *.lnk.bz CNAME .
 lyn.bz CNAME .
@@ -904,6 +910,8 @@ nord.click CNAME .
 *.nord.click CNAME .
 paksa.click CNAME .
 *.paksa.click CNAME .
+proof.click CNAME .
+*.proof.click CNAME .
 qr-code.click CNAME .
 *.qr-code.click CNAME .
 shortly.click CNAME .
@@ -1774,6 +1782,8 @@ cb.com CNAME .
 *.cb.com CNAME .
 cbshort.com CNAME .
 *.cbshort.com CNAME .
+ceittp.com CNAME .
+*.ceittp.com CNAME .
 cesinthi.com CNAME .
 *.cesinthi.com CNAME .
 change-erp.com CNAME .
@@ -2226,6 +2236,8 @@ lnkiy.com CNAME .
 *.lnkiy.com CNAME .
 lnkshk.com CNAME .
 *.lnkshk.com CNAME .
+lnkzap.com CNAME .
+*.lnkzap.com CNAME .
 logincuan1.com CNAME .
 *.logincuan1.com CNAME .
 logincuan2.com CNAME .
@@ -2446,6 +2458,8 @@ r-txt.com CNAME .
 *.r-txt.com CNAME .
 raceclip.com CNAME .
 *.raceclip.com CNAME .
+radioantennaweb.com CNAME .
+*.radioantennaweb.com CNAME .
 rainonit.com CNAME .
 *.rainonit.com CNAME .
 qs.rams-app.com CNAME .
@@ -2994,6 +3008,8 @@ wrdsdaily.com CNAME .
 *.wrdsdaily.com CNAME .
 on.wsj.com CNAME .
 *.on.wsj.com CNAME .
+wuniw.com CNAME .
+*.wuniw.com CNAME .
 wwdurl.com CNAME .
 *.wwdurl.com CNAME .
 x2t.com CNAME .
@@ -4700,6 +4716,8 @@ makyo.io CNAME .
 *.makyo.io CNAME .
 mbapp.io CNAME .
 *.mbapp.io CNAME .
+mdsh.io CNAME .
+*.mdsh.io CNAME .
 microlinks.io CNAME .
 *.microlinks.io CNAME .
 minilink.io CNAME .
@@ -5460,6 +5478,8 @@ volamtruyenky.life CNAME .
 *.volamtruyenky.life CNAME .
 webuji4d.life CNAME .
 *.webuji4d.life CNAME .
+win7.life CNAME .
+*.win7.life CNAME .
 e.lilly CNAME .
 *.e.lilly CNAME .
 1to3.link CNAME .
@@ -5484,6 +5504,8 @@ acer.link CNAME .
 *.acer.link CNAME .
 acortar.link CNAME .
 *.acortar.link CNAME .
+ai18.link CNAME .
+*.ai18.link CNAME .
 altgo.link CNAME .
 *.altgo.link CNAME .
 altstar.link CNAME .
@@ -6266,6 +6288,8 @@ blinko.me CNAME .
 *.blinko.me CNAME .
 bloat.me CNAME .
 *.bloat.me CNAME .
+brightestbeginning.me CNAME .
+*.brightestbeginning.me CNAME .
 brilink.me CNAME .
 *.brilink.me CNAME .
 bslm.me CNAME .
@@ -6364,6 +6388,8 @@ gacor66.me CNAME .
 *.gacor66.me CNAME .
 gacorbos.me CNAME .
 *.gacorbos.me CNAME .
+geefi.me CNAME .
+*.geefi.me CNAME .
 gef.me CNAME .
 *.gef.me CNAME .
 getblue.me CNAME .
@@ -6496,6 +6522,8 @@ naver.me CNAME .
 *.naver.me CNAME .
 njx.me CNAME .
 *.njx.me CNAME .
+ogwa.me CNAME .
+*.ogwa.me CNAME .
 opkale.me CNAME .
 *.opkale.me CNAME .
 ospt.me CNAME .
@@ -6538,6 +6566,8 @@ rmuti.me CNAME .
 *.rmuti.me CNAME .
 rnm.me CNAME .
 *.rnm.me CNAME .
+ruvi.me CNAME .
+*.ruvi.me CNAME .
 ryml.me CNAME .
 *.ryml.me CNAME .
 samcart.me CNAME .
@@ -6818,6 +6848,8 @@ aka.my CNAME .
 *.aka.my CNAME .
 salesadvisor.nazriproton.com.my CNAME .
 *.salesadvisor.nazriproton.com.my CNAME .
+customers.my CNAME .
+*.customers.my CNAME .
 grm.my CNAME .
 *.grm.my CNAME .
 hide.my CNAME .
@@ -9450,6 +9482,8 @@ xn--57h.ws CNAME .
 *.xn--57h.ws CNAME .
 zurl.ws CNAME .
 *.zurl.ws CNAME .
+erd.wtf CNAME .
+*.erd.wtf CNAME .
 ka.wtf CNAME .
 *.ka.wtf CNAME .
 tj.wtf CNAME .
@@ -9478,6 +9512,8 @@ wf0.xin CNAME .
 *.7894.xyz CNAME .
 accommodatingly.xyz CNAME .
 *.accommodatingly.xyz CNAME .
+aficlicktrack.xyz CNAME .
+*.aficlicktrack.xyz CNAME .
 bolagroup.xyz CNAME .
 *.bolagroup.xyz CNAME .
 cropped.xyz CNAME .
@@ -9572,6 +9608,8 @@ url.webof.xyz CNAME .
 *.url.webof.xyz CNAME .
 y30.xyz CNAME .
 *.y30.xyz CNAME .
+z-der.xyz CNAME .
+*.z-der.xyz CNAME .
 zeroshort.xyz CNAME .
 *.zeroshort.xyz CNAME .
 lkdg.yoga CNAME .

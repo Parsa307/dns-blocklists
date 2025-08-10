@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754764860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754793480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Aug 2025 18:41 UTC
-; Version: 2025.0809.1841.09
+; Last modified: 10 Aug 2025 02:38 UTC
+; Version: 2025.0810.0238.41
 ; Syntax: RPZ
-; Number of entries: 28388
+; Number of entries: 28380
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -409,8 +409,6 @@ installateur-notdienst-vienna.at CNAME .
 *.installateur-notdienst-vienna.at CNAME .
 installateur-notdienst24.at CNAME .
 *.installateur-notdienst24.at CNAME .
-installateur-nothilfe.at CNAME .
-*.installateur-nothilfe.at CNAME .
 installateur-profis24.at CNAME .
 *.installateur-profis24.at CNAME .
 installateur-top.at CNAME .
@@ -3189,8 +3187,6 @@ bestoutlet-tool.com CNAME .
 *.bestoutlet-tool.com CNAME .
 bestpillsnetwork.com CNAME .
 *.bestpillsnetwork.com CNAME .
-bestpizzama.com CNAME .
-*.bestpizzama.com CNAME .
 bestprintspro.com CNAME .
 *.bestprintspro.com CNAME .
 bestrelocate.com CNAME .
@@ -6003,8 +5999,6 @@ espresso-line.com CNAME .
 *.espresso-line.com CNAME .
 espressomachine-shop.com CNAME .
 *.espressomachine-shop.com CNAME .
-esprithygge.com CNAME .
-*.esprithygge.com CNAME .
 esr-live-germany.com CNAME .
 *.esr-live-germany.com CNAME .
 at.esrlive.com CNAME .
@@ -11643,8 +11637,6 @@ obdclick.com CNAME .
 *.obdclick.com CNAME .
 ober-sicherheit.com CNAME .
 *.ober-sicherheit.com CNAME .
-oberfrasede.com CNAME .
-*.oberfrasede.com CNAME .
 obergoolem.com CNAME .
 *.obergoolem.com CNAME .
 obermeyerski.com CNAME .
@@ -12295,8 +12287,6 @@ pawshoebox.com CNAME .
 *.pawshoebox.com CNAME .
 payforweal.com CNAME .
 *.payforweal.com CNAME .
-pazarst.com CNAME .
-*.pazarst.com CNAME .
 peachbruh.com CNAME .
 *.peachbruh.com CNAME .
 peachossom.com CNAME .
@@ -13901,8 +13891,6 @@ seprun.com CNAME .
 *.seprun.com CNAME .
 sepwalk.com CNAME .
 *.sepwalk.com CNAME .
-serendiplty.com CNAME .
-*.serendiplty.com CNAME .
 serenitybot.com CNAME .
 *.serenitybot.com CNAME .
 serentia-shop.com CNAME .
@@ -15273,8 +15261,6 @@ testative.com CNAME .
 *.testative.com CNAME .
 testcortiy.com CNAME .
 *.testcortiy.com CNAME .
-testereo.com CNAME .
-*.testereo.com CNAME .
 teva-austria.com CNAME .
 *.teva-austria.com CNAME .
 teva-polska.com CNAME .
@@ -16989,6 +16975,8 @@ wohnkuchede.com CNAME .
 *.wohnkuchede.com CNAME .
 woin8.com CNAME .
 *.woin8.com CNAME .
+wolant.com CNAME .
+*.wolant.com CNAME .
 wolffashiondeutschland.com CNAME .
 *.wolffashiondeutschland.com CNAME .
 wolfgardenshop.com CNAME .
@@ -17005,6 +16993,8 @@ wonderealy.com CNAME .
 *.wonderealy.com CNAME .
 wondertoybox.com CNAME .
 *.wondertoybox.com CNAME .
+wonderwattbox.com CNAME .
+*.wonderwattbox.com CNAME .
 woodenelse.com CNAME .
 *.woodenelse.com CNAME .
 woodstand-at.com CNAME .
@@ -17033,6 +17023,10 @@ world-medic-store.com CNAME .
 *.world-medic-store.com CNAME .
 worldchinesemedia.com CNAME .
 *.worldchinesemedia.com CNAME .
+woumc.com CNAME .
+*.woumc.com CNAME .
+wpautopecas.com CNAME .
+*.wpautopecas.com CNAME .
 wps-register.com CNAME .
 *.wps-register.com CNAME .
 wpwuppispellets.com CNAME .
@@ -17147,6 +17141,8 @@ xstradepro.com CNAME .
 *.xstradepro.com CNAME .
 xtb-partner.com CNAME .
 *.xtb-partner.com CNAME .
+xtrader365.com CNAME .
+*.xtrader365.com CNAME .
 xtxtshop.com CNAME .
 *.xtxtshop.com CNAME .
 xwiftlogistics.com CNAME .
@@ -18231,8 +18227,6 @@ brennholzwerner.de CNAME .
 *.brennholzwerner.de CNAME .
 brennstoff-einfach.de CNAME .
 *.brennstoff-einfach.de CNAME .
-brennstoffe-versand.de CNAME .
-*.brennstoffe-versand.de CNAME .
 brennstoffe-wilke.de CNAME .
 *.brennstoffe-wilke.de CNAME .
 breuer-boutique.de CNAME .
@@ -26743,8 +26737,6 @@ kimberlybishop.shop CNAME .
 *.kimberlybishop.shop CNAME .
 kimcreem.shop CNAME .
 *.kimcreem.shop CNAME .
-kindderstadteu.shop CNAME .
-*.kindderstadteu.shop CNAME .
 kindgesundava.shop CNAME .
 *.kindgesundava.shop CNAME .
 kindgesundeu.shop CNAME .

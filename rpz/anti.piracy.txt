@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754770500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754798160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Aug 2025 20:15 UTC
-; Version: 2025.0809.2015.25
+; Last modified: 10 Aug 2025 03:56 UTC
+; Version: 2025.0810.0356.55
 ; Syntax: RPZ
-; Number of entries: 20524
+; Number of entries: 20530
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -8641,6 +8641,8 @@ voxhost.fr CNAME .
 *.voxhost.fr CNAME .
 wobno.fr CNAME .
 *.wobno.fr CNAME .
+wookastreaming.fr CNAME .
+*.wookastreaming.fr CNAME .
 black-bird.ynh.fr CNAME .
 *.black-bird.ynh.fr CNAME .
 rep-art.ynh.fr CNAME .
@@ -8809,6 +8811,8 @@ torrent9.gg CNAME .
 *.torrent9.gg CNAME .
 tracker.tritan.gg CNAME .
 *.tracker.tritan.gg CNAME .
+yesmovies.gg CNAME .
+*.yesmovies.gg CNAME .
 hdhub4u.gifts CNAME .
 *.hdhub4u.gifts CNAME .
 eurostreaming.gives CNAME .
@@ -17169,6 +17173,8 @@ git.vulnix.sh CNAME .
 *.git.vulnix.sh CNAME .
 tracker.vulnix.sh CNAME .
 *.tracker.vulnix.sh CNAME .
+yesmovies.sh CNAME .
+*.yesmovies.sh CNAME .
 5mins.shop CNAME .
 *.5mins.shop CNAME .
 buddycenters.shop CNAME .

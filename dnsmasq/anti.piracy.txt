@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Aug 2025 20:15 UTC
-# Version: 2025.0809.2015.25
+# Last modified: 10 Aug 2025 03:56 UTC
+# Version: 2025.0810.0356.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10262
+# Number of entries: 10265
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -9872,6 +9872,7 @@ local=/wncbg.com/
 local=/wobno.fr/
 local=/wobno.net/
 local=/wonderfulsubs.com/
+local=/wookastreaming.fr/
 local=/downloadmovietorrent.wordpress.com/
 local=/japanesetorrents.wordpress.com/
 local=/overdoss.wordpress.com/
@@ -10030,11 +10031,13 @@ local=/tracker.yemekyedim.com/
 local=/yeshd.net/
 local=/yesmovies.ag/
 local=/yesmovies.at/
+local=/yesmovies.gg/
 local=/yesmovies.love/
 local=/yesmovies.mn/
 local=/yesmovies.mom/
 local=/yesmovies.movie/
 local=/yesmovies.pm/
+local=/yesmovies.sh/
 local=/yesmovies.so/
 local=/yesmovies.tech/
 local=/yesmovies.to/

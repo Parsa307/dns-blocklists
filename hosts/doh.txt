@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Aug 2025 20:21 UTC
-# Version: 2025.0809.2021.03
+# Last modified: 10 Aug 2025 04:01 UTC
+# Version: 2025.0810.0401.37
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1608
+# Number of entries: 1606
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -618,7 +618,6 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver2.dyndnsinternetguide.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -673,7 +672,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
@@ -1034,7 +1032,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1614,6 +1611,7 @@
 0.0.0.0 zdn.ro
 0.0.0.0 dns.zemows.industries
 0.0.0.0 adguard-kartoffel.zernico.de
+0.0.0.0 dns.zfsystem.tech
 0.0.0.0 doh.zknt.org
 0.0.0.0 zougloub.eu
 0.0.0.0 dns.zui.lol
