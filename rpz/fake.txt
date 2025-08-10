@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754793480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754851200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Aug 2025 02:38 UTC
-; Version: 2025.0810.0238.41
+; Last modified: 10 Aug 2025 18:40 UTC
+; Version: 2025.0810.1840.20
 ; Syntax: RPZ
-; Number of entries: 28380
+; Number of entries: 28388
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -27,6 +27,8 @@ quantwise.ai CNAME .
 *.quantwise.ai CNAME .
 investir-dans-l-or.site.sitekick.ai CNAME .
 *.investir-dans-l-or.site.sitekick.ai CNAME .
+smartsolve.ai CNAME .
+*.smartsolve.ai CNAME .
 thebitindex.ai CNAME .
 *.thebitindex.ai CNAME .
 bitcore-momentum.app CNAME .
@@ -1629,6 +1631,8 @@ x-watches.co CNAME .
 *.x-watches.co CNAME .
 yeezys.co CNAME .
 *.yeezys.co CNAME .
+zeon-lim.co CNAME .
+*.zeon-lim.co CNAME .
 01broker.com CNAME .
 *.01broker.com CNAME .
 01crypto.com CNAME .
@@ -2671,6 +2675,8 @@ avl-fahrraeder.com CNAME .
 *.avl-fahrraeder.com CNAME .
 avorino.com CNAME .
 *.avorino.com CNAME .
+avotrend.com CNAME .
+*.avotrend.com CNAME .
 awanzi.com CNAME .
 *.awanzi.com CNAME .
 awesomeartifact.com CNAME .
@@ -7593,8 +7599,6 @@ gourmandebusy.com CNAME .
 *.gourmandebusy.com CNAME .
 gourmetecke.com CNAME .
 *.gourmetecke.com CNAME .
-govern1.com CNAME .
-*.govern1.com CNAME .
 gpslocatorphone.com CNAME .
 *.gpslocatorphone.com CNAME .
 gpt-definity.com CNAME .
@@ -11025,6 +11029,8 @@ mwcutleryoff.com CNAME .
 *.mwcutleryoff.com CNAME .
 my-pawly.com CNAME .
 *.my-pawly.com CNAME .
+my-trip-online.com CNAME .
+*.my-trip-online.com CNAME .
 myalpins.com CNAME .
 *.myalpins.com CNAME .
 portal.mybeautyplans.com CNAME .
@@ -11653,8 +11659,6 @@ obroker.com CNAME .
 *.obroker.com CNAME .
 occasionak.com CNAME .
 *.occasionak.com CNAME .
-occasionk.com CNAME .
-*.occasionk.com CNAME .
 ochsner-agrarhandel.com CNAME .
 *.ochsner-agrarhandel.com CNAME .
 octa-trade.com CNAME .
@@ -15561,6 +15565,8 @@ tomsshoesdubai.com CNAME .
 *.tomsshoesdubai.com CNAME .
 ton-form-color.com CNAME .
 *.ton-form-color.com CNAME .
+tondratex.com CNAME .
+*.tondratex.com CNAME .
 tonies-rabatt.com CNAME .
 *.tonies-rabatt.com CNAME .
 tonies-sonderangebot.com CNAME .
@@ -25215,8 +25221,6 @@ moonbootsouthafrica.net CNAME .
 *.moonbootsouthafrica.net CNAME .
 moonbootsuomi.net CNAME .
 *.moonbootsuomi.net CNAME .
-multione.net CNAME .
-*.multione.net CNAME .
 mundschutzhalter.net CNAME .
 *.mundschutzhalter.net CNAME .
 my-container.net CNAME .
@@ -25967,6 +25971,8 @@ insideinvest.pro CNAME .
 *.insideinvest.pro CNAME .
 introtrade.pro CNAME .
 *.introtrade.pro CNAME .
+iron-bulls.pro CNAME .
+*.iron-bulls.pro CNAME .
 jetaxtrade.pro CNAME .
 *.jetaxtrade.pro CNAME .
 lynx-ai.pro CNAME .
@@ -26845,6 +26851,8 @@ lucidtoysdeeur.shop CNAME .
 *.lucidtoysdeeur.shop CNAME .
 luckau.shop CNAME .
 *.luckau.shop CNAME .
+luiliebeeu.shop CNAME .
+*.luiliebeeu.shop CNAME .
 luxeclone.shop CNAME .
 *.luxeclone.shop CNAME .
 luxurywatchoutlet.shop CNAME .

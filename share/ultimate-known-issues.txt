@@ -40,6 +40,9 @@ footprints-pa.googleapis.com
 # https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2590327413
 voilatile-pa.googleapis.com
 
+# Google API for geo-location through cell towers and Wi-Fi access points to determine device location.
+# https://github.com/hagezi/dns-blocklists/issues/6959
+# Prevents Android devices from automatically updating their timezone when roaming/travelling.
 # Needed for Google Timeline
 userlocation.googleapis.com
 

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Aug 2025 04:01 UTC
-# Version: 2025.0810.0401.37
+# Last modified: 10 Aug 2025 20:12 UTC
+# Version: 2025.0810.2012.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1449
+# Number of entries: 1450
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -507,6 +507,7 @@ local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
+local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
@@ -561,6 +562,7 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
+local=/dns.fizz.studio/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
 local=/dns.flightspace.net/
@@ -739,7 +741,6 @@ local=/dns.kastner-online.de/
 local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kebree.fr/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/
@@ -907,6 +908,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -1291,7 +1293,6 @@ local=/doh.suche.org/
 local=/dns.suhaila.dev/
 local=/resolver.sunet.se/
 local=/sunnygyl.com/
-local=/doh.sunoaki.net/
 local=/dns.superstefan.win/
 local=/dns.surfshark.com/
 local=/dns.surfsharkdns.com/

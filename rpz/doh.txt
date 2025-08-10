@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754798460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754856720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Aug 2025 04:01 UTC
-; Version: 2025.0810.0401.37
+; Last modified: 10 Aug 2025 20:12 UTC
+; Version: 2025.0810.2012.10
 ; Syntax: RPZ
-; Number of entries: 2898
+; Number of entries: 2900
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -578,6 +578,8 @@ msr177.com CNAME .
 *.msr177.com CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 dns.nguyendn.com CNAME .
 *.dns.nguyendn.com CNAME .
 dns.nhtsky.com CNAME .
@@ -1330,8 +1332,6 @@ dns.api.staging.globuscs.info CNAME .
 *.dns.api.staging.globuscs.info CNAME .
 dns.api.test.globuscs.info CNAME .
 *.dns.api.test.globuscs.info CNAME .
-doh.kekew.info CNAME .
-*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 testaghome.meshkov.info CNAME .
@@ -1732,6 +1732,8 @@ dns.dnsoverhttps.net CNAME .
 *.dns.dnsoverhttps.net CNAME .
 takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 adguard.easez.net CNAME .
@@ -1964,8 +1966,6 @@ clientdns3.softcom.net CNAME .
 *.clientdns3.softcom.net CNAME .
 dns.stevenz.net CNAME .
 *.dns.stevenz.net CNAME .
-doh.sunoaki.net CNAME .
-*.doh.sunoaki.net CNAME .
 dns.thegoodsource.net CNAME .
 *.dns.thegoodsource.net CNAME .
 timedns.net CNAME .
@@ -2610,6 +2610,8 @@ dns.sy.st CNAME .
 *.dns.sy.st CNAME .
 home-server.store CNAME .
 *.home-server.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 crypto.sx CNAME .
