@@ -17,7 +17,7 @@ jobs:
     if: contains(github.event.head_commit.message, 'release')
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Generate release tag
         run: |
           repo_version=$(printf '%o' "$(date -u +"%Y")")$(date +'%Y.%-j').$((`date +%s` % 86400 ))
@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Determine URLs to purge
         id: purge_urls
         run: |
