@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Aug 2025 00:02 UTC
-# Version: 2025.0811.0002.06
+# Last modified: 11 Aug 2025 08:12 UTC
+# Version: 2025.0811.0812.33
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 5352
 #
@@ -1354,6 +1354,7 @@
 *.educationdean.us
 *.adguard.ef67daisuki.club
 *.tor.eff.org
+*.dns.efficientdocuments.com
 *.scifi0.eigenlicht.us
 *.hole.elbschloss.xyz
 *.elearning.electronicajck.com
@@ -2472,7 +2473,6 @@
 *.httpdns.meituan.com
 *.dns.melvin2204.nl
 *.membean.cf
-*.mendozasdelivery.com
 *.recap.utopia.menorahscrazyblog.com
 *.researchedu.mesaayuda.net
 *.testaghome.meshkov.info

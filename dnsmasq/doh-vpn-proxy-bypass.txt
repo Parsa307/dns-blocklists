@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Aug 2025 00:02 UTC
-# Version: 2025.0811.0002.06
+# Last modified: 11 Aug 2025 08:12 UTC
+# Version: 2025.0811.0812.33
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 5352
 #
@@ -1354,6 +1354,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -2472,7 +2473,6 @@ local=/support.meicosoft.com/
 local=/httpdns.meituan.com/
 local=/dns.melvin2204.nl/
 local=/membean.cf/
-local=/mendozasdelivery.com/
 local=/recap.utopia.menorahscrazyblog.com/
 local=/researchedu.mesaayuda.net/
 local=/testaghome.meshkov.info/

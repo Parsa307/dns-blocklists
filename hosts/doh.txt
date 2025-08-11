@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Aug 2025 00:01 UTC
-# Version: 2025.0811.0001.41
+# Last modified: 11 Aug 2025 08:12 UTC
+# Version: 2025.0811.0812.03
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1605
 #
@@ -629,6 +629,7 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -972,7 +973,6 @@
 0.0.0.0 meganerd.nl
 0.0.0.0 httpdns.meituan.com
 0.0.0.0 dns.melvin2204.nl
-0.0.0.0 mendozasdelivery.com
 0.0.0.0 testaghome.meshkov.info
 0.0.0.0 dns.mestdag.fr
 0.0.0.0 dns.mh4ckt3mh4ckt1c4s.xyz
