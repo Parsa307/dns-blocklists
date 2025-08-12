@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Aug 2025 02:41 UTC
-# Version: 2025.0812.0241.46
+# Last modified: 12 Aug 2025 14:39 UTC
+# Version: 2025.0812.1439.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14202
+# Number of entries: 14206
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1913,6 +1913,7 @@ local=/brunateschuhewerksverkauf.de/
 local=/brunoberg.com/
 local=/brushshope.com/
 local=/brutaka.com/
+local=/bs2best.at/
 local=/bs2site.at/
 local=/bsc-network.de/
 local=/bsc-network.net/
@@ -5337,6 +5338,7 @@ local=/gotrax.store/
 local=/gotrixa.de/
 local=/gourmandebusy.com/
 local=/gourmetecke.com/
+local=/govern1.com/
 local=/gp-photo.shop/
 local=/gplate.de/
 local=/gpslocatorphone.com/
@@ -6094,7 +6096,6 @@ local=/hot-mystery-deals.xyz/
 local=/hot-shopping.com/
 local=/hotchillies.shop/
 local=/hotel-brand-promotion.com/
-local=/hotel-ds.com/
 local=/hotel-marketing-advertising.com/
 local=/hotelaustralien.de/
 local=/hotelectronicshop.com/
@@ -7591,6 +7592,7 @@ local=/lockwoodinv.com/
 local=/locmyparcel.com/
 local=/locmyparcel.info/
 local=/locobox.net/
+local=/locomotivey.com/
 local=/lodiac.com/
 local=/lodiro.de/
 local=/lodischuhedeutschland.com/
@@ -8640,7 +8642,6 @@ local=/multi-kredit.com/
 local=/multibankfx.com/
 local=/multicoin-invest.com/
 local=/multimaqcomercio.com/
-local=/multione.net/
 local=/mumke.de/
 local=/munbrand.com/
 local=/munchenmode.de/
@@ -9185,6 +9186,7 @@ local=/obozboots.com/
 local=/obroker.com/
 local=/ocayo.de/
 local=/occasionak.com/
+local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
@@ -9471,6 +9473,7 @@ local=/orthopadie-berlin.com/
 local=/ortliebpack.com/
 local=/ortorex.at/
 local=/ortovoxde.com/
+local=/ortovoxdes.com/
 local=/ortovoxeu.com/
 local=/orunning.shop/
 local=/oryoki-de.com/
@@ -10162,6 +10165,7 @@ local=/protovfurniture.com/
 local=/proupwholesale.com/
 local=/provenxperts.com/
 local=/proveri.de/
+local=/providedes.com/
 local=/proximitye.com/
 local=/proximityi.com/
 local=/prozess-profi.de/
@@ -11780,6 +11784,7 @@ local=/stargatev.com/
 local=/stargazecapital.co/
 local=/starkeu.de/
 local=/starkfahrrad.com/
+local=/starrysip.com/
 local=/starsignsynergy.com/
 local=/start-developing.de/
 local=/startmarkets.com/
@@ -13409,7 +13414,6 @@ local=/viva-markets.com/
 local=/viva-stores.com/
 local=/vivabestvs.best/
 local=/vivaiabuty.pl/
-local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/
