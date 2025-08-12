@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755014880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755029760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Aug 2025 16:08 UTC
-; Version: 2025.0812.1608.21
+; Last modified: 12 Aug 2025 20:16 UTC
+; Version: 2025.0812.2016.02
 ; Syntax: RPZ
-; Number of entries: 10854
+; Number of entries: 10850
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -7680,8 +7680,6 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -9198,8 +9196,6 @@ theproxysite.org CNAME .
 *.theproxysite.org CNAME .
 blocker.thethorsens.org CNAME .
 *.blocker.thethorsens.org CNAME .
-paper.world.thinksimple.org CNAME .
-*.paper.world.thinksimple.org CNAME .
 doh.tiarap.org CNAME .
 *.doh.tiarap.org CNAME .
 jp.tiarap.org CNAME .
@@ -9756,8 +9752,6 @@ lawless-zone.v6.rocks CNAME .
 *.lawless-zone.v6.rocks CNAME .
 unblockit.rsvp CNAME .
 *.unblockit.rsvp CNAME .
-kamaemon.0x0a.ru CNAME .
-*.kamaemon.0x0a.ru CNAME .
 sybau.alcrb.ru CNAME .
 *.sybau.alcrb.ru CNAME .
 ad.anym0re.ru CNAME .
@@ -10036,6 +10030,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

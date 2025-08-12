@@ -5,16 +5,15 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Aug 2025 16:08 UTC
-# Version: 2025.0812.1608.21
+# Last modified: 12 Aug 2025 20:16 UTC
+# Version: 2025.0812.2016.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5427
+# Number of entries: 5425
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
 local=/0ms.dev/
 local=/dns.0ooo.icu/
-local=/kamaemon.0x0a.ru/
 local=/0x3d.lu/
 local=/dns.0x55.net/
 local=/1010000.online/
@@ -1317,7 +1316,6 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
-local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1506,6 +1504,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -4619,7 +4618,6 @@ local=/vyujcfwinj.thetrist.com/
 local=/theunblock.net/
 local=/thevpncompany.net/
 local=/thexite.net/
-local=/paper.world.thinksimple.org/
 local=/doh.thio.me/
 local=/dns.thiz.top/
 local=/threeproxy.net/
