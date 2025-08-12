@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Aug 2025 00:05 UTC
-# Version: 2025.0812.0005.15
+# Last modified: 12 Aug 2025 04:08 UTC
+# Version: 2025.0812.0408.16
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1604
 #
@@ -672,6 +672,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
@@ -982,7 +983,6 @@
 0.0.0.0 doh.micronets.in
 0.0.0.0 dns.mihanentalpo.me
 0.0.0.0 dns.mikeliu.org
-0.0.0.0 mikezhang.xyz
 0.0.0.0 dns.milkpie.one
 0.0.0.0 netcup.mismat.ch
 0.0.0.0 doh.mmmalia.com

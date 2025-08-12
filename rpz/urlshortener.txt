@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754952000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754966580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Aug 2025 22:40 UTC
-; Version: 2025.0811.2240.53
+; Last modified: 12 Aug 2025 02:43 UTC
+; Version: 2025.0812.0243.43
 ; Syntax: RPZ
-; Number of entries: 9652
+; Number of entries: 9662
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2734,6 +2734,8 @@ on.tcs.com CNAME .
 *.on.tcs.com CNAME .
 tdotly.com CNAME .
 *.tdotly.com CNAME .
+telegramviral.com CNAME .
+*.telegramviral.com CNAME .
 tellurl.com CNAME .
 *.tellurl.com CNAME .
 www.temporary-url.com CNAME .
@@ -2972,6 +2974,8 @@ at.vibe.com CNAME .
 *.at.vibe.com CNAME .
 vigilink.com CNAME .
 *.vigilink.com CNAME .
+vindicoce.com CNAME .
+*.vindicoce.com CNAME .
 vipshortener.com CNAME .
 *.vipshortener.com CNAME .
 virl.com CNAME .
@@ -6854,6 +6858,8 @@ rbl.ms CNAME .
 *.rbl.ms CNAME .
 rsg.ms CNAME .
 *.rsg.ms CNAME .
+sbps.ms CNAME .
+*.sbps.ms CNAME .
 short.ms CNAME .
 *.short.ms CNAME .
 tiny.ms CNAME .
@@ -7388,6 +7394,8 @@ shortpals.online CNAME .
 *.shortpals.online CNAME .
 sulejalan.online CNAME .
 *.sulejalan.online CNAME .
+telegramviral.online CNAME .
+*.telegramviral.online CNAME .
 tokogenie.online CNAME .
 *.tokogenie.online CNAME .
 tulinks.online CNAME .
@@ -7762,6 +7770,8 @@ qlink.pro CNAME .
 *.qlink.pro CNAME .
 rajaolympus.pro CNAME .
 *.rajaolympus.pro CNAME .
+shorte.pro CNAME .
+*.shorte.pro CNAME .
 shortify.pro CNAME .
 *.shortify.pro CNAME .
 sipetir.pro CNAME .

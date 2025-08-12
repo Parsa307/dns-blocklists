@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Aug 2025 00:05 UTC
-# Version: 2025.0812.0005.38
+# Last modified: 12 Aug 2025 04:08 UTC
+# Version: 2025.0812.0408.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5363
+# Number of entries: 5360
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -370,7 +370,6 @@ local=/awabo.com/
 local=/award-vpn.com/
 local=/awebproxy.com/
 local=/awhoer.net/
-local=/like-seriously-watch-dexter.ax1951.com/
 local=/axaxa.fun/
 local=/learn.azimei.cn/
 local=/teachers.azimei.cn/
@@ -1505,6 +1504,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1638,7 +1638,6 @@ local=/cats.fuzzylookups.com/
 local=/dogs.fuzzylookups.com/
 local=/foxes.fuzzylookups.com/
 local=/g-a-y.pro/
-local=/business.g-lang.com/
 local=/gabstorm.com/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
@@ -2500,7 +2499,6 @@ local=/www-proxy.migastep.com/
 local=/rammerdaze.miguelarevalo.es/
 local=/dns.mihanentalpo.me/
 local=/dns.mikeliu.org/
-local=/mikezhang.xyz/
 local=/dns.milkpie.one/
 local=/farmhouse.mills-family.us/
 local=/aiden-major.minecraftnoob.com/
@@ -2695,7 +2693,6 @@ local=/neonos.me/
 local=/dns.aa.net.uk/
 local=/doh.max.net.id/
 local=/ns.net.kg/
-local=/orchestrashops.vpn.net.br/
 local=/netaltr.com/
 local=/files-slickvpn.netdna-ssl.com/
 local=/luminati-holanetworksltd.netdna-ssl.com/

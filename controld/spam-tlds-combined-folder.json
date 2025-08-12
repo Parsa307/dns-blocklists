@@ -287,6 +287,13 @@
       }
     },
     {
+      "PK": "argon2.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "arizona.vote",
       "action": {
         "do": 1,
@@ -3956,6 +3963,13 @@
     },
     {
       "PK": "osrs.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ost2.fyi",
       "action": {
         "do": 1,
         "status": 1

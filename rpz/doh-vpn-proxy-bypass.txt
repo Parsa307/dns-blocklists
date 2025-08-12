@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754957100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754971680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Aug 2025 00:05 UTC
-; Version: 2025.0812.0005.38
+; Last modified: 12 Aug 2025 04:08 UTC
+; Version: 2025.0812.0408.38
 ; Syntax: RPZ
-; Number of entries: 10726
+; Number of entries: 10720
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -378,8 +378,6 @@ adguard.gbrossi.com.br CNAME .
 *.adguard.gbrossi.com.br CNAME .
 grid.brain.marcenes.com.br CNAME .
 *.grid.brain.marcenes.com.br CNAME .
-orchestrashops.vpn.net.br CNAME .
-*.orchestrashops.vpn.net.br CNAME .
 chat.digimaster.srv.br CNAME .
 *.chat.digimaster.srv.br CNAME .
 mabuktogel.builders CNAME .
@@ -1182,8 +1180,6 @@ award-vpn.com CNAME .
 *.award-vpn.com CNAME .
 awebproxy.com CNAME .
 *.awebproxy.com CNAME .
-like-seriously-watch-dexter.ax1951.com CNAME .
-*.like-seriously-watch-dexter.ax1951.com CNAME .
 azirevpn.com CNAME .
 *.azirevpn.com CNAME .
 vpn.azure.com CNAME .
@@ -1888,8 +1884,6 @@ dogs.fuzzylookups.com CNAME .
 *.dogs.fuzzylookups.com CNAME .
 foxes.fuzzylookups.com CNAME .
 *.foxes.fuzzylookups.com CNAME .
-business.g-lang.com CNAME .
-*.business.g-lang.com CNAME .
 gabstorm.com CNAME .
 *.gabstorm.com CNAME .
 dns.gamban.com CNAME .
@@ -9910,6 +9904,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -10612,8 +10608,6 @@ maqgie.xyz CNAME .
 *.maqgie.xyz CNAME .
 dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 *.dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
-mikezhang.xyz CNAME .
-*.mikezhang.xyz CNAME .
 mochiss.xyz CNAME .
 *.mochiss.xyz CNAME .
 mochiss2.xyz CNAME .

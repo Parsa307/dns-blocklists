@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Aug 2025 22:40 UTC
-# Version: 2025.0811.2240.53
+# Last modified: 12 Aug 2025 02:43 UTC
+# Version: 2025.0812.0243.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4826
+# Number of entries: 4831
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -3367,6 +3367,7 @@ local=/sbgo.io/
 local=/sbird.co/
 local=/sbms.biz/
 local=/sbotangandewa.com/
+local=/sbps.ms/
 local=/sbsb.kr/
 local=/sbux.co/
 local=/sbux.jp/
@@ -3480,6 +3481,7 @@ local=/shortbe.com/
 local=/shortclick.com/
 local=/shortcm.li/
 local=/shortcut.ac/
+local=/shorte.pro/
 local=/shorte.st/
 local=/shorten.asia/
 local=/shorten.ee/
@@ -3879,6 +3881,8 @@ local=/tdy.lol/
 local=/tdy.sg/
 local=/teil.cc/
 local=/tek.io/
+local=/telegramviral.com/
+local=/telegramviral.online/
 local=/teleko.me/
 local=/tellurl.com/
 local=/telnet-service.net/
@@ -4399,6 +4403,7 @@ local=/vid.lu/
 local=/videopro.live/
 local=/vig.fit/
 local=/vigilink.com/
+local=/vindicoce.com/
 local=/vineland.dj/
 local=/vinmalamsuwdwdc.life/
 local=/vip-gacha99.info/
