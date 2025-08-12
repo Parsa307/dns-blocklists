@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Aug 2025 08:12 UTC
-# Version: 2025.0811.0812.03
+# Last modified: 12 Aug 2025 00:05 UTC
+# Version: 2025.0812.0005.15
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1605
+# Number of entries: 1604
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -603,7 +603,6 @@
 0.0.0.0 dot.pub
 0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
-0.0.0.0 dns.dremaxx.de
 0.0.0.0 droyd.top
 0.0.0.0 doh.dscloud.me
 0.0.0.0 agh.dshubham.xyz
@@ -1032,6 +1031,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1255,7 +1255,6 @@
 0.0.0.0 zxcvb.pp.ua
 0.0.0.0 dns.pragmasec.nl
 0.0.0.0 dns2.prima-solusindo.com
-0.0.0.0 dns.princex.net
 0.0.0.0 princez.uk
 0.0.0.0 agh.printk.info
 0.0.0.0 hungary.privacy-dns.pw

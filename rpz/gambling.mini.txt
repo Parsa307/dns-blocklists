@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754899560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754956740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Aug 2025 08:06 UTC
-; Version: 2025.0811.0806.37
+; Last modified: 11 Aug 2025 23:59 UTC
+; Version: 2025.0811.2359.52
 ; Syntax: RPZ
-; Number of entries: 124274
+; Number of entries: 124282
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -223,8 +223,6 @@ premierbet.co.ao CNAME .
 *.6686vn.app CNAME .
 777jaya.app CNAME .
 *.777jaya.app CNAME .
-7kcasino.app CNAME .
-*.7kcasino.app CNAME .
 7xm55.app CNAME .
 *.7xm55.app CNAME .
 868v.app CNAME .
@@ -17581,6 +17579,8 @@ images.191829838.com CNAME .
 *.1junior.com CNAME .
 1king.com CNAME .
 *.1king.com CNAME .
+1legopg.com CNAME .
+*.1legopg.com CNAME .
 1lucky8.com CNAME .
 *.1lucky8.com CNAME .
 1nohu.com CNAME .
@@ -27037,6 +27037,8 @@ betufa-casino.com CNAME .
 *.betufa-casino.com CNAME .
 betuk.com CNAME .
 *.betuk.com CNAME .
+betunlim8.com CNAME .
+*.betunlim8.com CNAME .
 betus.com CNAME .
 *.betus.com CNAME .
 betus-casino-us.com CNAME .
@@ -34267,6 +34269,8 @@ customprofilescasino.com CNAME .
 *.customprofilescasino.com CNAME .
 cuttingcasino.com CNAME .
 *.cuttingcasino.com CNAME .
+cwbetbet.com CNAME .
+*.cwbetbet.com CNAME .
 cwdpoker.com CNAME .
 *.cwdpoker.com CNAME .
 cwin.com CNAME .
@@ -52429,6 +52433,8 @@ rabona1.com CNAME .
 *.rabona1.com CNAME .
 rabona7.com CNAME .
 *.rabona7.com CNAME .
+rabonabet.com CNAME .
+*.rabonabet.com CNAME .
 rabonacasino1.com CNAME .
 *.rabonacasino1.com CNAME .
 rabonacasinologin.com CNAME .
@@ -61435,6 +61441,8 @@ winnersmagic.com CNAME .
 *.winnersmagic.com CNAME .
 winnerz.com CNAME .
 *.winnerz.com CNAME .
+winnerz13.com CNAME .
+*.winnerz13.com CNAME .
 winningplus5.com CNAME .
 *.winningplus5.com CNAME .
 winningroom.com CNAME .
@@ -64911,6 +64919,8 @@ zeturf.fr CNAME .
 *.66777.fun CNAME .
 6789casino.fun CNAME .
 *.6789casino.fun CNAME .
+688v.fun CNAME .
+*.688v.fun CNAME .
 77.fun CNAME .
 *.77.fun CNAME .
 777casino.fun CNAME .
@@ -73357,6 +73367,8 @@ ggbet1.net CNAME .
 *.ggbet1.net CNAME .
 ggbetcenter.net CNAME .
 *.ggbetcenter.net CNAME .
+ggbetcenter1.net CNAME .
+*.ggbetcenter1.net CNAME .
 ggbethome.net CNAME .
 *.ggbethome.net CNAME .
 ggbett1.net CNAME .
@@ -77621,8 +77633,6 @@ ggalhollywoodcasino555o.online CNAME .
 *.ggalhollywoodcasino555o.online CNAME .
 ghostads.online CNAME .
 *.ghostads.online CNAME .
-giga78-rtp.online CNAME .
-*.giga78-rtp.online CNAME .
 giochi-casino.online CNAME .
 *.giochi-casino.online CNAME .
 giochicasino.online CNAME .
@@ -82187,6 +82197,8 @@ mybetcasino.org CNAME .
 *.mybetcasino.org CNAME .
 myfreshforex.org CNAME .
 *.myfreshforex.org CNAME .
+mynylottery.org CNAME .
+*.mynylottery.org CNAME .
 mystic-lake-casino.org CNAME .
 *.mystic-lake-casino.org CNAME .
 n1bet-casino.org CNAME .
@@ -91987,8 +91999,6 @@ kingbet77on.site CNAME .
 *.kingbet77on.site CNAME .
 kingcasino.site CNAME .
 *.kingcasino.site CNAME .
-kingkupie315.site CNAME .
-*.kingkupie315.site CNAME .
 kingpoker88.site CNAME .
 *.kingpoker88.site CNAME .
 kingsega.site CNAME .
@@ -123363,8 +123373,6 @@ victory77port.xyz CNAME .
 *.victory77port.xyz CNAME .
 video-poker2-jacks-or-better.xyz CNAME .
 *.video-poker2-jacks-or-better.xyz CNAME .
-vinocasino.xyz CNAME .
-*.vinocasino.xyz CNAME .
 viobet-doremi.xyz CNAME .
 *.viobet-doremi.xyz CNAME .
 vionze.xyz CNAME .
