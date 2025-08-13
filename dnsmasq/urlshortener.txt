@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Aug 2025 14:41 UTC
-# Version: 2025.0812.1441.19
+# Last modified: 13 Aug 2025 06:41 UTC
+# Version: 2025.0813.0641.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4878
+# Number of entries: 4879
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -3553,6 +3553,7 @@ local=/shorti.me/
 local=/shortie.io/
 local=/shortify.pro/
 local=/shortifyme.com/
+local=/shortin.asia/
 local=/shortin.id/
 local=/shortin.in/
 local=/shortio.sk/
