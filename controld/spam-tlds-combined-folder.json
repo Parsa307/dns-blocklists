@@ -462,6 +462,13 @@
       }
     },
     {
+      "PK": "beyondagency.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bg3.wiki",
       "action": {
         "do": 1,
@@ -1183,13 +1190,6 @@
       }
     },
     {
-      "PK": "*.cymru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.cyou",
       "action": {
         "do": 0,
@@ -1361,6 +1361,13 @@
       "PK": "*.desi",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dhilosnetworks.cc",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

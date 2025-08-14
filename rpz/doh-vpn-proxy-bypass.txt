@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755130140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755202920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Aug 2025 00:09 UTC
-; Version: 2025.0814.0009.26
+; Last modified: 14 Aug 2025 20:22 UTC
+; Version: 2025.0814.2022.58
 ; Syntax: RPZ
-; Number of entries: 10850
+; Number of entries: 10832
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -304,6 +304,8 @@ dns1.pietjacobs.be CNAME .
 *.dns1.pietjacobs.be CNAME .
 surfshark.be CNAME .
 *.surfshark.be CNAME .
+tips.cosmetologylive.beauty CNAME .
+*.tips.cosmetologylive.beauty CNAME .
 doh.beauty CNAME .
 *.doh.beauty CNAME .
 polisitogel.beauty CNAME .
@@ -324,8 +326,6 @@ hr.komor.bid CNAME .
 *.hr.komor.bid CNAME .
 123proxy.biz CNAME .
 *.123proxy.biz CNAME .
-anonymurl.biz CNAME .
-*.anonymurl.biz CNAME .
 anonyproxy.biz CNAME .
 *.anonyproxy.biz CNAME .
 bit123.biz CNAME .
@@ -618,8 +618,6 @@ onion.city CNAME .
 *.onion.city CNAME .
 i-hate-link-leakers-cyptopia-made-this.adaptor.cl CNAME .
 *.i-hate-link-leakers-cyptopia-made-this.adaptor.cl CNAME .
-schoolsucks.adaptor.cl CNAME .
-*.schoolsucks.adaptor.cl CNAME .
 search.alemanaactiva.cl CNAME .
 *.search.alemanaactiva.cl CNAME .
 cuh.altimiras.cl CNAME .
@@ -864,6 +862,8 @@ hideip.co CNAME .
 *.hideip.co CNAME .
 mailkyb.co CNAME .
 *.mailkyb.co CNAME .
+weather.meteorological.co CNAME .
+*.weather.meteorological.co CNAME .
 bdedu.ne1.co CNAME .
 *.bdedu.ne1.co CNAME .
 nrr.ne1.co CNAME .
@@ -880,6 +880,10 @@ pbproxy2.co CNAME .
 *.pbproxy2.co CNAME .
 piratebayproxy.co CNAME .
 *.piratebayproxy.co CNAME .
+cdn.postsupport.co CNAME .
+*.cdn.postsupport.co CNAME .
+content.postsupport.co CNAME .
+*.content.postsupport.co CNAME .
 repocket.co CNAME .
 *.repocket.co CNAME .
 securevpn.co CNAME .
@@ -920,8 +924,6 @@ spanish101.college CNAME .
 *.spanish101.college CNAME .
 123anonymous.com CNAME .
 *.123anonymous.com CNAME .
-123ddl.com CNAME .
-*.123ddl.com CNAME .
 123goproxy.com CNAME .
 *.123goproxy.com CNAME .
 123hideip.com CNAME .
@@ -984,8 +986,6 @@ dns.7vpn.com CNAME .
 *.8v9m.com CNAME .
 922proxy.com CNAME .
 *.922proxy.com CNAME .
-school.bio.99kpe.com CNAME .
-*.school.bio.99kpe.com CNAME .
 99proxy.com CNAME .
 *.99proxy.com CNAME .
 adb.aadityakushwaha.com CNAME .
@@ -994,8 +994,6 @@ doh.dns.apple.com.v.aaplimg.com CNAME .
 *.doh.dns.apple.com.v.aaplimg.com CNAME .
 dns.aaytorr.com CNAME .
 *.dns.aaytorr.com CNAME .
-learn.data.abbeydentist.com CNAME .
-*.learn.data.abbeydentist.com CNAME .
 abcproxy.com CNAME .
 *.abcproxy.com CNAME .
 accessmeproxy.com CNAME .
@@ -1040,8 +1038,6 @@ advancedvpn.com CNAME .
 *.advancedvpn.com CNAME .
 research.africa.com CNAME .
 *.research.africa.com CNAME .
-gov.goal.agilewhitecloud.com CNAME .
-*.gov.goal.agilewhitecloud.com CNAME .
 ebooks-edu.agmlabs.com CNAME .
 *.ebooks-edu.agmlabs.com CNAME .
 wha.agmlabs.com CNAME .
@@ -1052,8 +1048,6 @@ blitz-setup.ahadns.com CNAME .
 *.blitz-setup.ahadns.com CNAME .
 work.excel.albacetediario.com CNAME .
 *.work.excel.albacetediario.com CNAME .
-class.craft.alerteqa.com CNAME .
-*.class.craft.alerteqa.com CNAME .
 alhapi.com CNAME .
 *.alhapi.com CNAME .
 alhvp.com CNAME .
@@ -1088,8 +1082,6 @@ i4frgxs0s5.execute-api.us-east-1.amazonaws.com CNAME .
 *.i4frgxs0s5.execute-api.us-east-1.amazonaws.com CNAME .
 dsl-app.s3.us-east-2.amazonaws.com CNAME .
 *.dsl-app.s3.us-east-2.amazonaws.com CNAME .
-utopia.ideas.amentrix.com CNAME .
-*.utopia.ideas.amentrix.com CNAME .
 american-proxy.com CNAME .
 *.american-proxy.com CNAME .
 ananoos.com CNAME .
@@ -1124,8 +1116,6 @@ know.core.antidemon.com CNAME .
 *.know.core.antidemon.com CNAME .
 antpeak.com CNAME .
 *.antpeak.com CNAME .
-vocab.real.anynall.com CNAME .
-*.vocab.real.anynall.com CNAME .
 aplusvpn.com CNAME .
 *.aplusvpn.com CNAME .
 ag.apollohct.com CNAME .
@@ -1144,8 +1134,6 @@ dns.ares-taiwan.com CNAME .
 *.dns.ares-taiwan.com CNAME .
 dns.arkbotech.com CNAME .
 *.dns.arkbotech.com CNAME .
-terms.skill.asleepingturtle.com CNAME .
-*.terms.skill.asleepingturtle.com CNAME .
 survey.aspdebugger.com CNAME .
 *.survey.aspdebugger.com CNAME .
 task.major.assholetenants.com CNAME .
@@ -2636,6 +2624,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -5332,8 +5322,6 @@ wossow.com CNAME .
 *.wossow.com CNAME .
 writingessaypros.com CNAME .
 *.writingessaypros.com CNAME .
-ns2.wuyouss.com CNAME .
-*.ns2.wuyouss.com CNAME .
 ns3.wuyouss.com CNAME .
 *.ns3.wuyouss.com CNAME .
 data.state.wyldbrian.com CNAME .
@@ -5444,8 +5432,6 @@ polisitogel.cruises CNAME .
 *.polisitogel.cruises CNAME .
 liverpoolontop.1337.cx CNAME .
 *.liverpoolontop.1337.cx CNAME .
-canva.login.1337.cx CNAME .
-*.canva.login.1337.cx CNAME .
 goal.music.1337.cx CNAME .
 *.goal.music.1337.cx CNAME .
 vps.avc.cx CNAME .
@@ -5480,8 +5466,6 @@ dns.novali.date CNAME .
 *.dns.novali.date CNAME .
 1and1-dns.de CNAME .
 *.1and1-dns.de CNAME .
-namenims.fr.to.2fine.de CNAME .
-*.namenims.fr.to.2fine.de CNAME .
 2proxy.de CNAME .
 *.2proxy.de CNAME .
 3proxy.de CNAME .
@@ -5966,6 +5950,8 @@ unblocked.foo CNAME .
 *.unblocked.foo CNAME .
 unblockit.foo CNAME .
 *.unblockit.foo CNAME .
+blog.chirality.forum CNAME .
+*.blog.chirality.forum CNAME .
 doh.42l.fr CNAME .
 *.doh.42l.fr CNAME .
 dns.aquilenet.fr CNAME .
@@ -6918,8 +6904,6 @@ polisitogel.living CNAME .
 *.polisitogel.living CNAME .
 unblocked.llc CNAME .
 *.unblocked.llc CNAME .
-abouts.lol CNAME .
-*.abouts.lol CNAME .
 artclass.lol CNAME .
 *.artclass.lol CNAME .
 d.bod.lol CNAME .
@@ -7284,8 +7268,6 @@ dns.0x55.net CNAME .
 *.123inside.net CNAME .
 123me.net CNAME .
 *.123me.net CNAME .
-123mymusic.net CNAME .
-*.123mymusic.net CNAME .
 123rooms.net CNAME .
 *.123rooms.net CNAME .
 123sumo.net CNAME .
@@ -7296,8 +7278,6 @@ doh003.280blocker.net CNAME .
 *.doh003.280blocker.net CNAME .
 arts.field.8tb.net CNAME .
 *.arts.field.8tb.net CNAME .
-data.focus.abonament.net CNAME .
-*.data.focus.abonament.net CNAME .
 res-acst1.absolight.net CNAME .
 *.res-acst1.absolight.net CNAME .
 res-acst2.absolight.net CNAME .
@@ -8670,8 +8650,6 @@ zexusdigital.online CNAME .
 *.123book.org CNAME .
 123down.org CNAME .
 *.123down.org CNAME .
-123sports.org CNAME .
-*.123sports.org CNAME .
 123streaming.org CNAME .
 *.123streaming.org CNAME .
 bold-storm-255.3kh0.org CNAME .
@@ -8694,8 +8672,6 @@ airdns.org CNAME .
 *.airdns.org CNAME .
 airvpn.org CNAME .
 *.airvpn.org CNAME .
-focus.train.ajatar.org CNAME .
-*.focus.train.ajatar.org CNAME .
 cooldude.ajhurst.org CNAME .
 *.cooldude.ajhurst.org CNAME .
 study.ajhurst.org CNAME .
@@ -8716,8 +8692,6 @@ anonymouse.org CNAME .
 *.anonymouse.org CNAME .
 anonymousvpn.org CNAME .
 *.anonymousvpn.org CNAME .
-proof.major.archanet.org CNAME .
-*.proof.major.archanet.org CNAME .
 doh.archuser.org CNAME .
 *.doh.archuser.org CNAME .
 nsec.arnor.org CNAME .
@@ -8862,6 +8836,8 @@ fineproxy.org CNAME .
 *.fineproxy.org CNAME .
 finevpn.org CNAME .
 *.finevpn.org CNAME .
+submit.formengineer.org CNAME .
+*.submit.formengineer.org CNAME .
 freenetproject.org CNAME .
 *.freenetproject.org CNAME .
 freeopenvpn.org CNAME .
@@ -9674,6 +9650,8 @@ d4.re CNAME .
 *.d4.re CNAME .
 5g.o0o.re CNAME .
 *.5g.o0o.re CNAME .
+listings.fpp.realty CNAME .
+*.listings.fpp.realty CNAME .
 v.recipes CNAME .
 *.v.recipes CNAME .
 croxy.red CNAME .
@@ -9888,6 +9866,8 @@ osqcsmm.shop CNAME .
 *.osqcsmm.shop CNAME .
 paradise-human.shop CNAME .
 *.paradise-human.shop CNAME .
+inspiration.stationerycrafts.shop CNAME .
+*.inspiration.stationerycrafts.shop CNAME .
 polisitogel.show CNAME .
 *.polisitogel.show CNAME .
 cnamerannmertest.ints.f5.si CNAME .
@@ -10512,6 +10492,8 @@ polisitogel.webcam CNAME .
 *.polisitogel.webcam CNAME .
 777schoolutilities.website CNAME .
 *.777schoolutilities.website CNAME .
+editor.codingwizard.website CNAME .
+*.editor.codingwizard.website CNAME .
 rockwell.website CNAME .
 *.rockwell.website CNAME .
 siteunblocked.website CNAME .

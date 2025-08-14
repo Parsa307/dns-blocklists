@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Aug 2025 00:09 UTC
-# Version: 2025.0814.0009.03
+# Last modified: 14 Aug 2025 20:22 UTC
+# Version: 2025.0814.2022.34
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1443
 #
@@ -903,6 +903,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -1407,7 +1408,6 @@ local=/dns-1.wil.cloud/
 local=/dns-2.wil.cloud/
 local=/adguard.wirimij.nl/
 local=/home.wriedts.de/
-local=/ns2.wuyouss.com/
 local=/ns3.wuyouss.com/
 local=/wyx.cloud/
 local=/adb-home.xaoimoon.fr/

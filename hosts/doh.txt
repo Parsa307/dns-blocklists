@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Aug 2025 00:09 UTC
-# Version: 2025.0814.0009.03
+# Last modified: 14 Aug 2025 20:22 UTC
+# Version: 2025.0814.2022.34
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1600
 #
@@ -1028,6 +1028,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1559,7 +1560,6 @@
 0.0.0.0 dns-2.wil.cloud
 0.0.0.0 adguard.wirimij.nl
 0.0.0.0 home.wriedts.de
-0.0.0.0 ns2.wuyouss.com
 0.0.0.0 ns3.wuyouss.com
 0.0.0.0 wyx.cloud
 0.0.0.0 adb-home.xaoimoon.fr

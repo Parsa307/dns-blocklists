@@ -11,10 +11,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Aug 2025 04:09 UTC
-! Version: 2025.0812.0409.16
+! Last modified: 14 Aug 2025 20:23 UTC
+! Version: 2025.0814.2023.45
 ! Syntax: uBlock
-! Number of latin TLDs: 275 - non-latin TLDs: 151
+! Number of latin TLDs: 274 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -51,7 +51,7 @@
 ||casa^$doc,domain=~nabu.casa
 ||cash^$doc
 ||casino^$doc
-||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~rapidcdn.cc|~rutracker.cc|~shottr.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~zcyph.cc
+||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~rapidcdn.cc|~rutracker.cc|~shottr.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~zcyph.cc
 ||center^$doc,domain=~priv.center
 ||ceo^$doc
 ||cf^$doc,domain=~google.cf
@@ -72,7 +72,6 @@
 ||cool^$doc,domain=~cnyes.cool|~shirtz.cool|~upbitit.cool
 ||coupons^$doc
 ||credit^$doc
-||cymru^$doc
 ||cyou^$doc,domain=~hammertime.cyou
 ||dad^$doc,domain=~daily.dad|~dear.dad|~gdflix.dad|~gdtot.dad|~rad.dad
 ||dance^$doc
@@ -242,7 +241,7 @@
 ||space^$doc,domain=~dragonscave.space|~drgns.space|~embed-player.space|~hf.space|~httpjames.space|~hullseals.space|~hyper.space|~infosec.space|~ippen.space|~keyboard-test.space|~latent.space|~link.space|~mapstodon.space|~melmac.space|~mempool.space|~metahub.space|~momonster.space|~monitorburz.space|~ocr.space|~oldbytes.space|~qwik.space|~searx.space|~takeb1nzyto.space|~truepeople.space|~uexcorp.space
 ||sport^$doc
 ||srl^$doc
-||store^$doc,domain=~adidashardware.store|~bigtimerush.store|~bigtimerushuk.store|~cleanmasters.store|~ettoresoftware.store|~g-h.store|~glitchproductions.store|~heavysaurus.store|~iqunix.store|~pbshop.store|~shoplazza.store|~stan.store|~tatemcraeeu.store|~tatemcrae.store|~timberjacks.store
+||store^$doc,domain=~adidashardware.store|~beyondagency.store|~bigtimerush.store|~bigtimerushuk.store|~cleanmasters.store|~ettoresoftware.store|~g-h.store|~glitchproductions.store|~heavysaurus.store|~iqunix.store|~pbshop.store|~shoplazza.store|~stan.store|~tatemcraeeu.store|~tatemcrae.store|~timberjacks.store
 ||studio^$doc,domain=~flourish.studio|~starapps.studio|~zenn.studio
 ||style^$doc,domain=~primer.style
 ||su^$doc,domain=~encode.su|~jpg4.su|~jpg5.su|~promportal.su|~saint2.su

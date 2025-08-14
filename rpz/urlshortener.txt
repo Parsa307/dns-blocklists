@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755067260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755197220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Aug 2025 06:41 UTC
-; Version: 2025.0813.0641.25
+; Last modified: 14 Aug 2025 18:47 UTC
+; Version: 2025.0814.1847.39
 ; Syntax: RPZ
-; Number of entries: 9758
+; Number of entries: 9748
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -620,8 +620,6 @@ small.cat CNAME .
 *.4url.cc CNAME .
 5or.cc CNAME .
 *.5or.cc CNAME .
-7fth.cc CNAME .
-*.7fth.cc CNAME .
 88nb.cc CNAME .
 *.88nb.cc CNAME .
 89bet69.cc CNAME .
@@ -3608,8 +3606,6 @@ fifa.fans CNAME .
 *.fifa.fans CNAME .
 likes.fans CNAME .
 *.likes.fans CNAME .
-1u.fi CNAME .
-*.1u.fi CNAME .
 bot.fi CNAME .
 *.bot.fi CNAME .
 dy.fi CNAME .
@@ -3624,8 +3620,6 @@ urly.fi CNAME .
 *.urly.fi CNAME .
 amc.film CNAME .
 *.amc.film CNAME .
-5e.fit CNAME .
-*.5e.fit CNAME .
 5w.fit CNAME .
 *.5w.fit CNAME .
 gosmart.fit CNAME .
@@ -4636,8 +4630,6 @@ yourls.info CNAME .
 *.yourls.info CNAME .
 zzu.info CNAME .
 *.zzu.info CNAME .
-8n.ink CNAME .
-*.8n.ink CNAME .
 ata.ink CNAME .
 *.ata.ink CNAME .
 bcl.ink CNAME .
@@ -7902,8 +7894,6 @@ thefp.pub CNAME .
 *.thefp.pub CNAME .
 2u.pw CNAME .
 *.2u.pw CNAME .
-888b.pw CNAME .
-*.888b.pw CNAME .
 8u.pw CNAME .
 *.8u.pw CNAME .
 amzn.pw CNAME .
