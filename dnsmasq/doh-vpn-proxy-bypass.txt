@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Aug 2025 08:08 UTC
-# Version: 2025.0813.0808.43
+# Last modified: 14 Aug 2025 00:09 UTC
+# Version: 2025.0814.0009.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5422
+# Number of entries: 5425
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -442,7 +442,6 @@ local=/bestvpnprovider.info/
 local=/bestvpnrating.com/
 local=/bestvpnserver.com/
 local=/bestvpnssh.com/
-local=/bestwon203.com/
 local=/bestyouproxytube.com/
 local=/bestyoutubeproxy.info/
 local=/www-proxy.bettercallghaith.wiki/
@@ -1316,6 +1315,7 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1356,6 +1356,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1503,6 +1504,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2028,7 +2030,6 @@ local=/incog.works/
 local=/adblock.indianets.net/
 local=/indiaproxy.win/
 local=/indo-ssh.com/
-local=/dns.indust.me/
 local=/dns.indybanipal.com/
 local=/the.infocommthailand.com/
 local=/dns.inforlogia.com/
@@ -2499,6 +2500,7 @@ local=/www-proxy.migastep.com/
 local=/rammerdaze.miguelarevalo.es/
 local=/dns.mihanentalpo.me/
 local=/dns.mikeliu.org/
+local=/mikezhang.xyz/
 local=/dns.milkpie.one/
 local=/farmhouse.mills-family.us/
 local=/aiden-major.minecraftnoob.com/
@@ -4402,7 +4404,7 @@ local=/fb80256653edfbd9468b6d580605b0a338ea2a16-m.proxy2.startpage.com/
 local=/fb90d67e62e07ca6733db0f5aa8b7d21d0d8ff3b-m.proxy2.startpage.com/
 local=/febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com/
 local=/session.proxy2.startpage.com/
-local=/proxy3.startpage.com/
+local=/130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com/
 local=/proxy5.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us1-browse.startpage.com/
@@ -4443,6 +4445,7 @@ local=/suedeproxy.info/
 local=/dns.suhaila.dev/
 local=/resolver.sunet.se/
 local=/sunnygyl.com/
+local=/doh.sunoaki.net/
 local=/craft.sage.sunsmoke.org/
 local=/sunvpn.net/
 local=/bigbugpoppearblack.super-modding.quest/

@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 13 Aug 2025 08:08 UTC
-! Version: 2025.0813.0808.20
+! Last modified: 14 Aug 2025 00:09 UTC
+! Version: 2025.0814.0009.03
 ! Syntax: AdBlock
-! Number of entries: 1440
+! Number of entries: 1443
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -143,7 +143,6 @@
 ||justhost.bedro.cloud^
 ||dns.belnet.be^
 ||dns.bermeitinger.eu^
-||bestwon203.com^
 ||ns3.bit-trail.nl^
 ||dns.bitdefender.net^
 ||fra-dns.bitdefender.net^
@@ -507,6 +506,7 @@
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
 ||resolver2.dyndnsinternetguide.com^
+||gustamadh.dynv6.net^
 ||dns.dynx.pro^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
@@ -516,6 +516,7 @@
 ||edgy-dns.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
+||dns.efficientdocuments.com^
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
 ||eliatofani.ovh^
@@ -559,6 +560,7 @@
 ||dns.ffnw.de^
 ||fidelius.top^
 ||dns.filipccz.eu^
+||dns.fizz.studio^
 ||doh.flashstart.com^
 ||dns.flatuslifir.is^
 ||dns01.flm9.net^
@@ -680,7 +682,6 @@
 ||dns2.in-berlin.de^
 ||dns.inclusioproject.com^
 ||adblock.indianets.net^
-||dns.indust.me^
 ||dns.indybanipal.com^
 ||dns.inforlogia.com^
 ||doh.infracell.net^
@@ -862,6 +863,7 @@
 ||doh.micronets.in^
 ||dns.mihanentalpo.me^
 ||dns.mikeliu.org^
+||mikezhang.xyz^
 ||dns.milkpie.one^
 ||netcup.mismat.ch^
 ||doh.mmmalia.com^
@@ -1285,6 +1287,7 @@
 ||dns.suhaila.dev^
 ||resolver.sunet.se^
 ||sunnygyl.com^
+||doh.sunoaki.net^
 ||dns.superstefan.win^
 ||dns.surfshark.com^
 ||dns.surfsharkdns.com^

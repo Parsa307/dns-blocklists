@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755067140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755124800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Aug 2025 06:39 UTC
-; Version: 2025.0813.0639.26
+; Last modified: 13 Aug 2025 22:40 UTC
+; Version: 2025.0813.2240.11
 ; Syntax: RPZ
-; Number of entries: 28508
+; Number of entries: 28492
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -413,8 +413,6 @@ installateur-notdienst-vienna.at CNAME .
 *.installateur-notdienst-vienna.at CNAME .
 installateur-notdienst24.at CNAME .
 *.installateur-notdienst24.at CNAME .
-installateur-nothilfe.at CNAME .
-*.installateur-nothilfe.at CNAME .
 installateur-profis24.at CNAME .
 *.installateur-profis24.at CNAME .
 installateur-top.at CNAME .
@@ -4567,6 +4565,8 @@ commiodity.com CNAME .
 *.commiodity.com CNAME .
 commoditye.com CNAME .
 *.commoditye.com CNAME .
+commodityk.com CNAME .
+*.commodityk.com CNAME .
 commodityt.com CNAME .
 *.commodityt.com CNAME .
 communicatk.com CNAME .
@@ -4961,8 +4961,6 @@ dasrichtigeholz.com CNAME .
 *.dasrichtigeholz.com CNAME .
 daswirthshaus.com CNAME .
 *.daswirthshaus.com CNAME .
-datactively.com CNAME .
-*.datactively.com CNAME .
 davanu.com CNAME .
 *.davanu.com CNAME .
 daveintheshop.com CNAME .
@@ -6031,8 +6029,6 @@ espresso-line.com CNAME .
 *.espresso-line.com CNAME .
 espressomachine-shop.com CNAME .
 *.espressomachine-shop.com CNAME .
-esprithygge.com CNAME .
-*.esprithygge.com CNAME .
 esr-live-germany.com CNAME .
 *.esr-live-germany.com CNAME .
 at.esrlive.com CNAME .
@@ -8787,6 +8783,8 @@ intelilawllp.com CNAME .
 *.intelilawllp.com CNAME .
 intellisynex.com CNAME .
 *.intellisynex.com CNAME .
+intentionalk.com CNAME .
+*.intentionalk.com CNAME .
 inter-investissement-holding.com CNAME .
 *.inter-investissement-holding.com CNAME .
 interactionm.com CNAME .
@@ -10185,8 +10183,6 @@ luzuna.com CNAME .
 *.luzuna.com CNAME .
 lvm-capital.com CNAME .
 *.lvm-capital.com CNAME .
-lwex.com CNAME .
-*.lwex.com CNAME .
 lwex02.com CNAME .
 *.lwex02.com CNAME .
 lynch-care.com CNAME .
@@ -11693,8 +11689,6 @@ obdclick.com CNAME .
 *.obdclick.com CNAME .
 ober-sicherheit.com CNAME .
 *.ober-sicherheit.com CNAME .
-oberfrasede.com CNAME .
-*.oberfrasede.com CNAME .
 obergoolem.com CNAME .
 *.obergoolem.com CNAME .
 obermeyerski.com CNAME .
@@ -12347,8 +12341,6 @@ pawshoebox.com CNAME .
 *.pawshoebox.com CNAME .
 payforweal.com CNAME .
 *.payforweal.com CNAME .
-pazarst.com CNAME .
-*.pazarst.com CNAME .
 peachbruh.com CNAME .
 *.peachbruh.com CNAME .
 peachossom.com CNAME .
@@ -12597,6 +12589,8 @@ plasticsdaily.com CNAME .
 *.plasticsdaily.com CNAME .
 plasticshor.com CNAME .
 *.plasticshor.com CNAME .
+platincasino.com CNAME .
+*.platincasino.com CNAME .
 platincoin.com CNAME .
 *.platincoin.com CNAME .
 platztellershop.com CNAME .
@@ -13955,8 +13949,6 @@ seprun.com CNAME .
 *.seprun.com CNAME .
 sepwalk.com CNAME .
 *.sepwalk.com CNAME .
-serendiplty.com CNAME .
-*.serendiplty.com CNAME .
 serenitybot.com CNAME .
 *.serenitybot.com CNAME .
 serentia-shop.com CNAME .
@@ -15331,8 +15323,6 @@ testative.com CNAME .
 *.testative.com CNAME .
 testcortiy.com CNAME .
 *.testcortiy.com CNAME .
-testereo.com CNAME .
-*.testereo.com CNAME .
 teva-austria.com CNAME .
 *.teva-austria.com CNAME .
 teva-polska.com CNAME .
@@ -18307,8 +18297,6 @@ brennholzwerner.de CNAME .
 *.brennholzwerner.de CNAME .
 brennstoff-einfach.de CNAME .
 *.brennstoff-einfach.de CNAME .
-brennstoffe-versand.de CNAME .
-*.brennstoffe-versand.de CNAME .
 brennstoffe-wilke.de CNAME .
 *.brennstoffe-wilke.de CNAME .
 breuer-boutique.de CNAME .
@@ -25437,8 +25425,6 @@ sendrasuomi.net CNAME .
 *.sendrasuomi.net CNAME .
 servicepharmaceutique.net CNAME .
 *.servicepharmaceutique.net CNAME .
-shil.net CNAME .
-*.shil.net CNAME .
 shiloo.net CNAME .
 *.shiloo.net CNAME .
 shop-pharmacie-france.net CNAME .
@@ -26855,8 +26841,6 @@ kimberlybishop.shop CNAME .
 *.kimberlybishop.shop CNAME .
 kimcreem.shop CNAME .
 *.kimcreem.shop CNAME .
-kindderstadteu.shop CNAME .
-*.kindderstadteu.shop CNAME .
 kindgesundava.shop CNAME .
 *.kindgesundava.shop CNAME .
 kindgesundeu.shop CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755072480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755130140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Aug 2025 08:08 UTC
-; Version: 2025.0813.0808.20
+; Last modified: 14 Aug 2025 00:09 UTC
+; Version: 2025.0814.0009.03
 ; Syntax: RPZ
-; Number of entries: 2880
+; Number of entries: 2886
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -304,8 +304,6 @@ dns.bebasid.com CNAME .
 *.dns.bebasid.com CNAME .
 internetsehat.bebasid.com CNAME .
 *.internetsehat.bebasid.com CNAME .
-bestwon203.com CNAME .
-*.bestwon203.com CNAME .
 2.dnscrypt-cert.blahdns.com CNAME .
 *.2.dnscrypt-cert.blahdns.com CNAME .
 doh.blahdns.com CNAME .
@@ -456,6 +454,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 doh.flashstart.com CNAME .
@@ -1542,8 +1542,6 @@ hitian.me CNAME .
 *.hitian.me CNAME .
 dns.huas.me CNAME .
 *.dns.huas.me CNAME .
-dns.indust.me CNAME .
-*.dns.indust.me CNAME .
 jkdns.me CNAME .
 *.jkdns.me CNAME .
 dns.karadag.me CNAME .
@@ -1722,6 +1720,8 @@ dns.dnsoverhttps.net CNAME .
 *.dns.dnsoverhttps.net CNAME .
 takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 adguard.easez.net CNAME .
@@ -1950,6 +1950,8 @@ clientdns3.softcom.net CNAME .
 *.clientdns3.softcom.net CNAME .
 dns.stevenz.net CNAME .
 *.dns.stevenz.net CNAME .
+doh.sunoaki.net CNAME .
+*.doh.sunoaki.net CNAME .
 dns.thegoodsource.net CNAME .
 *.dns.thegoodsource.net CNAME .
 timedns.net CNAME .
@@ -2594,6 +2596,8 @@ dns.sy.st CNAME .
 *.dns.sy.st CNAME .
 home-server.store CNAME .
 *.home-server.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 crypto.sx CNAME .
@@ -2850,6 +2854,8 @@ maqgie.xyz CNAME .
 *.maqgie.xyz CNAME .
 dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 *.dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
+mikezhang.xyz CNAME .
+*.mikezhang.xyz CNAME .
 a.passcloud.xyz CNAME .
 *.a.passcloud.xyz CNAME .
 i.passcloud.xyz CNAME .
