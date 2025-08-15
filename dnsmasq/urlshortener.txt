@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Aug 2025 18:47 UTC
-# Version: 2025.0814.1847.39
+# Last modified: 15 Aug 2025 06:44 UTC
+# Version: 2025.0815.0644.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4874
+# Number of entries: 4871
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -645,7 +645,6 @@ local=/bitcoinshortener.top/
 local=/bitfy.cc/
 local=/bitigee.com/
 local=/bitj.icu/
-local=/bitl.app/
 local=/bitlee.site/
 local=/bitli.pro/
 local=/bitly.bz/
@@ -789,7 +788,6 @@ local=/bulkurlshortener.com/
 local=/bung.ie/
 local=/burl.me/
 local=/burnurl.com/
-local=/butt-link.us/
 local=/buybitcoinsworldwide.com/
 local=/bw.care/
 local=/bwlf.us/
@@ -976,7 +974,6 @@ local=/cockroa.ch/
 local=/codimenu.com/
 local=/cofe.io/
 local=/coinbarlink.net/
-local=/coinpr.info/
 local=/coinreal-us.com/
 local=/coki.me/
 local=/coklat.vip/

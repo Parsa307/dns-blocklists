@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755202920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755245940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Aug 2025 20:22 UTC
-; Version: 2025.0814.2022.58
+; Last modified: 15 Aug 2025 08:19 UTC
+; Version: 2025.0815.0819.29
 ; Syntax: RPZ
-; Number of entries: 10832
+; Number of entries: 10792
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -652,8 +652,6 @@ dwerk.conyser.cl CNAME .
 *.dwerk.conyser.cl CNAME .
 ab.ctx.cl CNAME .
 *.ab.ctx.cl CNAME .
-academy.ctx.cl CNAME .
-*.academy.ctx.cl CNAME .
 vynox.ctx.cl CNAME .
 *.vynox.ctx.cl CNAME .
 doge.gracyjohns.cl CNAME .
@@ -1178,8 +1176,6 @@ vpn.azure.com CNAME .
 *.vpn.azure.com CNAME .
 dns.b72.com CNAME .
 *.dns.b72.com CNAME .
-real.books.bahcekoysutyumurta.com CNAME .
-*.real.books.bahcekoysutyumurta.com CNAME .
 banana-vpn.com CNAME .
 *.banana-vpn.com CNAME .
 bananavpn.com CNAME .
@@ -1270,10 +1266,6 @@ blewpass.com CNAME .
 *.blewpass.com CNAME .
 dogloafs.blinklab.com CNAME .
 *.dogloafs.blinklab.com CNAME .
-labinternet.blinklab.com CNAME .
-*.labinternet.blinklab.com CNAME .
-craft.real.blinklab.com CNAME .
-*.craft.real.blinklab.com CNAME .
 blockedsiteaccess.com CNAME .
 *.blockedsiteaccess.com CNAME .
 doh.blockerdns.com CNAME .
@@ -1358,8 +1350,6 @@ cactusvpn.com CNAME .
 *.cactusvpn.com CNAME .
 dns.cahlen.com CNAME .
 *.dns.cahlen.com CNAME .
-solve.proof.california-red.com CNAME .
-*.solve.proof.california-red.com CNAME .
 notes.sage.california-red.com CNAME .
 *.notes.sage.california-red.com CNAME .
 careproxy.com CNAME .
@@ -1370,16 +1360,8 @@ zscaler.casarosalba.com CNAME .
 *.zscaler.casarosalba.com CNAME .
 casinovpn.com CNAME .
 *.casinovpn.com CNAME .
-theory.topic.cassidyd.com CNAME .
-*.theory.topic.cassidyd.com CNAME .
 cedarbranches.com CNAME .
 *.cedarbranches.com CNAME .
-lab.graph.central64.com CNAME .
-*.lab.graph.central64.com CNAME .
-area.world.cervezamolay.com CNAME .
-*.area.world.cervezamolay.com CNAME .
-core.goal.challengepursuit.com CNAME .
-*.core.goal.challengepursuit.com CNAME .
 changemyip.com CNAME .
 *.changemyip.com CNAME .
 gooberman123.com.chickenkiller.com CNAME .
@@ -1446,22 +1428,16 @@ cloudnymous.com CNAME .
 *.cloudnymous.com CNAME .
 dns-fr-psv1.cloudsides.com CNAME .
 *.dns-fr-psv1.cloudsides.com CNAME .
-prep.clever.cloudworkonline.com CNAME .
-*.prep.clever.cloudworkonline.com CNAME .
 cocoombr.com CNAME .
 *.cocoombr.com CNAME .
 cocoproxy.com CNAME .
 *.cocoproxy.com CNAME .
 dns.coderoria.com CNAME .
 *.dns.coderoria.com CNAME .
-recap.coach.coinio.com CNAME .
-*.recap.coach.coinio.com CNAME .
 coloney3.com CNAME .
 *.coloney3.com CNAME .
 easy-vpn.comodo.com CNAME .
 *.easy-vpn.comodo.com CNAME .
-math.tests.comprotusjuguetes.com CNAME .
-*.math.tests.comprotusjuguetes.com CNAME .
 confirmedvpn.com CNAME .
 *.confirmedvpn.com CNAME .
 connectionvpn.com CNAME .
@@ -1502,8 +1478,6 @@ croxyproxyvpn.com CNAME .
 *.croxyproxyvpn.com CNAME .
 crushus.com CNAME .
 *.crushus.com CNAME .
-mathiscool.cryodome.com CNAME .
-*.mathiscool.cryodome.com CNAME .
 power.cryodome.com CNAME .
 *.power.cryodome.com CNAME .
 crypticvpn.com CNAME .
@@ -1672,8 +1646,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -7364,8 +7336,6 @@ anamoxe.baselinux.net CNAME .
 *.anamoxe.baselinux.net CNAME .
 boltnixe.baselinux.net CNAME .
 *.boltnixe.baselinux.net CNAME .
-mass.church.baselinux.net CNAME .
-*.mass.church.baselinux.net CNAME .
 dogeproxiex.baselinux.net CNAME .
 *.dogeproxiex.baselinux.net CNAME .
 nirbytesx.baselinux.net CNAME .
@@ -7656,8 +7626,6 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -8506,8 +8474,6 @@ echan.faizinternational.com.np CNAME .
 *.echan.faizinternational.com.np CNAME .
 info.faizinternational.com.np CNAME .
 *.info.faizinternational.com.np CNAME .
-keepchatactive.faizinternational.com.np CNAME .
-*.keepchatactive.faizinternational.com.np CNAME .
 pleaseworkiwantutopia.faizinternational.com.np CNAME .
 *.pleaseworkiwantutopia.faizinternational.com.np CNAME .
 yug-has-a-big-butt.faizinternational.com.np CNAME .
@@ -8574,8 +8540,6 @@ alleesph.online CNAME .
 *.alleesph.online CNAME .
 alphabr.online CNAME .
 *.alphabr.online CNAME .
-calculusproblems.online CNAME .
-*.calculusproblems.online CNAME .
 cbentertainment.online CNAME .
 *.cbentertainment.online CNAME .
 desbloquearredes.online CNAME .
@@ -10008,8 +9972,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -10284,8 +10246,6 @@ bluegray.us CNAME .
 *.bluegray.us CNAME .
 bypasser.us CNAME .
 *.bypasser.us CNAME .
-register.cakk.us CNAME .
-*.register.cakk.us CNAME .
 classicpen.us CNAME .
 *.classicpen.us CNAME .
 cloaker.us CNAME .

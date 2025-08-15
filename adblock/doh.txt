@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 14 Aug 2025 20:22 UTC
-! Version: 2025.0814.2022.34
+! Last modified: 15 Aug 2025 08:19 UTC
+! Version: 2025.0815.0819.05
 ! Syntax: AdBlock
-! Number of entries: 1443
+! Number of entries: 1440
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -506,7 +506,6 @@
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
 ||resolver2.dyndnsinternetguide.com^
-||gustamadh.dynv6.net^
 ||dns.dynx.pro^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
@@ -516,7 +515,6 @@
 ||edgy-dns.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
-||dns.efficientdocuments.com^
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
 ||eliatofani.ovh^
@@ -560,7 +558,6 @@
 ||dns.ffnw.de^
 ||fidelius.top^
 ||dns.filipccz.eu^
-||dns.fizz.studio^
 ||doh.flashstart.com^
 ||dns.flatuslifir.is^
 ||dns01.flm9.net^
