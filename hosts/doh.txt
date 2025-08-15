@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Aug 2025 08:19 UTC
-# Version: 2025.0815.0819.05
+# Last modified: 15 Aug 2025 19:02 UTC
+# Version: 2025.0815.1902.12
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1597
 #
@@ -616,15 +616,16 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver2.dyndnsinternetguide.com
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
 0.0.0.0 easyhandshake.com
 0.0.0.0 dns.eddi.net
 0.0.0.0 doh.eddi.net
-0.0.0.0 edgy-dns.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -1025,7 +1026,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1183,7 +1183,6 @@
 0.0.0.0 dns-ovh.panszelescik.pl
 0.0.0.0 paradise-human.shop
 0.0.0.0 dns.pari.network
-0.0.0.0 pashagame456.com
 0.0.0.0 a.passcloud.xyz
 0.0.0.0 i.passcloud.xyz
 0.0.0.0 dns.pccoach.nl
@@ -1557,6 +1556,7 @@
 0.0.0.0 dns-2.wil.cloud
 0.0.0.0 adguard.wirimij.nl
 0.0.0.0 home.wriedts.de
+0.0.0.0 ns2.wuyouss.com
 0.0.0.0 ns3.wuyouss.com
 0.0.0.0 wyx.cloud
 0.0.0.0 adb-home.xaoimoon.fr

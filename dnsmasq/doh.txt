@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Aug 2025 08:19 UTC
-# Version: 2025.0815.0819.05
+# Last modified: 15 Aug 2025 19:02 UTC
+# Version: 2025.0815.1902.12
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1440
 #
@@ -505,15 +505,16 @@ local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
+local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
 local=/easyhandshake.com/
 local=/dns.eddi.net/
 local=/doh.eddi.net/
-local=/edgy-dns.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -900,7 +901,6 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -1047,7 +1047,6 @@ local=/dns.panszelescik.pl/
 local=/dns-ovh.panszelescik.pl/
 local=/paradise-human.shop/
 local=/dns.pari.network/
-local=/pashagame456.com/
 local=/a.passcloud.xyz/
 local=/i.passcloud.xyz/
 local=/dns.pccoach.nl/
@@ -1405,6 +1404,7 @@ local=/dns-1.wil.cloud/
 local=/dns-2.wil.cloud/
 local=/adguard.wirimij.nl/
 local=/home.wriedts.de/
+local=/ns2.wuyouss.com/
 local=/ns3.wuyouss.com/
 local=/wyx.cloud/
 local=/adb-home.xaoimoon.fr/

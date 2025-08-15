@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755245580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755284580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Aug 2025 08:13 UTC
-; Version: 2025.0815.0813.44
+; Last modified: 15 Aug 2025 19:03 UTC
+; Version: 2025.0815.1903.20
 ; Syntax: RPZ
-; Number of entries: 20730
+; Number of entries: 20708
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1391,8 +1391,6 @@ arenabg.ch CNAME .
 *.arenabg.ch CNAME .
 cpasbien.ch CNAME .
 *.cpasbien.ch CNAME .
-open-v6.demonoid.ch CNAME .
-*.open-v6.demonoid.ch CNAME .
 extratorrents.ch CNAME .
 *.extratorrents.ch CNAME .
 eztv.ch CNAME .
@@ -1751,8 +1749,6 @@ tracker.dm258.cn CNAME .
 *.tracker.dm258.cn CNAME .
 tracker.sjtu.edu.cn CNAME .
 *.tracker.sjtu.edu.cn CNAME .
-hdbits.cn CNAME .
-*.hdbits.cn CNAME .
 tracker.hiyj.cn CNAME .
 *.tracker.hiyj.cn CNAME .
 jshdtv.cn CNAME .
@@ -3613,8 +3609,6 @@ divxtotal.com CNAME .
 *.divxtotal.com CNAME .
 divyamodapk.com CNAME .
 *.divyamodapk.com CNAME .
-djconway.com CNAME .
-*.djconway.com CNAME .
 djleak.com CNAME .
 *.djleak.com CNAME .
 bt.dl1234.com CNAME .
@@ -3727,8 +3721,6 @@ ds2play.com CNAME .
 *.ds2play.com CNAME .
 duboku.com CNAME .
 *.duboku.com CNAME .
-dudestream.com CNAME .
-*.dudestream.com CNAME .
 dupefr.com CNAME .
 *.dupefr.com CNAME .
 durantonetworkbd.com CNAME .
@@ -3991,8 +3983,6 @@ filmlush.com CNAME .
 *.filmlush.com CNAME .
 filmobo.com CNAME .
 *.filmobo.com CNAME .
-filmoviez.com CNAME .
-*.filmoviez.com CNAME .
 filmpertutti.com CNAME .
 *.filmpertutti.com CNAME .
 filmplusapp.com CNAME .
@@ -10373,8 +10363,6 @@ ebox.live CNAME .
 *.ebox.live CNAME .
 egydead.live CNAME .
 *.egydead.live CNAME .
-elkoora.live CNAME .
-*.elkoora.live CNAME .
 eurostreaming.live CNAME .
 *.eurostreaming.live CNAME .
 extratime.live CNAME .
@@ -10951,8 +10939,6 @@ dup3.me CNAME .
 *.dup3.me CNAME .
 ee3.me CNAME .
 *.ee3.me CNAME .
-egydead.me CNAME .
-*.egydead.me CNAME .
 emuparadise.me CNAME .
 *.emuparadise.me CNAME .
 epider.me CNAME .
@@ -12123,8 +12109,6 @@ torrent.dfnbd.net CNAME .
 *.torrent.dfnbd.net CNAME .
 tube.dfnbd.net CNAME .
 *.tube.dfnbd.net CNAME .
-tv.dfnbd.net CNAME .
-*.tv.dfnbd.net CNAME .
 diakov.net CNAME .
 *.diakov.net CNAME .
 digbazi.net CNAME .
@@ -16589,8 +16573,6 @@ tracker.elektronik.ro CNAME .
 *.tracker.elektronik.ro CNAME .
 filelist.ro CNAME .
 *.filelist.ro CNAME .
-fshd.ro CNAME .
-*.fshd.ro CNAME .
 hd-bits.ro CNAME .
 *.hd-bits.ro CNAME .
 hgzone.ro CNAME .
@@ -18639,8 +18621,6 @@ filmstreaming.top CNAME .
 *.filmstreaming.top CNAME .
 flashfilms-hd.top CNAME .
 *.flashfilms-hd.top CNAME .
-fmovies.top CNAME .
-*.fmovies.top CNAME .
 free-telecharger.top CNAME .
 *.free-telecharger.top CNAME .
 freestreams-live.top CNAME .
@@ -18977,8 +18957,6 @@ fawesome.tv CNAME .
 *.fawesome.tv CNAME .
 fbstream.tv CNAME .
 *.fbstream.tv CNAME .
-filmeflix.tv CNAME .
-*.filmeflix.tv CNAME .
 filmestorrent.tv CNAME .
 *.filmestorrent.tv CNAME .
 filmize.tv CNAME .
@@ -18987,8 +18965,6 @@ filmon.tv CNAME .
 *.filmon.tv CNAME .
 filmstreaming.tv CNAME .
 *.filmstreaming.tv CNAME .
-filmxy.tv CNAME .
-*.filmxy.tv CNAME .
 filmy-online.tv CNAME .
 *.filmy-online.tv CNAME .
 firstsrowsports.tv CNAME .
@@ -20495,6 +20471,8 @@ ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
+speedtest.iperson.xyz CNAME .
+*.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755240240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755284520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Aug 2025 06:44 UTC
-; Version: 2025.0815.0644.33
+; Last modified: 15 Aug 2025 19:02 UTC
+; Version: 2025.0815.1902.59
 ; Syntax: RPZ
-; Number of entries: 9742
+; Number of entries: 9728
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4328,8 +4328,6 @@ geti.in CNAME .
 *.geti.in CNAME .
 gigaz.in CNAME .
 *.gigaz.in CNAME .
-grpx.in CNAME .
-*.grpx.in CNAME .
 ibest.in CNAME .
 *.ibest.in CNAME .
 ic9.in CNAME .
@@ -5482,16 +5480,12 @@ daduslot88.life CNAME .
 *.daduslot88.life CNAME .
 disanspam.life CNAME .
 *.disanspam.life CNAME .
-docusignredirectsharepoint.life CNAME .
-*.docusignredirectsharepoint.life CNAME .
 dr-lisa.life CNAME .
 *.dr-lisa.life CNAME .
 dreamshigh.life CNAME .
 *.dreamshigh.life CNAME .
 fenditorosiatoter.life CNAME .
 *.fenditorosiatoter.life CNAME .
-freesexes.life CNAME .
-*.freesexes.life CNAME .
 heoiberico.life CNAME .
 *.heoiberico.life CNAME .
 heotoc.life CNAME .
@@ -5634,8 +5628,6 @@ drafthound.link CNAME .
 *.drafthound.link CNAME .
 dub.link CNAME .
 *.dub.link CNAME .
-ecrane.link CNAME .
-*.ecrane.link CNAME .
 efs.link CNAME .
 *.efs.link CNAME .
 enshom.link CNAME .
@@ -5916,8 +5908,6 @@ facebookid.live CNAME .
 *.facebookid.live CNAME .
 fenomen.live CNAME .
 *.fenomen.live CNAME .
-free-sex.live CNAME .
-*.free-sex.live CNAME .
 gaysi.live CNAME .
 *.gaysi.live CNAME .
 gloshukadamiava2.live CNAME .
@@ -7044,8 +7034,6 @@ cuturl.net CNAME .
 *.cuturl.net CNAME .
 dafa07.net CNAME .
 *.dafa07.net CNAME .
-demolink.net CNAME .
-*.demolink.net CNAME .
 droplr.net CNAME .
 *.droplr.net CNAME .
 dstats.net CNAME .
@@ -9658,8 +9646,6 @@ cropped.xyz CNAME .
 *.cropped.xyz CNAME .
 cutturl.xyz CNAME .
 *.cutturl.xyz CNAME .
-docremedio.xyz CNAME .
-*.docremedio.xyz CNAME .
 editricity.xyz CNAME .
 *.editricity.xyz CNAME .
 gacor99-vip.xyz CNAME .

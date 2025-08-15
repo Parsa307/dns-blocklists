@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Aug 2025 08:13 UTC
-# Version: 2025.0815.0813.44
+# Last modified: 15 Aug 2025 19:03 UTC
+# Version: 2025.0815.1903.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10365
+# Number of entries: 10354
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2460,7 +2460,6 @@ local=/demonoid.is/
 local=/demonoid.ph/
 local=/demonoid.pw/
 local=/inferno.demonoid.me/
-local=/open-v6.demonoid.ch/
 local=/demons-eye.me/
 local=/demozoo.org/
 local=/dendox.org/
@@ -2496,7 +2495,6 @@ local=/em.dfnbd.net/
 local=/srl.dfnbd.net/
 local=/torrent.dfnbd.net/
 local=/tube.dfnbd.net/
-local=/tv.dfnbd.net/
 local=/dfox.it/
 local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
@@ -2562,7 +2560,6 @@ local=/divxtotal3.net/
 local=/divyamodapk.com/
 local=/tracker.dix.tf/
 local=/dizcompany.ru/
-local=/djconway.com/
 local=/djleak.com/
 local=/dl-more.eu/
 local=/bt.dl1234.com/
@@ -2771,7 +2768,6 @@ local=/thinking.duckdns.org/
 local=/tr4ck3r.duckdns.org/
 local=/tracker.ducks.party/
 local=/duckwad.net/
-local=/dudestream.com/
 local=/dummipedia.org/
 local=/dunia21.app/
 local=/dunia21.bid/
@@ -2880,7 +2876,6 @@ local=/egydead.fyi/
 local=/egydead.info/
 local=/egydead.ink/
 local=/egydead.live/
-local=/egydead.me/
 local=/egydead.onl/
 local=/egydead.org/
 local=/egydead.pro/
@@ -2917,7 +2912,6 @@ local=/elitetorrent.net/
 local=/elitetorrent.nl/
 local=/elitetorrent.pl/
 local=/elitetorrent1.com/
-local=/elkoora.live/
 local=/elsewhere.org/
 local=/emaczone.com/
 local=/embedflix.net/
@@ -3308,7 +3302,6 @@ local=/filmcomplet.al/
 local=/filmcomplet.vip/
 local=/filmduty.com/
 local=/filmeflix.online/
-local=/filmeflix.tv/
 local=/filmehd.se/
 local=/filmehd.to/
 local=/filmes.pro/
@@ -3343,7 +3336,6 @@ local=/filmoff.net/
 local=/filmoflix.bio/
 local=/filmon.tv/
 local=/filmoteka.cc/
-local=/filmoviez.com/
 local=/filmowo.club/
 local=/filmpalast.to/
 local=/filmpertutti.asia/
@@ -3486,7 +3478,6 @@ local=/filmvf.net/
 local=/filmxy.live/
 local=/filmxy.nl/
 local=/filmxy.pw/
-local=/filmxy.tv/
 local=/filmxy.vip/
 local=/filmy-online.tv/
 local=/filmy4play.xyz/
@@ -3600,7 +3591,6 @@ local=/fmovies.sc/
 local=/fmovies.se/
 local=/fmovies.taxi/
 local=/fmovies.to/
-local=/fmovies.top/
 local=/fmovies.website/
 local=/fmovies.world/
 local=/fmovies.wtf/
@@ -3779,7 +3769,6 @@ local=/fsapi.xyz/
 local=/fsave.net/
 local=/fshare.vn/
 local=/fsharetv.co/
-local=/fshd.ro/
 local=/one.fsphost.com/
 local=/ftflix.com/
 local=/ftp.pet/
@@ -4273,7 +4262,6 @@ local=/tracker.hdarea.co/
 local=/hdaudiobooks.net/
 local=/tracker.hdbd.us/
 local=/hdbest.net/
-local=/hdbits.cn/
 local=/hdbits.org/
 local=/hdchina.org/
 local=/hdcity.org/
@@ -4660,6 +4648,7 @@ local=/ns349743.ip-91-121-106.eu/
 local=/ipacrack.com/
 local=/ipalibrary.me/
 local=/ipboot.xyz/
+local=/speedtest.iperson.xyz/
 local=/tracker.iperson.xyz/
 local=/tracker.ipfsscan.io/
 local=/iphonebooks.info/

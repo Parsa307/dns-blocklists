@@ -245,7 +245,6 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnel
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo
 https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
 https://raw.githubusercontent.com/SM443/BDIX-Piracy-Blocklist/main/bdix_piracy_websites_only-domains.txt
-https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
@@ -332,6 +331,5 @@ https://www.watchlist-internet.at/liste-speditionen/
 https://www.watchlist-internet.at/liste-urlaubsbuchung/
 https://www.zoso.ro/pages/rolist2.txt
 https://www.zoso.ro/pages/rolist.txt
-https://zonefiles.io/f/compromised/domains/live/
 https://zonefiles.io/f/compromised/ip/live/
 ```

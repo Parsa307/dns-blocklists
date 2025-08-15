@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 23:08 UTC
-# Version: 2025.0808.2308.49
+# Last modified: 15 Aug 2025 19:09 UTC
+# Version: 2025.0815.1909.53
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 69
 #
@@ -76,5 +76,5 @@
 0.0.0.0 video-player.aps.amazon-adsystem.com vq-eu-west-1.amazon-adsystem.com vq-fe-us-west-2.amazon-adsystem.com vq-test-us-east-1.amazon-adsystem.com vq-us-east-1.amazon-adsystem.com vq-us-west-2.amazon-adsystem.com web.ads.aps.amazon-adsystem.com web.ap-southeast.aps.axp.amazon-adsystem.com web.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 web.us-east.aps.axp.amazon-adsystem.com wetfs.global-1.telemetry.insights.video.a2z.com wetfs.global-2.telemetry.insights.video.a2z.com wetfs.global-3.telemetry.insights.video.a2z.com wms-eu.amazon-adsystem.com wms-eu.assoc-amazon.com wms-fe.amazon-adsystem.com wms-in.amazon-adsystem.com wms-na.amazon-adsystem.com
 0.0.0.0 wms-na.assoc-amazon.com wms.assoc-amazon.com ws-eu.amazon-adsystem.com ws-eu.assoc-amazon.com ws-fe.amazon-adsystem.com ws-fe.assoc-amazon.com ws-in.amazon-adsystem.com ws-na.amazon-adsystem.com ws-na.assoc-amazon.com
-0.0.0.0 ws.assoc-amazon.com www.assoc-amazon.ca www.assoc-amazon.com www.assoc-amazon.de www.assoc-amazon.es www.assoc-amazon.fr www.assoc-amazon.it www.assoc-amazon.jp www.paa-reporting-advertising.amazon
-0.0.0.0 z-eu.amazon-adsystem.com z-fe.amazon-adsystem.com z-in.amazon-adsystem.com z-na.amazon-adsystem.com 
+0.0.0.0 ws.assoc-amazon.com www.assoc-amazon.ca www.assoc-amazon.com www.assoc-amazon.de www.assoc-amazon.es www.assoc-amazon.fr www.assoc-amazon.it www.assoc-amazon.jp z-eu.amazon-adsystem.com
+0.0.0.0 z-fe.amazon-adsystem.com z-in.amazon-adsystem.com z-na.amazon-adsystem.com 
