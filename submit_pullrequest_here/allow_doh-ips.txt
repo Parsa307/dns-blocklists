@@ -1,7 +1,10 @@
 # IPs to be removed from the DoH IP list.
 
 # https://github.com/hagezi/dns-blocklists/issues/7001
+185.199.108.153
+185.199.109.153
 185.199.110.153
+185.199.111.153
 
 # https://github.com/hagezi/dns-blocklists/issues/6912
 104.21.48.1
