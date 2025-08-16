@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755346500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755360600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Aug 2025 12:15 UTC
-; Version: 2025.0816.1215.38
+; Last modified: 16 Aug 2025 16:10 UTC
+; Version: 2025.0816.1610.40
 ; Syntax: RPZ
-; Number of entries: 20694
+; Number of entries: 20680
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5669,8 +5669,6 @@ orphicsecurityteam.com CNAME .
 *.orphicsecurityteam.com CNAME .
 otaku-streamers.com CNAME .
 *.otaku-streamers.com CNAME .
-otakustv.com CNAME .
-*.otakustv.com CNAME .
 otakuworks.com CNAME .
 *.otakuworks.com CNAME .
 oteupload.com CNAME .
@@ -5819,8 +5817,6 @@ plixi.com CNAME .
 *.plixi.com CNAME .
 plugintorrent.com CNAME .
 *.plugintorrent.com CNAME .
-plusnetbd.com CNAME .
-*.plusnetbd.com CNAME .
 pluspremieres.com CNAME .
 *.pluspremieres.com CNAME .
 plygig.com CNAME .
@@ -5901,8 +5897,6 @@ profullversion.com CNAME .
 *.profullversion.com CNAME .
 progenic.com CNAME .
 *.progenic.com CNAME .
-progmetalzone.com CNAME .
-*.progmetalzone.com CNAME .
 warez.programasfull.com CNAME .
 *.warez.programasfull.com CNAME .
 programaswarez.com CNAME .
@@ -10501,8 +10495,6 @@ yassflix.live CNAME .
 *.yassflix.live CNAME .
 zorbixdream.live CNAME .
 *.zorbixdream.live CNAME .
-pirate.lk CNAME .
-*.pirate.lk CNAME .
 fmovies.llc CNAME .
 *.fmovies.llc CNAME .
 1337x.unblocked.llc CNAME .
@@ -13895,8 +13887,6 @@ megakino.onl CNAME .
 *.megakino.onl CNAME .
 moviesjoy.onl CNAME .
 *.moviesjoy.onl CNAME .
-papystreaming.onl CNAME .
-*.papystreaming.onl CNAME .
 putlocker.onl CNAME .
 *.putlocker.onl CNAME .
 putlockertv.onl CNAME .
@@ -15211,8 +15201,6 @@ share.popgo.org CNAME .
 *.share.popgo.org CNAME .
 pornbay.org CNAME .
 *.pornbay.org CNAME .
-powerbits.org CNAME .
-*.powerbits.org CNAME .
 powertracker.org CNAME .
 *.powertracker.org CNAME .
 forum.ppcwarez.org CNAME .
@@ -15909,8 +15897,6 @@ www.opnsports.com.pk CNAME .
 *.www.opnsports.com.pk CNAME .
 movies123.pk CNAME .
 *.movies123.pk CNAME .
-playit.pk CNAME .
-*.playit.pk CNAME .
 pcd.345.pl CNAME .
 *.pcd.345.pl CNAME .
 generatory.3xg.pl CNAME .

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2025 12:21 UTC
-# Version: 2025.0816.1221.10
+# Last modified: 16 Aug 2025 16:16 UTC
+# Version: 2025.0816.1616.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5352
+# Number of entries: 5343
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1288,7 +1288,6 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
-local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1326,6 +1325,7 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1470,7 +1470,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2861,7 +2860,6 @@ local=/ospylac.com/
 local=/osqcsmm.shop/
 local=/this.is.for.lightspeedpal.ostrovsky.sk/
 local=/thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk/
-local=/topic.idea.ottosulbmec.com/
 local=/dns.ours.luxe/
 local=/dns.ourvau.lt/
 local=/proxy.outred.dev/
@@ -2880,7 +2878,6 @@ local=/packetriot.net/
 local=/dns.paesa.es/
 local=/incognito-static-version.pages.dev/
 local=/unblockit.pages.dev/
-local=/dingdong.pakasak.com/
 local=/vpn-ru-msk.pakharenko.ru/
 local=/skills.notes.pakla.pl/
 local=/paladinvpn.com/
@@ -2896,7 +2893,6 @@ local=/adguard.pangerl.it/
 local=/pango-paas.co/
 local=/pankvyh.xyz/
 local=/panmill.xyz/
-local=/panskeet.xyz/
 local=/dns.panszelescik.pl/
 local=/dns-ovh.panszelescik.pl/
 local=/pantavv.xyz/
@@ -2906,7 +2902,6 @@ local=/papervpn.info/
 local=/paradise-human.shop/
 local=/dns.pari.network/
 local=/parkviewenglish.buzz/
-local=/info.lab.paskud.net/
 local=/a.passcloud.xyz/
 local=/i.passcloud.xyz/
 local=/kleep.paulopedron.com/
@@ -2962,7 +2957,6 @@ local=/piaproxy.net/
 local=/adguard.piekacz.pl/
 local=/dns.pierzchlewicz.pl/
 local=/dns1.pietjacobs.be/
-local=/mind.gov.ping24.com/
 local=/pingproxy.com/
 local=/pinkproxy.xyz/
 local=/piraproxy.org/
@@ -3009,7 +3003,6 @@ local=/polisitogel.living/
 local=/polisitogel.luxe/
 local=/polisitogel.show/
 local=/polisitogel.webcam/
-local=/teach.essay.porcineplacenta.com/
 local=/science-exp.port0.org/
 local=/doh.port53.dk/
 local=/croze.port82.net/
@@ -3021,7 +3014,6 @@ local=/media.logic.postie.org/
 local=/cdn.postsupport.co/
 local=/content.postsupport.co/
 local=/potatovpn.io/
-local=/ixl.potomacriversafetycommittee.org/
 local=/doh.powerdns.org/
 local=/poxy.pl/
 local=/dns.ha-dvin.pp.ua/
@@ -3048,7 +3040,6 @@ local=/predecessor.info/
 local=/smart.sage.premierleaguepoints.com/
 local=/premiumproxy.net/
 local=/presidentalhistory.wiki/
-local=/class.bio.prettybirdserver.com/
 local=/dns2.prima-solusindo.com/
 local=/primeproxy23.info/
 local=/primevpn.pro/

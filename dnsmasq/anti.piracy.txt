@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2025 12:15 UTC
-# Version: 2025.0816.1215.38
+# Last modified: 16 Aug 2025 16:10 UTC
+# Version: 2025.0816.1610.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10347
+# Number of entries: 10340
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -6539,7 +6539,6 @@ local=/orphicsecurityteam.com/
 local=/bt.orzx.im/
 local=/osthir.net/
 local=/otaku-streamers.com/
-local=/otakustv.com/
 local=/otakuworks.com/
 local=/oteupload.com/
 local=/otorrents.com/
@@ -6610,7 +6609,6 @@ local=/sukebei.pantsu.cat/
 local=/papadustream.co/
 local=/papflix.com/
 local=/papystreaming.com/
-local=/papystreaming.onl/
 local=/papystreaming.stream/
 local=/parag.rs/
 local=/paranetinfo.com/
@@ -6692,7 +6690,6 @@ local=/piracy.su/
 local=/piracyproxy.net/
 local=/piratbit.fun/
 local=/piratbit.top/
-local=/pirate.lk/
 local=/pirate.trade/
 local=/pirate-bay.info/
 local=/pirate-bay.net/
@@ -6819,7 +6816,6 @@ local=/playdede.tv/
 local=/playersklub.tv/
 local=/playertv.net/
 local=/playhydrax.com/
-local=/playit.pk/
 local=/playmods.app/
 local=/playmods.co/
 local=/playmods.net/
@@ -6836,7 +6832,6 @@ local=/plexbd.net/
 local=/plixi.com/
 local=/plugintorrent.com/
 local=/plusbox.tv/
-local=/plusnetbd.com/
 local=/pluspremieres.com/
 local=/tracker.plx.im/
 local=/plygig.com/
@@ -6901,7 +6896,6 @@ local=/potuk.com/
 local=/pouet.net/
 local=/pow7.com/
 local=/videosracing.power-heberg.com/
-local=/powerbits.org/
 local=/powerddl.com/
 local=/powernetbd.com/
 local=/powershare-bg.com/
@@ -6954,7 +6948,6 @@ local=/prodigem.com/
 local=/profullcrack.com/
 local=/profullversion.com/
 local=/progenic.com/
-local=/progmetalzone.com/
 local=/warez.programasfull.com/
 local=/programaswarez.com/
 local=/progressivetorrents.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755346860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755360960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Aug 2025 12:21 UTC
-; Version: 2025.0816.1221.10
+; Last modified: 16 Aug 2025 16:16 UTC
+; Version: 2025.0816.1616.16
 ; Syntax: RPZ
-; Number of entries: 10704
+; Number of entries: 10686
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1636,6 +1636,8 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2724,16 +2726,12 @@ os4work.com CNAME .
 *.os4work.com CNAME .
 ospylac.com CNAME .
 *.ospylac.com CNAME .
-topic.idea.ottosulbmec.com CNAME .
-*.topic.idea.ottosulbmec.com CNAME .
 ovpn.com CNAME .
 *.ovpn.com CNAME .
 oystervpn.com CNAME .
 *.oystervpn.com CNAME .
 solve.write.pacificbellinternational.com CNAME .
 *.solve.write.pacificbellinternational.com CNAME .
-dingdong.pakasak.com CNAME .
-*.dingdong.pakasak.com CNAME .
 paladinvpn.com CNAME .
 *.paladinvpn.com CNAME .
 pandasecurity.com CNAME .
@@ -2802,8 +2800,6 @@ doh.westus.pi-dns.com CNAME .
 *.doh.westus.pi-dns.com CNAME .
 dot.westus.pi-dns.com CNAME .
 *.dot.westus.pi-dns.com CNAME .
-mind.gov.ping24.com CNAME .
-*.mind.gov.ping24.com CNAME .
 pingproxy.com CNAME .
 *.pingproxy.com CNAME .
 pixelprivacy.com CNAME .
@@ -2836,8 +2832,6 @@ pointtoserver.com CNAME .
 *.pointtoserver.com CNAME .
 polargrizzly.com CNAME .
 *.polargrizzly.com CNAME .
-teach.essay.porcineplacenta.com CNAME .
-*.teach.essay.porcineplacenta.com CNAME .
 portalssh.com CNAME .
 *.portalssh.com CNAME .
 dns.porteii.com CNAME .
@@ -2854,8 +2848,6 @@ topic.craft.prazerdiario.com CNAME .
 *.topic.craft.prazerdiario.com CNAME .
 smart.sage.premierleaguepoints.com CNAME .
 *.smart.sage.premierleaguepoints.com CNAME .
-class.bio.prettybirdserver.com CNAME .
-*.class.bio.prettybirdserver.com CNAME .
 dns2.prima-solusindo.com CNAME .
 *.dns2.prima-solusindo.com CNAME .
 privadovpn.com CNAME .
@@ -7558,8 +7550,6 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -7938,8 +7928,6 @@ overplay.net CNAME .
 *.overplay.net CNAME .
 packetriot.net CNAME .
 *.packetriot.net CNAME .
-info.lab.paskud.net CNAME .
-*.info.lab.paskud.net CNAME .
 rpz-public-resolver1.rrdns.pch.net CNAME .
 *.rpz-public-resolver1.rrdns.pch.net CNAME .
 school.pepikutan.net CNAME .
@@ -8900,8 +8888,6 @@ science-exp.port0.org CNAME .
 *.science-exp.port0.org CNAME .
 media.logic.postie.org CNAME .
 *.media.logic.postie.org CNAME .
-ixl.potomacriversafetycommittee.org CNAME .
-*.ixl.potomacriversafetycommittee.org CNAME .
 doh.powerdns.org CNAME .
 *.doh.powerdns.org CNAME .
 pproxy.org CNAME .
@@ -9886,8 +9872,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -10612,8 +10596,6 @@ pankvyh.xyz CNAME .
 *.pankvyh.xyz CNAME .
 panmill.xyz CNAME .
 *.panmill.xyz CNAME .
-panskeet.xyz CNAME .
-*.panskeet.xyz CNAME .
 pantavv.xyz CNAME .
 *.pantavv.xyz CNAME .
 pantoto.xyz CNAME .
