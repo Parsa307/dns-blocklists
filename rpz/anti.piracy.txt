@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755284580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755317340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Aug 2025 19:03 UTC
-; Version: 2025.0815.1903.20
+; Last modified: 16 Aug 2025 04:09 UTC
+; Version: 2025.0816.0409.18
 ; Syntax: RPZ
-; Number of entries: 20708
+; Number of entries: 20706
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -115,8 +115,6 @@ boerse.am CNAME .
 *.boerse.am CNAME .
 cine.do.am CNAME .
 *.cine.do.am CNAME .
-kat.am CNAME .
-*.kat.am CNAME .
 kinox.am CNAME .
 *.kinox.am CNAME .
 mamul.am CNAME .
@@ -4927,8 +4925,6 @@ liteapke.com CNAME .
 *.liteapke.com CNAME .
 liteapks.com CNAME .
 *.liteapks.com CNAME .
-live-kooora.com CNAME .
-*.live-kooora.com CNAME .
 live-kooora-tv.com CNAME .
 *.live-kooora-tv.com CNAME .
 livepirate.com CNAME .
@@ -7795,6 +7791,8 @@ streamingcommunity.credit CNAME .
 *.streamingcommunity.credit CNAME .
 crichd.cricket CNAME .
 *.crichd.cricket CNAME .
+tracker.startwork.cv CNAME .
+*.tracker.startwork.cv CNAME .
 allin1.cx CNAME .
 *.allin1.cx CNAME .
 altadefinizione.cx CNAME .
@@ -10049,8 +10047,6 @@ istole.it CNAME .
 *.istole.it CNAME .
 isuggeriti.it CNAME .
 *.isuggeriti.it CNAME .
-tracker.justseed.it CNAME .
-*.tracker.justseed.it CNAME .
 live-sport-tv.it CNAME .
 *.live-sport-tv.it CNAME .
 myflixer.it CNAME .
@@ -11205,8 +11201,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .
@@ -14593,6 +14587,8 @@ torrent.eu.org CNAME .
 *.2.tracker.eu.org CNAME .
 3.tracker.eu.org CNAME .
 *.3.tracker.eu.org CNAME .
+4.tracker.eu.org CNAME .
+*.4.tracker.eu.org CNAME .
 everythingmoe.org CNAME .
 *.everythingmoe.org CNAME .
 evopt.org CNAME .
@@ -17711,6 +17707,8 @@ yts.st CNAME .
 *.yts.st CNAME .
 androeed.store CNAME .
 *.androeed.store CNAME .
+tracker.cloudbase.store CNAME .
+*.tracker.cloudbase.store CNAME .
 eurostreaming.store CNAME .
 *.eurostreaming.store CNAME .
 guardaserie.store CNAME .

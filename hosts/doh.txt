@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2025 00:35 UTC
-# Version: 2025.0816.0035.43
+# Last modified: 16 Aug 2025 04:14 UTC
+# Version: 2025.0816.0414.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1597
+# Number of entries: 1596
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -809,7 +809,6 @@
 0.0.0.0 www.jabber-germany.de
 0.0.0.0 jackyes.ovh
 0.0.0.0 tj.jamesxue.xyz
-0.0.0.0 dns.janl.eu
 0.0.0.0 jcdns.fun
 0.0.0.0 doh.jeroenhd.nl
 0.0.0.0 adguard.jfchenier.ca

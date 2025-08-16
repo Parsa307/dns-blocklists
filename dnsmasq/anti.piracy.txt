@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Aug 2025 19:03 UTC
-# Version: 2025.0815.1903.20
+# Last modified: 16 Aug 2025 04:09 UTC
+# Version: 2025.0816.0409.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10354
+# Number of entries: 10353
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1964,6 +1964,7 @@ local=/clipconverter.cc/
 local=/clipmovie.org/
 local=/clonebits.org/
 local=/clonehub.org/
+local=/tracker.cloudbase.store/
 local=/cloudboxes.io/
 local=/cloudtorrents.com/
 local=/cloudvideo.tv/
@@ -2992,6 +2993,7 @@ local=/torrentz.eu.com/
 local=/1.tracker.eu.org/
 local=/2.tracker.eu.org/
 local=/3.tracker.eu.org/
+local=/4.tracker.eu.org/
 local=/euro2024direct.ru/
 local=/euroddl.com/
 local=/euroemu.net/
@@ -4820,7 +4822,6 @@ local=/juraganfilm.xyz/
 local=/jurnal-portal.ru/
 local=/justdubs.org/
 local=/justinwb.com/
-local=/tracker.justseed.it/
 local=/juststream.mom/
 local=/jutone.com/
 local=/blog.jxzmz.org/
@@ -4841,7 +4842,6 @@ local=/karagarga.net/
 local=/karanpc.com/
 local=/karsannet.com/
 local=/kastatus.com/
-local=/kat.am/
 local=/kat.li/
 local=/kat.ph/
 local=/kat.rip/
@@ -5229,7 +5229,6 @@ local=/smart.lionsmart.cc/
 local=/liteapke.com/
 local=/liteapks.com/
 local=/liteapks.mobi/
-local=/live-kooora.com/
 local=/live-kooora-tv.com/
 local=/live-kooora-tv.net/
 local=/live-koora.online/
@@ -8059,6 +8058,7 @@ local=/starsddl.me/
 local=/starshare.ro/
 local=/startseite.cc/
 local=/startseite.to/
+local=/tracker.startwork.cv/
 local=/stealth.si/
 local=/steam-repacks.com/
 local=/steamgg.net/
@@ -8337,7 +8337,6 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
-local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/

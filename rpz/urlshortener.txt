@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755284520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755312120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Aug 2025 19:02 UTC
-; Version: 2025.0815.1902.59
+; Last modified: 16 Aug 2025 02:42 UTC
+; Version: 2025.0816.0242.22
 ; Syntax: RPZ
-; Number of entries: 9728
+; Number of entries: 9722
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -682,8 +682,6 @@ hideout.cc CNAME .
 *.hideout.cc CNAME .
 hlink.cc CNAME .
 *.hlink.cc CNAME .
-ifnews.cc CNAME .
-*.ifnews.cc CNAME .
 ijg.cc CNAME .
 *.ijg.cc CNAME .
 j2c.cc CNAME .
@@ -1238,8 +1236,6 @@ kfrc.co CNAME .
 *.kfrc.co CNAME .
 khan.co CNAME .
 *.khan.co CNAME .
-kiacat.co CNAME .
-*.kiacat.co CNAME .
 kirr.co CNAME .
 *.kirr.co CNAME .
 l138.co CNAME .
@@ -1540,6 +1536,8 @@ has.coffee CNAME .
 *.0s0.com CNAME .
 11ixcco.com CNAME .
 *.11ixcco.com CNAME .
+19081.com CNAME .
+*.19081.com CNAME .
 1bitspace.com CNAME .
 *.1bitspace.com CNAME .
 1dietplans.com CNAME .
@@ -2412,6 +2410,8 @@ onion.com CNAME .
 *.onion.com CNAME .
 opent2.com CNAME .
 *.opent2.com CNAME .
+osexuw.com CNAME .
+*.osexuw.com CNAME .
 oslash.com CNAME .
 *.oslash.com CNAME .
 paperspeedy.com CNAME .
@@ -2854,6 +2854,8 @@ try2link.com CNAME .
 *.try2link.com CNAME .
 trymongodb.com CNAME .
 *.trymongodb.com CNAME .
+ttbad.com CNAME .
+*.ttbad.com CNAME .
 ttrewards.com CNAME .
 *.ttrewards.com CNAME .
 turboagram.com CNAME .
@@ -4182,8 +4184,6 @@ gettr.im CNAME .
 *.gettr.im CNAME .
 iii.im CNAME .
 *.iii.im CNAME .
-itm.im CNAME .
-*.itm.im CNAME .
 ity.im CNAME .
 *.ity.im CNAME .
 l24.im CNAME .
@@ -4342,8 +4342,6 @@ ilix.in CNAME .
 *.ilix.in CNAME .
 invy.in CNAME .
 *.invy.in CNAME .
-itiny.in CNAME .
-*.itiny.in CNAME .
 itiy.in CNAME .
 *.itiy.in CNAME .
 itly.in CNAME .
@@ -4648,8 +4646,6 @@ hil.ink CNAME .
 *.hil.ink CNAME .
 iql.ink CNAME .
 *.iql.ink CNAME .
-kilat.ink CNAME .
-*.kilat.ink CNAME .
 lionl.ink CNAME .
 *.lionl.ink CNAME .
 makemyl.ink CNAME .
@@ -5494,8 +5490,6 @@ hoakhanh.life CNAME .
 *.hoakhanh.life CNAME .
 insdr.life CNAME .
 *.insdr.life CNAME .
-instagramaf.life CNAME .
-*.instagramaf.life CNAME .
 iyc.life CNAME .
 *.iyc.life CNAME .
 kerang.life CNAME .
@@ -5654,6 +5648,8 @@ gek.link CNAME .
 *.gek.link CNAME .
 gemy.link CNAME .
 *.gemy.link CNAME .
+ggilfz.link CNAME .
+*.ggilfz.link CNAME .
 ggl.link CNAME .
 *.ggl.link CNAME .
 gosm.link CNAME .
@@ -5928,8 +5924,6 @@ jamesastaten.live CNAME .
 *.jamesastaten.live CNAME .
 jxxl.live CNAME .
 *.jxxl.live CNAME .
-kajtech.live CNAME .
-*.kajtech.live CNAME .
 lilyfreeonlyfans.live CNAME .
 *.lilyfreeonlyfans.live CNAME .
 limiteds.live CNAME .
@@ -6196,8 +6190,6 @@ hubs.ly CNAME .
 *.hubs.ly CNAME .
 ibit.ly CNAME .
 *.ibit.ly CNAME .
-inshort.ly CNAME .
-*.inshort.ly CNAME .
 intel.ly CNAME .
 *.intel.ly CNAME .
 ionos.ly CNAME .
@@ -6940,8 +6932,6 @@ jo.my CNAME .
 *.jo.my CNAME .
 latingram.my CNAME .
 *.latingram.my CNAME .
-lick.my CNAME .
-*.lick.my CNAME .
 ly.my CNAME .
 *.ly.my CNAME .
 make.my CNAME .
@@ -7520,6 +7510,8 @@ jomblo.org CNAME .
 *.jomblo.org CNAME .
 kf.org CNAME .
 *.kf.org CNAME .
+kgayz.org CNAME .
+*.kgayz.org CNAME .
 kisaurl.org CNAME .
 *.kisaurl.org CNAME .
 kp.org CNAME .
@@ -7810,8 +7802,6 @@ linkaku.pro CNAME .
 *.linkaku.pro CNAME .
 linkasli.pro CNAME .
 *.linkasli.pro CNAME .
-linkcloaker.pro CNAME .
-*.linkcloaker.pro CNAME .
 linkshare.pro CNAME .
 *.linkshare.pro CNAME .
 loginmaxwin.pro CNAME .
@@ -8178,6 +8168,8 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
+ggayt.sbs CNAME .
+*.ggayt.sbs CNAME .
 lgay.sbs CNAME .
 *.lgay.sbs CNAME .
 livemu.sc CNAME .
@@ -8622,6 +8614,8 @@ kkc.tech CNAME .
 *.kkc.tech CNAME .
 myaz.tech CNAME .
 *.myaz.tech CNAME .
+mymilf.tech CNAME .
+*.mymilf.tech CNAME .
 sharem.tech CNAME .
 *.sharem.tech CNAME .
 thenews24h.tech CNAME .

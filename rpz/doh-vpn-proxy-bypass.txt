@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755284460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755317700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Aug 2025 19:01 UTC
-; Version: 2025.0815.1901.38
+; Last modified: 16 Aug 2025 04:15 UTC
+; Version: 2025.0816.0415.01
 ; Syntax: RPZ
-; Number of entries: 10776
+; Number of entries: 10746
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -418,8 +418,6 @@ adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
 base.train.kdits.ca CNAME .
 *.base.train.kdits.ca CNAME .
-classroom.google.com.l5.ca CNAME .
-*.classroom.google.com.l5.ca CNAME .
 docs.google.l5.ca CNAME .
 *.docs.google.l5.ca CNAME .
 quesosrammerhaha.l5.ca CNAME .
@@ -1638,8 +1636,6 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2070,8 +2066,6 @@ hoxx.com CNAME .
 *.hoxx.com CNAME .
 hsselite.com CNAME .
 *.hsselite.com CNAME .
-task.edu.hueteinterpreting.com CNAME .
-*.task.edu.hueteinterpreting.com CNAME .
 ads.hunga1k47.com CNAME .
 *.ads.hunga1k47.com CNAME .
 doth.huque.com CNAME .
@@ -2102,8 +2096,6 @@ idcloak.com CNAME .
 *.idcloak.com CNAME .
 idealvpn.com CNAME .
 *.idealvpn.com CNAME .
-class.recap.idiaga.com CNAME .
-*.class.recap.idiaga.com CNAME .
 idolproxy.com CNAME .
 *.idolproxy.com CNAME .
 heb1.ignorelist.com CNAME .
@@ -2174,8 +2166,6 @@ pp.hamburger.ip-ddns.com CNAME .
 *.pp.hamburger.ip-ddns.com CNAME .
 skibidi-rizz-gyatt-fanum-tax-sigma.hamburger.ip-ddns.com CNAME .
 *.skibidi-rizz-gyatt-fanum-tax-sigma.hamburger.ip-ddns.com CNAME .
-real.facts.ipachuca.com CNAME .
-*.real.facts.ipachuca.com CNAME .
 ipcamouflage.com CNAME .
 *.ipcamouflage.com CNAME .
 ipchanging.com CNAME .
@@ -2230,8 +2220,6 @@ iwantproxy.com CNAME .
 *.iwantproxy.com CNAME .
 iwebproxy.com CNAME .
 *.iwebproxy.com CNAME .
-cells.school.jaaax.com CNAME .
-*.cells.school.jaaax.com CNAME .
 jagoanssh.com CNAME .
 *.jagoanssh.com CNAME .
 transit.javierblog.com CNAME .
@@ -2264,8 +2252,6 @@ cmms.jumpingcrab.com CNAME .
 *.cmms.jumpingcrab.com CNAME .
 everyonewantstocrackshawnp.jumpingcrab.com CNAME .
 *.everyonewantstocrackshawnp.jumpingcrab.com CNAME .
-ikmyabcs.jumpingcrab.com CNAME .
-*.ikmyabcs.jumpingcrab.com CNAME .
 mathissofun.jumpingcrab.com CNAME .
 *.mathissofun.jumpingcrab.com CNAME .
 study-history.jumpingcrab.com CNAME .
@@ -2390,8 +2376,6 @@ localtonet.com CNAME .
 *.localtonet.com CNAME .
 locaproxy.com CNAME .
 *.locaproxy.com CNAME .
-pbs.lookids.com CNAME .
-*.pbs.lookids.com CNAME .
 lopana.com CNAME .
 *.lopana.com CNAME .
 bolt.louis-ip.com CNAME .
@@ -5660,10 +5644,6 @@ korzhov.dev CNAME .
 *.korzhov.dev CNAME .
 adblock.krctech.dev CNAME .
 *.adblock.krctech.dev CNAME .
-testlinkimadernyoufatbitc.letz.dev CNAME .
-*.testlinkimadernyoufatbitc.letz.dev CNAME .
-verynicewebsite.letz.dev CNAME .
-*.verynicewebsite.letz.dev CNAME .
 dns.mandre.dev CNAME .
 *.dns.mandre.dev CNAME .
 dns.molinero.dev CNAME .
@@ -5706,8 +5686,6 @@ mabuktogel.directory CNAME .
 *.mabuktogel.directory CNAME .
 polisitogel.diy CNAME .
 *.polisitogel.diy CNAME .
-narp.fr.to.joe.dj CNAME .
-*.narp.fr.to.joe.dj CNAME .
 anycast.censurfridns.dk CNAME .
 *.anycast.censurfridns.dk CNAME .
 unicast.censurfridns.dk CNAME .
@@ -5800,8 +5778,6 @@ sm6.jake.eu CNAME .
 *.sm6.jake.eu CNAME .
 tesutorender.jake.eu CNAME .
 *.tesutorender.jake.eu CNAME .
-dns.janl.eu CNAME .
-*.dns.janl.eu CNAME .
 dns.jiyi.eu CNAME .
 *.dns.jiyi.eu CNAME .
 child.joindns4.eu CNAME .
@@ -6882,6 +6858,8 @@ proxyduke.lol CNAME .
 *.proxyduke.lol CNAME .
 quic.lol CNAME .
 *.quic.lol CNAME .
+siteunblocked.lol CNAME .
+*.siteunblocked.lol CNAME .
 themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
 *.themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
 theproxy.lol CNAME .
@@ -7790,8 +7768,6 @@ pdns.itxe.net CNAME .
 *.pdns.itxe.net CNAME .
 ivpn.net CNAME .
 *.ivpn.net CNAME .
-music.theory.ivyu.net CNAME .
-*.music.theory.ivyu.net CNAME .
 iweb365.net CNAME .
 *.iweb365.net CNAME .
 sso.jaaax.net CNAME .
@@ -7802,8 +7778,6 @@ jailbreaked.net CNAME .
 *.jailbreaked.net CNAME .
 block-if-your-gay.jharrigan.net CNAME .
 *.block-if-your-gay.jharrigan.net CNAME .
-info.data.jksol.net CNAME .
-*.info.data.jksol.net CNAME .
 green2.jnraptor.net CNAME .
 *.green2.jnraptor.net CNAME .
 vps1.jnraptor.net CNAME .
@@ -7838,8 +7812,6 @@ dns.liberador.net CNAME .
 *.dns.liberador.net CNAME .
 libertyvpn.net CNAME .
 *.libertyvpn.net CNAME .
-theman.lingxi-ai.net CNAME .
-*.theman.lingxi-ai.net CNAME .
 linkmefree.net CNAME .
 *.linkmefree.net CNAME .
 linknet.linkpc.net CNAME .
@@ -9956,6 +9928,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -9976,10 +9950,6 @@ jaiguneeds.root.sx CNAME .
 *.jaiguneeds.root.sx CNAME .
 jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
 *.jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
-seigetime.ix.tc CNAME .
-*.seigetime.ix.tc CNAME .
-tridecagram.ix.tc CNAME .
-*.tridecagram.ix.tc CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
 dns.cybertonic.tech CNAME .
