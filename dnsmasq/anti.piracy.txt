@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2025 04:09 UTC
-# Version: 2025.0816.0409.18
+# Last modified: 16 Aug 2025 08:08 UTC
+# Version: 2025.0816.0808.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10353
+# Number of entries: 10349
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -5501,7 +5501,6 @@ local=/megahfilmeshd.net/
 local=/megakino.bar/
 local=/megakino.bid/
 local=/megakino.bio/
-local=/megakino.biz/
 local=/megakino.co/
 local=/megakino.dev/
 local=/megakino.farm/
@@ -5569,7 +5568,6 @@ local=/mejortorrentt.net/
 local=/mejortorrentt.org/
 local=/melen.net/
 local=/melomaniacos.com/
-local=/melomovie.site/
 local=/merlinwz.com/
 local=/mes-ddl.com/
 local=/mes-meilleurs-films.fr/
@@ -5717,7 +5715,6 @@ local=/moneybag.me/
 local=/monflix.rip/
 local=/tracker.monikadesign.uk/
 local=/tracker.monitorit4.me/
-local=/monkeystream.net/
 local=/monlive.info/
 local=/zephir.monocul.us/
 local=/mononoke-bt.org/
@@ -5891,7 +5888,6 @@ local=/mp3-juice.icu/
 local=/mp3-juice.org/
 local=/mp3-juices.net/
 local=/mp3-juices.ws/
-local=/mp3000.net/
 local=/mp3db.pro/
 local=/mp3fast.online/
 local=/mp3flac.site/

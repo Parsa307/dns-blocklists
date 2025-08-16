@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755317700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755331980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Aug 2025 04:15 UTC
-; Version: 2025.0816.0415.01
+; Last modified: 16 Aug 2025 08:13 UTC
+; Version: 2025.0816.0813.17
 ; Syntax: RPZ
-; Number of entries: 10746
+; Number of entries: 10730
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1636,6 +1636,8 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2380,10 +2382,6 @@ lopana.com CNAME .
 *.lopana.com CNAME .
 bolt.louis-ip.com CNAME .
 *.bolt.louis-ip.com CNAME .
-koolaid.lozan.com CNAME .
-*.koolaid.lozan.com CNAME .
-worldwaronehistory.lozan.com CNAME .
-*.worldwaronehistory.lozan.com CNAME .
 n5.lsasss.com CNAME .
 *.n5.lsasss.com CNAME .
 dns.luma-medien.com CNAME .
@@ -2398,8 +2396,6 @@ mainprox.com CNAME .
 *.mainprox.com CNAME .
 mainssh.com CNAME .
 *.mainssh.com CNAME .
-course.quiz.makovecz.com CNAME .
-*.course.quiz.makovecz.com CNAME .
 mallocapp.com CNAME .
 *.mallocapp.com CNAME .
 mallocprivacy.com CNAME .
@@ -2448,8 +2444,6 @@ support.meicosoft.com CNAME .
 *.support.meicosoft.com CNAME .
 httpdns.meituan.com CNAME .
 *.httpdns.meituan.com CNAME .
-recap.utopia.menorahscrazyblog.com CNAME .
-*.recap.utopia.menorahscrazyblog.com CNAME .
 info.metropolitanstaffingsolutions.com CNAME .
 *.info.metropolitanstaffingsolutions.com CNAME .
 mindblown.michaelfoody.com CNAME .
@@ -2468,8 +2462,6 @@ insta.minecraftnoob.com CNAME .
 *.insta.minecraftnoob.com CNAME .
 nibba.minecraftnoob.com CNAME .
 *.nibba.minecraftnoob.com CNAME .
-sigmagoongoonbaby.minecraftnoob.com CNAME .
-*.sigmagoongoonbaby.minecraftnoob.com CNAME .
 miniprox.com CNAME .
 *.miniprox.com CNAME .
 doh.mmmalia.com CNAME .
@@ -2502,8 +2494,6 @@ movieproxy.com CNAME .
 *.movieproxy.com CNAME .
 moyazyinomoyasi.com CNAME .
 *.moyazyinomoyasi.com CNAME .
-atom.bio.mrlewburger.com CNAME .
-*.atom.bio.mrlewburger.com CNAME .
 msr177.com CNAME .
 *.msr177.com CNAME .
 mtagprox.com CNAME .
@@ -2512,8 +2502,6 @@ ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
 muchproxy.com CNAME .
 *.muchproxy.com CNAME .
-sci.brain.musictherapyinscotland.com CNAME .
-*.sci.brain.musictherapyinscotland.com CNAME .
 ssl-proxy.my-addr.com CNAME .
 *.ssl-proxy.my-addr.com CNAME .
 my-proxy.com CNAME .
@@ -2558,6 +2546,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -6774,8 +6764,6 @@ njal.la CNAME .
 *.njal.la CNAME .
 proxify.la CNAME .
 *.proxify.la CNAME .
-math.minetest.land CNAME .
-*.math.minetest.land CNAME .
 lol.skibiditoi.lat CNAME .
 *.lol.skibiditoi.lat CNAME .
 vpn.lat CNAME .
@@ -7832,8 +7820,6 @@ magiccloak.net CNAME .
 *.magiccloak.net CNAME .
 dns.marbledfennec.net CNAME .
 *.dns.marbledfennec.net CNAME .
-sage.know.massloading.net CNAME .
-*.sage.know.massloading.net CNAME .
 gomkey.meexpress.net CNAME .
 *.gomkey.meexpress.net CNAME .
 megaproxylist.net CNAME .
@@ -8884,8 +8870,6 @@ doh.phdns5.lonet.org CNAME .
 *.doh.phdns5.lonet.org CNAME .
 edu.loskks.org CNAME .
 *.edu.loskks.org CNAME .
-wiki.manica.org CNAME .
-*.wiki.manica.org CNAME .
 matterhero.org CNAME .
 *.matterhero.org CNAME .
 mehide.org CNAME .

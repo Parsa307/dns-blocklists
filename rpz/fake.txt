@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755312000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755326400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Aug 2025 02:40 UTC
-; Version: 2025.0816.0240.26
+; Last modified: 16 Aug 2025 06:40 UTC
+; Version: 2025.0816.0640.16
 ; Syntax: RPZ
-; Number of entries: 28418
+; Number of entries: 28414
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -93,6 +93,8 @@ allbirdswien.at CNAME .
 *.allbirdswien.at CNAME .
 allthatjazz.at CNAME .
 *.allthatjazz.at CNAME .
+alohas.at CNAME .
+*.alohas.at CNAME .
 alpenfluss.at CNAME .
 *.alpenfluss.at CNAME .
 alphaleteosterreich.at CNAME .
@@ -109,6 +111,8 @@ apotheken-sicher.at CNAME .
 *.apotheken-sicher.at CNAME .
 ardesign.at CNAME .
 *.ardesign.at CNAME .
+arialscompany.at CNAME .
+*.arialscompany.at CNAME .
 ariat-osterreich.at CNAME .
 *.ariat-osterreich.at CNAME .
 asicsat.at CNAME .
@@ -527,8 +531,6 @@ mein-thermenwartung.at CNAME .
 *.mein-thermenwartung.at CNAME .
 meinautoprofi.at CNAME .
 *.meinautoprofi.at CNAME .
-meindlosterreich.at CNAME .
-*.meindlosterreich.at CNAME .
 meindlschuhe.at CNAME .
 *.meindlschuhe.at CNAME .
 meinehundemarke.at CNAME .
@@ -3671,6 +3673,8 @@ boxcomedy.com CNAME .
 *.boxcomedy.com CNAME .
 boxhandschuhede.com CNAME .
 *.boxhandschuhede.com CNAME .
+boxhero-deutschland.com CNAME .
+*.boxhero-deutschland.com CNAME .
 boxing-us.com CNAME .
 *.boxing-us.com CNAME .
 boxinvesting.com CNAME .
@@ -5995,6 +5999,8 @@ espresso-line.com CNAME .
 *.espresso-line.com CNAME .
 espressomachine-shop.com CNAME .
 *.espressomachine-shop.com CNAME .
+esprithygge.com CNAME .
+*.esprithygge.com CNAME .
 esr-live-germany.com CNAME .
 *.esr-live-germany.com CNAME .
 at.esrlive.com CNAME .
@@ -8223,6 +8229,8 @@ hofer-wien.com CNAME .
 *.hofer-wien.com CNAME .
 hoff-de.com CNAME .
 *.hoff-de.com CNAME .
+hofinger-modehaus.com CNAME .
+*.hofinger-modehaus.com CNAME .
 hofsicherung.com CNAME .
 *.hofsicherung.com CNAME .
 hoiyon.com CNAME .
@@ -8931,6 +8939,8 @@ jewelryvaluable.com CNAME .
 *.jewelryvaluable.com CNAME .
 jgregoryfineart.com CNAME .
 *.jgregoryfineart.com CNAME .
+jiajo.com CNAME .
+*.jiajo.com CNAME .
 jieper.com CNAME .
 *.jieper.com CNAME .
 jingba-support.com CNAME .
@@ -10125,8 +10135,6 @@ machinerypartsmarket.com CNAME .
 *.machinerypartsmarket.com CNAME .
 mackagedenmark.com CNAME .
 *.mackagedenmark.com CNAME .
-mackagefemmeparis.com CNAME .
-*.mackagefemmeparis.com CNAME .
 mackageireland.com CNAME .
 *.mackageireland.com CNAME .
 mackagejacketcanada.com CNAME .
@@ -10487,6 +10495,8 @@ meinenamenskette.com CNAME .
 *.meinenamenskette.com CNAME .
 meinenaugenhelfen.com CNAME .
 *.meinenaugenhelfen.com CNAME .
+meinesafebox.com CNAME .
+*.meinesafebox.com CNAME .
 meinmodellshop.com CNAME .
 *.meinmodellshop.com CNAME .
 meinsmartshop.com CNAME .
@@ -10699,8 +10709,6 @@ mkc-invest.com CNAME .
 *.mkc-invest.com CNAME .
 mlbhungary.com CNAME .
 *.mlbhungary.com CNAME .
-mldtb.com CNAME .
-*.mldtb.com CNAME .
 mmc-serv.com CNAME .
 *.mmc-serv.com CNAME .
 mobel-welt.com CNAME .
@@ -10819,8 +10827,6 @@ mondlibe.com CNAME .
 *.mondlibe.com CNAME .
 monecoplus.com CNAME .
 *.monecoplus.com CNAME .
-monespace-uptevia.com CNAME .
-*.monespace-uptevia.com CNAME .
 monfuture.com CNAME .
 *.monfuture.com CNAME .
 monika-taschen.com CNAME .
@@ -10873,8 +10879,6 @@ moongor.com CNAME .
 *.moongor.com CNAME .
 moontod.com CNAME .
 *.moontod.com CNAME .
-moos-butzen-handel.com CNAME .
-*.moos-butzen-handel.com CNAME .
 moriifit.com CNAME .
 *.moriifit.com CNAME .
 mortalvessel.com CNAME .
@@ -20937,6 +20941,8 @@ lemsschuhedeutschland.de CNAME .
 *.lemsschuhedeutschland.de CNAME .
 lena-leipzig.de CNAME .
 *.lena-leipzig.de CNAME .
+lennartkreutz.de CNAME .
+*.lennartkreutz.de CNAME .
 lenshawk.de CNAME .
 *.lenshawk.de CNAME .
 leoapotheke-detmold.de CNAME .
@@ -21163,8 +21169,6 @@ luxnoo.de CNAME .
 *.luxnoo.de CNAME .
 luxosmart.de CNAME .
 *.luxosmart.de CNAME .
-luxus-berlin.de CNAME .
-*.luxus-berlin.de CNAME .
 ma-kaminholz.de CNAME .
 *.ma-kaminholz.de CNAME .
 machineland.de CNAME .
@@ -21541,8 +21545,6 @@ modeschulte.de CNAME .
 *.modeschulte.de CNAME .
 modetrendhaus.de CNAME .
 *.modetrendhaus.de CNAME .
-modewelt-24.de CNAME .
-*.modewelt-24.de CNAME .
 modeweltberlin.de CNAME .
 *.modeweltberlin.de CNAME .
 modioza.de CNAME .
@@ -21581,8 +21583,6 @@ montinariers.de CNAME .
 *.montinariers.de CNAME .
 montivo.de CNAME .
 *.montivo.de CNAME .
-montmode.de CNAME .
-*.montmode.de CNAME .
 monvada.de CNAME .
 *.monvada.de CNAME .
 moodlily.de CNAME .
@@ -21607,8 +21607,6 @@ motorraderhelme.de CNAME .
 *.motorraderhelme.de CNAME .
 motorraders.de CNAME .
 *.motorraders.de CNAME .
-movies-ratings-backend.de CNAME .
-*.movies-ratings-backend.de CNAME .
 moxonline.de CNAME .
 *.moxonline.de CNAME .
 mrfluffyfriend.de CNAME .
@@ -21805,6 +21803,8 @@ nomoya.de CNAME .
 *.nomoya.de CNAME .
 nomra.de CNAME .
 *.nomra.de CNAME .
+nordbag-hamburg.de CNAME .
+*.nordbag-hamburg.de CNAME .
 nordbeinordost.de CNAME .
 *.nordbeinordost.de CNAME .
 nordic-app.de CNAME .
@@ -25327,6 +25327,8 @@ sendrasuomi.net CNAME .
 *.sendrasuomi.net CNAME .
 servicepharmaceutique.net CNAME .
 *.servicepharmaceutique.net CNAME .
+shil.net CNAME .
+*.shil.net CNAME .
 shiloo.net CNAME .
 *.shiloo.net CNAME .
 shop-pharmacie-france.net CNAME .
@@ -26853,8 +26855,6 @@ lourdesocampoe.shop CNAME .
 *.lourdesocampoe.shop CNAME .
 lovemaxet.shop CNAME .
 *.lovemaxet.shop CNAME .
-lqvixaeh.shop CNAME .
-*.lqvixaeh.shop CNAME .
 luamddfaya.shop CNAME .
 *.luamddfaya.shop CNAME .
 lucidtoysdeeur.shop CNAME .
@@ -26895,8 +26895,6 @@ markets24.shop CNAME .
 *.markets24.shop CNAME .
 marlenesparke.shop CNAME .
 *.marlenesparke.shop CNAME .
-marlinyason.shop CNAME .
-*.marlinyason.shop CNAME .
 marpure.shop CNAME .
 *.marpure.shop CNAME .
 marta-paul.shop CNAME .
@@ -27783,8 +27781,6 @@ luxwatch.store CNAME .
 *.luxwatch.store CNAME .
 mans-power.store CNAME .
 *.mans-power.store CNAME .
-marketelectroshop.store CNAME .
-*.marketelectroshop.store CNAME .
 martizz.store CNAME .
 *.martizz.store CNAME .
 mastermoveis.store CNAME .

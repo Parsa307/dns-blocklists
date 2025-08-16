@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2025 04:15 UTC
-# Version: 2025.0816.0415.01
+# Last modified: 16 Aug 2025 08:13 UTC
+# Version: 2025.0816.0813.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5373
+# Number of entries: 5365
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1326,6 +1326,7 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -2325,8 +2326,6 @@ local=/lookingglass.site/
 local=/lopana.com/
 local=/edu.loskks.org/
 local=/bolt.louis-ip.com/
-local=/koolaid.lozan.com/
-local=/worldwaronehistory.lozan.com/
 local=/n5.lsasss.com/
 local=/ltlxvxjjmvhn.me/
 local=/btg.ludopop.cl/
@@ -2362,11 +2361,9 @@ local=/mainprox.com/
 local=/mainssh.com/
 local=/maintainbrain.us/
 local=/dns.maitrekuc.fr/
-local=/course.quiz.makovecz.com/
 local=/mallocapp.com/
 local=/mallocprivacy.com/
 local=/dns.mandre.dev/
-local=/wiki.manica.org/
 local=/dns.maolaohei.xyz/
 local=/mapspublications.us/
 local=/maqgie.xyz/
@@ -2380,7 +2377,6 @@ local=/luh.masgas.cl/
 local=/doh.maskab.com/
 local=/maskedip.com/
 local=/paper.train.massalin.com/
-local=/sage.know.massloading.net/
 local=/master-clock.us/
 local=/masters-of-cloud.de/
 local=/masterssh.com/
@@ -2424,7 +2420,6 @@ local=/support.meicosoft.com/
 local=/httpdns.meituan.com/
 local=/dns.melvin2204.nl/
 local=/membean.cf/
-local=/recap.utopia.menorahscrazyblog.com/
 local=/researchedu.mesaayuda.net/
 local=/testaghome.meshkov.info/
 local=/dns.mestdag.fr/
@@ -2452,8 +2447,6 @@ local=/aiden-major.minecraftnoob.com/
 local=/hihihi.minecraftnoob.com/
 local=/insta.minecraftnoob.com/
 local=/nibba.minecraftnoob.com/
-local=/sigmagoongoonbaby.minecraftnoob.com/
-local=/math.minetest.land/
 local=/dynamitefor.miningsteel.cl/
 local=/lasersfor.miningsteel.cl/
 local=/miniprox.com/
@@ -2498,7 +2491,6 @@ local=/movieproxy.com/
 local=/moyazyinomoyasi.com/
 local=/vpn.mozilla.org/
 local=/dns.mrkaran.dev/
-local=/atom.bio.mrlewburger.com/
 local=/sail.msg.boats/
 local=/msr177.com/
 local=/dns.msxnet.ru/
@@ -2512,7 +2504,6 @@ local=/blockerads.multimediaconcept.fr/
 local=/in.multiverse.college/
 local=/dns.murgi.de/
 local=/this-is-for-wave-bru.music-menges.si/
-local=/sci.brain.musictherapyinscotland.com/
 local=/dns.muxinghe.cn/
 local=/muxyuji.ru/
 local=/d.apemlegit.my.id/
@@ -2574,6 +2565,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

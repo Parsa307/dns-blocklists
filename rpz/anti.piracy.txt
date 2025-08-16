@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755317340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755331680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Aug 2025 04:09 UTC
-; Version: 2025.0816.0409.18
+; Last modified: 16 Aug 2025 08:08 UTC
+; Version: 2025.0816.0808.02
 ; Syntax: RPZ
-; Number of entries: 20706
+; Number of entries: 20698
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -657,8 +657,6 @@ kinozapas.biz CNAME .
 *.kinozapas.biz CNAME .
 lolokino.biz CNAME .
 *.lolokino.biz CNAME .
-megakino.biz CNAME .
-*.megakino.biz CNAME .
 mininova.biz CNAME .
 *.mininova.biz CNAME .
 movies-watch.biz CNAME .
@@ -12677,8 +12675,6 @@ mohmo.net CNAME .
 *.mohmo.net CNAME .
 mojaloss.net CNAME .
 *.mojaloss.net CNAME .
-monkeystream.net CNAME .
-*.monkeystream.net CNAME .
 motorworld.net CNAME .
 *.motorworld.net CNAME .
 moviebazar.net CNAME .
@@ -12721,8 +12717,6 @@ moviz.net CNAME .
 *.moviz.net CNAME .
 mp3-juices.net CNAME .
 *.mp3-juices.net CNAME .
-mp3000.net CNAME .
-*.mp3000.net CNAME .
 mp3fusion.net CNAME .
 *.mp3fusion.net CNAME .
 mp3menu.net CNAME .
@@ -17483,8 +17477,6 @@ tracker.lyretain.site CNAME .
 *.tracker.lyretain.site CNAME .
 m4ckd0ge-repacks.site CNAME .
 *.m4ckd0ge-repacks.site CNAME .
-melomovie.site CNAME .
-*.melomovie.site CNAME .
 mobiletvshows.site CNAME .
 *.mobiletvshows.site CNAME .
 modestme.site CNAME .
