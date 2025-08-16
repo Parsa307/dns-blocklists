@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2025 16:16 UTC
-# Version: 2025.0816.1616.16
+# Last modified: 16 Aug 2025 20:15 UTC
+# Version: 2025.0816.2015.15
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 5343
 #
@@ -1288,6 +1288,7 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1470,6 +1471,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2561,6 +2563,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -3231,7 +3234,6 @@ local=/proxysurfing.org/
 local=/proxythis.info/
 local=/proxytime.net/
 local=/proxytitan.com/
-local=/proxytoplay.com/
 local=/proxyturbo.com/
 local=/proxyunblock.site/
 local=/proxyunblocker.org/
@@ -3258,7 +3260,6 @@ local=/purevpn.fr/
 local=/purevpn-tools.com/
 local=/pushokey.com/
 local=/pushvpn.com/
-local=/jesus-christ-morgan-your-the-bay-harbour-butcher.pwm.hu/
 local=/pxaa.com/
 local=/pyproxy.com/
 local=/doh.pyry.me/
@@ -3321,7 +3322,6 @@ local=/iamsteve.raspberryip.com/
 local=/ixlclever.raspberryip.com/
 local=/rateavon.je/
 local=/ratecuts.us/
-local=/read.coach.ratnikov.com/
 local=/dns.rayanbab.com/
 local=/rayneau.fr/
 local=/rayobyte.com/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2025 16:10 UTC
-# Version: 2025.0816.1610.40
+# Last modified: 16 Aug 2025 20:09 UTC
+# Version: 2025.0816.2009.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10340
+# Number of entries: 10335
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -6984,7 +6984,6 @@ local=/tpb.proxyduck.com/
 local=/tpb.proxyduck.info/
 local=/thepiratebay-org.proxydude.red/
 local=/thepiratebay-org.proxydude.xyz/
-local=/proxygalaxy.me/
 local=/proxygalaxy.pw/
 local=/proxyindex.net/
 local=/proxypirate.ml/
@@ -7044,7 +7043,6 @@ local=/putlocker.com/
 local=/putlocker.digital/
 local=/putlocker.fyi/
 local=/putlocker.host/
-local=/putlocker.how/
 local=/putlocker.io/
 local=/putlocker.is/
 local=/putlocker.kz/
@@ -7186,9 +7184,9 @@ local=/rarbg.com/
 local=/rarbg.gg/
 local=/rarbg.is/
 local=/rarbg.live/
-local=/rarbg.me/
 local=/rarbg.to/
 local=/rarbg.tw/
+local=/9.rarbg.me/
 local=/rarbg2018.org/
 local=/rarbg2019.org/
 local=/rarbg2020.org/
@@ -7380,19 +7378,16 @@ local=/rojadirecta.watch/
 local=/rojadirectaenhd.live/
 local=/rojadirectaenvivo.club/
 local=/rojadirectaenvivo.com/
-local=/rojadirectaenvivo.life/
 local=/rojadirectaenvivo.watch/
 local=/rojadirectaenvivotv.me/
 local=/rojadirectaes.org/
 local=/rojadirectahd.online/
-local=/rojadirectahdenvivo.com/
 local=/rojadirectai.me/
 local=/rojadirectaorg.com/
 local=/rojadirectas.org/
 local=/rojadirectatv.at/
 local=/rojadirectatv.top/
 local=/rojadirectatv.tv/
-local=/rojadirectatv.uno/
 local=/rojadirectatvhd.me/
 local=/rojadirectatvhd.site/
 local=/rojadirectatvs.com/

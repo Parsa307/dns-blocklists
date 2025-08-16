@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755360960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755375300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Aug 2025 16:16 UTC
-; Version: 2025.0816.1616.16
+; Last modified: 16 Aug 2025 20:15 UTC
+; Version: 2025.0816.2015.15
 ; Syntax: RPZ
 ; Number of entries: 10686
 ;
@@ -2544,6 +2544,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -2984,8 +2986,6 @@ proxysneak.com CNAME .
 *.proxysneak.com CNAME .
 proxytitan.com CNAME .
 *.proxytitan.com CNAME .
-proxytoplay.com CNAME .
-*.proxytoplay.com CNAME .
 proxyturbo.com CNAME .
 *.proxyturbo.com CNAME .
 proxyvpnserver.com CNAME .
@@ -3056,8 +3056,6 @@ iamsteve.raspberryip.com CNAME .
 *.iamsteve.raspberryip.com CNAME .
 ixlclever.raspberryip.com CNAME .
 *.ixlclever.raspberryip.com CNAME .
-read.coach.ratnikov.com CNAME .
-*.read.coach.ratnikov.com CNAME .
 dns.rayanbab.com CNAME .
 *.dns.rayanbab.com CNAME .
 rayobyte.com CNAME .
@@ -6038,8 +6036,6 @@ easydomain.dnet.hu CNAME .
 *.easydomain.dnet.hu CNAME .
 fractioncaculator.govt.hu CNAME .
 *.fractioncaculator.govt.hu CNAME .
-jesus-christ-morgan-your-the-bay-harbour-butcher.pwm.hu CNAME .
-*.jesus-christ-morgan-your-the-bay-harbour-butcher.pwm.hu CNAME .
 dns.0ooo.icu CNAME .
 *.dns.0ooo.icu CNAME .
 datatech.icu CNAME .
@@ -7550,6 +7546,8 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -9872,6 +9870,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

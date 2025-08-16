@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755360600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755374940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Aug 2025 16:10 UTC
-; Version: 2025.0816.1610.40
+; Last modified: 16 Aug 2025 20:09 UTC
+; Version: 2025.0816.2009.39
 ; Syntax: RPZ
-; Number of entries: 20680
+; Number of entries: 20670
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -6111,8 +6111,6 @@ rojacalcio.com CNAME .
 *.rojacalcio.com CNAME .
 rojadirectaenvivo.com CNAME .
 *.rojadirectaenvivo.com CNAME .
-rojadirectahdenvivo.com CNAME .
-*.rojadirectahdenvivo.com CNAME .
 rojadirectaorg.com CNAME .
 *.rojadirectaorg.com CNAME .
 rojadirectatvs.com CNAME .
@@ -8943,8 +8941,6 @@ putlocker.host CNAME .
 *.1tamilblasters.how CNAME .
 megakino.how CNAME .
 *.megakino.how CNAME .
-putlocker.how CNAME .
-*.putlocker.how CNAME .
 eztv.unblocked.how CNAME .
 *.eztv.unblocked.how CNAME .
 newalbumreleases.unblockit.how CNAME .
@@ -10245,8 +10241,6 @@ moviesjoy.life CNAME .
 *.moviesjoy.life CNAME .
 piratebay.life CNAME .
 *.piratebay.life CNAME .
-rojadirectaenvivo.life CNAME .
-*.rojadirectaenvivo.life CNAME .
 serien.life CNAME .
 *.serien.life CNAME .
 seriesflix.life CNAME .
@@ -11113,16 +11107,14 @@ premiumize.me CNAME .
 *.premiumize.me CNAME .
 primeflix-web.me CNAME .
 *.primeflix-web.me CNAME .
-proxygalaxy.me CNAME .
-*.proxygalaxy.me CNAME .
 putlocker.me CNAME .
 *.putlocker.me CNAME .
 putlocker123.me CNAME .
 *.putlocker123.me CNAME .
 qatarstreams.me CNAME .
 *.qatarstreams.me CNAME .
-rarbg.me CNAME .
-*.rarbg.me CNAME .
+9.rarbg.me CNAME .
+*.9.rarbg.me CNAME .
 repack.me CNAME .
 *.repack.me CNAME .
 tracker.revolutiontt.me CNAME .
@@ -19467,8 +19459,6 @@ filmsenzalimiti.uno CNAME .
 *.filmsenzalimiti.uno CNAME .
 gomovies.uno CNAME .
 *.gomovies.uno CNAME .
-rojadirectatv.uno CNAME .
-*.rojadirectatv.uno CNAME .
 seehd.uno CNAME .
 *.seehd.uno CNAME .
 tantifilm.uno CNAME .
