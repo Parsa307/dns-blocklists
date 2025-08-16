@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2025 08:13 UTC
-# Version: 2025.0816.0813.17
+# Last modified: 16 Aug 2025 12:21 UTC
+# Version: 2025.0816.1221.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5365
+# Number of entries: 5352
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1326,7 +1326,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -2519,7 +2518,6 @@ local=/ssl-proxy.my-addr.com/
 local=/my-proxy.com/
 local=/my-safe-net.com/
 local=/myatris.sbs/
-local=/mybestvpn.info/
 local=/mycelium.site/
 local=/1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com/
 local=/abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com/
@@ -2536,7 +2534,6 @@ local=/adblock.mydns.network/
 local=/family.mydns.network/
 local=/freedom.mydns.network/
 local=/paranoia.mydns.network/
-local=/notes.church.myezlife.com/
 local=/myhalo.online/
 local=/myhidden.info/
 local=/newhomeowners.org.myhousesetup.com/
@@ -2565,11 +2562,8 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
-local=/n0.eu/
 local=/dns.n23.io/
-local=/study.sci.nabim.com/
 local=/doh-ca.naftalie.net/
 local=/najiakeji.top/
 local=/dns.nako.kr/
@@ -2626,7 +2620,6 @@ local=/dns.neeb.it/
 local=/arain.neighborhoodcloud.com/
 local=/z-brokethescaler.neighborhoodcloud.com/
 local=/nekoray.org/
-local=/smart.quiz.nelsonshack.com/
 local=/neonos.me/
 local=/dns.aa.net.uk/
 local=/doh.max.net.id/
@@ -2715,10 +2708,8 @@ local=/notapr0xy.com/
 local=/easyschool.notesninjas.com/
 local=/dns.notjakob.com/
 local=/notlong.com/
-local=/login.howto.notredamearena.com/
 local=/notvpn.io/
 local=/amp.nov.su/
-local=/gov.major.novacorp.com/
 local=/dns.novali.date/
 local=/novatech.fun/
 local=/dns.novg.net/
@@ -2730,8 +2721,6 @@ local=/dns.npe.bz/
 local=/dns.npsolution.it/
 local=/nqma.net/
 local=/ns3.com/
-local=/ns3.cx/
-local=/ns3.link/
 local=/dnscache0.ns71.net/
 local=/ns8469rfvth42.xyz/
 local=/nslookup.io/
@@ -2741,7 +2730,6 @@ local=/kind-bear-286.nstabiology.org/
 local=/quick-tiger-997.nstabiology.org/
 local=/nsv4w.com/
 local=/ntwrkh.pro/
-local=/tech.vocab.nucktech.com/
 local=/nucleusvpn.com/
 local=/dns.nullgate.net/
 local=/nullsbrawly.xyz/
@@ -2810,7 +2798,6 @@ local=/onlineproxy.io/
 local=/onlineproxy.us/
 local=/adguard.onlyfriends.info/
 local=/fun.onlytruelegendscanseethe.pics/
-local=/espanolmath.ontariobsd.net/
 local=/onweb.info/
 local=/onyx7.com/
 local=/rammerhead.oops.wtf/

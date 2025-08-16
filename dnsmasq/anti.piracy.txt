@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2025 08:08 UTC
-# Version: 2025.0816.0808.02
+# Last modified: 16 Aug 2025 12:15 UTC
+# Version: 2025.0816.1215.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10349
+# Number of entries: 10347
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -6288,7 +6288,6 @@ local=/nopay.info/
 local=/nopaystation.com/
 local=/nopremium.pl/
 local=/nordic-t.org/
-local=/nordicbits.org/
 local=/nordicone.tv/
 local=/nortex.cc/
 local=/nosteamgames.ro/
@@ -6314,7 +6313,6 @@ local=/nowvideo.ch/
 local=/nox.to/
 local=/nox.tv/
 local=/noxe.live/
-local=/noxx.is/
 local=/noxx.to/
 local=/tracker.npupt.com/
 local=/nsanedown.com/

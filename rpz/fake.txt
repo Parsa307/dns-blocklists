@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755326400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755340980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Aug 2025 06:40 UTC
-; Version: 2025.0816.0640.16
+; Last modified: 16 Aug 2025 10:43 UTC
+; Version: 2025.0816.1043.57
 ; Syntax: RPZ
-; Number of entries: 28414
+; Number of entries: 28382
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -93,8 +93,6 @@ allbirdswien.at CNAME .
 *.allbirdswien.at CNAME .
 allthatjazz.at CNAME .
 *.allthatjazz.at CNAME .
-alohas.at CNAME .
-*.alohas.at CNAME .
 alpenfluss.at CNAME .
 *.alpenfluss.at CNAME .
 alphaleteosterreich.at CNAME .
@@ -111,8 +109,6 @@ apotheken-sicher.at CNAME .
 *.apotheken-sicher.at CNAME .
 ardesign.at CNAME .
 *.ardesign.at CNAME .
-arialscompany.at CNAME .
-*.arialscompany.at CNAME .
 ariat-osterreich.at CNAME .
 *.ariat-osterreich.at CNAME .
 asicsat.at CNAME .
@@ -585,8 +581,6 @@ olukaiosterreich.at CNAME .
 *.olukaiosterreich.at CNAME .
 onaustria.at CNAME .
 *.onaustria.at CNAME .
-oncloud-schuhe.at CNAME .
-*.oncloud-schuhe.at CNAME .
 oncloudschuhe.at CNAME .
 *.oncloudschuhe.at CNAME .
 onitsukatiger.at CNAME .
@@ -3673,8 +3667,6 @@ boxcomedy.com CNAME .
 *.boxcomedy.com CNAME .
 boxhandschuhede.com CNAME .
 *.boxhandschuhede.com CNAME .
-boxhero-deutschland.com CNAME .
-*.boxhero-deutschland.com CNAME .
 boxing-us.com CNAME .
 *.boxing-us.com CNAME .
 boxinvesting.com CNAME .
@@ -5999,8 +5991,6 @@ espresso-line.com CNAME .
 *.espresso-line.com CNAME .
 espressomachine-shop.com CNAME .
 *.espressomachine-shop.com CNAME .
-esprithygge.com CNAME .
-*.esprithygge.com CNAME .
 esr-live-germany.com CNAME .
 *.esr-live-germany.com CNAME .
 at.esrlive.com CNAME .
@@ -8229,8 +8219,6 @@ hofer-wien.com CNAME .
 *.hofer-wien.com CNAME .
 hoff-de.com CNAME .
 *.hoff-de.com CNAME .
-hofinger-modehaus.com CNAME .
-*.hofinger-modehaus.com CNAME .
 hofsicherung.com CNAME .
 *.hofsicherung.com CNAME .
 hoiyon.com CNAME .
@@ -8939,8 +8927,6 @@ jewelryvaluable.com CNAME .
 *.jewelryvaluable.com CNAME .
 jgregoryfineart.com CNAME .
 *.jgregoryfineart.com CNAME .
-jiajo.com CNAME .
-*.jiajo.com CNAME .
 jieper.com CNAME .
 *.jieper.com CNAME .
 jingba-support.com CNAME .
@@ -10495,8 +10481,6 @@ meinenamenskette.com CNAME .
 *.meinenamenskette.com CNAME .
 meinenaugenhelfen.com CNAME .
 *.meinenaugenhelfen.com CNAME .
-meinesafebox.com CNAME .
-*.meinesafebox.com CNAME .
 meinmodellshop.com CNAME .
 *.meinmodellshop.com CNAME .
 meinsmartshop.com CNAME .
@@ -11053,8 +11037,6 @@ springfield.mysellauth.com CNAME .
 *.602a84.myshopify.com CNAME .
 699129.myshopify.com CNAME .
 *.699129.myshopify.com CNAME .
-88-films.myshopify.com CNAME .
-*.88-films.myshopify.com CNAME .
 a64ad4-3.myshopify.com CNAME .
 *.a64ad4-3.myshopify.com CNAME .
 berkshirede.myshopify.com CNAME .
@@ -11843,8 +11825,6 @@ app.onlinelebenslauf.com CNAME .
 *.app.onlinelebenslauf.com CNAME .
 onlinemaripe.com CNAME .
 *.onlinemaripe.com CNAME .
-onlinemotorrad.com CNAME .
-*.onlinemotorrad.com CNAME .
 onlinepharmx.com CNAME .
 *.onlinepharmx.com CNAME .
 onlinepharmz.com CNAME .
@@ -17219,6 +17199,8 @@ yonkine.com CNAME .
 *.yonkine.com CNAME .
 yoocaa.com CNAME .
 *.yoocaa.com CNAME .
+yoohal.com CNAME .
+*.yoohal.com CNAME .
 youngbf.com CNAME .
 *.youngbf.com CNAME .
 yourgiftshopping.com CNAME .
@@ -20481,6 +20463,8 @@ jochen-finanzen.de CNAME .
 *.jochen-finanzen.de CNAME .
 johanns-stiefel.de CNAME .
 *.johanns-stiefel.de CNAME .
+jordankoenig.de CNAME .
+*.jordankoenig.de CNAME .
 josefs-sport.de CNAME .
 *.josefs-sport.de CNAME .
 jsix.de CNAME .
@@ -20941,8 +20925,6 @@ lemsschuhedeutschland.de CNAME .
 *.lemsschuhedeutschland.de CNAME .
 lena-leipzig.de CNAME .
 *.lena-leipzig.de CNAME .
-lennartkreutz.de CNAME .
-*.lennartkreutz.de CNAME .
 lenshawk.de CNAME .
 *.lenshawk.de CNAME .
 leoapotheke-detmold.de CNAME .
@@ -21657,8 +21639,6 @@ my-slide.de CNAME .
 *.my-slide.de CNAME .
 mydailys.de CNAME .
 *.mydailys.de CNAME .
-myfundrock.de CNAME .
-*.myfundrock.de CNAME .
 myfunnysocks.de CNAME .
 *.myfunnysocks.de CNAME .
 mygames-at.de CNAME .
@@ -21803,8 +21783,6 @@ nomoya.de CNAME .
 *.nomoya.de CNAME .
 nomra.de CNAME .
 *.nomra.de CNAME .
-nordbag-hamburg.de CNAME .
-*.nordbag-hamburg.de CNAME .
 nordbeinordost.de CNAME .
 *.nordbeinordost.de CNAME .
 nordic-app.de CNAME .
@@ -21961,8 +21939,6 @@ oppermann-versand.de CNAME .
 *.oppermann-versand.de CNAME .
 opzx.de CNAME .
 *.opzx.de CNAME .
-orba-handel24.de CNAME .
-*.orba-handel24.de CNAME .
 orba24.de CNAME .
 *.orba24.de CNAME .
 oreahome.de CNAME .
@@ -25327,8 +25303,6 @@ sendrasuomi.net CNAME .
 *.sendrasuomi.net CNAME .
 servicepharmaceutique.net CNAME .
 *.servicepharmaceutique.net CNAME .
-shil.net CNAME .
-*.shil.net CNAME .
 shiloo.net CNAME .
 *.shiloo.net CNAME .
 shop-pharmacie-france.net CNAME .
@@ -27001,8 +26975,6 @@ naturkindershopdeeur.shop CNAME .
 *.naturkindershopdeeur.shop CNAME .
 naturkosmetik-werkstattcheap.shop CNAME .
 *.naturkosmetik-werkstattcheap.shop CNAME .
-neoveris.shop CNAME .
-*.neoveris.shop CNAME .
 neowatt.shop CNAME .
 *.neowatt.shop CNAME .
 nerdsaleet.shop CNAME .
@@ -27031,10 +27003,6 @@ nwyarnsoa.shop CNAME .
 *.nwyarnsoa.shop CNAME .
 nzofggwd.shop CNAME .
 *.nzofggwd.shop CNAME .
-obmxaofp.shop CNAME .
-*.obmxaofp.shop CNAME .
-ofcfkbks.shop CNAME .
-*.ofcfkbks.shop CNAME .
 officialrebrand.shop CNAME .
 *.officialrebrand.shop CNAME .
 offizielleprodukte.shop CNAME .

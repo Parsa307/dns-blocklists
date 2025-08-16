@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755331680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755346500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Aug 2025 08:08 UTC
-; Version: 2025.0816.0808.02
+; Last modified: 16 Aug 2025 12:15 UTC
+; Version: 2025.0816.1215.38
 ; Syntax: RPZ
-; Number of entries: 20698
+; Number of entries: 20694
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -9921,8 +9921,6 @@ myflixer.is CNAME .
 *.myflixer.is CNAME .
 nites.is CNAME .
 *.nites.is CNAME .
-noxx.is CNAME .
-*.noxx.is CNAME .
 nzb.is CNAME .
 *.nzb.is CNAME .
 onionplay.is CNAME .
@@ -15119,8 +15117,6 @@ nolatapers.org CNAME .
 *.nolatapers.org CNAME .
 nordic-t.org CNAME .
 *.nordic-t.org CNAME .
-nordicbits.org CNAME .
-*.nordicbits.org CNAME .
 nsw2u.org CNAME .
 *.nsw2u.org CNAME .
 nullclash.org CNAME .

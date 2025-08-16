@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2025 02:42 UTC
-# Version: 2025.0816.0242.22
+# Last modified: 16 Aug 2025 10:45 UTC
+# Version: 2025.0816.1045.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4861
+# Number of entries: 4859
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -2663,7 +2663,6 @@ local=/cbnet.my.id/
 local=/rcx.my.id/
 local=/unp.my.id/
 local=/my-ab.co/
-local=/my-gay.life/
 local=/my-google.live/
 local=/my-link.in/
 local=/myanlink.com/
@@ -2675,7 +2674,6 @@ local=/mycts.app/
 local=/mycts.info/
 local=/myf.mg/
 local=/myfonts.us/
-local=/myfreesex.life/
 local=/myglamm.in/
 local=/myikoniq.info/
 local=/mylinkinb.io/
