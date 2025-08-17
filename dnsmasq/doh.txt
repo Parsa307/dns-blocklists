@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2025 20:14 UTC
-# Version: 2025.0816.2014.50
+# Last modified: 17 Aug 2025 08:10 UTC
+# Version: 2025.0817.0810.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1438
+# Number of entries: 1434
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -26,7 +26,6 @@ local=/doh.30x.me/
 local=/dns.354688.xyz/
 local=/doh.360.cn/
 local=/dot.360.cn/
-local=/3dcosas.xyz/
 local=/3dns.eu/
 local=/3jjxxl.tech/
 local=/dns.3wv.de/
@@ -514,7 +513,6 @@ local=/dns.eddi.net/
 local=/doh.eddi.net/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -558,7 +556,6 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
-local=/dns.fizz.studio/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
 local=/dns01.flm9.net/
@@ -901,7 +898,6 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/

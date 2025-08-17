@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755369840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755412920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Aug 2025 18:44 UTC
-; Version: 2025.0816.1844.48
+; Last modified: 17 Aug 2025 06:42 UTC
+; Version: 2025.0817.0642.20
 ; Syntax: RPZ
-; Number of entries: 9716
+; Number of entries: 9706
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3326,8 +3326,6 @@ tfg2000.de CNAME .
 *.tfg2000.de CNAME .
 tohle.de CNAME .
 *.tohle.de CNAME .
-twiturl.de CNAME .
-*.twiturl.de CNAME .
 u6e.de CNAME .
 *.u6e.de CNAME .
 ukoeln.de CNAME .
@@ -5986,8 +5984,6 @@ unc.live CNAME .
 *.unc.live CNAME .
 vendoagora.live CNAME .
 *.vendoagora.live CNAME .
-videopro.live CNAME .
-*.videopro.live CNAME .
 webprotech.live CNAME .
 *.webprotech.live CNAME .
 webyank4d.live CNAME .
@@ -6662,8 +6658,6 @@ shortna.me CNAME .
 *.shortna.me CNAME .
 shortsfly.me CNAME .
 *.shortsfly.me CNAME .
-shorturls.me CNAME .
-*.shorturls.me CNAME .
 shw.me CNAME .
 *.shw.me CNAME .
 short.silex.me CNAME .
@@ -6688,8 +6682,6 @@ tharp.me CNAME .
 *.tharp.me CNAME .
 thatis.me CNAME .
 *.thatis.me CNAME .
-the-link.me CNAME .
-*.the-link.me CNAME .
 ti.me CNAME .
 *.ti.me CNAME .
 tiny-url.me CNAME .
@@ -7622,8 +7614,6 @@ urlshortner.org CNAME .
 *.urlshortner.org CNAME .
 urlx.org CNAME .
 *.urlx.org CNAME .
-uspsexpress.org CNAME .
-*.uspsexpress.org CNAME .
 go.uumeriden.org CNAME .
 *.go.uumeriden.org CNAME .
 vestil.org CNAME .
