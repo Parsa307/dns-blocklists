@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755475140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755489420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Aug 2025 23:59 UTC
-; Version: 2025.0817.2359.30
+; Last modified: 18 Aug 2025 03:57 UTC
+; Version: 2025.0818.0357.33
 ; Syntax: RPZ
-; Number of entries: 126788
+; Number of entries: 126786
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -105,6 +105,8 @@ mybookie.ag CNAME .
 *.mybookie.ag CNAME .
 oddsmaker.ag CNAME .
 *.oddsmaker.ag CNAME .
+queenbeecasino.ag CNAME .
+*.queenbeecasino.ag CNAME .
 skybook.ag CNAME .
 *.skybook.ag CNAME .
 slots.ag CNAME .
@@ -2251,6 +2253,8 @@ lincoln-casino.bet CNAME .
 *.lincoln-casino.bet CNAME .
 lonase.bet CNAME .
 *.lonase.bet CNAME .
+loot.bet CNAME .
+*.loot.bet CNAME .
 lore.bet CNAME .
 *.lore.bet CNAME .
 luck.bet CNAME .
@@ -21983,8 +21987,6 @@ andcff6.6ffapi.com CNAME .
 *.888game27.com CNAME .
 888game51.com CNAME .
 *.888game51.com CNAME .
-888games.com CNAME .
-*.888games.com CNAME .
 888hot.com CNAME .
 *.888hot.com CNAME .
 888hotbets.com CNAME .
@@ -24695,8 +24697,6 @@ b1k9z6.com CNAME .
 *.b1k9z6.com CNAME .
 b1tstarz13.com CNAME .
 *.b1tstarz13.com CNAME .
-b1tstarz18.com CNAME .
-*.b1tstarz18.com CNAME .
 b1tstarz19.com CNAME .
 *.b1tstarz19.com CNAME .
 b1tstarz20.com CNAME .
@@ -39657,6 +39657,8 @@ goldengenie1.com CNAME .
 *.goldengenie1.com CNAME .
 goldenheartsgames.com CNAME .
 *.goldenheartsgames.com CNAME .
+goldenjojo.com CNAME .
+*.goldenjojo.com CNAME .
 goldenkegsslots.com CNAME .
 *.goldenkegsslots.com CNAME .
 goldenladycasino.com CNAME .
@@ -41659,8 +41661,6 @@ icecoldbrew222.com CNAME .
 *.icecoldbrew222.com CNAME .
 icemochalatte88.com CNAME .
 *.icemochalatte88.com CNAME .
-icepotato.com CNAME .
-*.icepotato.com CNAME .
 icepromos.com CNAME .
 *.icepromos.com CNAME .
 icetuna.com CNAME .
@@ -42317,8 +42317,6 @@ jackbit.com CNAME .
 *.jackbit.com CNAME .
 jackiejackpot.com CNAME .
 *.jackiejackpot.com CNAME .
-jackiepapandrew.com CNAME .
-*.jackiepapandrew.com CNAME .
 jackmillion.com CNAME .
 *.jackmillion.com CNAME .
 jackmobilecasinos.com CNAME .
@@ -71111,6 +71109,8 @@ overplus.it CNAME .
 *.overplus.it CNAME .
 paddypower.it CNAME .
 *.paddypower.it CNAME .
+partypoker.it CNAME .
+*.partypoker.it CNAME .
 pinterbet.it CNAME .
 *.pinterbet.it CNAME .
 planetwin365.it CNAME .
@@ -73447,8 +73447,6 @@ kingpoker.name CNAME .
 *.kingpoker.name CNAME .
 kumahatogel.name CNAME .
 *.kumahatogel.name CNAME .
-vulcan-bet.name CNAME .
-*.vulcan-bet.name CNAME .
 vulkanoriginals.name CNAME .
 *.vulkanoriginals.name CNAME .
 007-casino-royale.net CNAME .
@@ -81305,8 +81303,6 @@ vratoldcasino666b.online CNAME .
 *.vratoldcasino666b.online CNAME .
 vrijetijdsidee.online CNAME .
 *.vrijetijdsidee.online CNAME .
-vulkan-best-offical.online CNAME .
-*.vulkan-best-offical.online CNAME .
 vulkan26casinoplay.online CNAME .
 *.vulkan26casinoplay.online CNAME .
 vviavi.online CNAME .
@@ -95427,6 +95423,8 @@ pioner2.space CNAME .
 *.pioner2.space CNAME .
 playerbestcasino.space CNAME .
 *.playerbestcasino.space CNAME .
+playfortunacasino.space CNAME .
+*.playfortunacasino.space CNAME .
 playslots.space CNAME .
 *.playslots.space CNAME .
 pokerbet-poker.space CNAME .
