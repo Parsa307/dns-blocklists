@@ -1,5 +1,14 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/6872
+*.ppe.settings.data.azclient.ms
+*.test.settings.data.azclient.ms
+atm-settingsfe-prod-geo2.trafficmanager.net
+settings-*.cloudapp.azure.com
+settings-*.data.microsoft.com
+settings.data.microsoft.com
+settingsfd-*.trafficmanager.net
+
 # https://github.com/hagezi/dns-blocklists/issues/6931
 # Prevents the download of the Visual Studio Installer
 browser.events.data.microsoft.com
