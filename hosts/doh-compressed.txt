@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Aug 2025 04:03 UTC
-# Version: 2025.0818.0403.02
+# Last modified: 18 Aug 2025 12:21 UTC
+# Version: 2025.0818.1221.28
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 177
 #
@@ -75,10 +75,10 @@
 0.0.0.0 sg1.dnswarden.com uncensored-dot.dnswarden.com doh.us.dnswarden.com dnswebvsn.com do-39574-tr.xyz doh.beauty doh.buzz doh.li doh.lv
 0.0.0.0 doh.pub doh.sb doh.xyz au-syd.doh.sb ca-yyc.doh.sb de-dus.doh.sb de-fra.doh.sb ee-tll.doh.sb hk-hkg.doh.sb
 0.0.0.0 in-blr.doh.sb jp-kix.doh.sb jp-nrt.doh.sb kr-sel.doh.sb nl-ams.doh.sb nl-ams2.doh.sb ru-mow.doh.sb sg-sin.doh.sb sm2.doh.pub
-0.0.0.0 uk-lon.doh.sb doh.domreg.lt takhtakh.domyah.net dot.pub ns1.dotls.org dns.dotnet.win droyd.top doh.dscloud.me agh.dshubham.xyz
-0.0.0.0 home27.duckdns.org jurre-home.duckdns.org krtekvpn.duckdns.org osefcorp.duckdns.org punono.duckdns.org tuandns.duckdns.org tungdnsne.duckdns.org dukun.de dns.dyn1.de
-0.0.0.0 ueni.dyndns.org resolver2.dyndnsinternetguide.com gustamadh.dynv6.net dns.dynx.pro dnscache.e-utp.net adguard.easez.net easyhandshake.com dns.eddi.net doh.eddi.net
-0.0.0.0 dns.tuna.tsinghua.edu.cn adguard.ef67daisuki.club dns.efficientdocuments.com hole.elbschloss.xyz dns.elemental.software eliatofani.ovh dns.eliv.kr adguard.ender.fr home.enjoymylife.net
+0.0.0.0 uk-lon.doh.sb doh.domreg.lt takhtakh.domyah.net dot.pub ns1.dotls.org dns.dotnet.win family.dns.doubleangels.com droyd.top doh.dscloud.me
+0.0.0.0 agh.dshubham.xyz home27.duckdns.org jurre-home.duckdns.org krtekvpn.duckdns.org osefcorp.duckdns.org punono.duckdns.org tuandns.duckdns.org tungdnsne.duckdns.org dukun.de
+0.0.0.0 dns.dyn1.de ueni.dyndns.org resolver2.dyndnsinternetguide.com gustamadh.dynv6.net dns.dynx.pro dnscache.e-utp.net adguard.easez.net easyhandshake.com dns.eddi.net
+0.0.0.0 doh.eddi.net dns.tuna.tsinghua.edu.cn adguard.ef67daisuki.club hole.elbschloss.xyz dns.elemental.software eliatofani.ovh dns.eliv.kr adguard.ender.fr home.enjoymylife.net
 0.0.0.0 dns.enzonix.com bl.eq.md shield1.eranext.net doh.ersei.net dns.esnube.es eth.link opennic1.eth-services.de arashi.eu.org armorrush.eu.org
 0.0.0.0 dns.fullaccesstointernet.jp.eu.org dns.mayx.eu.org arashi.net.eu.org sukidayo.eu.org dns.extrawdw.net fra1.eyecay.xyz dns.f4a.fun jp1.f7b6h9.tk dns.f97.xyz
 0.0.0.0 pdns.faelix.net rdns.faelix.net dns.faked.org dns.falkenthal.org dnsvps.familiamv.net dns.fancyorg.at farewellkou.click dns.farshidhakimy.de ns0.fdn.fr
