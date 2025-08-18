@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Aug 2025 18:49 UTC
-! Version: 2025.0815.1849.38
+! Last modified: 18 Aug 2025 00:05 UTC
+! Version: 2025.0818.0005.56
 ! Syntax: uBlock
 ! Number of latin TLDs: 274 - non-latin TLDs: 151
 !
@@ -51,7 +51,7 @@
 ||casa^$doc,domain=~nabu.casa
 ||cash^$doc
 ||casino^$doc
-||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~rapidcdn.cc|~rutracker.cc|~shottr.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~zcyph.cc
+||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~ptt.cc|~rapidcdn.cc|~rutracker.cc|~shottr.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~zcyph.cc
 ||center^$doc,domain=~priv.center
 ||ceo^$doc
 ||cf^$doc,domain=~google.cf
@@ -289,7 +289,7 @@
 ||yoga^$doc
 ||you^$doc
 ||za.com^$doc
-||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~makea.zip|~uploaded-files.zip|~voron.zip
+||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~makea.zip|~transfer.zip|~uploaded-files.zip|~voron.zip
 ||рус^$doc
 ||कॉम^$doc
 ||セール^$doc

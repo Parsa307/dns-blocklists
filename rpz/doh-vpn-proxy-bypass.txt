@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755418200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755475500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Aug 2025 08:10 UTC
-; Version: 2025.0817.0810.26
+; Last modified: 18 Aug 2025 00:05 UTC
+; Version: 2025.0818.0005.18
 ; Syntax: RPZ
-; Number of entries: 10642
+; Number of entries: 10626
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -5160,8 +5160,6 @@ widevpn.com CNAME .
 *.widevpn.com CNAME .
 wiefy.com CNAME .
 *.wiefy.com CNAME .
-history.login.wiftee.com CNAME .
-*.history.login.wiftee.com CNAME .
 wiksa.com CNAME .
 *.wiksa.com CNAME .
 windscribe.com CNAME .
@@ -5192,8 +5190,6 @@ ns2.wuyouss.com CNAME .
 *.ns2.wuyouss.com CNAME .
 ns3.wuyouss.com CNAME .
 *.ns3.wuyouss.com CNAME .
-data.state.wyldbrian.com CNAME .
-*.data.state.wyldbrian.com CNAME .
 x9fnzrtl4x8pynsf.com CNAME .
 *.x9fnzrtl4x8pynsf.com CNAME .
 xcomplus.com CNAME .
@@ -5800,8 +5796,6 @@ tor2web.fi CNAME .
 *.tor2web.fi CNAME .
 ns.trcnet.fi CNAME .
 *.ns.trcnet.fi CNAME .
-brockwiresvslinewize.yiff.fi CNAME .
-*.brockwiresvslinewize.yiff.fi CNAME .
 unblocked.foo CNAME .
 *.unblocked.foo CNAME .
 unblockit.foo CNAME .
@@ -7036,8 +7030,6 @@ adultproxy.men CNAME .
 *.adultproxy.men CNAME .
 br.servers.legat.ml CNAME .
 *.br.servers.legat.ml CNAME .
-dns.stvsk.ml CNAME .
-*.dns.stvsk.ml CNAME .
 notfound-google.404.mn CNAME .
 *.notfound-google.404.mn CNAME .
 bookpog.bad.mn CNAME .
@@ -8240,8 +8232,6 @@ worldvpn.net CNAME .
 *.worldvpn.net CNAME .
 wproxy.net CNAME .
 *.wproxy.net CNAME .
-pupil.gov.xxxtream.net CNAME .
-*.pupil.gov.xxxtream.net CNAME .
 2.dnscrypt-cert.browser.yandex.net CNAME .
 *.2.dnscrypt-cert.browser.yandex.net CNAME .
 common.dot.dns.yandex.net CNAME .
@@ -9058,8 +9048,6 @@ vpnpie.org CNAME .
 *.vpnpie.org CNAME .
 dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
-level.lab.wanganxin.org CNAME .
-*.level.lab.wanganxin.org CNAME .
 shark-pan.webredirect.org CNAME .
 *.shark-pan.webredirect.org CNAME .
 webtunnel.org CNAME .
@@ -9074,8 +9062,6 @@ noturmotherlol.worksheetsforteachers.org CNAME .
 *.noturmotherlol.worksheetsforteachers.org CNAME .
 pdf.worksheetsforteachers.org CNAME .
 *.pdf.worksheetsforteachers.org CNAME .
-tutor.words.xzolx.org CNAME .
-*.tutor.words.xzolx.org CNAME .
 yoyovpn.org CNAME .
 *.yoyovpn.org CNAME .
 bananakun.zapto.org CNAME .
@@ -10264,8 +10250,6 @@ leeway.uz CNAME .
 *.leeway.uz CNAME .
 greenbeandean.hs.vc CNAME .
 *.greenbeandean.hs.vc CNAME .
-bighawk.webs.vc CNAME .
-*.bighawk.webs.vc CNAME .
 rammerhead2121.webs.vc CNAME .
 *.rammerhead2121.webs.vc CNAME .
 proxysite.video CNAME .

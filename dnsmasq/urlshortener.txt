@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Aug 2025 06:42 UTC
-# Version: 2025.0817.0642.20
+# Last modified: 17 Aug 2025 22:40 UTC
+# Version: 2025.0817.2240.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4853
+# Number of entries: 4857
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1866,6 +1866,7 @@ local=/imdb.to/
 local=/imo.cx/
 local=/in.gl/
 local=/in.mt/
+local=/sk.in.rs/
 local=/vdp.in.net/
 local=/incab.us/
 local=/incu.ca/
@@ -2010,6 +2011,7 @@ local=/ju.mp/
 local=/just.as/
 local=/justreleased.site/
 local=/jxxl.live/
+local=/jz.rs/
 local=/k-p.li/
 local=/k2.ma/
 local=/k9.ms/
@@ -2216,6 +2218,7 @@ local=/link.cc/
 local=/link.gy/
 local=/link.so/
 local=/link.space/
+local=/link-cut.com/
 local=/link-me.vip/
 local=/link1s.com/
 local=/link1s.net/
@@ -3666,6 +3669,7 @@ local=/skiplinko.com/
 local=/skl.sh/
 local=/skladovaokna.cz/
 local=/sknrd.us/
+local=/skr.rs/
 local=/skr.sk/
 local=/skrat.it/
 local=/skro.in/
@@ -3705,6 +3709,7 @@ local=/smu.gs/
 local=/smurl.fr/
 local=/smurl.link/
 local=/sn.im/
+local=/sn.rs/
 local=/snapt.io/
 local=/snar.co/
 local=/snd.sc/
@@ -4161,7 +4166,6 @@ local=/two.re/
 local=/twou.co/
 local=/twrd.in/
 local=/twtr.in/
-local=/twtr.to/
 local=/twurl.cc/
 local=/twurl.nl/
 local=/tx0.org/
@@ -4288,6 +4292,7 @@ local=/urlgo.fr/
 local=/urlhawk.com/
 local=/urlhum.com/
 local=/urli.ai/
+local=/urli.info/
 local=/urlify.cn/
 local=/urlin.it/
 local=/urlinko.com/
@@ -4818,7 +4823,6 @@ local=/ziturl.com/
 local=/zkr.cz/
 local=/zkr.pw/
 local=/zkrat.me/
-local=/zkrt.cz/
 local=/zlink.fun/
 local=/zln.do/
 local=/zlnk.com/

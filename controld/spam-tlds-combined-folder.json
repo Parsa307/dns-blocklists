@@ -4438,6 +4438,13 @@
       }
     },
     {
+      "PK": "ptt.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.pub",
       "action": {
         "do": 0,
@@ -5617,6 +5624,13 @@
       "PK": "*.trading",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "transfer.zip",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755417840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755475140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Aug 2025 08:04 UTC
-; Version: 2025.0817.0804.52
+; Last modified: 17 Aug 2025 23:59 UTC
+; Version: 2025.0817.2359.55
 ; Syntax: RPZ
-; Number of entries: 20638
+; Number of entries: 20626
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -549,8 +549,6 @@ tantifilm.bet CNAME .
 *.tantifilm.bet CNAME .
 newalbumreleases.unblockit.bet CNAME .
 *.newalbumreleases.unblockit.bet CNAME .
-wiflix.bet CNAME .
-*.wiflix.bet CNAME .
 cineblog01.bid CNAME .
 *.cineblog01.bid CNAME .
 dunia21.bid CNAME .
@@ -7381,8 +7379,6 @@ warezstore.com CNAME .
 *.warezstore.com CNAME .
 wareztheme.com CNAME .
 *.wareztheme.com CNAME .
-wareztorrent.com CNAME .
-*.wareztorrent.com CNAME .
 warezwitch.com CNAME .
 *.warezwitch.com CNAME .
 warezws.com CNAME .
@@ -7479,8 +7475,6 @@ wjunction.com CNAME .
 *.wjunction.com CNAME .
 wncbg.com CNAME .
 *.wncbg.com CNAME .
-wonderfulsubs.com CNAME .
-*.wonderfulsubs.com CNAME .
 downloadmovietorrent.wordpress.com CNAME .
 *.downloadmovietorrent.wordpress.com CNAME .
 japanesetorrents.wordpress.com CNAME .
@@ -7681,8 +7675,6 @@ zenithpaltrow.com CNAME .
 *.zenithpaltrow.com CNAME .
 zeoez.com CNAME .
 *.zeoez.com CNAME .
-zerodollarmovies.com CNAME .
-*.zerodollarmovies.com CNAME .
 zeropaid.com CNAME .
 *.zeropaid.com CNAME .
 zerotracker.com CNAME .
@@ -13537,8 +13529,6 @@ xatab-repack.net CNAME .
 *.xatab-repack.net CNAME .
 xboot.net CNAME .
 *.xboot.net CNAME .
-xcsp.net CNAME .
-*.xcsp.net CNAME .
 xdude.net CNAME .
 *.xdude.net CNAME .
 xenialbb.net CNAME .
@@ -13773,8 +13763,6 @@ torrentz2.nz CNAME .
 *.torrentz2.nz CNAME .
 newalbumreleases.unblockit.nz CNAME .
 *.newalbumreleases.unblockit.nz CNAME .
-watchmovies.nz CNAME .
-*.watchmovies.nz CNAME .
 cb01.observer CNAME .
 *.cb01.observer CNAME .
 0123movies.one CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Aug 2025 08:04 UTC
-# Version: 2025.0817.0804.52
+# Last modified: 17 Aug 2025 23:59 UTC
+# Version: 2025.0817.2359.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10319
+# Number of entries: 10313
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -9757,7 +9757,6 @@ local=/warezstore.com/
 local=/warezstore.org/
 local=/warezteam.ws/
 local=/wareztheme.com/
-local=/wareztorrent.com/
 local=/wareztuga.ws/
 local=/warezturkey.org/
 local=/warezwitch.com/
@@ -9795,7 +9794,6 @@ local=/watchmovie.ac/
 local=/watchmovie.me/
 local=/watchmovierulz.co/
 local=/watchmovies.fan/
-local=/watchmovies.nz/
 local=/watchmoviesfree.us/
 local=/watchmoviesnow.co/
 local=/watchonlineseries.eu/
@@ -9888,7 +9886,6 @@ local=/wickeddownloads.com/
 local=/widemus.de/
 local=/wifi4games.com/
 local=/wifistruggles.com/
-local=/wiflix.bet/
 local=/wiflix.life/
 local=/wiflix.mx/
 local=/wiflix.nl/
@@ -9917,7 +9914,6 @@ local=/wjungle.net/
 local=/wncbg.com/
 local=/wobno.fr/
 local=/wobno.net/
-local=/wonderfulsubs.com/
 local=/wookastreaming.fr/
 local=/downloadmovietorrent.wordpress.com/
 local=/japanesetorrents.wordpress.com/
@@ -9990,7 +9986,6 @@ local=/xcine.to/
 local=/xcine.tv/
 local=/xcine-tv.com/
 local=/xcinema.ro/
-local=/xcsp.net/
 local=/xd-movie.com/
 local=/xdcc.eu/
 local=/xdude.net/
@@ -10256,7 +10251,6 @@ local=/zer0day.ch/
 local=/t.zerg.pw/
 local=/zerion.cc/
 local=/tracker.zerobytes.xyz/
-local=/zerodollarmovies.com/
 local=/media.zerointernet.net/
 local=/zeropaid.com/
 local=/zerotracker.com/

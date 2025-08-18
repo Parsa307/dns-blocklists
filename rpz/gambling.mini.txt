@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755417840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755475140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Aug 2025 08:04 UTC
-; Version: 2025.0817.0804.26
+; Last modified: 17 Aug 2025 23:59 UTC
+; Version: 2025.0817.2359.30
 ; Syntax: RPZ
-; Number of entries: 126836
+; Number of entries: 126788
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -1143,8 +1143,6 @@ ttvgs.autos CNAME .
 *.ttvgs.autos CNAME .
 winwingslots77rtp.autos CNAME .
 *.winwingslots77rtp.autos CNAME .
-www-betso.autos CNAME .
-*.www-betso.autos CNAME .
 auto.az CNAME .
 *.auto.az CNAME .
 btk.az CNAME .
@@ -4903,8 +4901,6 @@ warmie.buzz CNAME .
 *.warmie.buzz CNAME .
 winsgoal88.buzz CNAME .
 *.winsgoal88.buzz CNAME .
-zerkalo-r7casino.buzz CNAME .
-*.zerkalo-r7casino.buzz CNAME .
 zooma0001casino.buzz CNAME .
 *.zooma0001casino.buzz CNAME .
 zooma0005casino.buzz CNAME .
@@ -13339,8 +13335,6 @@ verdecasinoch.ch CNAME .
 *.verdecasinoch.ch CNAME .
 wiil.ch CNAME .
 *.wiil.ch CNAME .
-williamhill-casino.ch CNAME .
-*.williamhill-casino.ch CNAME .
 wirwetten-casino.ch CNAME .
 *.wirwetten-casino.ch CNAME .
 wirwettencasino.ch CNAME .
@@ -62427,8 +62421,6 @@ w88boleh.com CNAME .
 *.w88boleh.com CNAME .
 w88club.com CNAME .
 *.w88club.com CNAME .
-w88detik.com CNAME .
-*.w88detik.com CNAME .
 w88doll.com CNAME .
 *.w88doll.com CNAME .
 w88gp.com CNAME .
@@ -62491,8 +62483,6 @@ wallmine.com CNAME .
 *.wallmine.com CNAME .
 wallofbets.com CNAME .
 *.wallofbets.com CNAME .
-wallstreetforensics.com CNAME .
-*.wallstreetforensics.com CNAME .
 walottery.com CNAME .
 *.walottery.com CNAME .
 wam-kobetsu.com CNAME .
@@ -62647,8 +62637,6 @@ weddbets3.com CNAME .
 *.weddbets3.com CNAME .
 weddenbonus.com CNAME .
 *.weddenbonus.com CNAME .
-weeblypowerhour.com CNAME .
-*.weeblypowerhour.com CNAME .
 weekendtriviacasino.com CNAME .
 *.weekendtriviacasino.com CNAME .
 weeklycasinos.com CNAME .
@@ -63157,8 +63145,6 @@ winouicasino-fr.com CNAME .
 *.winouicasino-fr.com CNAME .
 winouicasinoavis.com CNAME .
 *.winouicasinoavis.com CNAME .
-winpalace.com CNAME .
-*.winpalace.com CNAME .
 winpalace-ads.com CNAME .
 *.winpalace-ads.com CNAME .
 winpg28.com CNAME .
@@ -64051,8 +64037,6 @@ xjwin4.com CNAME .
 *.xjwin4.com CNAME .
 xjwincasino.com CNAME .
 *.xjwincasino.com CNAME .
-xkentcasino.com CNAME .
-*.xkentcasino.com CNAME .
 xkentcasinox.com CNAME .
 *.xkentcasinox.com CNAME .
 xkzn5520.com CNAME .
@@ -64201,16 +64185,6 @@ yakocasino.com CNAME .
 *.yakocasino.com CNAME .
 yakocasinoaffiliates.com CNAME .
 *.yakocasinoaffiliates.com CNAME .
-yakutcasino700.com CNAME .
-*.yakutcasino700.com CNAME .
-yakutcasino701.com CNAME .
-*.yakutcasino701.com CNAME .
-yakutcasino702.com CNAME .
-*.yakutcasino702.com CNAME .
-yakutcasino703.com CNAME .
-*.yakutcasino703.com CNAME .
-yakutcasino704.com CNAME .
-*.yakutcasino704.com CNAME .
 yakutcasino705.com CNAME .
 *.yakutcasino705.com CNAME .
 yakutcasino706.com CNAME .
@@ -64333,8 +64307,6 @@ ynxinji.com CNAME .
 *.ynxinji.com CNAME .
 yo-yo-casino.com CNAME .
 *.yo-yo-casino.com CNAME .
-yoda4dresmi.com CNAME .
-*.yoda4dresmi.com CNAME .
 yogonet.com CNAME .
 *.yogonet.com CNAME .
 yohohocasinos.com CNAME .
@@ -66655,8 +66627,6 @@ winamax.fr CNAME .
 *.winamax.fr CNAME .
 wpt.fr CNAME .
 *.wpt.fr CNAME .
-yonibetcasino.fr CNAME .
-*.yonibetcasino.fr CNAME .
 zebet.fr CNAME .
 *.zebet.fr CNAME .
 zeturf.fr CNAME .
@@ -70339,8 +70309,6 @@ xbetstudioqr.info CNAME .
 *.xbetstudioqr.info CNAME .
 xbetsunsetleafom.info CNAME .
 *.xbetsunsetleafom.info CNAME .
-xosodientoan.info CNAME .
-*.xosodientoan.info CNAME .
 yoagna.info CNAME .
 *.yoagna.info CNAME .
 zerkalo-pokerdom.info CNAME .
@@ -86093,8 +86061,6 @@ wibu96.org CNAME .
 *.wibu96.org CNAME .
 wildsultancasino.org CNAME .
 *.wildsultancasino.org CNAME .
-william-hill-casino.org CNAME .
-*.william-hill-casino.org CNAME .
 willtoto.org CNAME .
 *.willtoto.org CNAME .
 win-win-casino.org CNAME .
@@ -86239,8 +86205,6 @@ zeroedgecasino.org CNAME .
 *.zeroedgecasino.org CNAME .
 zeus123slot.org CNAME .
 *.zeus123slot.org CNAME .
-zeus38.org CNAME .
-*.zeus38.org CNAME .
 zhcasino.org CNAME .
 *.zhcasino.org CNAME .
 zigmaslot.org CNAME .
@@ -88117,8 +88081,6 @@ wargaqq2.pro CNAME .
 *.wargaqq2.pro CNAME .
 winnable.pro CNAME .
 *.winnable.pro CNAME .
-www-betso.pro CNAME .
-*.www-betso.pro CNAME .
 xbetsceneryld.pro CNAME .
 *.xbetsceneryld.pro CNAME .
 xbetsleettrail.pro CNAME .
@@ -108769,8 +108731,6 @@ wi88.win CNAME .
 *.wi88.win CNAME .
 wildz-casino.win CNAME .
 *.wildz-casino.win CNAME .
-win55m.win CNAME .
-*.win55m.win CNAME .
 winbeastcasino.win CNAME .
 *.winbeastcasino.win CNAME .
 winocasino.win CNAME .
@@ -126171,14 +126131,10 @@ wanitakamu.xyz CNAME .
 *.wanitakamu.xyz CNAME .
 wapprediksi.xyz CNAME .
 *.wapprediksi.xyz CNAME .
-warbetpro.xyz CNAME .
-*.warbetpro.xyz CNAME .
 warbetsantai.xyz CNAME .
 *.warbetsantai.xyz CNAME .
 warbetsylar.xyz CNAME .
 *.warbetsylar.xyz CNAME .
-warbetultra.xyz CNAME .
-*.warbetultra.xyz CNAME .
 warga789a.xyz CNAME .
 *.warga789a.xyz CNAME .
 warjacksepuh.xyz CNAME .
@@ -126263,8 +126219,6 @@ websedanghoki.xyz CNAME .
 *.websedanghoki.xyz CNAME .
 webtropis.xyz CNAME .
 *.webtropis.xyz CNAME .
-webwa-88.xyz CNAME .
-*.webwa-88.xyz CNAME .
 webyank4d.xyz CNAME .
 *.webyank4d.xyz CNAME .
 wedangjahe.xyz CNAME .
@@ -126449,8 +126403,6 @@ wslot188captain.xyz CNAME .
 *.wslot188captain.xyz CNAME .
 wstreetbets.xyz CNAME .
 *.wstreetbets.xyz CNAME .
-wukong138-amp.xyz CNAME .
-*.wukong138-amp.xyz CNAME .
 wulkan-casinos.xyz CNAME .
 *.wulkan-casinos.xyz CNAME .
 wwcasino.xyz CNAME .

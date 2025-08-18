@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Aug 2025 06:40 UTC
-# Version: 2025.0817.0640.26
+# Last modified: 17 Aug 2025 22:38 UTC
+# Version: 2025.0817.2238.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14125
+# Number of entries: 14113
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -8185,6 +8185,7 @@ local=/meritdeteno.com/
 local=/merlin-apotheke.com/
 local=/merlin-kinderladen.com/
 local=/mernesberlin.com/
+local=/merova-shop.com/
 local=/merrellbarbati.com/
 local=/merrelloutletonline.de/
 local=/merrells.de/
@@ -13479,7 +13480,6 @@ local=/wantclothes.com/
 local=/wantrys.com/
 local=/wapo-shop.de/
 local=/wardglam.com/
-local=/wardrobecheap.com/
 local=/warehousestocks.com/
 local=/warenhausdeutschland.com/
 local=/warenwelt-eu.com/
@@ -13559,7 +13559,6 @@ local=/dogiweb.webnode.it/
 local=/mes-scpi-de-gre-a-gre.webnode.fr/
 local=/webseite.de/
 local=/webstorerx.com/
-local=/weckenbock.com/
 local=/weconti.com/
 local=/wecro-berlin.de/
 local=/weddingdresshouse.com/
@@ -13570,7 +13569,6 @@ local=/wefashion.net/
 local=/wegovy-osterreich.com/
 local=/wehkampoutlet.nl/
 local=/weidner-handel.de/
-local=/weiki-garten.de/
 local=/weimmer.de/
 local=/wein-deluxe.eu/
 local=/wein-gelage.shop/
@@ -13641,7 +13639,6 @@ local=/werkzeugeneu.com/
 local=/werkzeugesale.com/
 local=/werkzeugewelt.com/
 local=/werkzeughaus-shop.online/
-local=/werkzeugheld24.de/
 local=/werkzeugmaschinenstore.com/
 local=/werkzeugmesser.de/
 local=/werkzeugonlineshop.com/
@@ -13682,7 +13679,6 @@ local=/whiskysorten.com/
 local=/whiteboxgarten.com/
 local=/whlshop.com/
 local=/wholesalefactory.ru/
-local=/widelyshoes.com/
 local=/wieblumen.de/
 local=/wiecel.com/
 local=/wiegmann-modehaus.de/
@@ -13706,7 +13702,6 @@ local=/wildlingshoesnederland.com/
 local=/wildlingshoesportugal.com/
 local=/wildlingshoessverige.com/
 local=/wildlingshoesuk.com/
-local=/wildlingshoeswien.at/
 local=/wilhelmfoodshop.com/
 local=/wilkobigsale.com/
 local=/wilkra24.de/
@@ -13842,7 +13837,6 @@ local=/wunderwild.de/
 local=/wunschau.de/
 local=/wunschfans.de/
 local=/wurzelreich.shop/
-local=/wuzmi.shop/
 local=/wv-langen.de/
 local=/ruckgabe.wwmode.de/
 local=/wwwhamsterkiste.de/
@@ -13891,7 +13885,6 @@ local=/xn--carharttespaa-tkb.com/
 local=/xn--clarksespaa-beb.com/
 local=/xn--clarkszrich-zhb.com/
 local=/xn--drmartensshopsterreich-6hc.at/
-local=/xn--farmacia-espaa-2nb.com/
 local=/xn--hellyhansenbelgi-prb.com/
 local=/xn--hellyhansenespaa-lub.com/
 local=/xn--hellyhansenper-yrb.com/
@@ -13973,7 +13966,6 @@ local=/yoohal.com/
 local=/yoolo.shop/
 local=/yougoodsar.best/
 local=/youngbf.com/
-local=/your-happy-home.de/
 local=/yourgiftshopping.com/
 local=/yourmre.com/
 local=/yourzencoach.co/
@@ -14058,19 +14050,16 @@ local=/zenova-shop.de/
 local=/zenovaa.store/
 local=/zentempel.com/
 local=/zentiv.de/
-local=/zentraleapo.de/
 local=/zentrumeinkauf.com/
 local=/zenvada.de/
 local=/zeon-lim.co/
 local=/zeradaoautopecas.com/
-local=/zeriafunding.com/
 local=/zeroceann.com/
 local=/zeroplay.de/
 local=/zerova.de/
 local=/zesavi-tech.de/
 local=/zesbit.com/
 local=/zestara-berlin.de/
-local=/zestniche.com/
 local=/zetko-waren.de/
 local=/app.zety.de/
 local=/zevarpalace.pk/
@@ -14102,7 +14091,6 @@ local=/zolara.de/
 local=/zolindo.de/
 local=/zollernalb-film.de/
 local=/zomzey.com/
-local=/zone-truck.com/
 local=/zonebabyware.com/
 local=/zoneboxing.com/
 local=/zonedrbeauty.com/

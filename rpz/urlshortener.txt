@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755412920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755470400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Aug 2025 06:42 UTC
-; Version: 2025.0817.0642.20
+; Last modified: 17 Aug 2025 22:40 UTC
+; Version: 2025.0817.2240.48
 ; Syntax: RPZ
-; Number of entries: 9706
+; Number of entries: 9714
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2188,6 +2188,8 @@ liltext.com CNAME .
 *.liltext.com CNAME .
 lincyt.com CNAME .
 *.lincyt.com CNAME .
+link-cut.com CNAME .
+*.link-cut.com CNAME .
 link1s.com CNAME .
 *.link1s.com CNAME .
 linkaff.com CNAME .
@@ -3232,8 +3234,6 @@ xrl.cz CNAME .
 *.xrl.cz CNAME .
 zkr.cz CNAME .
 *.zkr.cz CNAME .
-zkrt.cz CNAME .
-*.zkrt.cz CNAME .
 contra.dance CNAME .
 *.contra.dance CNAME .
 0bs.de CNAME .
@@ -4612,6 +4612,8 @@ url-shortener.info CNAME .
 *.url-shortener.info CNAME .
 urlchecker.info CNAME .
 *.urlchecker.info CNAME .
+urli.info CNAME .
+*.urli.info CNAME .
 vip-gacha99.info CNAME .
 *.vip-gacha99.info CNAME .
 xbig.info CNAME .
@@ -8030,6 +8032,10 @@ boile.rs CNAME .
 *.boile.rs CNAME .
 dajdam.rs CNAME .
 *.dajdam.rs CNAME .
+sk.in.rs CNAME .
+*.sk.in.rs CNAME .
+jz.rs CNAME .
+*.jz.rs CNAME .
 p1.rs CNAME .
 *.p1.rs CNAME .
 qd.rs CNAME .
@@ -8042,6 +8048,10 @@ seedsta.rs CNAME .
 *.seedsta.rs CNAME .
 serverpa.rs CNAME .
 *.serverpa.rs CNAME .
+skr.rs CNAME .
+*.skr.rs CNAME .
+sn.rs CNAME .
+*.sn.rs CNAME .
 tmsnrt.rs CNAME .
 *.tmsnrt.rs CNAME .
 travl.rs CNAME .
@@ -8856,8 +8866,6 @@ tnw.to CNAME .
 *.tnw.to CNAME .
 trimmer.to CNAME .
 *.trimmer.to CNAME .
-twtr.to CNAME .
-*.twtr.to CNAME .
 u.to CNAME .
 *.u.to CNAME .
 ubr.to CNAME .

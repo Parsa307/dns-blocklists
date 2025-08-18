@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Aug 2025 08:10 UTC
-# Version: 2025.0817.0810.26
+# Last modified: 18 Aug 2025 00:05 UTC
+# Version: 2025.0818.0005.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5321
+# Number of entries: 5313
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -4348,7 +4348,6 @@ local=/strongvpn.com/
 local=/studysurf.com/
 local=/stunnel.org/
 local=/stupidproxy.com/
-local=/dns.stvsk.ml/
 local=/doh.sublime9.xyz/
 local=/start.succeed.cl/
 local=/doh.suche.org/
@@ -5100,7 +5099,6 @@ local=/yunyun.is.my.waifu.cz/
 local=/waitfree.us/
 local=/walln.com/
 local=/dns.wang.art/
-local=/level.lab.wanganxin.org/
 local=/wantaquddin.com/
 local=/dns.wargan.io/
 local=/email.warhawkenterprises.com/
@@ -5135,7 +5133,6 @@ local=/webproxyinc.com/
 local=/webproxyusa.com/
 local=/shark-pan.webredirect.org/
 local=/webrunnerproxy.com/
-local=/bighawk.webs.vc/
 local=/rammerhead2121.webs.vc/
 local=/webshare.io/
 local=/janvet.website.pl/
@@ -5169,7 +5166,6 @@ local=/whoisping.com/
 local=/dns.wibenson.cloud/
 local=/widevpn.com/
 local=/wiefy.com/
-local=/history.login.wiftee.com/
 local=/hellotaka.wiki.gd/
 local=/wikimedia-dns.org/
 local=/wiksa.com/
@@ -5211,7 +5207,6 @@ local=/writingessaypros.com/
 local=/wtools.eu/
 local=/ns2.wuyouss.com/
 local=/ns3.wuyouss.com/
-local=/data.state.wyldbrian.com/
 local=/proxy.wynd.network/
 local=/wyx.cloud/
 local=/edu.x-narod.ru/
@@ -5247,8 +5242,6 @@ local=/xvbelink.com/
 local=/xvpn.io/
 local=/dns.xwdmw.xyz/
 local=/v2.xx3210766.live/
-local=/pupil.gov.xxxtream.net/
-local=/tutor.words.xzolx.org/
 local=/dns.yameenassotally.com/
 local=/2.dnscrypt-cert.browser.yandex.net/
 local=/dns.yandex.ru/
@@ -5263,7 +5256,6 @@ local=/ychen.gq/
 local=/yd6n63ptky.com/
 local=/yellowproxy.net/
 local=/sg.yepdns.com/
-local=/brockwiresvslinewize.yiff.fi/
 local=/ylink.info/
 local=/alst.ynbbs.cc/
 local=/yogavpn.com/

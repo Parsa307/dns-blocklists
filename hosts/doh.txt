@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Aug 2025 08:10 UTC
-# Version: 2025.0817.0810.03
+# Last modified: 18 Aug 2025 00:04 UTC
+# Version: 2025.0818.0004.56
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1591
+# Number of entries: 1590
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -1413,7 +1413,6 @@
 0.0.0.0 dns.stirringphoto.com
 0.0.0.0 dns.stormycloud.org
 0.0.0.0 dns.strassmair.org
-0.0.0.0 dns.stvsk.ml
 0.0.0.0 doh.sublime9.xyz
 0.0.0.0 doh.suche.org
 0.0.0.0 dns.suhaila.dev
