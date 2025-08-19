@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Aug 2025 08:10 UTC
-# Version: 2025.0819.0810.10
+# Last modified: 19 Aug 2025 12:14 UTC
+# Version: 2025.0819.1214.43
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1591
 #
@@ -599,6 +599,7 @@
 0.0.0.0 doh.domreg.lt
 0.0.0.0 takhtakh.domyah.net
 0.0.0.0 dot.pub
+0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
 0.0.0.0 family.dns.doubleangels.com
 0.0.0.0 droyd.top
@@ -624,6 +625,7 @@
 0.0.0.0 doh.eddi.net
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -667,7 +669,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns01.flm9.net
@@ -1426,7 +1427,6 @@
 0.0.0.0 dns.surobe.com
 0.0.0.0 dns.sv-zauner.at
 0.0.0.0 dns.svoi.dev
-0.0.0.0 dns.swin.pro
 0.0.0.0 switch.ch
 0.0.0.0 dns.switch.ch
 0.0.0.0 dns.sy.st

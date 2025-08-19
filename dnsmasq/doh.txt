@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Aug 2025 08:10 UTC
-# Version: 2025.0819.0810.10
+# Last modified: 19 Aug 2025 12:14 UTC
+# Version: 2025.0819.1214.43
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1434
 #
@@ -488,6 +488,7 @@ local=/doh.xyz/
 local=/doh.domreg.lt/
 local=/takhtakh.domyah.net/
 local=/dot.pub/
+local=/ns1.dotls.org/
 local=/dns.dotnet.win/
 local=/family.dns.doubleangels.com/
 local=/droyd.top/
@@ -513,6 +514,7 @@ local=/dns.eddi.net/
 local=/doh.eddi.net/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -556,7 +558,6 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
-local=/dns.fizz.studio/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
 local=/dns01.flm9.net/
@@ -1284,7 +1285,6 @@ local=/dns.surfsharkdns.com/
 local=/dns.surobe.com/
 local=/dns.sv-zauner.at/
 local=/dns.svoi.dev/
-local=/dns.swin.pro/
 local=/switch.ch/
 local=/dns.sy.st/
 local=/dns.syaifullah.com/

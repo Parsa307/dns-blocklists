@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Aug 2025 07:40 UTC
-# Version: 2025.0819.0740.56
+# Last modified: 19 Aug 2025 10:45 UTC
+# Version: 2025.0819.1045.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5763
+# Number of entries: 5762
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -4599,7 +4599,6 @@ local=/tbrd.co/
 local=/tbsi.app/
 local=/tcc.io/
 local=/tcch.ch/
-local=/tckl.me/
 local=/tcp.pw/
 local=/tcrn.ch/
 local=/on.tcs.com/
