@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Aug 2025 12:21 UTC
-# Version: 2025.0818.1221.28
+# Last modified: 19 Aug 2025 08:10 UTC
+# Version: 2025.0819.0810.10
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1434
 #
@@ -488,7 +488,6 @@ local=/doh.xyz/
 local=/doh.domreg.lt/
 local=/takhtakh.domyah.net/
 local=/dot.pub/
-local=/ns1.dotls.org/
 local=/dns.dotnet.win/
 local=/family.dns.doubleangels.com/
 local=/droyd.top/
@@ -557,6 +556,7 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
+local=/dns.fizz.studio/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
 local=/dns01.flm9.net/
@@ -899,6 +899,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -1118,7 +1119,6 @@ local=/orpi.privado.ovh/
 local=/de.dns.privex.io/
 local=/nl.dns.privex.io/
 local=/project-evoex.de/
-local=/dns.propheci.xyz/
 local=/dns.psociety.de/
 local=/publicdnsserver.com/
 local=/dns.pumpkinvrar.com/

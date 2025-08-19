@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755519660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755591000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Aug 2025 12:21 UTC
-; Version: 2025.0818.1221.51
+; Last modified: 19 Aug 2025 08:10 UTC
+; Version: 2025.0819.0810.32
 ; Syntax: RPZ
-; Number of entries: 10220
+; Number of entries: 10236
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1990,6 +1990,8 @@ dns.hellozhao.com CNAME .
 *.dns.hellozhao.com CNAME .
 helphideme.com CNAME .
 *.helphideme.com CNAME .
+procs.heroinewarrior.com CNAME .
+*.procs.heroinewarrior.com CNAME .
 betternet-backend.herokuapp.com CNAME .
 *.betternet-backend.herokuapp.com CNAME .
 heroproxy.com CNAME .
@@ -2070,6 +2072,8 @@ hsselite.com CNAME .
 *.hsselite.com CNAME .
 ads.hunga1k47.com CNAME .
 *.ads.hunga1k47.com CNAME .
+solidgeo.hunnur.com CNAME .
+*.solidgeo.hunnur.com CNAME .
 doth.huque.com CNAME .
 *.doth.huque.com CNAME .
 link-five.ibewlocalzero.com CNAME .
@@ -2306,6 +2310,8 @@ kproxy.com CNAME .
 *.kproxy.com CNAME .
 kproxysite.com CNAME .
 *.kproxysite.com CNAME .
+solidcoding.krewedegroove.com CNAME .
+*.solidcoding.krewedegroove.com CNAME .
 dns.kugoapps.com CNAME .
 *.dns.kugoapps.com CNAME .
 kyoheitensai.com CNAME .
@@ -2546,6 +2552,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -3076,6 +3084,8 @@ dns.retakecs.com CNAME .
 *.dns.retakecs.com CNAME .
 rethinkdns.com CNAME .
 *.rethinkdns.com CNAME .
+solidcalc.revitcity.com CNAME .
+*.solidcalc.revitcity.com CNAME .
 newd.rezyro.com CNAME .
 *.newd.rezyro.com CNAME .
 lexiapowerup.ricksolinas.com CNAME .
@@ -5378,6 +5388,8 @@ tor2web.fi CNAME .
 *.tor2web.fi CNAME .
 ns.trcnet.fi CNAME .
 *.ns.trcnet.fi CNAME .
+solidscience.virkamafia.fi CNAME .
+*.solidscience.virkamafia.fi CNAME .
 unblocked.foo CNAME .
 *.unblocked.foo CNAME .
 unblockit.foo CNAME .
@@ -6672,6 +6684,8 @@ hicluzelol.neikos.com.mx CNAME .
 *.hicluzelol.neikos.com.mx CNAME .
 www-p.reaper.mx CNAME .
 *.www-p.reaper.mx CNAME .
+modernlogic.iceage.com.my CNAME .
+*.modernlogic.iceage.com.my CNAME .
 chat-isinterstellargood.safira.com.my CNAME .
 *.chat-isinterstellargood.safira.com.my CNAME .
 rammerhead.d-n-s.name CNAME .
@@ -8184,6 +8198,8 @@ dns.csswg.org CNAME .
 *.dns.csswg.org CNAME .
 why.is.it.my.fault.de-a.org CNAME .
 *.why.is.it.my.fault.de-a.org CNAME .
+epichistory.dearabba.org CNAME .
+*.epichistory.dearabba.org CNAME .
 dev.dietpc.org CNAME .
 *.dev.dietpc.org CNAME .
 help.dietpc.org CNAME .
@@ -8202,8 +8218,6 @@ jiyuu.dnsitalia.org CNAME .
 *.jiyuu.dnsitalia.org CNAME .
 dontblockme.org CNAME .
 *.dontblockme.org CNAME .
-ns1.dotls.org CNAME .
-*.ns1.dotls.org CNAME .
 bitly-galatikx.duckdns.org CNAME .
 *.bitly-galatikx.duckdns.org CNAME .
 home27.duckdns.org CNAME .
@@ -9408,12 +9422,16 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
 *.edu.info.east-kazakhstan.su CNAME .
 study.info.east-kazakhstan.su CNAME .
 *.study.info.east-kazakhstan.su CNAME .
+truealgebra.k22.su CNAME .
+*.truealgebra.k22.su CNAME .
 amp.nov.su CNAME .
 *.amp.nov.su CNAME .
 silly.schizo.su CNAME .
@@ -10150,8 +10168,6 @@ pm7051-br.xyz CNAME .
 *.pm7051-br.xyz CNAME .
 pm9352-bd.xyz CNAME .
 *.pm9352-bd.xyz CNAME .
-dns.propheci.xyz CNAME .
-*.dns.propheci.xyz CNAME .
 proxybrowser.xyz CNAME .
 *.proxybrowser.xyz CNAME .
 proxydude.xyz CNAME .

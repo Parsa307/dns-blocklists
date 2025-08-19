@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Aug 2025 12:21 UTC
-# Version: 2025.0818.1221.51
+# Last modified: 19 Aug 2025 08:10 UTC
+# Version: 2025.0819.0810.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5110
+# Number of entries: 5118
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -868,6 +868,7 @@ local=/adguard.gbrossi.com.br/
 local=/german-proxy.com.de/
 local=/germany-proxy.com.de/
 local=/btg.go4it.com.mx/
+local=/modernlogic.iceage.com.my/
 local=/doge.intinet.com.ar/
 local=/12bucklemyshoe.kalbas.com.vn/
 local=/auditing.lepetitprince.com.np/
@@ -1032,6 +1033,7 @@ local=/zrd.ddns.net/
 local=/why.is.it.my.fault.de-a.org/
 local=/dns.deadsec.net/
 local=/dear.actor/
+local=/epichistory.dearabba.org/
 local=/dns.decky.eu/
 local=/www-plo.declan-reid.me/
 local=/dns.decloudus.com/
@@ -1253,7 +1255,6 @@ local=/dontblockme.org/
 local=/dontfilter.us/
 local=/bristol-is-the-king.dorsrv.ru/
 local=/dot.pub/
-local=/ns1.dotls.org/
 local=/dns.dotnet.win/
 local=/dotvpn.com/
 local=/family.dns.doubleangels.com/
@@ -1473,6 +1474,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1800,6 +1802,7 @@ local=/helphideme.com/
 local=/helpmehide.net/
 local=/dns.henek.ovh/
 local=/herbalserver.me/
+local=/procs.heroinewarrior.com/
 local=/betternet-backend.herokuapp.com/
 local=/heroproxy.com/
 local=/httpdns-push.heytapmobile.com/
@@ -1919,6 +1922,7 @@ local=/dns.huas.me/
 local=/hugeph.art/
 local=/dns.hujiayucc.cn/
 local=/ads.hunga1k47.com/
+local=/solidgeo.hunnur.com/
 local=/doth.huque.com/
 local=/dns.huseynov.work/
 local=/hustlersuniversity.pro/
@@ -2144,6 +2148,7 @@ local=/uto1.k.vu/
 local=/kind-fox-975.k12biology.com/
 local=/proteomics.k12biology.com/
 local=/pure-cloud-838.k12biology.com/
+local=/truealgebra.k22.su/
 local=/k2vpn.io/
 local=/dns.k3nny.fr/
 local=/kaiwu.xyz/
@@ -2210,6 +2215,7 @@ local=/kproxysite.com/
 local=/dart.kpsn.org/
 local=/adblock.krctech.dev/
 local=/recap.grade.kredytlinia.pl/
+local=/solidcoding.krewedegroove.com/
 local=/xray.krnl.eu/
 local=/kryptovpn.kryptotel.net/
 local=/dns.kugoapps.com/
@@ -2568,6 +2574,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -3082,7 +3089,6 @@ local=/chinesekidscheeksarentsafearoundme.procrastin.ar/
 local=/skill.basic.professionalconcepts.net/
 local=/prointern.info/
 local=/project-evoex.de/
-local=/dns.propheci.xyz/
 local=/edu.prostitutki-na-vyezd.com/
 local=/prostovpn.org/
 local=/sisnzusnaiziamsizjsmsizisnsixjnduxhsns.protelecon.com/
@@ -3368,6 +3374,7 @@ local=/dnspub.restena.lu/
 local=/dns.retakecs.com/
 local=/rethinkdns.com/
 local=/revelio.top/
+local=/solidcalc.revitcity.com/
 local=/revko.info/
 local=/xela.revolutionrp.net/
 local=/doh.rezhajul.io/
@@ -4771,6 +4778,7 @@ local=/viewyoutube.net/
 local=/vikingvpn.com/
 local=/dns.vinnyp.xyz/
 local=/dns.vinokurov.tk/
+local=/solidscience.virkamafia.fi/
 local=/virtual-browser.com/
 local=/call.virtualline.com/
 local=/virtualshield.com/

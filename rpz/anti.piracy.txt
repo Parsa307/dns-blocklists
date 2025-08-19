@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755475140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755590640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Aug 2025 23:59 UTC
-; Version: 2025.0817.2359.55
+; Last modified: 19 Aug 2025 08:04 UTC
+; Version: 2025.0819.0804.49
 ; Syntax: RPZ
-; Number of entries: 20626
+; Number of entries: 20624
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -18897,8 +18897,6 @@ foumovies.tv CNAME .
 *.foumovies.tv CNAME .
 freshon.tv CNAME .
 *.freshon.tv CNAME .
-fubo.tv CNAME .
-*.fubo.tv CNAME .
 fullthrottleip.tv CNAME .
 *.fullthrottleip.tv CNAME .
 goldesel.tv CNAME .
