@@ -1,5 +1,8 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/7044
+usage-ping.brave.com
+
 # https://github.com/hagezi/dns-blocklists/issues/6893
 api.mantis-intelligence.com
 

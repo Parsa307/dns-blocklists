@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Aug 2025 12:15 UTC
-# Version: 2025.0819.1215.05
+# Last modified: 20 Aug 2025 00:15 UTC
+# Version: 2025.0820.0015.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5338
+# Number of entries: 5339
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -588,6 +588,7 @@ local=/help.cartes.cl/
 local=/zscaler.casarosalba.com/
 local=/casinovpn.com/
 local=/dns.caspervk.net/
+local=/lvpqirhbat.castroyasociados.cl/
 local=/suh.casucha.cl/
 local=/catch.gift/
 local=/catchen121299.top/
@@ -1332,7 +1333,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -2171,7 +2171,6 @@ local=/ram.kdot.cam/
 local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/dns.kerekes.xyz/
@@ -2194,6 +2193,7 @@ local=/howto.piano.kiptrak.com/
 local=/dns1.klcd.eu/
 local=/dns2.klcd.eu/
 local=/klcknerrip.com/
+local=/dylkffdoca.klockars.com/
 local=/login.knr.cl/
 local=/knvpn.net/
 local=/ko-18948-tr.xyz/
@@ -2236,6 +2236,7 @@ local=/docs.google.l5.ca/
 local=/quesosrammerhaha.l5.ca/
 local=/lablancer.com/
 local=/dns.labnekotest.site/
+local=/orxwaicjss.laboratoriosdavis.cl/
 local=/doh.lacontrevoie.fr/
 local=/field.ideas.ladanghijau.com/
 local=/www-proxy.ladifsoftware.com/
