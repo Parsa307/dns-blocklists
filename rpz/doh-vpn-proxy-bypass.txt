@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755648900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755677760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Aug 2025 00:15 UTC
-; Version: 2025.0820.0015.30
+; Last modified: 20 Aug 2025 08:16 UTC
+; Version: 2025.0820.0816.01
 ; Syntax: RPZ
 ; Number of entries: 10678
 ;
@@ -5910,8 +5910,6 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
-cynntex.fun CNAME .
-*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -6310,6 +6308,8 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 iweb365.info CNAME .
 *.iweb365.info CNAME .
+doh.kekew.info CNAME .
+*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 legalweb.info CNAME .

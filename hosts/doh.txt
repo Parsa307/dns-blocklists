@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Aug 2025 00:15 UTC
-# Version: 2025.0820.0015.09
+# Last modified: 20 Aug 2025 08:15 UTC
+# Version: 2025.0820.0815.35
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1589
 #
@@ -362,7 +362,6 @@
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
 0.0.0.0 dns.cybertonic.tech
-0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
 0.0.0.0 dns.d4d.moe
@@ -846,6 +845,7 @@
 0.0.0.0 kavkaz.monster
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
+0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de

@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Aug 2025 00:15 UTC
-# Version: 2025.0820.0015.30
+# Last modified: 20 Aug 2025 08:16 UTC
+# Version: 2025.0820.0816.01
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 5339
 #
@@ -1002,7 +1002,6 @@ local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/dns.cybertonic.tech/
-local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -2171,6 +2170,7 @@ local=/ram.kdot.cam/
 local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/dns.kerekes.xyz/
