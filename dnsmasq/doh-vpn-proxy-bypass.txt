@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Aug 2025 08:16 UTC
-# Version: 2025.0820.0816.01
+# Last modified: 20 Aug 2025 16:19 UTC
+# Version: 2025.0820.1619.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5339
+# Number of entries: 5350
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -386,10 +386,14 @@ local=/sg-dns1.bancuh.com/
 local=/base99.com/
 local=/anamoxe.baselinux.net/
 local=/boltnixe.baselinux.net/
+local=/bootnbo.baselinux.net/
 local=/dogeproxiex.baselinux.net/
+local=/nirbolt.baselinux.net/
+local=/nirbyteproxbolt.baselinux.net/
 local=/nirbytesx.baselinux.net/
 local=/nprxenirbyt.baselinux.net/
 local=/shadownxirby.baselinux.net/
+local=/solmariknein.baselinux.net/
 local=/lmfao.bassmanbenny.com/
 local=/study.basutabi.com/
 local=/gannonisgood.baumgardner.us/
@@ -1002,6 +1006,7 @@ local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/dns.cybertonic.tech/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -1332,6 +1337,7 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -2143,8 +2149,13 @@ local=/justahotm3ss.xyz/
 local=/sdiybt.justanothersite.net/
 local=/ad.justincounts.com/
 local=/dns.justinnetworkingsolutions.com/
+local=/coolmanbartx.justlearning.net/
 local=/ihate.justlearning.net/
+local=/nxmevip.justlearning.net/
+local=/saugatproxm.justlearning.net/
 local=/sciencerocks.justlearning.net/
+local=/solgorknh.justlearning.net/
+local=/yanglini.justlearning.net/
 local=/gcpsk12.k.vu/
 local=/uto1.k.vu/
 local=/kind-fox-975.k12biology.com/
@@ -2578,7 +2589,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -3093,6 +3103,7 @@ local=/chinesekidscheeksarentsafearoundme.procrastin.ar/
 local=/skill.basic.professionalconcepts.net/
 local=/prointern.info/
 local=/project-evoex.de/
+local=/dns.propheci.xyz/
 local=/edu.prostitutki-na-vyezd.com/
 local=/prostovpn.org/
 local=/sisnzusnaiziamsizjsmsizisnsixjnduxhsns.protelecon.com/

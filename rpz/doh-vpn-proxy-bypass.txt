@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755677760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755706740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Aug 2025 08:16 UTC
-; Version: 2025.0820.0816.01
+; Last modified: 20 Aug 2025 16:19 UTC
+; Version: 2025.0820.1619.41
 ; Syntax: RPZ
-; Number of entries: 10678
+; Number of entries: 10700
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1642,6 +1642,8 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2558,8 +2560,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -5910,6 +5910,8 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
+cynntex.fun CNAME .
+*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -7242,14 +7244,22 @@ anamoxe.baselinux.net CNAME .
 *.anamoxe.baselinux.net CNAME .
 boltnixe.baselinux.net CNAME .
 *.boltnixe.baselinux.net CNAME .
+bootnbo.baselinux.net CNAME .
+*.bootnbo.baselinux.net CNAME .
 dogeproxiex.baselinux.net CNAME .
 *.dogeproxiex.baselinux.net CNAME .
+nirbolt.baselinux.net CNAME .
+*.nirbolt.baselinux.net CNAME .
+nirbyteproxbolt.baselinux.net CNAME .
+*.nirbyteproxbolt.baselinux.net CNAME .
 nirbytesx.baselinux.net CNAME .
 *.nirbytesx.baselinux.net CNAME .
 nprxenirbyt.baselinux.net CNAME .
 *.nprxenirbyt.baselinux.net CNAME .
 shadownxirby.baselinux.net CNAME .
 *.shadownxirby.baselinux.net CNAME .
+solmariknein.baselinux.net CNAME .
+*.solmariknein.baselinux.net CNAME .
 bestssh.net CNAME .
 *.bestssh.net CNAME .
 betterproxy.net CNAME .
@@ -7750,10 +7760,20 @@ adguard1.jsanagustin.net CNAME .
 *.adguard1.jsanagustin.net CNAME .
 sdiybt.justanothersite.net CNAME .
 *.sdiybt.justanothersite.net CNAME .
+coolmanbartx.justlearning.net CNAME .
+*.coolmanbartx.justlearning.net CNAME .
 ihate.justlearning.net CNAME .
 *.ihate.justlearning.net CNAME .
+nxmevip.justlearning.net CNAME .
+*.nxmevip.justlearning.net CNAME .
+saugatproxm.justlearning.net CNAME .
+*.saugatproxm.justlearning.net CNAME .
 sciencerocks.justlearning.net CNAME .
 *.sciencerocks.justlearning.net CNAME .
+solgorknh.justlearning.net CNAME .
+*.solgorknh.justlearning.net CNAME .
+yanglini.justlearning.net CNAME .
+*.yanglini.justlearning.net CNAME .
 dns.karfamily.net CNAME .
 *.dns.karfamily.net CNAME .
 adguard.kasbot.net CNAME .
@@ -10610,6 +10630,8 @@ pm7051-br.xyz CNAME .
 *.pm7051-br.xyz CNAME .
 pm9352-bd.xyz CNAME .
 *.pm9352-bd.xyz CNAME .
+dns.propheci.xyz CNAME .
+*.dns.propheci.xyz CNAME .
 proxybrowser.xyz CNAME .
 *.proxybrowser.xyz CNAME .
 proxydude.xyz CNAME .

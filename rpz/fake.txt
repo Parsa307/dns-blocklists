@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755643140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755700860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Aug 2025 22:39 UTC
-; Version: 2025.0819.2239.52
+; Last modified: 20 Aug 2025 14:41 UTC
+; Version: 2025.0820.1441.11
 ; Syntax: RPZ
-; Number of entries: 28308
+; Number of entries: 28336
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -97,6 +97,8 @@ alohas.at CNAME .
 *.alohas.at CNAME .
 alpenfluss.at CNAME .
 *.alpenfluss.at CNAME .
+alpenlinie.at CNAME .
+*.alpenlinie.at CNAME .
 alphaleteosterreich.at CNAME .
 *.alphaleteosterreich.at CNAME .
 alpinex.at CNAME .
@@ -945,6 +947,8 @@ xqnail.com.au CNAME .
 *.xqnail.com.au CNAME .
 affenzahn.baby CNAME .
 *.affenzahn.baby CNAME .
+itski.silverpop.baby CNAME .
+*.itski.silverpop.baby CNAME .
 replicauhren.be CNAME .
 *.replicauhren.be CNAME .
 oud.sint-janscollege.be CNAME .
@@ -3049,6 +3053,8 @@ bendoffice.com CNAME .
 *.bendoffice.com CNAME .
 beneathk.com CNAME .
 *.beneathk.com CNAME .
+beneficialx.com CNAME .
+*.beneficialx.com CNAME .
 benefitw.com CNAME .
 *.benefitw.com CNAME .
 beniceu.com CNAME .
@@ -4549,6 +4555,8 @@ commiodity.com CNAME .
 *.commiodity.com CNAME .
 commoditye.com CNAME .
 *.commoditye.com CNAME .
+commodityk.com CNAME .
+*.commodityk.com CNAME .
 commodityt.com CNAME .
 *.commodityt.com CNAME .
 communicatk.com CNAME .
@@ -6607,6 +6615,8 @@ fiorenz.com CNAME .
 *.fiorenz.com CNAME .
 firegemss.com CNAME .
 *.firegemss.com CNAME .
+firmadmire.com CNAME .
+*.firmadmire.com CNAME .
 firmenfinderonline.com CNAME .
 *.firmenfinderonline.com CNAME .
 first-investcapital.com CNAME .
@@ -6851,6 +6861,8 @@ free-maket.com CNAME .
 *.free-maket.com CNAME .
 freeacy.com CNAME .
 *.freeacy.com CNAME .
+freeseem.com CNAME .
+*.freeseem.com CNAME .
 freesmarttools.com CNAME .
 *.freesmarttools.com CNAME .
 freeworkhub.com CNAME .
@@ -8057,6 +8069,8 @@ heldholz.com CNAME .
 *.heldholz.com CNAME .
 helestyle.com CNAME .
 *.helestyle.com CNAME .
+helganieblershop.com CNAME .
+*.helganieblershop.com CNAME .
 helgawelpenhaus.com CNAME .
 *.helgawelpenhaus.com CNAME .
 helikontexoutdoor.com CNAME .
@@ -9921,6 +9935,8 @@ lockwoodinv.com CNAME .
 *.lockwoodinv.com CNAME .
 locmyparcel.com CNAME .
 *.locmyparcel.com CNAME .
+locomotivey.com CNAME .
+*.locomotivey.com CNAME .
 lodiac.com CNAME .
 *.lodiac.com CNAME .
 lodischuhedeutschland.com CNAME .
@@ -11659,6 +11675,8 @@ obroker.com CNAME .
 *.obroker.com CNAME .
 occasionak.com CNAME .
 *.occasionak.com CNAME .
+occasionk.com CNAME .
+*.occasionk.com CNAME .
 ochsner-agrarhandel.com CNAME .
 *.ochsner-agrarhandel.com CNAME .
 octa-trade.com CNAME .
@@ -15111,6 +15129,8 @@ tastefulsl.com CNAME .
 *.tastefulsl.com CNAME .
 tatadress.com CNAME .
 *.tatadress.com CNAME .
+tatamibjjstore-eu.com CNAME .
+*.tatamibjjstore-eu.com CNAME .
 tatonka-de.com CNAME .
 *.tatonka-de.com CNAME .
 taubenfutterde.com CNAME .
@@ -15437,6 +15457,8 @@ thorogooddeutschland.com CNAME .
 *.thorogooddeutschland.com CNAME .
 thorogoodfrance.com CNAME .
 *.thorogoodfrance.com CNAME .
+thresholdi.com CNAME .
+*.thresholdi.com CNAME .
 thrillsnew.com CNAME .
 *.thrillsnew.com CNAME .
 throughouty.com CNAME .
@@ -16455,6 +16477,8 @@ viennameerschaum.com CNAME .
 *.viennameerschaum.com CNAME .
 viennareps.com CNAME .
 *.viennareps.com CNAME .
+vignette-shops.com CNAME .
+*.vignette-shops.com CNAME .
 vignobles-terroirs.com CNAME .
 *.vignobles-terroirs.com CNAME .
 vigoroussport.com CNAME .
@@ -16519,8 +16543,6 @@ viva-markets.com CNAME .
 *.viva-markets.com CNAME .
 viva-stores.com CNAME .
 *.viva-stores.com CNAME .
-vivaiacollection.com CNAME .
-*.vivaiacollection.com CNAME .
 vivaiaschuhe.com CNAME .
 *.vivaiaschuhe.com CNAME .
 vivaiaschweiz.com CNAME .
@@ -17155,6 +17177,8 @@ yonkine.com CNAME .
 *.yonkine.com CNAME .
 yoocaa.com CNAME .
 *.yoocaa.com CNAME .
+yoohal.com CNAME .
+*.yoohal.com CNAME .
 youngbf.com CNAME .
 *.youngbf.com CNAME .
 yourgiftshopping.com CNAME .
@@ -25639,6 +25663,8 @@ ewigerbund.org CNAME .
 *.ewigerbund.org CNAME .
 exango.org CNAME .
 *.exango.org CNAME .
+exeloniq.org CNAME .
+*.exeloniq.org CNAME .
 freevouchercode.org CNAME .
 *.freevouchercode.org CNAME .
 fvkiwanis.org CNAME .
@@ -25707,6 +25733,8 @@ mrlh.org CNAME .
 *.mrlh.org CNAME .
 nationalstemcellbank.org CNAME .
 *.nationalstemcellbank.org CNAME .
+nerveillegems.org CNAME .
+*.nerveillegems.org CNAME .
 ntischoolpune.org CNAME .
 *.ntischoolpune.org CNAME .
 oakdalerotary.org CNAME .

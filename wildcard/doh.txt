@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Aug 2025 08:15 UTC
-# Version: 2025.0820.0815.35
+# Last modified: 20 Aug 2025 16:19 UTC
+# Version: 2025.0820.1619.19
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1432
+# Number of entries: 1434
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -294,6 +294,7 @@
 *.qual.cuprum.ru
 *.dns.cwlys.com
 *.dns.cybertonic.tech
+*.cynntex.fun
 *.dns.cynthialabs.net
 *.dns.d365.in
 *.dns.d4d.moe
@@ -513,6 +514,7 @@
 *.doh.eddi.net
 *.dns.tuna.tsinghua.edu.cn
 *.adguard.ef67daisuki.club
+*.dns.efficientdocuments.com
 *.hole.elbschloss.xyz
 *.dns.elemental.software
 *.eliatofani.ovh
@@ -898,7 +900,6 @@
 *.blackhole.myon.lu
 *.area51.mywire.org
 *.fwgw.orangepipc.mywire.org
-*.dns.mzjtechnology.com
 *.dns.mzrme.cn
 *.dns.n23.io
 *.doh-ca.naftalie.net
@@ -1118,6 +1119,7 @@
 *.de.dns.privex.io
 *.nl.dns.privex.io
 *.project-evoex.de
+*.dns.propheci.xyz
 *.dns.psociety.de
 *.publicdnsserver.com
 *.dns.pumpkinvrar.com
