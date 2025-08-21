@@ -497,7 +497,7 @@ A blocklist for blocking known hosters that also host badware via user content t
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 2128 compressed domains
+**Entries:** 2129 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
