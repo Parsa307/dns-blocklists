@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755778320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755815160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Aug 2025 12:12 UTC
-; Version: 2025.0821.1212.24
+; Last modified: 21 Aug 2025 22:26 UTC
+; Version: 2025.0821.2226.21
 ; Syntax: RPZ
-; Number of entries: 20878
+; Number of entries: 20862
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -133,8 +133,6 @@ riper.am CNAME .
 *.riper.am CNAME .
 yts.am CNAME .
 *.yts.am CNAME .
-voe.ao CNAME .
-*.voe.ao CNAME .
 1337x.app CNAME .
 *.1337x.app CNAME .
 5play.app CNAME .
@@ -531,8 +529,6 @@ privatemoviez.beauty CNAME .
 *.654321.best CNAME .
 tracker.daydream.dmhy.best CNAME .
 *.tracker.daydream.dmhy.best CNAME .
-dood.best CNAME .
-*.dood.best CNAME .
 filmsenzalimiti.best CNAME .
 *.filmsenzalimiti.best CNAME .
 juraganfilm.best CNAME .
@@ -619,6 +615,8 @@ bittorent.biz CNAME .
 *.bittorent.biz CNAME .
 blackpearl.biz CNAME .
 *.blackpearl.biz CNAME .
+blues-brothers.biz CNAME .
+*.blues-brothers.biz CNAME .
 bobfilm.biz CNAME .
 *.bobfilm.biz CNAME .
 casacinema.biz CNAME .
@@ -787,8 +785,6 @@ streamingcommunity.boats CNAME .
 *.streamingcommunity.boats CNAME .
 streamingcommunityz.boats CNAME .
 *.streamingcommunityz.boats CNAME .
-dood.bond CNAME .
-*.dood.bond CNAME .
 guardaserie.bond CNAME .
 *.guardaserie.bond CNAME .
 mrunblock.bond CNAME .
@@ -1495,8 +1491,6 @@ streamingcommunity.cheap CNAME .
 *.streamingcommunity.cheap CNAME .
 ddos.city CNAME .
 *.ddos.city CNAME .
-dood.city CNAME .
-*.dood.city CNAME .
 tracker.hdcity.city CNAME .
 *.tracker.hdcity.city CNAME .
 r365.city CNAME .
@@ -2393,6 +2387,8 @@ aklivetv.com CNAME .
 *.aklivetv.com CNAME .
 alabout.com CNAME .
 *.alabout.com CNAME .
+tracker.alaskantf.com CNAME .
+*.tracker.alaskantf.com CNAME .
 alfanotv.com CNAME .
 *.alfanotv.com CNAME .
 alifanet.com CNAME .
@@ -3749,6 +3745,8 @@ downparadise.com CNAME .
 *.downparadise.com CNAME .
 downpit.com CNAME .
 *.downpit.com CNAME .
+doxma.com CNAME .
+*.doxma.com CNAME .
 dr-farfar.com CNAME .
 *.dr-farfar.com CNAME .
 dragons-dungeon.com CNAME .
@@ -7455,6 +7453,8 @@ wareztheme.com CNAME .
 *.wareztheme.com CNAME .
 warezwitch.com CNAME .
 *.warezwitch.com CNAME .
+warezws.com CNAME .
+*.warezws.com CNAME .
 warindustries.com CNAME .
 *.warindustries.com CNAME .
 wat32.com CNAME .
@@ -8827,8 +8827,6 @@ altadefinizione.futbol CNAME .
 *.altadefinizione.futbol CNAME .
 altadefinizione01.fyi CNAME .
 *.altadefinizione01.fyi CNAME .
-dood.fyi CNAME .
-*.dood.fyi CNAME .
 egydead.fyi CNAME .
 *.egydead.fyi CNAME .
 kinox.fyi CNAME .
@@ -8929,8 +8927,6 @@ sportsonline.gl CNAME .
 *.sportsonline.gl CNAME .
 altadefinizione01.global CNAME .
 *.altadefinizione01.global CNAME .
-dood.gold CNAME .
-*.dood.gold CNAME .
 filmsenzalimiti.gold CNAME .
 *.filmsenzalimiti.gold CNAME .
 megakino.gold CNAME .
@@ -8993,8 +8989,6 @@ megakino.guru CNAME .
 *.megakino.guru CNAME .
 123movies.gy CNAME .
 *.123movies.gy CNAME .
-dood.hair CNAME .
-*.dood.hair CNAME .
 doodstream.hair CNAME .
 *.doodstream.hair CNAME .
 ilgeniodellostreaming.hair CNAME .
@@ -10187,8 +10181,6 @@ rapidleech2011.eu.ki CNAME .
 *.1cinevood.kim CNAME .
 altadefinizione.kim CNAME .
 *.altadefinizione.kim CNAME .
-dood.kim CNAME .
-*.dood.kim CNAME .
 gomovies.kim CNAME .
 *.gomovies.kim CNAME .
 megakino.kim CNAME .
@@ -11313,6 +11305,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+t411.me CNAME .
+*.t411.me CNAME .
 tantifilm.me CNAME .
 *.tantifilm.me CNAME .
 tarjetaroja.me CNAME .
@@ -13759,8 +13753,6 @@ altadefinizione.network CNAME .
 *.altadefinizione.network CNAME .
 cb01.network CNAME .
 *.cb01.network CNAME .
-dood.network CNAME .
-*.dood.network CNAME .
 dramaqu.network CNAME .
 *.dramaqu.network CNAME .
 eurostreaming.network CNAME .
@@ -14239,6 +14231,8 @@ ac-market.org CNAME .
 *.ac-market.org CNAME .
 activationkeys.org CNAME .
 *.activationkeys.org CNAME .
+alexlan.org CNAME .
+*.alexlan.org CNAME .
 alldj.org CNAME .
 *.alldj.org CNAME .
 alleenretail.org CNAME .
@@ -14697,6 +14691,8 @@ torrent.eu.org CNAME .
 *.2.tracker.eu.org CNAME .
 3.tracker.eu.org CNAME .
 *.3.tracker.eu.org CNAME .
+4.tracker.eu.org CNAME .
+*.4.tracker.eu.org CNAME .
 everythingmoe.org CNAME .
 *.everythingmoe.org CNAME .
 evopt.org CNAME .
@@ -15577,8 +15573,8 @@ sumotracker.org CNAME .
 *.sumotracker.org CNAME .
 supertorrents.org CNAME .
 *.supertorrents.org CNAME .
-forum.suprbay.org CNAME .
-*.forum.suprbay.org CNAME .
+suprbay.org CNAME .
+*.suprbay.org CNAME .
 swebits.org CNAME .
 *.swebits.org CNAME .
 swetracker.org CNAME .
@@ -16245,8 +16241,6 @@ tracker.breizh.pm CNAME .
 *.tracker.breizh.pm CNAME .
 dood.pm CNAME .
 *.dood.pm CNAME .
-doodstream.pm CNAME .
-*.doodstream.pm CNAME .
 fbstreams.pm CNAME .
 *.fbstreams.pm CNAME .
 vipleague.pm CNAME .
@@ -16259,14 +16253,10 @@ yesmovies.pm CNAME .
 *.yesmovies.pm CNAME .
 yts.pm CNAME .
 *.yts.pm CNAME .
-dood.pn CNAME .
-*.dood.pn CNAME .
 eurostreaming.poker CNAME .
 *.eurostreaming.poker CNAME .
 cb01.press CNAME .
 *.cb01.press CNAME .
-dood.press CNAME .
-*.dood.press CNAME .
 thepiratebay.press CNAME .
 *.thepiratebay.press CNAME .
 123moviesfull.pro CNAME .
@@ -16585,8 +16575,6 @@ thepiratebay.red CNAME .
 *.thepiratebay.red CNAME .
 wawacity.red CNAME .
 *.wawacity.red CNAME .
-dood.rent CNAME .
-*.dood.rent CNAME .
 guardaserie.rent CNAME .
 *.guardaserie.rent CNAME .
 streamingcommunity.rent CNAME .
@@ -18005,8 +17993,6 @@ crichd.sx CNAME .
 *.crichd.sx CNAME .
 cricsports.sx CNAME .
 *.cricsports.sx CNAME .
-dood.sx CNAME .
-*.dood.sx CNAME .
 ekino.sx CNAME .
 *.ekino.sx CNAME .
 tracker.empornium.sx CNAME .
@@ -18061,8 +18047,6 @@ vipbox.sx CNAME .
 *.vipbox.sx CNAME .
 voe.sx CNAME .
 *.voe.sx CNAME .
-dood.tattoo CNAME .
-*.dood.tattoo CNAME .
 eurostreaming.tattoo CNAME .
 *.eurostreaming.tattoo CNAME .
 filmpertutti.tattoo CNAME .

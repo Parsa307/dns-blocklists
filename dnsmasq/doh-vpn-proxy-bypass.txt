@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Aug 2025 17:43 UTC
-# Version: 2025.0821.1743.10
+# Last modified: 21 Aug 2025 22:32 UTC
+# Version: 2025.0821.2232.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5361
+# Number of entries: 5357
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -640,6 +640,7 @@ local=/dns.christian.moe/
 local=/christophbrem.com/
 local=/dns.chriswservers.com/
 local=/greenwhatchootalkinbout.chrisxp.xyz/
+local=/chromebook.digital/
 local=/dns.chromeina.top/
 local=/chromeproxy.net/
 local=/dns.chunghwamc.com/
@@ -1005,7 +1006,6 @@ local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/dns.cybertonic.tech/
-local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -1337,7 +1337,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1366,7 +1365,6 @@ local=/enproxy.com/
 local=/enrollkirgo.com/
 local=/owenforzono.entergod.com/
 local=/owenforzonoiseeyou.entergod.com/
-local=/math12.enuse.tk/
 local=/dns.enzonix.com/
 local=/eonvpn.com/
 local=/epicbrowser.com/
@@ -1483,7 +1481,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2429,7 +2426,6 @@ local=/ispcapi.mcafee.com/
 local=/msc.mcafee.com/
 local=/safeconnect.mcafee.com/
 local=/pluhbruh.mctwisted.pro/
-local=/work.idea.shoebridge.me.uk/
 local=/contact.meatbytes.com/
 local=/adguard.meddy94.de/
 local=/mediahint.com/
@@ -2598,7 +2594,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -2771,6 +2766,7 @@ local=/nucleusvpn.com/
 local=/dns.nullgate.net/
 local=/nullsbrawly.xyz/
 local=/dns.numerus.com/
+local=/nunc.se/
 local=/vpn.nvidia.com/
 local=/nvpn.net/
 local=/nvpn.to/

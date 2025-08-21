@@ -256,6 +256,7 @@ https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_clearfake.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/fakeapp.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/android_pua.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/anonymous_web_proxy.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/blockchain_dns.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/dns_tunneling_service.txt
@@ -335,5 +336,4 @@ https://www.watchlist-internet.at/liste-speditionen/
 https://www.watchlist-internet.at/liste-urlaubsbuchung/
 https://www.zoso.ro/pages/rolist2.txt
 https://www.zoso.ro/pages/rolist.txt
-https://zonefiles.io/f/compromised/ip/live/
 ```

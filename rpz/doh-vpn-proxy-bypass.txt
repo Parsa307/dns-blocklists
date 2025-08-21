@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755798180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755815520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Aug 2025 17:43 UTC
-; Version: 2025.0821.1743.10
+; Last modified: 21 Aug 2025 22:32 UTC
+; Version: 2025.0821.2232.10
 ; Syntax: RPZ
-; Number of entries: 10722
+; Number of entries: 10714
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1644,8 +1644,6 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2570,8 +2568,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -5654,6 +5650,8 @@ unblocked2.dev CNAME .
 *.unblocked2.dev CNAME .
 uproxy.dev CNAME .
 *.uproxy.dev CNAME .
+chromebook.digital CNAME .
+*.chromebook.digital CNAME .
 onion.direct CNAME .
 *.onion.direct CNAME .
 mabuktogel.directory CNAME .
@@ -5922,8 +5920,6 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
-cynntex.fun CNAME .
-*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -9728,6 +9724,8 @@ silly.lindhesidan.se CNAME .
 *.silly.lindhesidan.se CNAME .
 notes.books.nexum.se CNAME .
 *.notes.books.nexum.se CNAME .
+nunc.se CNAME .
+*.nunc.se CNAME .
 resolver.sunet.se CNAME .
 *.resolver.sunet.se CNAME .
 vpntunnel.se CNAME .
@@ -9900,8 +9898,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -9960,8 +9956,6 @@ dns.kawa.tf CNAME .
 *.dns.kawa.tf CNAME .
 achievementnetwork.tk CNAME .
 *.achievementnetwork.tk CNAME .
-math12.enuse.tk CNAME .
-*.math12.enuse.tk CNAME .
 jp1.f7b6h9.tk CNAME .
 *.jp1.f7b6h9.tk CNAME .
 guh.uniall.tk CNAME .
@@ -10150,8 +10144,6 @@ v.dnscrypt.uk CNAME .
 *.v.dnscrypt.uk CNAME .
 www-pa.linkall.uk CNAME .
 *.www-pa.linkall.uk CNAME .
-work.idea.shoebridge.me.uk CNAME .
-*.work.idea.shoebridge.me.uk CNAME .
 dns.aa.net.uk CNAME .
 *.dns.aa.net.uk CNAME .
 resolver.dnsprivacy.org.uk CNAME .

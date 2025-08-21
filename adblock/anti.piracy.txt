@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 21 Aug 2025 12:12 UTC
-! Version: 2025.0821.1212.24
+! Last modified: 21 Aug 2025 22:26 UTC
+! Version: 2025.0821.2226.21
 ! Syntax: AdBlock
-! Number of entries: 10439
+! Number of entries: 10431
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -491,8 +491,10 @@
 ||akkadukka.com^
 ||aklivetv.com^
 ||alabout.com^
+||tracker.alaskantf.com^
 ||aletorrenty.pl^
 ||alex-warez.ru^
+||alexlan.org^
 ||alfafile.net^
 ||alfanotv.com^
 ||bt.ali213.net^
@@ -1422,6 +1424,7 @@
 ||blue1city.net^
 ||bluebird-hd.org^
 ||blueroms.ws^
+||blues-brothers.biz^
 ||blueseries.net^
 ||bluewarez.pl^
 ||blunter.xyz^
@@ -2625,17 +2628,14 @@
 ||dood.at^
 ||dood.bar^
 ||dood.beauty^
-||dood.best^
 ||dood.biz^
 ||dood.blog^
 ||dood.blue^
-||dood.bond^
 ||dood.boo^
 ||dood.bz^
 ||dood.camp^
 ||dood.cfd^
 ||dood.chat^
-||dood.city^
 ||dood.cm^
 ||dood.co^
 ||dood.com^
@@ -2646,17 +2646,13 @@
 ||dood.diy^
 ||dood.fan^
 ||dood.fun^
-||dood.fyi^
-||dood.gold^
 ||dood.guru^
-||dood.hair^
 ||dood.host^
 ||dood.icu^
 ||dood.ie^
 ||dood.im^
 ||dood.ink^
 ||dood.is^
-||dood.kim^
 ||dood.la^
 ||dood.li^
 ||dood.live^
@@ -2668,7 +2664,6 @@
 ||dood.mov^
 ||dood.mx^
 ||dood.net^
-||dood.network^
 ||dood.news^
 ||dood.nl^
 ||dood.one^
@@ -2679,12 +2674,9 @@
 ||dood.pink^
 ||dood.plus^
 ||dood.pm^
-||dood.pn^
-||dood.press^
 ||dood.pro^
 ||dood.qpon^
 ||dood.re^
-||dood.rent^
 ||dood.rest^
 ||dood.rip^
 ||dood.ro^
@@ -2694,8 +2686,6 @@
 ||dood.so^
 ||dood.solutions^
 ||dood.stream^
-||dood.sx^
-||dood.tattoo^
 ||dood.team^
 ||dood.tech^
 ||dood.tf^
@@ -2733,7 +2723,6 @@
 ||doodstream.life^
 ||doodstream.link^
 ||doodstream.live^
-||doodstream.pm^
 ||doodstream.pro^
 ||doodstream.quest^
 ||doodstream.space^
@@ -2795,6 +2784,7 @@
 ||downthem.org^
 ||downtr.cc^
 ||downturk.net^
+||doxma.com^
 ||dp27.ru^
 ||dpstream.cc^
 ||dpstream.lol^
@@ -3100,6 +3090,7 @@
 ||1.tracker.eu.org^
 ||2.tracker.eu.org^
 ||3.tracker.eu.org^
+||4.tracker.eu.org^
 ||euro2024direct.ru^
 ||euroddl.com^
 ||euroemu.net^
@@ -8404,7 +8395,7 @@
 ||supertorrents.org^
 ||supertvaovivo.live^
 ||supertvaovivo.tv^
-||forum.suprbay.org^
+||suprbay.org^
 ||supremesecurityteam.com^
 ||surrealmoviez.info^
 ||susflix.tv^
@@ -8441,6 +8432,7 @@
 ||t411.ch^
 ||t411.in^
 ||t411.io^
+||t411.me^
 ||t50.com^
 ||rt.tace.ru^
 ||taiwebs.com^
@@ -9759,7 +9751,6 @@
 ||vodly.to^
 ||vodnerilo.com^
 ||voe.ae^
-||voe.ao^
 ||voe.ch^
 ||voe.dk^
 ||voe.es^
@@ -9888,6 +9879,7 @@
 ||wareztuga.ws^
 ||warezturkey.org^
 ||warezwitch.com^
+||warezws.com^
 ||warindustries.com^
 ||warlog.info^
 ||warned.net^

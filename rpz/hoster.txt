@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755775860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755809700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Aug 2025 11:31 UTC
-; Version: 2025.0821.1131.16
+; Last modified: 21 Aug 2025 20:55 UTC
+; Version: 2025.0821.2055.39
 ; Syntax: RPZ
-; Number of entries: 4258
+; Number of entries: 4274
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -103,6 +103,8 @@ blogspot.com.au CNAME .
 *.blogspot.com.au CNAME .
 webnode.com.au CNAME .
 *.webnode.com.au CNAME .
+cricket.net.au CNAME .
+*.cricket.net.au CNAME .
 netspace.net.au CNAME .
 *.netspace.net.au CNAME .
 blog.ba CNAME .
@@ -165,6 +167,8 @@ uniblog.com.br CNAME .
 *.uniblog.com.br CNAME .
 webnode.com.br CNAME .
 *.webnode.com.br CNAME .
+vpn.net.br CNAME .
+*.vpn.net.br CNAME .
 blogspot.com.by CNAME .
 *.blogspot.com.by CNAME .
 fw.bz CNAME .
@@ -215,6 +219,8 @@ arien.cl CNAME .
 *.arien.cl CNAME .
 blogspot.cl CNAME .
 *.blogspot.cl CNAME .
+gazmuri.cl CNAME .
+*.gazmuri.cl CNAME .
 tie.cl CNAME .
 *.tie.cl CNAME .
 webnode.cl CNAME .
@@ -3207,6 +3213,8 @@ comunidades.net CNAME .
 *.comunidades.net CNAME .
 cryptonight.net CNAME .
 *.cryptonight.net CNAME .
+cwqso.net CNAME .
+*.cwqso.net CNAME .
 dbblog.net CNAME .
 *.dbblog.net CNAME .
 dnip.net CNAME .
@@ -3277,6 +3285,8 @@ kulichki.net CNAME .
 *.kulichki.net CNAME .
 l8n5kafm6l.net CNAME .
 *.l8n5kafm6l.net CNAME .
+macao.net CNAME .
+*.macao.net CNAME .
 mastertopforum.net CNAME .
 *.mastertopforum.net CNAME .
 mdwrite.net CNAME .
@@ -3425,6 +3435,8 @@ blogspot.no CNAME .
 *.blogspot.no CNAME .
 webnode.no CNAME .
 *.webnode.no CNAME .
+keshavbashyal.com.np CNAME .
+*.keshavbashyal.com.np CNAME .
 co.nu CNAME .
 *.co.nu CNAME .
 com.nu CNAME .
@@ -4099,6 +4111,8 @@ co.to CNAME .
 *.co.to CNAME .
 land.to CNAME .
 *.land.to CNAME .
+nathan.to CNAME .
+*.nathan.to CNAME .
 bebinmall.today CNAME .
 *.bebinmall.today CNAME .
 africafull.top CNAME .
@@ -4203,6 +4217,8 @@ f11.us CNAME .
 *.f11.us CNAME .
 heliohost.us CNAME .
 *.heliohost.us CNAME .
+klingler.us CNAME .
+*.klingler.us CNAME .
 my-place.us CNAME .
 *.my-place.us CNAME .
 phpnet.us CNAME .

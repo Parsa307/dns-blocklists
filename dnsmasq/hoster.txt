@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Aug 2025 11:31 UTC
-# Version: 2025.0821.1131.16
+# Last modified: 21 Aug 2025 20:55 UTC
+# Version: 2025.0821.2055.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2129
+# Number of entries: 2137
 #
 local=/000a.de/
 local=/000free.us/
@@ -688,6 +688,7 @@ local=/blogspot.com.tr/
 local=/blogspot.com.uy/
 local=/cableonline.com.mx/
 local=/fullblog.com.ar/
+local=/keshavbashyal.com.np/
 local=/kl.com.ua/
 local=/lojaintegrada.com.br/
 local=/sclub.com.tw/
@@ -742,6 +743,7 @@ local=/ct8.pl/
 local=/cubavalue.shop/
 local=/cum.fi/
 local=/cwcity.de/
+local=/cwqso.net/
 local=/cyberbree.com/
 local=/cyberfight.de/
 local=/cz.gp/
@@ -1065,6 +1067,7 @@ local=/gamblerschoiceclothing.shop/
 local=/game.lc/
 local=/gaming.lc/
 local=/gamingadd.club/
+local=/gazmuri.cl/
 local=/gearhost.com/
 local=/gearhostpreview.com/
 local=/genblogger.com/
@@ -1291,6 +1294,7 @@ local=/kilu.net/
 local=/kilu.org/
 local=/kiluweb.com/
 local=/klammert.de/
+local=/klingler.us/
 local=/kolido.net/
 local=/kr.gp/
 local=/kraftonevent.com/
@@ -1352,6 +1356,7 @@ local=/tripod.lycos.it/
 local=/m.vu/
 local=/ma.gp/
 local=/ma-page.fr/
+local=/macao.net/
 local=/maddsites.com/
 local=/madmouseblog.com/
 local=/mail.ht/
@@ -1447,13 +1452,16 @@ local=/name.ac/
 local=/name.vg/
 local=/nanacity.com/
 local=/narod.ru/
+local=/nathan.to/
 local=/nazuka.net/
 local=/blog.so-net.ne.jp/
 local=/nearlyfreespeech.net/
 local=/neocities.org/
+local=/cricket.net.au/
 local=/inter.net.il/
 local=/netspace.net.au/
 local=/prima.net.ar/
+local=/vpn.net.br/
 local=/netai.net/
 local=/netcipia.com/
 local=/netfast.org/

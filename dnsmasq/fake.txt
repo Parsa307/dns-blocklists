@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Aug 2025 14:51 UTC
-# Version: 2025.0821.1451.00
+# Last modified: 21 Aug 2025 18:19 UTC
+# Version: 2025.0821.1819.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14190
+# Number of entries: 14191
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -6339,6 +6339,7 @@ local=/immediateproair.com/
 local=/immediateproair.net/
 local=/immediatew.com/
 local=/immediatie.com/
+local=/immersiveaudiotheaters.com/
 local=/immobilien-berghaus.de/
 local=/immobilien-schaller.at/
 local=/immobilien24.online/
