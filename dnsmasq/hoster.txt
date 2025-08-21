@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Aug 2025 22:51 UTC
-# Version: 2025.0820.2251.46
+# Last modified: 21 Aug 2025 06:50 UTC
+# Version: 2025.0821.0650.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2127
+# Number of entries: 2128
 #
 local=/000a.de/
 local=/000free.us/
@@ -1593,6 +1593,7 @@ local=/post-blogs.com/
 local=/postbit.com/
 local=/posterous.com/
 local=/power-heberg.com/
+local=/pp.ua/
 local=/pressname.club/
 local=/preview-domain.com/
 local=/primetap.com/

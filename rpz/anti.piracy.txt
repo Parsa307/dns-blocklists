@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755740520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755768540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Aug 2025 01:42 UTC
-; Version: 2025.0821.0142.05
+; Last modified: 21 Aug 2025 09:29 UTC
+; Version: 2025.0821.0929.21
 ; Syntax: RPZ
-; Number of entries: 20618
+; Number of entries: 20614
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -14519,8 +14519,6 @@ torrent.eu.org CNAME .
 *.2.tracker.eu.org CNAME .
 3.tracker.eu.org CNAME .
 *.3.tracker.eu.org CNAME .
-4.tracker.eu.org CNAME .
-*.4.tracker.eu.org CNAME .
 everythingmoe.org CNAME .
 *.everythingmoe.org CNAME .
 evopt.org CNAME .
@@ -18547,8 +18545,6 @@ sparkle.ghostchu-services.top CNAME .
 *.sparkle.ghostchu-services.top CNAME .
 tracker.ghostchu-services.top CNAME .
 *.tracker.ghostchu-services.top CNAME .
-utracker.ghostchu-services.top CNAME .
-*.utracker.ghostchu-services.top CNAME .
 haikyuu.top CNAME .
 *.haikyuu.top CNAME .
 hdfilme.top CNAME .
