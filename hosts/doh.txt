@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Aug 2025 09:44 UTC
-# Version: 2025.0821.0944.35
+# Last modified: 21 Aug 2025 17:42 UTC
+# Version: 2025.0821.1742.48
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1591
+# Number of entries: 1593
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -670,6 +670,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns01.flm9.net
@@ -1026,6 +1027,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net

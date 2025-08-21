@@ -44,6 +44,7 @@ https://github.com/Cisco-Talos/IOCs
 https://github.com/criminalip/Daily-Mal-Phishing/archive/refs/heads/main.zip
 https://github.com/duckduckgo/tracker-blocklists
 https://github.com/ghostery/trackerdb
+https://github.com/kavat/anubi-signatures/tree/main/fqdn
 https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt

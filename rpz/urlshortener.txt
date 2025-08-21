@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755774060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755792000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Aug 2025 11:01 UTC
-; Version: 2025.0821.1101.01
+; Last modified: 21 Aug 2025 16:00 UTC
+; Version: 2025.0821.1600.41
 ; Syntax: RPZ
-; Number of entries: 11564
+; Number of entries: 11578
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -108,6 +108,8 @@ dpmd.ai CNAME .
 *.dpmd.ai CNAME .
 dvrv.ai CNAME .
 *.dvrv.ai CNAME .
+fibr.ai CNAME .
+*.fibr.ai CNAME .
 flp.ai CNAME .
 *.flp.ai CNAME .
 fltr.ai CNAME .
@@ -3336,6 +3338,8 @@ tiny123.com CNAME .
 *.tiny123.com CNAME .
 tiny1z.com CNAME .
 *.tiny1z.com CNAME .
+tiny4t.com CNAME .
+*.tiny4t.com CNAME .
 tinyerz.com CNAME .
 *.tinyerz.com CNAME .
 tinylinkurl.com CNAME .
@@ -5188,6 +5192,8 @@ minl.in CNAME .
 *.minl.in CNAME .
 moonlinks.in CNAME .
 *.moonlinks.in CNAME .
+msfy.in CNAME .
+*.msfy.in CNAME .
 mxdisk.in CNAME .
 *.mxdisk.in CNAME .
 my-link.in CNAME .
@@ -5326,6 +5332,8 @@ verd.in CNAME .
 *.verd.in CNAME .
 vlnq.in CNAME .
 *.vlnq.in CNAME .
+webn.in CNAME .
+*.webn.in CNAME .
 shortener.winplaybox.in CNAME .
 *.shortener.winplaybox.in CNAME .
 wpbeg.in CNAME .
@@ -6008,6 +6016,8 @@ jcp.is CNAME .
 *.jcp.is CNAME .
 kick.is CNAME .
 *.kick.is CNAME .
+linky.is CNAME .
+*.linky.is CNAME .
 lnq.is CNAME .
 *.lnq.is CNAME .
 nnn.is CNAME .
@@ -7052,6 +7062,8 @@ yepp.link CNAME .
 *.yepp.link CNAME .
 yes.link CNAME .
 *.yes.link CNAME .
+yolla.link CNAME .
+*.yolla.link CNAME .
 zhort.link CNAME .
 *.zhort.link CNAME .
 zik.link CNAME .
@@ -9204,6 +9216,8 @@ tinyurl.ph CNAME .
 *.tinyurl.ph CNAME .
 pj.pizza CNAME .
 *.pj.pizza CNAME .
+bitly.pk CNAME .
+*.bitly.pk CNAME .
 curl.pk CNAME .
 *.curl.pk CNAME .
 short.pk CNAME .

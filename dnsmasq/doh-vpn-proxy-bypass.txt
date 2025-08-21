@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Aug 2025 09:44 UTC
-# Version: 2025.0821.0944.58
+# Last modified: 21 Aug 2025 17:43 UTC
+# Version: 2025.0821.1743.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5348
+# Number of entries: 5361
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1366,6 +1366,7 @@ local=/enproxy.com/
 local=/enrollkirgo.com/
 local=/owenforzono.entergod.com/
 local=/owenforzonoiseeyou.entergod.com/
+local=/math12.enuse.tk/
 local=/dns.enzonix.com/
 local=/eonvpn.com/
 local=/epicbrowser.com/
@@ -1482,6 +1483,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1627,6 +1629,7 @@ local=/gamingssh.com/
 local=/dns.beta.gandi.net/
 local=/gas.education/
 local=/gatcha.org/
+local=/guide.terms.gatpp.com/
 local=/myincredibleweightlossjounrney.gblandscape.com/
 local=/gclouddns.com/
 local=/gecko.fun/
@@ -1968,7 +1971,10 @@ local=/idealvpn.com/
 local=/curry.idemonch.cl/
 local=/idolproxy.com/
 local=/adguard.shuting.idv.tw/
+local=/remember.use.about-blank.cloaker.ignorelist.com/
+local=/relearn.math.fun.edu.ignorelist.com/
 local=/heb1.ignorelist.com/
+local=/please.let.this.slide.ignorelist.com/
 local=/subscribe-to-vcsa.ignorelist.com/
 local=/test52139.ignorelist.com/
 local=/uhhhhhh.ignorelist.com/
@@ -2151,6 +2157,7 @@ local=/ad.justincounts.com/
 local=/dns.justinnetworkingsolutions.com/
 local=/coolmanbartx.justlearning.net/
 local=/ihate.justlearning.net/
+local=/ixl.is.justlearning.net/
 local=/nxmevip.justlearning.net/
 local=/saugatproxm.justlearning.net/
 local=/sciencerocks.justlearning.net/
@@ -2232,6 +2239,7 @@ local=/recap.grade.kredytlinia.pl/
 local=/solidcoding.krewedegroove.com/
 local=/xray.krnl.eu/
 local=/kryptovpn.kryptotel.net/
+local=/orbit.craft.kuede.info/
 local=/dns.kugoapps.com/
 local=/dns.kukal.cz/
 local=/dns.kusoneko.moe/
@@ -2421,6 +2429,7 @@ local=/ispcapi.mcafee.com/
 local=/msc.mcafee.com/
 local=/safeconnect.mcafee.com/
 local=/pluhbruh.mctwisted.pro/
+local=/work.idea.shoebridge.me.uk/
 local=/contact.meatbytes.com/
 local=/adguard.meddy94.de/
 local=/mediahint.com/
@@ -2589,6 +2598,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -3413,6 +3423,7 @@ local=/romirely.tech/
 local=/dns.ronc.ru/
 local=/roogen.com/
 local=/roonyx.com/
+local=/what.the.aw.root.sx/
 local=/helpmeget.root.sx/
 local=/jaiguneeds.root.sx/
 local=/jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx/
@@ -3553,6 +3564,7 @@ local=/shadeyouvpn.com/
 local=/shadowsocks.org/
 local=/shadowtunnels.com/
 local=/shalenkov.dev/
+local=/tutor.idea.shand.org/
 local=/sharejav.com/
 local=/sharevpn.org/
 local=/dns.shareworx.net/
@@ -4595,6 +4607,7 @@ local=/proxy.toolur.com/
 local=/top-proxy.site/
 local=/top10vpn.com/
 local=/how.prep.topmoto.pl/
+local=/chart.train.topone.cl/
 local=/toppal.tech/
 local=/topsecure.info/
 local=/topsun.pw/

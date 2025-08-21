@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755769440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755798180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Aug 2025 09:44 UTC
-; Version: 2025.0821.0944.58
+; Last modified: 21 Aug 2025 17:43 UTC
+; Version: 2025.0821.1743.10
 ; Syntax: RPZ
-; Number of entries: 10696
+; Number of entries: 10722
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -710,6 +710,8 @@ doge.tinf.cl CNAME .
 *.doge.tinf.cl CNAME .
 prr.toma.cl CNAME .
 *.prr.toma.cl CNAME .
+chart.train.topone.cl CNAME .
+*.chart.train.topone.cl CNAME .
 sushi.tosochilemat.cl CNAME .
 *.sushi.tosochilemat.cl CNAME .
 illegals-in-my-yard.trustmi.cl CNAME .
@@ -1838,6 +1840,8 @@ gamers-nor.com CNAME .
 *.gamers-nor.com CNAME .
 gamingssh.com CNAME .
 *.gamingssh.com CNAME .
+guide.terms.gatpp.com CNAME .
+*.guide.terms.gatpp.com CNAME .
 myincredibleweightlossjounrney.gblandscape.com CNAME .
 *.myincredibleweightlossjounrney.gblandscape.com CNAME .
 gclouddns.com CNAME .
@@ -2110,8 +2114,14 @@ idealvpn.com CNAME .
 *.idealvpn.com CNAME .
 idolproxy.com CNAME .
 *.idolproxy.com CNAME .
+remember.use.about-blank.cloaker.ignorelist.com CNAME .
+*.remember.use.about-blank.cloaker.ignorelist.com CNAME .
+relearn.math.fun.edu.ignorelist.com CNAME .
+*.relearn.math.fun.edu.ignorelist.com CNAME .
 heb1.ignorelist.com CNAME .
 *.heb1.ignorelist.com CNAME .
+please.let.this.slide.ignorelist.com CNAME .
+*.please.let.this.slide.ignorelist.com CNAME .
 subscribe-to-vcsa.ignorelist.com CNAME .
 *.subscribe-to-vcsa.ignorelist.com CNAME .
 test52139.ignorelist.com CNAME .
@@ -2560,6 +2570,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -6314,6 +6326,8 @@ doh.kekew.info CNAME .
 *.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
+orbit.craft.kuede.info CNAME .
+*.orbit.craft.kuede.info CNAME .
 legalweb.info CNAME .
 *.legalweb.info CNAME .
 literally.info CNAME .
@@ -7764,6 +7778,8 @@ coolmanbartx.justlearning.net CNAME .
 *.coolmanbartx.justlearning.net CNAME .
 ihate.justlearning.net CNAME .
 *.ihate.justlearning.net CNAME .
+ixl.is.justlearning.net CNAME .
+*.ixl.is.justlearning.net CNAME .
 nxmevip.justlearning.net CNAME .
 *.nxmevip.justlearning.net CNAME .
 saugatproxm.justlearning.net CNAME .
@@ -8988,6 +9004,8 @@ secretsline.org CNAME .
 *.secretsline.org CNAME .
 shadowsocks.org CNAME .
 *.shadowsocks.org CNAME .
+tutor.idea.shand.org CNAME .
+*.tutor.idea.shand.org CNAME .
 sharevpn.org CNAME .
 *.sharevpn.org CNAME .
 dns.silen.org CNAME .
@@ -9882,6 +9900,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -9900,6 +9920,8 @@ crypto.sx CNAME .
 *.crypto.sx CNAME .
 proxy.sx CNAME .
 *.proxy.sx CNAME .
+what.the.aw.root.sx CNAME .
+*.what.the.aw.root.sx CNAME .
 helpmeget.root.sx CNAME .
 *.helpmeget.root.sx CNAME .
 jaiguneeds.root.sx CNAME .
@@ -9938,6 +9960,8 @@ dns.kawa.tf CNAME .
 *.dns.kawa.tf CNAME .
 achievementnetwork.tk CNAME .
 *.achievementnetwork.tk CNAME .
+math12.enuse.tk CNAME .
+*.math12.enuse.tk CNAME .
 jp1.f7b6h9.tk CNAME .
 *.jp1.f7b6h9.tk CNAME .
 guh.uniall.tk CNAME .
@@ -10126,6 +10150,8 @@ v.dnscrypt.uk CNAME .
 *.v.dnscrypt.uk CNAME .
 www-pa.linkall.uk CNAME .
 *.www-pa.linkall.uk CNAME .
+work.idea.shoebridge.me.uk CNAME .
+*.work.idea.shoebridge.me.uk CNAME .
 dns.aa.net.uk CNAME .
 *.dns.aa.net.uk CNAME .
 resolver.dnsprivacy.org.uk CNAME .
