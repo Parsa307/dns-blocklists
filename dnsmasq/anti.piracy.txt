@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Aug 2025 16:14 UTC
-# Version: 2025.0820.1614.08
+# Last modified: 21 Aug 2025 01:42 UTC
+# Version: 2025.0821.0142.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10315
+# Number of entries: 10309
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -492,7 +492,6 @@ local=/aklivetv.com/
 local=/alabout.com/
 local=/aletorrenty.pl/
 local=/alex-warez.ru/
-local=/alexlan.org/
 local=/alfafile.net/
 local=/alfanotv.com/
 local=/bt.ali213.net/
@@ -1422,7 +1421,6 @@ local=/blue-whitegt.com/
 local=/blue1city.net/
 local=/bluebird-hd.org/
 local=/blueroms.ws/
-local=/blues-brothers.biz/
 local=/blueseries.net/
 local=/bluewarez.pl/
 local=/blunter.xyz/
@@ -2500,7 +2498,6 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
-local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -2687,7 +2684,6 @@ local=/downpit.com/
 local=/downthem.org/
 local=/downtr.cc/
 local=/downturk.net/
-local=/doxma.com/
 local=/dp27.ru/
 local=/dpstream.cc/
 local=/dpstream.lol/
@@ -8292,7 +8288,7 @@ local=/supertela.live/
 local=/supertorrents.org/
 local=/supertvaovivo.live/
 local=/supertvaovivo.tv/
-local=/suprbay.org/
+local=/forum.suprbay.org/
 local=/supremesecurityteam.com/
 local=/surrealmoviez.info/
 local=/susflix.tv/
@@ -8329,7 +8325,6 @@ local=/t3nnis.tv/
 local=/t411.ch/
 local=/t411.in/
 local=/t411.io/
-local=/t411.me/
 local=/t50.com/
 local=/rt.tace.ru/
 local=/taiwebs.com/
@@ -9762,7 +9757,6 @@ local=/wareztheme.com/
 local=/wareztuga.ws/
 local=/warezturkey.org/
 local=/warezwitch.com/
-local=/warezws.com/
 local=/warindustries.com/
 local=/warlog.info/
 local=/warned.net/

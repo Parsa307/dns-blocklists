@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Aug 2025 16:19 UTC
-# Version: 2025.0820.1619.19
+# Last modified: 21 Aug 2025 01:58 UTC
+# Version: 2025.0821.0158.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1434
+# Number of entries: 1433
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -491,6 +491,7 @@ local=/dot.pub/
 local=/ns1.dotls.org/
 local=/dns.dotnet.win/
 local=/family.dns.doubleangels.com/
+local=/dns.dremaxx.de/
 local=/droyd.top/
 local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
@@ -514,7 +515,6 @@ local=/dns.eddi.net/
 local=/doh.eddi.net/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -558,6 +558,7 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
+local=/dns.fizz.studio/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
 local=/dns01.flm9.net/
@@ -733,7 +734,6 @@ local=/dns.kastner-online.de/
 local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kebree.fr/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/
@@ -1050,7 +1050,6 @@ local=/rpz-public-resolver1.rrdns.pch.net/
 local=/dns.peb-schmidt.de/
 local=/fuchur.pentament.de/
 local=/pepetio.xyz/
-local=/dns.pernika.net/
 local=/darya.persiannit.net/
 local=/dns.pesaventofilippo.com/
 local=/dns.petqa.ru/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755706740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755741480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Aug 2025 16:19 UTC
-; Version: 2025.0820.1619.41
+; Last modified: 21 Aug 2025 01:58 UTC
+; Version: 2025.0821.0158.27
 ; Syntax: RPZ
-; Number of entries: 10700
+; Number of entries: 10694
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1642,8 +1642,6 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -5434,6 +5432,8 @@ dnsforge.de CNAME .
 *.dnsforge.de CNAME .
 dns.dnshome.de CNAME .
 *.dns.dnshome.de CNAME .
+dns.dremaxx.de CNAME .
+*.dns.dremaxx.de CNAME .
 dukun.de CNAME .
 *.dukun.de CNAME .
 dns.dyn1.de CNAME .
@@ -5640,8 +5640,6 @@ unblocked2.dev CNAME .
 *.unblocked2.dev CNAME .
 uproxy.dev CNAME .
 *.uproxy.dev CNAME .
-chromebook.digital CNAME .
-*.chromebook.digital CNAME .
 onion.direct CNAME .
 *.onion.direct CNAME .
 mabuktogel.directory CNAME .
@@ -6310,8 +6308,6 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 iweb365.info CNAME .
 *.iweb365.info CNAME .
-doh.kekew.info CNAME .
-*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 legalweb.info CNAME .
@@ -7960,8 +7956,6 @@ rpz-public-resolver1.rrdns.pch.net CNAME .
 *.rpz-public-resolver1.rrdns.pch.net CNAME .
 school.pepikutan.net CNAME .
 *.school.pepikutan.net CNAME .
-dns.pernika.net CNAME .
-*.dns.pernika.net CNAME .
 darya.persiannit.net CNAME .
 *.darya.persiannit.net CNAME .
 dns.phillipjberry.net CNAME .
@@ -9712,8 +9706,6 @@ silly.lindhesidan.se CNAME .
 *.silly.lindhesidan.se CNAME .
 notes.books.nexum.se CNAME .
 *.notes.books.nexum.se CNAME .
-nunc.se CNAME .
-*.nunc.se CNAME .
 resolver.sunet.se CNAME .
 *.resolver.sunet.se CNAME .
 vpntunnel.se CNAME .
@@ -9886,6 +9878,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

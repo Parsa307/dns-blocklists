@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755706380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755740460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Aug 2025 16:13 UTC
-; Version: 2025.0820.1613.40
+; Last modified: 21 Aug 2025 01:41 UTC
+; Version: 2025.0821.0141.41
 ; Syntax: RPZ
-; Number of entries: 131674
+; Number of entries: 131666
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -49003,8 +49003,6 @@ metaspins.com CNAME .
 *.metaspins.com CNAME .
 metaspinslots.com CNAME .
 *.metaspinslots.com CNAME .
-metatest1.com CNAME .
-*.metatest1.com CNAME .
 metaverseaibets.com CNAME .
 *.metaverseaibets.com CNAME .
 metaversenetbets.com CNAME .
@@ -64919,8 +64917,6 @@ wildz.com CNAME .
 *.wildz.com CNAME .
 wildzcasino-fi.com CNAME .
 *.wildzcasino-fi.com CNAME .
-wileymetal.com CNAME .
-*.wileymetal.com CNAME .
 willgamblearchitects.com CNAME .
 *.willgamblearchitects.com CNAME .
 williamhill.com CNAME .
@@ -74981,8 +74977,6 @@ slotsgameonline.lol CNAME .
 *.slotsgameonline.lol CNAME .
 slotsgardencasino.lol CNAME .
 *.slotsgardencasino.lol CNAME .
-slotslut.lol CNAME .
-*.slotslut.lol CNAME .
 slotsmeaning.lol CNAME .
 *.slotsmeaning.lol CNAME .
 slotsoffun.lol CNAME .
@@ -76801,8 +76795,6 @@ captaincaz.net CNAME .
 *.captaincaz.net CNAME .
 captainslotscasino.net CNAME .
 *.captainslotscasino.net CNAME .
-caratv.net CNAME .
-*.caratv.net CNAME .
 cardmates.net CNAME .
 *.cardmates.net CNAME .
 caringwithconfidence.net CNAME .

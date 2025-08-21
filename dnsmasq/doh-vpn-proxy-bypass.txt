@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Aug 2025 16:19 UTC
-# Version: 2025.0820.1619.41
+# Last modified: 21 Aug 2025 01:58 UTC
+# Version: 2025.0821.0158.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5350
+# Number of entries: 5347
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -640,7 +640,6 @@ local=/dns.christian.moe/
 local=/christophbrem.com/
 local=/dns.chriswservers.com/
 local=/greenwhatchootalkinbout.chrisxp.xyz/
-local=/chromebook.digital/
 local=/dns.chromeina.top/
 local=/chromeproxy.net/
 local=/dns.chunghwamc.com/
@@ -1270,6 +1269,7 @@ local=/downloadvpnfree.com/
 local=/doyouremember.love/
 local=/globe.dragonbyte.me/
 local=/dreamvpn.us/
+local=/dns.dremaxx.de/
 local=/droidvpn.com/
 local=/droyd.top/
 local=/maths.ds6.pw/
@@ -1337,7 +1337,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1482,6 +1481,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2181,7 +2181,6 @@ local=/ram.kdot.cam/
 local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/dns.kerekes.xyz/
@@ -2761,7 +2760,6 @@ local=/nucleusvpn.com/
 local=/dns.nullgate.net/
 local=/nullsbrawly.xyz/
 local=/dns.numerus.com/
-local=/nunc.se/
 local=/vpn.nvidia.com/
 local=/nvpn.net/
 local=/nvpn.to/
@@ -2952,7 +2950,6 @@ local=/pepetio.xyz/
 local=/school.pepikutan.net/
 local=/perfect-privacy.com/
 local=/perlproxy.com/
-local=/dns.pernika.net/
 local=/homework.maths.percentages.perona.cl/
 local=/darya.persiannit.net/
 local=/personalvpn.biz/

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Aug 2025 16:19 UTC
-# Version: 2025.0820.1619.19
+# Last modified: 21 Aug 2025 01:58 UTC
+# Version: 2025.0821.0158.05
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1591
+# Number of entries: 1590
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -602,6 +602,7 @@
 0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
 0.0.0.0 family.dns.doubleangels.com
+0.0.0.0 dns.dremaxx.de
 0.0.0.0 droyd.top
 0.0.0.0 doh.dscloud.me
 0.0.0.0 agh.dshubham.xyz
@@ -625,7 +626,6 @@
 0.0.0.0 doh.eddi.net
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -669,6 +669,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns01.flm9.net
@@ -847,7 +848,6 @@
 0.0.0.0 kavkaz.monster
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
-0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de
@@ -1186,7 +1186,6 @@
 0.0.0.0 dns.peb-schmidt.de
 0.0.0.0 fuchur.pentament.de
 0.0.0.0 pepetio.xyz
-0.0.0.0 dns.pernika.net
 0.0.0.0 darya.persiannit.net
 0.0.0.0 dns.pesaventofilippo.com
 0.0.0.0 dns.petqa.ru

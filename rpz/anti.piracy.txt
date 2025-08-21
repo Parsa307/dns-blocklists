@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755706440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755740520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Aug 2025 16:14 UTC
-; Version: 2025.0820.1614.08
+; Last modified: 21 Aug 2025 01:42 UTC
+; Version: 2025.0821.0142.05
 ; Syntax: RPZ
-; Number of entries: 20630
+; Number of entries: 20618
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -597,8 +597,6 @@ bittorent.biz CNAME .
 *.bittorent.biz CNAME .
 blackpearl.biz CNAME .
 *.blackpearl.biz CNAME .
-blues-brothers.biz CNAME .
-*.blues-brothers.biz CNAME .
 bobfilm.biz CNAME .
 *.bobfilm.biz CNAME .
 casacinema.biz CNAME .
@@ -3679,8 +3677,6 @@ downparadise.com CNAME .
 *.downparadise.com CNAME .
 downpit.com CNAME .
 *.downpit.com CNAME .
-doxma.com CNAME .
-*.doxma.com CNAME .
 dr-farfar.com CNAME .
 *.dr-farfar.com CNAME .
 dragons-dungeon.com CNAME .
@@ -7381,8 +7377,6 @@ wareztheme.com CNAME .
 *.wareztheme.com CNAME .
 warezwitch.com CNAME .
 *.warezwitch.com CNAME .
-warezws.com CNAME .
-*.warezws.com CNAME .
 warindustries.com CNAME .
 *.warindustries.com CNAME .
 wat32.com CNAME .
@@ -8983,8 +8977,6 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
-tracker-zhuqiy.dgj055.icu CNAME .
-*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
@@ -11167,8 +11159,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-t411.me CNAME .
-*.t411.me CNAME .
 tantifilm.me CNAME .
 *.tantifilm.me CNAME .
 tarjetaroja.me CNAME .
@@ -14071,8 +14061,6 @@ ac-market.org CNAME .
 *.ac-market.org CNAME .
 activationkeys.org CNAME .
 *.activationkeys.org CNAME .
-alexlan.org CNAME .
-*.alexlan.org CNAME .
 alldj.org CNAME .
 *.alldj.org CNAME .
 alleenretail.org CNAME .
@@ -15413,8 +15401,8 @@ sumotracker.org CNAME .
 *.sumotracker.org CNAME .
 supertorrents.org CNAME .
 *.supertorrents.org CNAME .
-suprbay.org CNAME .
-*.suprbay.org CNAME .
+forum.suprbay.org CNAME .
+*.forum.suprbay.org CNAME .
 swebits.org CNAME .
 *.swebits.org CNAME .
 swetracker.org CNAME .

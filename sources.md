@@ -103,6 +103,7 @@ https://raw.githubusercontent.com/AmnestyTech/investigations/master/2024-05-02_w
 https://raw.githubusercontent.com/arfshl/anti-gambling-domains/refs/heads/main/domains.txt
 https://raw.githubusercontent.com/arkynx/blocklists/refs/heads/main/gambling-domains.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/quad9_blocklist.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 https://raw.githubusercontent.com/bet-blocker/bet-blocker/refs/heads/main/blocklist.txt
 https://raw.githubusercontent.com/betterwebleon/slovenian-list/refs/heads/master/filters.txt
@@ -227,6 +228,7 @@ https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin
 https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin-phish-feed.txt
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/montysecurity/C2-Tracker/refs/heads/main/data/all.txt
+https://raw.githubusercontent.com/mthcht/dyn-dns-list/master/links.txt
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt
 https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
