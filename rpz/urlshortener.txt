@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755792000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755830520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Aug 2025 16:00 UTC
-; Version: 2025.0821.1600.41
+; Last modified: 22 Aug 2025 02:42 UTC
+; Version: 2025.0822.0242.51
 ; Syntax: RPZ
-; Number of entries: 11578
+; Number of entries: 11586
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1342,6 +1342,8 @@ cs.co CNAME .
 *.cs.co CNAME .
 cuteurl.co CNAME .
 *.cuteurl.co CNAME .
+cutle.co CNAME .
+*.cutle.co CNAME .
 cvs.co CNAME .
 *.cvs.co CNAME .
 cy8.co CNAME .
@@ -6772,6 +6774,8 @@ ffxiv.link CNAME .
 *.ffxiv.link CNAME .
 fllw.link CNAME .
 *.fllw.link CNAME .
+flyra.link CNAME .
+*.flyra.link CNAME .
 foll.link CNAME .
 *.foll.link CNAME .
 fyn.link CNAME .
@@ -9222,6 +9226,8 @@ curl.pk CNAME .
 *.curl.pk CNAME .
 short.pk CNAME .
 *.short.pk CNAME .
+xurl.pk CNAME .
+*.xurl.pk CNAME .
 1o.pl CNAME .
 *.1o.pl CNAME .
 5du.pl CNAME .
@@ -9846,6 +9852,8 @@ dub.sh CNAME .
 *.dub.sh CNAME .
 dwz.sh CNAME .
 *.dwz.sh CNAME .
+earl.sh CNAME .
+*.earl.sh CNAME .
 envs.sh CNAME .
 *.envs.sh CNAME .
 gym.sh CNAME .

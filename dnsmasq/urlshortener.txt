@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Aug 2025 16:00 UTC
-# Version: 2025.0821.1600.41
+# Last modified: 22 Aug 2025 02:42 UTC
+# Version: 2025.0822.0242.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5789
+# Number of entries: 5793
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1216,6 +1216,7 @@ local=/cutcut.uk/
 local=/cuterurlha.xyz/
 local=/cuteurl.co/
 local=/cutit.bid/
+local=/cutle.co/
 local=/cutlink.now/
 local=/cutlinker.com/
 local=/cutlly.com/
@@ -1467,6 +1468,7 @@ local=/e49.us/
 local=/e7.al/
 local=/eaash.co/
 local=/l.ead.me/
+local=/earl.sh/
 local=/earn4link.in/
 local=/earnfly.net/
 local=/earthtoday.info/
@@ -1687,6 +1689,7 @@ local=/flx.to/
 local=/fly.yt/
 local=/fly2.ws/
 local=/fly4win.com/
+local=/flyra.link/
 local=/flys.pw/
 local=/flyurl.net/
 local=/fmurl.cc/
@@ -5607,6 +5610,7 @@ local=/xub.me/
 local=/xuc88.club/
 local=/xurl.es/
 local=/xurl.jp/
+local=/xurl.pk/
 local=/xurl302.top/
 local=/xurls.net/
 local=/xxxdwz.cc/
