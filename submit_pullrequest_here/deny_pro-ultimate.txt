@@ -1,5 +1,11 @@
 # Domains to be added only to the pro, pro++ and ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/7090
+attr-logs.s3.us-west-2.amazonaws.com
+
+# https://github.com/hagezi/dns-blocklists/issues/7089
+api.deeplink.dev
+
 # https://github.com/hagezi/dns-blocklists/issues/6806
 siteintercept.qualtrics.com
 siteintercept.qualtrics.com.cdn.cloudflare.net

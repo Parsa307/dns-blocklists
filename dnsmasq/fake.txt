@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Aug 2025 18:19 UTC
-# Version: 2025.0821.1819.42
+# Last modified: 22 Aug 2025 10:42 UTC
+# Version: 2025.0822.1042.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14191
+# Number of entries: 14204
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2440,6 +2440,7 @@ local=/homegymsupply.co.uk/
 local=/labubu.co.at/
 local=/labubu.co.uk/
 local=/lavenie.co.uk/
+local=/leathershire.co.uk/
 local=/luxeparfum.co.uk/
 local=/luxurydupes.co.uk/
 local=/onitsukasouthafrica.co.za/
@@ -3459,6 +3460,7 @@ local=/drskinpro.de/
 local=/drspharm.com/
 local=/drugs247.net/
 local=/drumcovere.com/
+local=/druvia.shop/
 local=/drypulse.de/
 local=/dryredwineshop.com/
 local=/drywall-kauf.de/
@@ -4167,6 +4169,7 @@ local=/fahrrad-trend24.de/
 local=/fahrrad-versand.com/
 local=/fahrrad-zubehor.de/
 local=/fahrradcheck24.de/
+local=/fahrradcitat.de/
 local=/fahrraddeneurabatt.com/
 local=/fahrradergeschaft.com/
 local=/fahrradhandel-ahrens.de/
@@ -4175,6 +4178,7 @@ local=/fahrradhandel-hartmann.de/
 local=/fahrradhandel-kramer.de/
 local=/fahrradhandel-krause.de/
 local=/fahrradhandel-richter.de/
+local=/fahrradhandel-schulze.de/
 local=/fahrradhandel-stanke.de/
 local=/fahrradhelmrabatt.com/
 local=/fahrradkassettede.com/
@@ -5333,6 +5337,7 @@ local=/gotrax.store/
 local=/gotrixa.de/
 local=/gourmandebusy.com/
 local=/gourmetecke.com/
+local=/govern1.com/
 local=/gp-photo.shop/
 local=/gplate.de/
 local=/gpslocatorphone.com/
@@ -5401,6 +5406,7 @@ local=/grillspro.shop/
 local=/grillstore-krefeld.com/
 local=/grillstorebuchen.com/
 local=/grillwieseava.shop/
+local=/grillzentrale.shop/
 local=/grilmarkt.com/
 local=/grilmarktt.com/
 local=/grimhat.com/
@@ -6772,6 +6778,7 @@ local=/kamagrabestellenshop.to/
 local=/kamagraboutique.com/
 local=/kamagraeu.to/
 local=/reviews.kamagraoriginal.to/
+local=/kamagrashop.online/
 local=/kamagrastore24.org/
 local=/kamalih.com/
 local=/kamerarabatt.de/
@@ -7917,6 +7924,7 @@ local=/mansworldde.com/
 local=/manta-capital.com/
 local=/mantahari.shop/
 local=/manualsguru.com/
+local=/manualshelp.com/
 local=/manualsmate.com/
 local=/manualthe.com/
 local=/manufaktur-23.de/
@@ -9899,6 +9907,7 @@ local=/planttshop.de/
 local=/plasice.xyz/
 local=/plasticsdaily.com/
 local=/plasticshor.com/
+local=/platincasino.com/
 local=/platincoin.com/
 local=/platinwerk.de/
 local=/plattengeschaft.de/
@@ -10639,6 +10648,7 @@ local=/robo-center.com/
 local=/robo-fx.co/
 local=/robo-wienburg.com/
 local=/robofund.net/
+local=/robogartende.com/
 local=/roboter-maeher.com/
 local=/robowerkstatten.com/
 local=/robustwerkzeug.com/
@@ -10861,6 +10871,7 @@ local=/salesconsulter.de/
 local=/saleshopplus.com/
 local=/saleshyanne.com/
 local=/salesorganics.com/
+local=/salesparco-eu.com/
 local=/salesportshoe.com/
 local=/salesroaster.com/
 local=/salesspoint.com/
@@ -13017,6 +13028,7 @@ local=/universumkredit.com/
 local=/univragri.com/
 local=/uniwiinc.com/
 local=/unpabclor.com/
+local=/unplgd.store/
 local=/unserelampen.com/
 local=/unterbewusst.at/
 local=/unterstuetzungskasse.at/
@@ -13175,6 +13187,7 @@ local=/vatan.at/
 local=/vatlab.cc/
 local=/vatradecoin.net/
 local=/vauclinmotoculture.de/
+local=/vaude-de.com/
 local=/vaudeberlin.de/
 local=/vaudefabrikverkauf.de/
 local=/vavaplay.com/

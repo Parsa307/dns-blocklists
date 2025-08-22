@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 20 Aug 2025 08:16 UTC
-! Version: 2025.0820.0816.42
+! Last modified: 22 Aug 2025 12:36 UTC
+! Version: 2025.0822.1236.51
 ! Syntax: uBlock
 ! Number of latin TLDs: 274 - non-latin TLDs: 151
 !
@@ -52,7 +52,7 @@
 ||cash^$doc
 ||casino^$doc
 ||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~ptt.cc|~rapidcdn.cc|~rutracker.cc|~shottr.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~zcyph.cc
-||center^$doc,domain=~mein-kunden.center|~priv.center
+||center^$doc,domain=~mein-kunden.center|~priv.center|~relaxx.center
 ||ceo^$doc
 ||cf^$doc,domain=~google.cf
 ||cfd^$doc,domain=~freedium.cfd
@@ -175,7 +175,7 @@
 ||motorcycles^$doc
 ||mov^$doc,domain=~david.mov|~peerflix.mov|~pstream.mov|~spankbang.mov
 ||my^$doc,domain=~edu.my|~google.com.my
-||name^$doc,domain=~davidwalsh.name
+||name^$doc,domain=~davidwalsh.name|~stefvanbuuren.name
 ||navy^$doc
 ||new^$doc,domain=~bolt.new|~doc.new|~drawing.new|~form.new|~git.new|~lecture.new|~postgres.new|~sheet.new|~site.new|~slide.new
 ||ninja^$doc,domain=~poe.ninja|~protomedia.ninja

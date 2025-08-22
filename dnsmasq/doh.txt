@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Aug 2025 04:24 UTC
-# Version: 2025.0822.0424.15
+# Last modified: 22 Aug 2025 12:35 UTC
+# Version: 2025.0822.1235.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1433
+# Number of entries: 1432
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -294,7 +294,6 @@ local=/cubedns.com/
 local=/qual.cuprum.ru/
 local=/dns.cwlys.com/
 local=/dns.cybertonic.tech/
-local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
 local=/dns.d4d.moe/
