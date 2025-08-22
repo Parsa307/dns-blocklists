@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Aug 2025 10:42 UTC
-# Version: 2025.0822.1042.53
+# Last modified: 22 Aug 2025 14:43 UTC
+# Version: 2025.0822.1443.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14204
+# Number of entries: 14206
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -5979,6 +5979,7 @@ local=/hodea-versand.com/
 local=/hoeglshoes.com/
 local=/hofer-austria.shop/
 local=/hofer-wien.com/
+local=/hoferwien.com/
 local=/hoff-de.com/
 local=/hoffmannwelpen.de/
 local=/hofinger-modehaus.com/
@@ -11197,6 +11198,7 @@ local=/a.seven-st.com/
 local=/seveninter.com/
 local=/sexicats.com/
 local=/seydo-handel.de/
+local=/seylab.shop/
 local=/sezane-authorized.shop/
 local=/sfzev.de/
 local=/sgpill.com/

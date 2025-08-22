@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Aug 2025 12:35 UTC
-# Version: 2025.0822.1235.37
+# Last modified: 22 Aug 2025 16:41 UTC
+# Version: 2025.0822.1641.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1432
+# Number of entries: 1438
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -17,6 +17,7 @@ local=/dns.0ooo.icu/
 local=/dns.0x55.net/
 local=/123000123.xyz/
 local=/dns.13evl.com/
+local=/doh.18bit.cn/
 local=/cloud.198.games/
 local=/1and1-dns.de/
 local=/233py.com/
@@ -80,6 +81,7 @@ local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/
 local=/ahoj.email/
 local=/adguard.ajinga.net/
+local=/dns.akbxr.com/
 local=/dns.albony.xyz/
 local=/dnsnl.alekberg.net/
 local=/alidns.com/
@@ -294,6 +296,7 @@ local=/cubedns.com/
 local=/qual.cuprum.ru/
 local=/dns.cwlys.com/
 local=/dns.cybertonic.tech/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
 local=/dns.d4d.moe/
@@ -464,6 +467,9 @@ local=/a.safe.ns.dnslify.com/
 local=/b.safe.ns.dnslify.com/
 local=/dnslow.me/
 local=/dns.dnsoverhttps.net/
+local=/chuncheon.dnsovertor.cc/
+local=/japan.dnsovertor.cc/
+local=/seoul.dnsovertor.cc/
 local=/adblock-dot.dnswarden.com/
 local=/adult-filter-dot.dnswarden.com/
 local=/doh.asia.dnswarden.com/
@@ -610,6 +616,7 @@ local=/dns.google.com/
 local=/google-public-dns-a.google.com/
 local=/google-public-dns-b.google.com/
 local=/performance.gosami.xyz/
+local=/dns.green-ping.lol/
 local=/dnsblock.grisumedia.de/
 local=/dns.grqu.de/
 local=/dns.guard.io/
@@ -1103,7 +1110,6 @@ local=/dns.korzhyk.pp.ua/
 local=/lindung.pp.ua/
 local=/sundalandia.pp.ua/
 local=/virga.pp.ua/
-local=/zxcvb.pp.ua/
 local=/dns.pragmasec.nl/
 local=/dns2.prima-solusindo.com/
 local=/princez.uk/
@@ -1229,7 +1235,6 @@ local=/privatnas.servebeer.com/
 local=/dns.sev.monster/
 local=/pates.services.sfr.fr.casepp.sfr.fr/
 local=/d2.shabi.icu/
-local=/shalenkov.dev/
 local=/dns.shareworx.net/
 local=/dns.shecan.ir/
 local=/free.shecan.ir/
@@ -1289,6 +1294,7 @@ local=/dns.syaifullah.com/
 local=/ibksturm.synology.me/
 local=/ihctw.synology.me/
 local=/doh.syshero.org/
+local=/doh.sz-dns.com/
 local=/dns.szpadel.ovh/
 local=/dns.t-ipnet.de/
 local=/dns.t53.de/

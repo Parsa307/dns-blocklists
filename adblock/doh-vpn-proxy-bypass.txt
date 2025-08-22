@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 22 Aug 2025 12:36 UTC
-! Version: 2025.0822.1236.11
+! Last modified: 22 Aug 2025 16:42 UTC
+! Version: 2025.0822.1642.21
 ! Syntax: AdBlock
-! Number of entries: 5357
+! Number of entries: 5367
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -59,6 +59,7 @@
 ||goal.music.1337.cx^
 ||dns.13evl.com^
 ||16yd.com^
+||doh.18bit.cn^
 ||cloud.198.games^
 ||1and1-dns.de^
 ||1banproxy.com^
@@ -209,6 +210,7 @@
 ||cooldude.ajhurst.org^
 ||study.ajhurst.org^
 ||adguard.ajinga.net^
+||dns.akbxr.com^
 ||akunssh.net^
 ||work.excel.albacetediario.com^
 ||dns.albony.xyz^
@@ -1007,6 +1009,7 @@
 ||cybersilent.com^
 ||cyberssh.com^
 ||dns.cybertonic.tech^
+||cynntex.fun^
 ||dns.cynthialabs.net^
 ||rammerhead.d-n-s.name^
 ||dns.d365.in^
@@ -1230,6 +1233,9 @@
 ||b.safe.ns.dnslify.com^
 ||dnslow.me^
 ||dns.dnsoverhttps.net^
+||chuncheon.dnsovertor.cc^
+||japan.dnsovertor.cc^
+||seoul.dnsovertor.cc^
 ||adblock-dot.dnswarden.com^
 ||adult-filter-dot.dnswarden.com^
 ||doh.asia.dnswarden.com^
@@ -1372,6 +1378,7 @@
 ||123-24.eport.gr^
 ||bl.eq.md^
 ||shield1.eranext.net^
+||skibidi-ohio-rizz.errorrail.dev^
 ||doh.ersei.net^
 ||es-proxy.com^
 ||dns.esnube.es^
@@ -1744,6 +1751,7 @@
 ||gratisproxy.nl^
 ||gratisvpn.com^
 ||greatestfreeproxy.com^
+||dns.green-ping.lol^
 ||greenproxy.net^
 ||greenssh.com^
 ||dnsblock.grisumedia.de^
@@ -3056,7 +3064,6 @@
 ||lindung.pp.ua^
 ||sundalandia.pp.ua^
 ||virga.pp.ua^
-||zxcvb.pp.ua^
 ||ppira.com^
 ||pproxy.org^
 ||pq7hdf.com^
@@ -3341,6 +3348,7 @@
 ||dns.api.rackspacecloud.com^
 ||portals.radial-pistonmotors.com^
 ||boxcat.radio-zvez.info^
+||testsite.radiohapure.com^
 ||radmin-vpn.com^
 ||radmin-vpn.org^
 ||7afootball.rainbowcup.com^
@@ -3560,7 +3568,6 @@
 ||shadeyouvpn.com^
 ||shadowsocks.org^
 ||shadowtunnels.com^
-||shalenkov.dev^
 ||tutor.idea.shand.org^
 ||sharejav.com^
 ||sharevpn.org^
@@ -4471,6 +4478,7 @@
 ||doh.syshero.org^
 ||bold-river-186.sz.games^
 ||wild-moon-986.sz.games^
+||doh.sz-dns.com^
 ||dns.szpadel.ovh^
 ||t-dz.com^
 ||dns.t-ipnet.de^
@@ -4523,6 +4531,8 @@
 ||login.thegalleryofart.info^
 ||dns.thegoodsource.net^
 ||distributiveproperty.thehomeserver.net^
+||obama-have-dihh.thehomeserver.net^
+||suchwow.thejon78.online^
 ||themeaningofallmeaningsforallofthemeaningsmeanings.lol^
 ||thenuke.org^
 ||giggachad.thepotionsmaster.net^

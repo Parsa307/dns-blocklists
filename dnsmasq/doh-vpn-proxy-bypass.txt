@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Aug 2025 12:36 UTC
-# Version: 2025.0822.1236.11
+# Last modified: 22 Aug 2025 16:42 UTC
+# Version: 2025.0822.1642.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5357
+# Number of entries: 5367
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -58,6 +58,7 @@ local=/liverpoolontop.1337.cx/
 local=/goal.music.1337.cx/
 local=/dns.13evl.com/
 local=/16yd.com/
+local=/doh.18bit.cn/
 local=/cloud.198.games/
 local=/1and1-dns.de/
 local=/1banproxy.com/
@@ -208,6 +209,7 @@ local=/about.aitic.us/
 local=/cooldude.ajhurst.org/
 local=/study.ajhurst.org/
 local=/adguard.ajinga.net/
+local=/dns.akbxr.com/
 local=/akunssh.net/
 local=/work.excel.albacetediario.com/
 local=/dns.albony.xyz/
@@ -1006,6 +1008,7 @@ local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/dns.cybertonic.tech/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -1229,6 +1232,9 @@ local=/a.safe.ns.dnslify.com/
 local=/b.safe.ns.dnslify.com/
 local=/dnslow.me/
 local=/dns.dnsoverhttps.net/
+local=/chuncheon.dnsovertor.cc/
+local=/japan.dnsovertor.cc/
+local=/seoul.dnsovertor.cc/
 local=/adblock-dot.dnswarden.com/
 local=/adult-filter-dot.dnswarden.com/
 local=/doh.asia.dnswarden.com/
@@ -1371,6 +1377,7 @@ local=/epicbrowser.com/
 local=/123-24.eport.gr/
 local=/bl.eq.md/
 local=/shield1.eranext.net/
+local=/skibidi-ohio-rizz.errorrail.dev/
 local=/doh.ersei.net/
 local=/es-proxy.com/
 local=/dns.esnube.es/
@@ -1743,6 +1750,7 @@ local=/granules.us/
 local=/gratisproxy.nl/
 local=/gratisvpn.com/
 local=/greatestfreeproxy.com/
+local=/dns.green-ping.lol/
 local=/greenproxy.net/
 local=/greenssh.com/
 local=/dnsblock.grisumedia.de/
@@ -3055,7 +3063,6 @@ local=/dns.korzhyk.pp.ua/
 local=/lindung.pp.ua/
 local=/sundalandia.pp.ua/
 local=/virga.pp.ua/
-local=/zxcvb.pp.ua/
 local=/ppira.com/
 local=/pproxy.org/
 local=/pq7hdf.com/
@@ -3340,6 +3347,7 @@ local=/racevpn.com/
 local=/dns.api.rackspacecloud.com/
 local=/portals.radial-pistonmotors.com/
 local=/boxcat.radio-zvez.info/
+local=/testsite.radiohapure.com/
 local=/radmin-vpn.com/
 local=/radmin-vpn.org/
 local=/7afootball.rainbowcup.com/
@@ -3559,7 +3567,6 @@ local=/d2.shabi.icu/
 local=/shadeyouvpn.com/
 local=/shadowsocks.org/
 local=/shadowtunnels.com/
-local=/shalenkov.dev/
 local=/tutor.idea.shand.org/
 local=/sharejav.com/
 local=/sharevpn.org/
@@ -4470,6 +4477,7 @@ local=/ihctw.synology.me/
 local=/doh.syshero.org/
 local=/bold-river-186.sz.games/
 local=/wild-moon-986.sz.games/
+local=/doh.sz-dns.com/
 local=/dns.szpadel.ovh/
 local=/t-dz.com/
 local=/dns.t-ipnet.de/
@@ -4522,6 +4530,8 @@ local=/clown.thegalleryofart.org/
 local=/login.thegalleryofart.info/
 local=/dns.thegoodsource.net/
 local=/distributiveproperty.thehomeserver.net/
+local=/obama-have-dihh.thehomeserver.net/
+local=/suchwow.thejon78.online/
 local=/themeaningofallmeaningsforallofthemeaningsmeanings.lol/
 local=/thenuke.org/
 local=/giggachad.thepotionsmaster.net/

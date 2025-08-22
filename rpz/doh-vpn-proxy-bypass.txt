@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755866160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755880920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Aug 2025 12:36 UTC
-; Version: 2025.0822.1236.11
+; Last modified: 22 Aug 2025 16:42 UTC
+; Version: 2025.0822.1642.21
 ; Syntax: RPZ
-; Number of entries: 10714
+; Number of entries: 10734
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -490,6 +490,12 @@ vpnoffice.co.cc CNAME .
 *.4y5t.coke0.cc CNAME .
 cybershield.cc CNAME .
 *.cybershield.cc CNAME .
+chuncheon.dnsovertor.cc CNAME .
+*.chuncheon.dnsovertor.cc CNAME .
+japan.dnsovertor.cc CNAME .
+*.japan.dnsovertor.cc CNAME .
+seoul.dnsovertor.cc CNAME .
+*.seoul.dnsovertor.cc CNAME .
 dns.flymc.cc CNAME .
 *.dns.flymc.cc CNAME .
 www-proxy.formen.cc CNAME .
@@ -806,6 +812,8 @@ uproxy.club CNAME .
 *.uproxy.club CNAME .
 webproxy.club CNAME .
 *.webproxy.club CNAME .
+doh.18bit.cn CNAME .
+*.doh.18bit.cn CNAME .
 doh.360.cn CNAME .
 *.doh.360.cn CNAME .
 dot.360.cn CNAME .
@@ -1048,6 +1056,8 @@ blitz.ahadns.com CNAME .
 *.blitz.ahadns.com CNAME .
 blitz-setup.ahadns.com CNAME .
 *.blitz-setup.ahadns.com CNAME .
+dns.akbxr.com CNAME .
+*.dns.akbxr.com CNAME .
 work.excel.albacetediario.com CNAME .
 *.work.excel.albacetediario.com CNAME .
 alhapi.com CNAME .
@@ -3068,6 +3078,8 @@ dns.api.rackspacecloud.com CNAME .
 *.dns.api.rackspacecloud.com CNAME .
 portals.radial-pistonmotors.com CNAME .
 *.portals.radial-pistonmotors.com CNAME .
+testsite.radiohapure.com CNAME .
+*.testsite.radiohapure.com CNAME .
 radmin-vpn.com CNAME .
 *.radmin-vpn.com CNAME .
 7afootball.rainbowcup.com CNAME .
@@ -4696,6 +4708,8 @@ dns.syaifullah.com CNAME .
 *.dns.syaifullah.com CNAME .
 symlexvpn.com CNAME .
 *.symlexvpn.com CNAME .
+doh.sz-dns.com CNAME .
+*.doh.sz-dns.com CNAME .
 t-dz.com CNAME .
 *.t-dz.com CNAME .
 tailscale.com CNAME .
@@ -5602,6 +5616,8 @@ vpn.dzarlax.dev CNAME .
 *.vpn.dzarlax.dev CNAME .
 emeraldeyex.dev CNAME .
 *.emeraldeyex.dev CNAME .
+skibidi-ohio-rizz.errorrail.dev CNAME .
+*.skibidi-ohio-rizz.errorrail.dev CNAME .
 dns.hanahira.dev CNAME .
 *.dns.hanahira.dev CNAME .
 beepboopbop.iamadeveloper.dev CNAME .
@@ -5638,8 +5654,6 @@ renardbleu.dev CNAME .
 *.renardbleu.dev CNAME .
 resolver.rferee.dev CNAME .
 *.resolver.rferee.dev CNAME .
-shalenkov.dev CNAME .
-*.shalenkov.dev CNAME .
 dns.suhaila.dev CNAME .
 *.dns.suhaila.dev CNAME .
 dns.svoi.dev CNAME .
@@ -5920,6 +5934,8 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
+cynntex.fun CNAME .
+*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -6804,6 +6820,8 @@ crazyfastrace.lol CNAME .
 *.crazyfastrace.lol CNAME .
 geoguessr.lol CNAME .
 *.geoguessr.lol CNAME .
+dns.green-ping.lol CNAME .
+*.dns.green-ping.lol CNAME .
 ilysk.lol CNAME .
 *.ilysk.lol CNAME .
 iproxy.lol CNAME .
@@ -8162,6 +8180,8 @@ dns.thegoodsource.net CNAME .
 *.dns.thegoodsource.net CNAME .
 distributiveproperty.thehomeserver.net CNAME .
 *.distributiveproperty.thehomeserver.net CNAME .
+obama-have-dihh.thehomeserver.net CNAME .
+*.obama-have-dihh.thehomeserver.net CNAME .
 giggachad.thepotionsmaster.net CNAME .
 *.giggachad.thepotionsmaster.net CNAME .
 theproxies.net CNAME .
@@ -8532,6 +8552,8 @@ roundrockisd.online CNAME .
 *.roundrockisd.online CNAME .
 speedproxy.online CNAME .
 *.speedproxy.online CNAME .
+suchwow.thejon78.online CNAME .
+*.suchwow.thejon78.online CNAME .
 unblocked2.online CNAME .
 *.unblocked2.online CNAME .
 unblocksites.online CNAME .
@@ -10086,8 +10108,6 @@ sundalandia.pp.ua CNAME .
 *.sundalandia.pp.ua CNAME .
 virga.pp.ua CNAME .
 *.virga.pp.ua CNAME .
-zxcvb.pp.ua CNAME .
-*.zxcvb.pp.ua CNAME .
 10bestvpn.co.uk CNAME .
 *.10bestvpn.co.uk CNAME .
 adguard.aa4.co.uk CNAME .

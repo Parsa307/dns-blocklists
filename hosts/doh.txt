@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Aug 2025 12:35 UTC
-# Version: 2025.0822.1235.37
+# Last modified: 22 Aug 2025 16:41 UTC
+# Version: 2025.0822.1641.50
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1589
+# Number of entries: 1595
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -17,6 +17,7 @@
 0.0.0.0 dns.0x55.net
 0.0.0.0 123000123.xyz
 0.0.0.0 dns.13evl.com
+0.0.0.0 doh.18bit.cn
 0.0.0.0 cloud.198.games
 0.0.0.0 1and1-dns.de
 0.0.0.0 233py.com
@@ -104,6 +105,7 @@
 0.0.0.0 dot.pl.ahadns.net
 0.0.0.0 ahoj.email
 0.0.0.0 adguard.ajinga.net
+0.0.0.0 dns.akbxr.com
 0.0.0.0 dns.albony.xyz
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 alidns.com
@@ -362,6 +364,7 @@
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
 0.0.0.0 dns.cybertonic.tech
+0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
 0.0.0.0 dns.d4d.moe
@@ -559,6 +562,9 @@
 0.0.0.0 b.safe.ns.dnslify.com
 0.0.0.0 dnslow.me
 0.0.0.0 dns.dnsoverhttps.net
+0.0.0.0 chuncheon.dnsovertor.cc
+0.0.0.0 japan.dnsovertor.cc
+0.0.0.0 seoul.dnsovertor.cc
 0.0.0.0 adblock-dot.dnswarden.com
 0.0.0.0 adult-filter-dot.dnswarden.com
 0.0.0.0 doh.asia.dnswarden.com
@@ -721,6 +727,7 @@
 0.0.0.0 google-public-dns-a.google.com
 0.0.0.0 google-public-dns-b.google.com
 0.0.0.0 performance.gosami.xyz
+0.0.0.0 dns.green-ping.lol
 0.0.0.0 dnsblock.grisumedia.de
 0.0.0.0 dns.grqu.de
 0.0.0.0 dns.guard.io
@@ -1239,7 +1246,6 @@
 0.0.0.0 lindung.pp.ua
 0.0.0.0 sundalandia.pp.ua
 0.0.0.0 virga.pp.ua
-0.0.0.0 zxcvb.pp.ua
 0.0.0.0 dns.pragmasec.nl
 0.0.0.0 dns2.prima-solusindo.com
 0.0.0.0 princez.uk
@@ -1370,7 +1376,6 @@
 0.0.0.0 dns.sev.monster
 0.0.0.0 pates.services.sfr.fr.casepp.sfr.fr
 0.0.0.0 d2.shabi.icu
-0.0.0.0 shalenkov.dev
 0.0.0.0 dns.shareworx.net
 0.0.0.0 dns.shecan.ir
 0.0.0.0 free.shecan.ir
@@ -1432,6 +1437,7 @@
 0.0.0.0 ibksturm.synology.me
 0.0.0.0 ihctw.synology.me
 0.0.0.0 doh.syshero.org
+0.0.0.0 doh.sz-dns.com
 0.0.0.0 dns.szpadel.ovh
 0.0.0.0 dns.t-ipnet.de
 0.0.0.0 dns.t53.de

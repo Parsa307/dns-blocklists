@@ -1,6 +1,10 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# Tiktok follows are not saved
+# EU: mssdk16-normal-no1a.tiktokv.eu
+mssdk16-normal-*.tiktokv.*
+
 # https://github.com/hagezi/dns-blocklists/issues/6905
 bill.ccbill.com
 

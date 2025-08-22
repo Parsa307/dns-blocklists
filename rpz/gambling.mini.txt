@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755865740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755880380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Aug 2025 12:29 UTC
-; Version: 2025.0822.1229.42
+; Last modified: 22 Aug 2025 16:33 UTC
+; Version: 2025.0822.1633.39
 ; Syntax: RPZ
-; Number of entries: 126522
+; Number of entries: 126512
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -8923,8 +8923,6 @@ leon261.casino CNAME .
 *.leon261.casino CNAME .
 leon262.casino CNAME .
 *.leon262.casino CNAME .
-leon28.casino CNAME .
-*.leon28.casino CNAME .
 leon2947.casino CNAME .
 *.leon2947.casino CNAME .
 leon350.casino CNAME .
@@ -33603,8 +33601,6 @@ casinomaxroyal109.com CNAME .
 *.casinomaxroyal109.com CNAME .
 casinomcw.com CNAME .
 *.casinomcw.com CNAME .
-casinomedkreditkort.com CNAME .
-*.casinomedkreditkort.com CNAME .
 casinomega521.com CNAME .
 *.casinomega521.com CNAME .
 casinomega522.com CNAME .
@@ -94149,8 +94145,6 @@ pokercard.shop CNAME .
 *.pokercard.shop CNAME .
 pokerdom-intro.shop CNAME .
 *.pokerdom-intro.shop CNAME .
-pokerdom-mirror.shop CNAME .
-*.pokerdom-mirror.shop CNAME .
 pokerdom-spins.shop CNAME .
 *.pokerdom-spins.shop CNAME .
 pokerdomhomes.shop CNAME .
@@ -110173,8 +110167,6 @@ amp-istanacasino.xyz CNAME .
 *.amp-istanacasino.xyz CNAME .
 amp-kapalapi.xyz CNAME .
 *.amp-kapalapi.xyz CNAME .
-amp-neojago.xyz CNAME .
-*.amp-neojago.xyz CNAME .
 amp-seruput.xyz CNAME .
 *.amp-seruput.xyz CNAME .
 amp-togel-jackpot.xyz CNAME .
@@ -114505,8 +114497,6 @@ dunia77bet.xyz CNAME .
 *.dunia77bet.xyz CNAME .
 duniabonus.xyz CNAME .
 *.duniabonus.xyz CNAME .
-duniadw.xyz CNAME .
-*.duniadw.xyz CNAME .
 duniafanae.xyz CNAME .
 *.duniafanae.xyz CNAME .
 duniagames77.xyz CNAME .
