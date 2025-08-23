@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755936720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755966120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Aug 2025 08:12 UTC
-; Version: 2025.0823.0812.35
+; Last modified: 23 Aug 2025 16:22 UTC
+; Version: 2025.0823.1622.22
 ; Syntax: RPZ
-; Number of entries: 10680
+; Number of entries: 10692
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1518,6 +1518,8 @@ darkfat.com CNAME .
 *.darkfat.com CNAME .
 proxy.darkvpn.com CNAME .
 *.proxy.darkvpn.com CNAME .
+lyndonyay.darquemusic.com CNAME .
+*.lyndonyay.darquemusic.com CNAME .
 plans.datacommunicationsinc.com CNAME .
 *.plans.datacommunicationsinc.com CNAME .
 dns.david888.com CNAME .
@@ -1646,8 +1648,6 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2060,6 +2060,8 @@ holavpnrussia.com CNAME .
 *.holavpnrussia.com CNAME .
 holavpnworld.com CNAME .
 *.holavpnworld.com CNAME .
+exceptionallypuremineralwaterfrommtfuji.homeonthewater.com CNAME .
+*.exceptionallypuremineralwaterfrommtfuji.homeonthewater.com CNAME .
 homeproxy.com CNAME .
 *.homeproxy.com CNAME .
 7aisfulloftalent.hondascooterparts.com CNAME .
@@ -4590,8 +4592,8 @@ febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com CNAME .
 *.febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com CNAME .
 session.proxy2.startpage.com CNAME .
 *.session.proxy2.startpage.com CNAME .
-130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com CNAME .
-*.130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com CNAME .
+proxy3.startpage.com CNAME .
+*.proxy3.startpage.com CNAME .
 proxy5.startpage.com CNAME .
 *.proxy5.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -5604,6 +5606,10 @@ vpn.dzarlax.dev CNAME .
 *.vpn.dzarlax.dev CNAME .
 emeraldeyex.dev CNAME .
 *.emeraldeyex.dev CNAME .
+math.errorrail.dev CNAME .
+*.math.errorrail.dev CNAME .
+scienceworksheets.errorrail.dev CNAME .
+*.scienceworksheets.errorrail.dev CNAME .
 skibidi-ohio-rizz.errorrail.dev CNAME .
 *.skibidi-ohio-rizz.errorrail.dev CNAME .
 dns.hanahira.dev CNAME .
@@ -7060,8 +7066,6 @@ dns.warma.me CNAME .
 *.dns.warma.me CNAME .
 weproxy.me CNAME .
 *.weproxy.me CNAME .
-unblockit.meme CNAME .
-*.unblockit.meme CNAME .
 adultproxy.men CNAME .
 *.adultproxy.men CNAME .
 br.servers.legat.ml CNAME .
@@ -7070,6 +7074,8 @@ notfound-google.404.mn CNAME .
 *.notfound-google.404.mn CNAME .
 bookpog.bad.mn CNAME .
 *.bookpog.bad.mn CNAME .
+imwitboolymon.bad.mn CNAME .
+*.imwitboolymon.bad.mn CNAME .
 westhamforever.bad.mn CNAME .
 *.westhamforever.bad.mn CNAME .
 hide.mn CNAME .
@@ -7670,12 +7676,18 @@ guardianvpn.net CNAME .
 *.guardianvpn.net CNAME .
 guruproxy.net CNAME .
 *.guruproxy.net CNAME .
+booly.h0stname.net CNAME .
+*.booly.h0stname.net CNAME .
 mathtutors.h0stname.net CNAME .
 *.mathtutors.h0stname.net CNAME .
+mymangusshade.h0stname.net CNAME .
+*.mymangusshade.h0stname.net CNAME .
 potatojuice.h0stname.net CNAME .
 *.potatojuice.h0stname.net CNAME .
 artiom.made.this.h0stname.net CNAME .
 *.artiom.made.this.h0stname.net CNAME .
+thosewhoknow.h0stname.net CNAME .
+*.thosewhoknow.h0stname.net CNAME .
 dylanigotchu.hbmc.net CNAME .
 *.dylanigotchu.hbmc.net CNAME .
 ordns.he.net CNAME .
