@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Aug 2025 14:19 UTC
-# Version: 2025.0822.1419.24
+# Last modified: 22 Aug 2025 23:06 UTC
+# Version: 2025.0822.2306.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5886
+# Number of entries: 5877
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -159,7 +159,6 @@ local=/3.ly/
 local=/301.link/
 local=/301.nz/
 local=/301.tv/
-local=/303.kim/
 local=/30na.ma/
 local=/31productions.de/
 local=/369.xn--6frz82g/
@@ -248,7 +247,6 @@ local=/71a.xyz/
 local=/73.nu/
 local=/733s.com/
 local=/74i.de/
-local=/77url.com/
 local=/7894.xyz/
 local=/7a.ink/
 local=/7c34.com/
@@ -1156,7 +1154,6 @@ local=/salesadvisor.nazriproton.com.my/
 local=/shortlink.com.au/
 local=/tim.com.vc/
 local=/useek.com.au/
-local=/vm88.com.co/
 local=/comca.st/
 local=/come.ac/
 local=/kutt.comodo.com/
@@ -3982,7 +3979,6 @@ local=/rupilinks.com/
 local=/ruplink.com/
 local=/rusd.in/
 local=/rushgiving.com/
-local=/rusuhkali.xyz/
 local=/rutgon.top/
 local=/rutgonurl.com/
 local=/ruvi.me/
@@ -5173,7 +5169,6 @@ local=/urlao.com/
 local=/urlbind.com/
 local=/urlbit.co/
 local=/urlbox.cc/
-local=/urlbrief.com/
 local=/urlcentre.com/
 local=/urlchecker.info/
 local=/urlcort.com/
@@ -5194,7 +5189,6 @@ local=/urlgit.com/
 local=/urlgl.com/
 local=/urlgo.ca/
 local=/urlgo.fr/
-local=/urlgsal.com/
 local=/urlhawk.com/
 local=/urlhum.com/
 local=/urli.ai/
@@ -5436,7 +5430,6 @@ local=/vvt.am/
 local=/vxn.link/
 local=/vypij.bar/
 local=/vz.to/
-local=/vzturl.com/
 local=/w.wiki/
 local=/w1p.fr/
 local=/w2u.io/
@@ -5575,7 +5568,6 @@ local=/wispi.ly/
 local=/wit.to/
 local=/withtask.com/
 local=/wiwir.cc/
-local=/wjcf.co/
 local=/wkf.ms/
 local=/wkpwr.be/
 local=/wl.co/
@@ -5622,7 +5614,6 @@ local=/wun.io/
 local=/wuniw.com/
 local=/wurlie.net/
 local=/ww7.fr/
-local=/wwdurl.com/
 local=/wwf.to/
 local=/wwp.news/
 local=/wwtt.to/

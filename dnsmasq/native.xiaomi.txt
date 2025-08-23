@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 23:14 UTC
-# Version: 2025.0808.2314.54
+# Last modified: 22 Aug 2025 23:19 UTC
+# Version: 2025.0822.2319.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 364
+# Number of entries: 362
 #
 local=/traffic-media.co.uk/
 local=/mistat.india.xiaomi.com.edgesuite.net/
@@ -245,7 +245,6 @@ local=/sys.intl.xiaomi.com/
 local=/h5-ru.video.intl.xiaomi.com/
 local=/ru.video.intl.xiaomi.com/
 local=/secure.report.iss.xiaomi.com/
-local=/fe02.lg.xiaomi.com/
 local=/a.market.xiaomi.com/
 local=/drm.market.xiaomi.com/
 local=/xadx.file.market.xiaomi.com/
@@ -320,7 +319,6 @@ local=/redirect.pandora.xiaomi.com/
 local=/rtmpott.pandora.xiaomi.com/
 local=/bsp.sasdc.pandora.xiaomi.com/
 local=/shop.pandora.xiaomi.com/
-local=/smarthome.pandora.xiaomi.com/
 local=/stat.pandora.xiaomi.com/
 local=/bgp.tv.pandora.xiaomi.com/
 local=/mob.tv.pandora.xiaomi.com/

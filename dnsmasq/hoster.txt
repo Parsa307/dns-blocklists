@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Aug 2025 09:21 UTC
-# Version: 2025.0822.0921.31
+# Last modified: 22 Aug 2025 23:05 UTC
+# Version: 2025.0822.2305.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2138
+# Number of entries: 2133
 #
 local=/000a.de/
 local=/000free.us/
@@ -1139,7 +1139,6 @@ local=/hilfe24h.de/
 local=/hinerava.com/
 local=/hkearth.xyz/
 local=/hklevel.club/
-local=/holcom.top/
 local=/home.lc/
 local=/homemarker.com/
 local=/homepage.cx/
@@ -1377,7 +1376,6 @@ local=/mdtwo.top/
 local=/mdwrite.net/
 local=/me.gp/
 local=/me.ly/
-local=/mediafirex.icu/
 local=/medianewsonline.com/
 local=/mee.nu/
 local=/megabyet.net/
@@ -1838,7 +1836,6 @@ local=/thezenweb.com/
 local=/thisistap.com/
 local=/thoughtlanes.net/
 local=/tianyablog.com/
-local=/ticketxking.com/
 local=/tie.cl/
 local=/tiiny.host/
 local=/tilda.ws/
@@ -1941,7 +1938,6 @@ local=/viabloga.com/
 local=/videopaul.shop/
 local=/vidublog.com/
 local=/vip-blog.com/
-local=/vipfree.us/
 local=/virtue.nu/
 local=/virus.in/
 local=/vmn.net/
@@ -1960,7 +1956,6 @@ local=/wallst.ru/
 local=/wapka.club/
 local=/wapka.org/
 local=/wapka.site/
-local=/wapka.store/
 local=/wapka.top/
 local=/wapka.website/
 local=/wapka.xyz/

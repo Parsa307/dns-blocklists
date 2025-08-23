@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755854460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755903900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Aug 2025 09:21 UTC
-; Version: 2025.0822.0921.31
+; Last modified: 22 Aug 2025 23:05 UTC
+; Version: 2025.0822.2305.38
 ; Syntax: RPZ
-; Number of entries: 4276
+; Number of entries: 4266
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1739,8 +1739,6 @@ thisistap.com CNAME .
 *.thisistap.com CNAME .
 tianyablog.com CNAME .
 *.tianyablog.com CNAME .
-ticketxking.com CNAME .
-*.ticketxking.com CNAME .
 timeforchangecounselling.com CNAME .
 *.timeforchangecounselling.com CNAME .
 tinyblogging.com CNAME .
@@ -2723,8 +2721,6 @@ ucoz.hu CNAME .
 *.ucoz.hu CNAME .
 webnode.hu CNAME .
 *.webnode.hu CNAME .
-mediafirex.icu CNAME .
-*.mediafirex.icu CNAME .
 blogspot.co.id CNAME .
 *.blogspot.co.id CNAME .
 blogspot.ie CNAME .
@@ -4067,8 +4063,6 @@ us.st CNAME .
 *.us.st CNAME .
 secureonline.store CNAME .
 *.secureonline.store CNAME .
-wapka.store CNAME .
-*.wapka.store CNAME .
 biz.tc CNAME .
 *.biz.tc CNAME .
 bz.tc CNAME .
@@ -4127,8 +4121,6 @@ doctorfew.top CNAME .
 *.doctorfew.top CNAME .
 godxdess.top CNAME .
 *.godxdess.top CNAME .
-holcom.top CNAME .
-*.holcom.top CNAME .
 laexchange.top CNAME .
 *.laexchange.top CNAME .
 leastupdate.top CNAME .
@@ -4225,8 +4217,6 @@ my-place.us CNAME .
 *.my-place.us CNAME .
 phpnet.us CNAME .
 *.phpnet.us CNAME .
-vipfree.us CNAME .
-*.vipfree.us CNAME .
 weblogs.us CNAME .
 *.weblogs.us CNAME .
 blogspot.com.uy CNAME .

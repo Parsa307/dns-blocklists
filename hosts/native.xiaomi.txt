@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 23:14 UTC
-# Version: 2025.0808.2314.54
+# Last modified: 22 Aug 2025 23:19 UTC
+# Version: 2025.0822.2319.59
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 477
+# Number of entries: 475
 #
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -337,7 +337,6 @@
 0.0.0.0 h5-ru.video.intl.xiaomi.com
 0.0.0.0 ru.video.intl.xiaomi.com
 0.0.0.0 secure.report.iss.xiaomi.com
-0.0.0.0 fe02.lg.xiaomi.com
 0.0.0.0 a.market.xiaomi.com
 0.0.0.0 t1.a.market.xiaomi.com
 0.0.0.0 t2.a.market.xiaomi.com
@@ -430,7 +429,6 @@
 0.0.0.0 rtmpott.pandora.xiaomi.com
 0.0.0.0 bsp.sasdc.pandora.xiaomi.com
 0.0.0.0 shop.pandora.xiaomi.com
-0.0.0.0 smarthome.pandora.xiaomi.com
 0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 bgp.tv.pandora.xiaomi.com
 0.0.0.0 mob.tv.pandora.xiaomi.com

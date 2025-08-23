@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754090040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755904800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Samsung Tracker DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 23:14 UTC
-; Version: 2025.0801.2314.25
+; Last modified: 22 Aug 2025 23:20 UTC
+; Version: 2025.0822.2320.52
 ; Syntax: RPZ
 ; Number of entries: 392
 ;

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755872340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755903960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Aug 2025 14:19 UTC
-; Version: 2025.0822.1419.24
+; Last modified: 22 Aug 2025 23:06 UTC
+; Version: 2025.0822.2306.02
 ; Syntax: RPZ
-; Number of entries: 11772
+; Number of entries: 11754
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1340,8 +1340,6 @@ cnvrge.co CNAME .
 *.cnvrge.co CNAME .
 coinclix.co CNAME .
 *.coinclix.co CNAME .
-vm88.com.co CNAME .
-*.vm88.com.co CNAME .
 cplink.co CNAME .
 *.cplink.co CNAME .
 crdrv.co CNAME .
@@ -1764,8 +1762,6 @@ we.co CNAME .
 *.we.co CNAME .
 wfly.co CNAME .
 *.wfly.co CNAME .
-wjcf.co CNAME .
-*.wjcf.co CNAME .
 wl.co CNAME .
 *.wl.co CNAME .
 wm0.co CNAME .
@@ -1872,8 +1868,6 @@ has.coffee CNAME .
 *.6urls.com CNAME .
 733s.com CNAME .
 *.733s.com CNAME .
-77url.com CNAME .
-*.77url.com CNAME .
 7c34.com CNAME .
 *.7c34.com CNAME .
 7kts.com CNAME .
@@ -3542,8 +3536,6 @@ urlao.com CNAME .
 *.urlao.com CNAME .
 urlbind.com CNAME .
 *.urlbind.com CNAME .
-urlbrief.com CNAME .
-*.urlbrief.com CNAME .
 urlcentre.com CNAME .
 *.urlcentre.com CNAME .
 urlcort.com CNAME .
@@ -3564,8 +3556,6 @@ urlgit.com CNAME .
 *.urlgit.com CNAME .
 urlgl.com CNAME .
 *.urlgl.com CNAME .
-urlgsal.com CNAME .
-*.urlgsal.com CNAME .
 urlhawk.com CNAME .
 *.urlhawk.com CNAME .
 urlhum.com CNAME .
@@ -3714,8 +3704,6 @@ vurl.com CNAME .
 *.vurl.com CNAME .
 vurlz.com CNAME .
 *.vurlz.com CNAME .
-vzturl.com CNAME .
-*.vzturl.com CNAME .
 w3dv.com CNAME .
 *.w3dv.com CNAME .
 wangzhanzhubo.com CNAME .
@@ -3760,8 +3748,6 @@ wtfurl.com CNAME .
 *.wtfurl.com CNAME .
 wuniw.com CNAME .
 *.wuniw.com CNAME .
-wwdurl.com CNAME .
-*.wwdurl.com CNAME .
 x2t.com CNAME .
 *.x2t.com CNAME .
 xaddr.com CNAME .
@@ -6364,8 +6350,6 @@ lih.kg CNAME .
 *.lih.kg CNAME .
 shorturl.kg CNAME .
 *.shorturl.kg CNAME .
-303.kim CNAME .
-*.303.kim CNAME .
 1mm.kr CNAME .
 *.1mm.kr CNAME .
 acg.kr CNAME .
@@ -11718,8 +11702,6 @@ pws1ooo.xyz CNAME .
 *.pws1ooo.xyz CNAME .
 quanturl.xyz CNAME .
 *.quanturl.xyz CNAME .
-rusuhkali.xyz CNAME .
-*.rusuhkali.xyz CNAME .
 saddr.xyz CNAME .
 *.saddr.xyz CNAME .
 shortenerlink.xyz CNAME .

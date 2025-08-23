@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Aug 2025 18:14 UTC
-# Version: 2025.0821.1814.34
+# Last modified: 22 Aug 2025 23:04 UTC
+# Version: 2025.0822.2304.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1472
+# Number of entries: 1465
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -104,7 +104,6 @@ local=/authorizeddns.org/
 local=/authorizeddns.us/
 local=/autoipset.com/
 local=/avandns.com/
-local=/awiki.org/
 local=/ax.lt/
 local=/b0ne.com/
 local=/b0tnet.com/
@@ -138,7 +137,6 @@ local=/blogdns.com/
 local=/blogdns.net/
 local=/blogdns.org/
 local=/blogsite.org/
-local=/blogsite.xyz/
 local=/blogsyte.com/
 local=/bloodforthebloodgod.com/
 local=/bloom.us/
@@ -256,7 +254,6 @@ local=/dark-byte.net/
 local=/darksair.org/
 local=/darktech.org/
 local=/davidsagar.com/
-local=/dd-dns.de/
 local=/ddns.info/
 local=/ddns.me/
 local=/ddns.mobi/
@@ -352,7 +349,6 @@ local=/dougtreadwell.com/
 local=/doyleandprendergast.com/
 local=/dp76.com/
 local=/dpcube.com/
-local=/dray-dns.de/
 local=/drayddns.com/
 local=/dropfiles.net/
 local=/drunkensailor.org/
@@ -384,7 +380,6 @@ local=/dyn-access.net/
 local=/dyn-access.org/
 local=/dyn-ip24.de/
 local=/dyn-o-saur.com/
-local=/dyn-vpn.de/
 local=/dynalias.com/
 local=/dynalias.net/
 local=/dynalias.org/
@@ -827,7 +822,6 @@ local=/it-share.ro/
 local=/itekgroup.com/
 local=/itemdb.com/
 local=/itsaol.com/
-local=/iu4ever.org/
 local=/iugaming.com/
 local=/ivc.cc/
 local=/ix.tc/
@@ -1408,7 +1402,6 @@ local=/viiic.net/
 local=/vincomlimited.com/
 local=/vitalwerks.com/
 local=/vizvaz.com/
-local=/voles35.ru/
 local=/voyez.ca/
 local=/vpn64.de/
 local=/vpndns.net/

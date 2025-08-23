@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Aug 2025 19:09 UTC
-# Version: 2025.0815.1909.53
+# Last modified: 22 Aug 2025 23:13 UTC
+# Version: 2025.0822.2313.31
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 615
 #
@@ -54,6 +54,7 @@ aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com
+aax-events-cell01-cf.fe.us-west.ono.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com
@@ -320,6 +321,7 @@ event.mshopbugsnag.irm.amazon.dev
 events.app-performance.music.amazon.dev
 events.prod.bugs.firebat.prime-video.amazon.dev
 fe.ono.axp.amazon-adsystem.com
+fe.us-west.ono.axp.amazon-adsystem.com
 federatedanalytics.amazon.com
 firetv.bugsnag.appstore.a2z.com
 fls-cn.amazon-adsystem.com
@@ -456,7 +458,6 @@ rum.us-west-1.amazonaws.com
 rum.us-west-2.amazonaws.com
 s-fe.amazon-adsystem.com
 s.amazon-adsystem.com
-s2.paa-reporting-advertising.amazon
 s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s-pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
@@ -539,7 +540,6 @@ us-eas.prod.service.minerva.devices.a2z.com
 us-east-1-1.telemetry.insights.video.a2z.com
 us-east-1-2.telemetry.insights.video.a2z.com
 us-east-1-3.telemetry.insights.video.a2z.com
-us-east-1.paa-reporting-advertising.amazon
 us-east-1.prod.service.minerva.devices.a2z.com
 us-east-2-1.telemetry.insights.video.a2z.com
 us-east-2-2.telemetry.insights.video.a2z.com
