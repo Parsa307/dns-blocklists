@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755989100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756061100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Aug 2025 22:45 UTC
-; Version: 2025.0823.2245.00
+; Last modified: 24 Aug 2025 18:45 UTC
+; Version: 2025.0824.1845.59
 ; Syntax: RPZ
-; Number of entries: 11808
+; Number of entries: 11844
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1712,6 +1712,8 @@ tibco.co CNAME .
 *.tibco.co CNAME .
 tinygo.co CNAME .
 *.tinygo.co CNAME .
+tinyl.co CNAME .
+*.tinyl.co CNAME .
 tinyurlz.co CNAME .
 *.tinyurlz.co CNAME .
 tmblr.co CNAME .
@@ -1834,6 +1836,16 @@ has.coffee CNAME .
 *.2fear.com CNAME .
 2ya.com CNAME .
 *.2ya.com CNAME .
+396264243-020.com CNAME .
+*.396264243-020.com CNAME .
+396264243-025.com CNAME .
+*.396264243-025.com CNAME .
+396264243-029.com CNAME .
+*.396264243-029.com CNAME .
+396264243-033.com CNAME .
+*.396264243-033.com CNAME .
+396264243-044.com CNAME .
+*.396264243-044.com CNAME .
 3c5.com CNAME .
 *.3c5.com CNAME .
 3ind.com CNAME .
@@ -2066,6 +2078,8 @@ bixurl.com CNAME .
 *.bixurl.com CNAME .
 bkite.com CNAME .
 *.bkite.com CNAME .
+blabigo.com CNAME .
+*.blabigo.com CNAME .
 ai.blendnow.com CNAME .
 *.ai.blendnow.com CNAME .
 blipnut.com CNAME .
@@ -3430,6 +3444,8 @@ tinderurl.com CNAME .
 *.tinderurl.com CNAME .
 tinlie.com CNAME .
 *.tinlie.com CNAME .
+tiny-l.com CNAME .
+*.tiny-l.com CNAME .
 tiny123.com CNAME .
 *.tiny123.com CNAME .
 tiny1z.com CNAME .
@@ -4026,6 +4042,8 @@ decat.de CNAME .
 *.decat.de CNAME .
 dswurl.de CNAME .
 *.dswurl.de CNAME .
+eqrco.de CNAME .
+*.eqrco.de CNAME .
 firsturl.de CNAME .
 *.firsturl.de CNAME .
 fluub.de CNAME .
@@ -5658,6 +5676,8 @@ imaxl.ink CNAME .
 *.imaxl.ink CNAME .
 iql.ink CNAME .
 *.iql.ink CNAME .
+ishortn.ink CNAME .
+*.ishortn.ink CNAME .
 liii.ink CNAME .
 *.liii.ink CNAME .
 lionl.ink CNAME .
@@ -5696,6 +5716,8 @@ wonderl.ink CNAME .
 *.wonderl.ink CNAME .
 xxxl.ink CNAME .
 *.xxxl.ink CNAME .
+ytubl.ink CNAME .
+*.ytubl.ink CNAME .
 zat.ink CNAME .
 *.zat.ink CNAME .
 zom.ink CNAME .
@@ -6816,6 +6838,8 @@ e.lilly CNAME .
 *.88win.link CNAME .
 93.link CNAME .
 *.93.link CNAME .
+abrir.link CNAME .
+*.abrir.link CNAME .
 acer.link CNAME .
 *.acer.link CNAME .
 acortar.link CNAME .
@@ -6846,6 +6870,8 @@ biourl.link CNAME .
 *.biourl.link CNAME .
 bisd.link CNAME .
 *.bisd.link CNAME .
+bitq.link CNAME .
+*.bitq.link CNAME .
 bliter.link CNAME .
 *.bliter.link CNAME .
 boofola.link CNAME .
@@ -7736,6 +7762,8 @@ wb.md CNAME .
 *.2ww.me CNAME .
 88link.me CNAME .
 *.88link.me CNAME .
+9lick.me CNAME .
+*.9lick.me CNAME .
 a2a.me CNAME .
 *.a2a.me CNAME .
 abelinc.me CNAME .
@@ -8484,6 +8512,8 @@ x10.mx CNAME .
 *.x10.mx CNAME .
 1url.my CNAME .
 *.1url.my CNAME .
+350.my CNAME .
+*.350.my CNAME .
 aka.my CNAME .
 *.aka.my CNAME .
 go.bigdomain.my CNAME .
@@ -9570,6 +9600,8 @@ surl.pro CNAME .
 *.surl.pro CNAME .
 tawon4d.pro CNAME .
 *.tawon4d.pro CNAME .
+tinurl.pro CNAME .
+*.tinurl.pro CNAME .
 titly.pro CNAME .
 *.titly.pro CNAME .
 vdio.pro CNAME .
@@ -9620,6 +9652,8 @@ thefp.pub CNAME .
 *.thefp.pub CNAME .
 2u.pw CNAME .
 *.2u.pw CNAME .
+3c.pw CNAME .
+*.3c.pw CNAME .
 8u.pw CNAME .
 *.8u.pw CNAME .
 amzn.pw CNAME .
@@ -10580,6 +10614,8 @@ benfei.to CNAME .
 *.benfei.to CNAME .
 bhpho.to CNAME .
 *.bhpho.to CNAME .
+bitl.to CNAME .
+*.bitl.to CNAME .
 biv.to CNAME .
 *.biv.to CNAME .
 bom.to CNAME .

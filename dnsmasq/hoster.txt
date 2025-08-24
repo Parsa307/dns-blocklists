@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Aug 2025 23:05 UTC
-# Version: 2025.0822.2305.38
+# Last modified: 24 Aug 2025 18:45 UTC
+# Version: 2025.0824.1845.36
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 2133
 #
@@ -817,6 +817,7 @@ local=/download.ac/
 local=/download.sh/
 local=/downloaden24.de/
 local=/dox4.com/
+local=/dpdns.org/
 local=/dr.ag/
 local=/dragndropbuilder.com/
 local=/dreamstation.com/
@@ -848,6 +849,7 @@ local=/ecomplanet.com/
 local=/ecrater.com/
 local=/editboard.com/
 local=/edoctransfer.com/
+local=/edu.eu/
 local=/edublogs.com/
 local=/edublogs.org/
 local=/educationalimpactblog.com/
@@ -1628,6 +1630,7 @@ local=/qodsblog.com/
 local=/qowap.com/
 local=/qu.am/
 local=/quiztionnaire.uk/
+local=/qzz.io/
 local=/r.gp/
 local=/r2.dev/
 local=/radiola.club/
@@ -1661,11 +1664,8 @@ local=/rubberphone.shop/
 local=/rumahweb.org/
 local=/runhosting.com/
 local=/s.gp/
+local=/sa.com/
 local=/sa.gp/
-local=/citybios.sa.com/
-local=/lifecycle.sa.com/
-local=/lineroaming.sa.com/
-local=/regentcoin.sa.com/
 local=/safe-girogate.com/
 local=/safe-ws.de/
 local=/safwhatsapp.top/
@@ -1914,6 +1914,7 @@ local=/untergrund.net/
 local=/uphero.com/
 local=/uploader.eu/
 local=/urlaub.lc/
+local=/us.kg/
 local=/us.nf/
 local=/us.st/
 local=/usa.gg/
@@ -2097,6 +2098,7 @@ local=/xsph.ru/
 local=/xtgem.com/
 local=/xtreemhost.com/
 local=/xuu.pl/
+local=/xx.kg/
 local=/xx.lc/
 local=/xxl.lc/
 local=/xxxxxxxx.jp/
@@ -2122,11 +2124,9 @@ local=/yousher.com/
 local=/yovip.net/
 local=/yuku.com/
 local=/z.gp/
+local=/za.com/
 local=/za.gp/
 local=/za.net/
-local=/awi.za.com/
-local=/baxiys.za.com/
-local=/ishg.za.com/
 local=/zamsblog.com/
 local=/zapacesauto.shop/
 local=/zeblog.com/

@@ -1519,6 +1519,13 @@
       }
     },
     {
+      "PK": "*.dpdns.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "dragonscave.space",
       "action": {
         "do": 1,
@@ -4550,6 +4557,13 @@
       }
     },
     {
+      "PK": "*.qzz.io",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "raccoon.quest",
       "action": {
         "do": 1,
@@ -5855,6 +5869,13 @@
       "PK": "userstyles.world",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.us.kg",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -7381,6 +7402,13 @@
       "PK": "xvideos.red",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.xx.kg",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },

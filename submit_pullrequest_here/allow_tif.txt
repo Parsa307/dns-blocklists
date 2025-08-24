@@ -1,7 +1,5 @@
 # Domains to be removed from the tif and tif medium/mini list.
 
-cdn.pawns.app
-
 # https://github.com/hagezi/dns-blocklists/issues/6794
 analytics.community-scripts.org
 
@@ -36,3 +34,13 @@ jjpool.fr
 
 # https://github.com/hagezi/dns-blocklists/issues/4727
 *.advertising.com
+
+# Wrong
+*.aritypmp.com
+a.opoxv.com
+adrepository.opoxv.com
+apitm.toolmatrix.plus
+cdn.pawns.app
+cdn.tapioni.com
+s.opoxv.com
+tracker.istole.it

@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Aug 2025 08:23 UTC
-# Version: 2025.0824.0823.50
+# Last modified: 24 Aug 2025 20:31 UTC
+# Version: 2025.0824.2031.26
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 5346
 #
@@ -1340,6 +1340,7 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1485,6 +1486,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2130,7 +2132,6 @@ local=/vps1.jnraptor.net/
 local=/vps2.jnraptor.net/
 local=/dns.joey01245.nl/
 local=/vpn.jogjacloud.com/
-local=/adguard.johanliebert.top/
 local=/johneldenring.lol/
 local=/child.joindns4.eu/
 local=/child-noads.joindns4.eu/
@@ -2672,7 +2673,6 @@ local=/dns.neubsi.at/
 local=/dns.neutopia.org/
 local=/newipnow.com/
 local=/newproxylist.net/
-local=/newshosting.com/
 local=/doh.luigi.nexific.it/
 local=/dns.nextdns.io/
 local=/dns1.nextdns.io/

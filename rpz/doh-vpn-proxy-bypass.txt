@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756023780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756067460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Aug 2025 08:23 UTC
-; Version: 2025.0824.0823.50
+; Last modified: 24 Aug 2025 20:31 UTC
+; Version: 2025.0824.2031.26
 ; Syntax: RPZ
 ; Number of entries: 10692
 ;
@@ -1648,6 +1648,8 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2596,8 +2598,6 @@ kywantsmyautographonfood.networkoutpost.com CNAME .
 *.kywantsmyautographonfood.networkoutpost.com CNAME .
 newipnow.com CNAME .
 *.newipnow.com CNAME .
-newshosting.com CNAME .
-*.newshosting.com CNAME .
 ngrok.com CNAME .
 *.ngrok.com CNAME .
 dns.nguyendn.com CNAME .
@@ -9884,6 +9884,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -9996,8 +9998,6 @@ glacius.top CNAME .
 *.glacius.top CNAME .
 imperio.top CNAME .
 *.imperio.top CNAME .
-adguard.johanliebert.top CNAME .
-*.adguard.johanliebert.top CNAME .
 blog.kimiblock.top CNAME .
 *.blog.kimiblock.top CNAME .
 lesuo.top CNAME .

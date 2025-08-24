@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 Aug 2025 22:45 UTC
-# Version: 2025.0823.2245.00
+# Last modified: 24 Aug 2025 18:45 UTC
+# Version: 2025.0824.1845.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5904
+# Number of entries: 5922
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -161,9 +161,16 @@ local=/301.nz/
 local=/301.tv/
 local=/30na.ma/
 local=/31productions.de/
+local=/350.my/
 local=/369.xn--6frz82g/
 local=/389sport.fun/
 local=/389sport.store/
+local=/396264243-020.com/
+local=/396264243-025.com/
+local=/396264243-029.com/
+local=/396264243-033.com/
+local=/396264243-044.com/
+local=/3c.pw/
 local=/3c5.com/
 local=/3ind.com/
 local=/3le.ru/
@@ -289,6 +296,7 @@ local=/99fw.in/
 local=/99vpn.pro/
 local=/9fx.org/
 local=/9k.gg/
+local=/9lick.me/
 local=/9m.no/
 local=/9mp.com/
 local=/go.9nl.com/
@@ -331,6 +339,7 @@ local=/abr.to/
 local=/abre.ae/
 local=/abre.ai/
 local=/abre.pub/
+local=/abrir.link/
 local=/abso.lt/
 local=/abyss.vegas/
 local=/go.bath.ac.uk/
@@ -745,6 +754,7 @@ local=/bitfy.cc/
 local=/bitgg.co/
 local=/bitigee.com/
 local=/bitj.icu/
+local=/bitl.to/
 local=/bitlee.site/
 local=/bitli.pro/
 local=/bitly.bz/
@@ -768,6 +778,7 @@ local=/bitlylinks.com/
 local=/bitlyvi.com/
 local=/bitlz.cc/
 local=/bitnew.us/
+local=/bitq.link/
 local=/bitshort.vip/
 local=/bitshrt.com/
 local=/bittylink.com/
@@ -791,6 +802,7 @@ local=/bjli.in/
 local=/bkite.com/
 local=/bkjkwg.quest/
 local=/bl.ink/
+local=/blabigo.com/
 local=/blacknig.ht/
 local=/blap.net/
 local=/blbrd.cm/
@@ -1571,6 +1583,7 @@ local=/epochtim.es/
 local=/epsi.link/
 local=/ept.ms/
 local=/eqix.it/
+local=/eqrco.de/
 local=/erannis.com/
 local=/erath.email/
 local=/erax.cz/
@@ -2292,6 +2305,7 @@ local=/isc-vn.org/
 local=/iscool.net/
 local=/ishortie.com/
 local=/ishortify.com/
+local=/ishortn.ink/
 local=/isinstance.com/
 local=/isols.co/
 local=/istel.co/
@@ -4805,6 +4819,7 @@ local=/tiniworkfennies.live/
 local=/tinky.cc/
 local=/tinlie.com/
 local=/tinu.be/
+local=/tinurl.pro/
 local=/tiny.cc/
 local=/tiny.do/
 local=/tiny.ee/
@@ -4815,6 +4830,7 @@ local=/tiny.pl/
 local=/tiny.sm/
 local=/tiny.tw/
 local=/tiny.us/
+local=/tiny-l.com/
 local=/tiny-link.org/
 local=/tiny-url.me/
 local=/tiny123.com/
@@ -4828,6 +4844,7 @@ local=/tinyfy.io/
 local=/tinyfy.me/
 local=/tinygo.co/
 local=/tinyi.sh/
+local=/tinyl.co/
 local=/tinyl.ink/
 local=/tinyl.io/
 local=/tinylink.ca/
@@ -5792,6 +5809,7 @@ local=/ysear.ch/
 local=/yt.vu/
 local=/yts.nu/
 local=/ytube.io/
+local=/ytubl.ink/
 local=/ytxt.mobi/
 local=/yu3.io/
 local=/yubi.co/

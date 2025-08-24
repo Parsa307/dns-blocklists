@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755903900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756061100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Aug 2025 23:05 UTC
-; Version: 2025.0822.2305.38
+; Last modified: 24 Aug 2025 18:45 UTC
+; Version: 2025.0824.1845.36
 ; Syntax: RPZ
 ; Number of entries: 4266
 ;
@@ -1595,14 +1595,8 @@ sexpay.ru.com CNAME .
 *.sexpay.ru.com CNAME .
 runhosting.com CNAME .
 *.runhosting.com CNAME .
-citybios.sa.com CNAME .
-*.citybios.sa.com CNAME .
-lifecycle.sa.com CNAME .
-*.lifecycle.sa.com CNAME .
-lineroaming.sa.com CNAME .
-*.lineroaming.sa.com CNAME .
-regentcoin.sa.com CNAME .
-*.regentcoin.sa.com CNAME .
+sa.com CNAME .
+*.sa.com CNAME .
 safe-girogate.com CNAME .
 *.safe-girogate.com CNAME .
 schoolrack.com CNAME .
@@ -1921,12 +1915,8 @@ yousher.com CNAME .
 *.yousher.com CNAME .
 yuku.com CNAME .
 *.yuku.com CNAME .
-awi.za.com CNAME .
-*.awi.za.com CNAME .
-baxiys.za.com CNAME .
-*.baxiys.za.com CNAME .
-ishg.za.com CNAME .
-*.ishg.za.com CNAME .
+za.com CNAME .
+*.za.com CNAME .
 zamsblog.com CNAME .
 *.zamsblog.com CNAME .
 zeblog.com CNAME .
@@ -2381,6 +2371,8 @@ ch2.eu CNAME .
 *.ch2.eu CNAME .
 community24.eu CNAME .
 *.community24.eu CNAME .
+edu.eu CNAME .
+*.edu.eu CNAME .
 im-internet.eu CNAME .
 *.im-internet.eu CNAME .
 inbox24.eu CNAME .
@@ -2791,6 +2783,8 @@ boxmode.io CNAME .
 *.boxmode.io CNAME .
 pillowfort.io CNAME .
 *.pillowfort.io CNAME .
+qzz.io CNAME .
+*.qzz.io CNAME .
 dcr.sehlat.io CNAME .
 *.dcr.sehlat.io CNAME .
 soup.io CNAME .
@@ -2919,6 +2913,10 @@ nl.kg CNAME .
 *.nl.kg CNAME .
 pt.kg CNAME .
 *.pt.kg CNAME .
+us.kg CNAME .
+*.us.kg CNAME .
+xx.kg CNAME .
+*.xx.kg CNAME .
 de.ki CNAME .
 *.de.ki CNAME .
 eu.ki CNAME .
@@ -3493,6 +3491,8 @@ cs-clan.org CNAME .
 *.cs-clan.org CNAME .
 czweb.org CNAME .
 *.czweb.org CNAME .
+dpdns.org CNAME .
+*.dpdns.org CNAME .
 dreamwidth.org CNAME .
 *.dreamwidth.org CNAME .
 edublogs.org CNAME .
