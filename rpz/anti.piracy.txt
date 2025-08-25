@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756080840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756124220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Aug 2025 00:14 UTC
-; Version: 2025.0825.0014.16
+; Last modified: 25 Aug 2025 12:17 UTC
+; Version: 2025.0825.1217.51
 ; Syntax: RPZ
-; Number of entries: 20696
+; Number of entries: 20728
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2069,6 +2069,8 @@ vidcloud.co CNAME .
 *.vidcloud.co CNAME .
 videobin.co CNAME .
 *.videobin.co CNAME .
+videy.co CNAME .
+*.videy.co CNAME .
 vidoza.co CNAME .
 *.vidoza.co CNAME .
 voirserie.co CNAME .
@@ -7291,6 +7293,10 @@ videoelephantbd.com CNAME .
 *.videoelephantbd.com CNAME .
 videoneat.com CNAME .
 *.videoneat.com CNAME .
+videq.com CNAME .
+*.videq.com CNAME .
+videqs.com CNAME .
+*.videqs.com CNAME .
 videqstream.com CNAME .
 *.videqstream.com CNAME .
 vidhog.com CNAME .
@@ -8439,6 +8445,8 @@ kinox.express CNAME .
 *.kinox.express CNAME .
 thepiratebay.fail CNAME .
 *.thepiratebay.fail CNAME .
+bollyflix.faith CNAME .
+*.bollyflix.faith CNAME .
 eurostreaming.faith CNAME .
 *.eurostreaming.faith CNAME .
 hdhub4u.family CNAME .
@@ -9625,6 +9633,8 @@ newalbumreleases.unblockit.ink CNAME .
 *.newalbumreleases.unblockit.ink CNAME .
 unblockproject.ink CNAME .
 *.unblockproject.ink CNAME .
+vidoy.ink CNAME .
+*.vidoy.ink CNAME .
 cb01.institute CNAME .
 *.cb01.institute CNAME .
 123putlocker.io CNAME .
@@ -11289,6 +11299,8 @@ vidlox.me CNAME .
 *.vidlox.me CNAME .
 vidmate.me CNAME .
 *.vidmate.me CNAME .
+vidmoly.me CNAME .
+*.vidmoly.me CNAME .
 vidsrc.me CNAME .
 *.vidsrc.me CNAME .
 vidto.me CNAME .
@@ -13479,6 +13491,8 @@ vhmovies.net CNAME .
 *.vhmovies.net CNAME .
 victorraulrr.net CNAME .
 *.victorraulrr.net CNAME .
+vidcloudtv.net CNAME .
+*.vidcloudtv.net CNAME .
 vide0.net CNAME .
 *.vide0.net CNAME .
 vidembed.net CNAME .
@@ -13487,6 +13501,8 @@ videzz.net CNAME .
 *.videzz.net CNAME .
 vidmate.net CNAME .
 *.vidmate.net CNAME .
+vidmoly.net CNAME .
+*.vidmoly.net CNAME .
 vidnext.net CNAME .
 *.vidnext.net CNAME .
 vidoza.net CNAME .
@@ -14049,6 +14065,8 @@ soccerstreams.unblockedstream.online CNAME .
 *.soccerstreams.unblockedstream.online CNAME .
 veritasforall.online CNAME .
 *.veritasforall.online CNAME .
+vmwesa.online CNAME .
+*.vmwesa.online CNAME .
 voirfilmstreaming.online CNAME .
 *.voirfilmstreaming.online CNAME .
 vostfree.online CNAME .
@@ -16263,6 +16281,8 @@ uploadcloud.pro CNAME .
 *.uploadcloud.pro CNAME .
 vide0.pro CNAME .
 *.vide0.pro CNAME .
+videqvidey.pro CNAME .
+*.videqvidey.pro CNAME .
 vidjoy.pro CNAME .
 *.vidjoy.pro CNAME .
 xmovie8.pro CNAME .
@@ -17533,6 +17553,10 @@ torrentgalaxy-official.site CNAME .
 *.torrentgalaxy-official.site CNAME .
 tvhd.tutvlive.site CNAME .
 *.tvhd.tutvlive.site CNAME .
+videqapp.site CNAME .
+*.videqapp.site CNAME .
+viedeyz.site CNAME .
+*.viedeyz.site CNAME .
 vkstream.site CNAME .
 *.vkstream.site CNAME .
 watchstream.site CNAME .
@@ -17723,6 +17747,8 @@ toparena.store CNAME .
 *.toparena.store CNAME .
 veritasforall.store CNAME .
 *.veritasforall.store CNAME .
+videyco.store CNAME .
+*.videyco.store CNAME .
 0123movie.stream CNAME .
 *.0123movie.stream CNAME .
 01streaming.stream CNAME .
@@ -17737,6 +17763,8 @@ darkanime.stream CNAME .
 *.darkanime.stream CNAME .
 dood.stream CNAME .
 *.dood.stream CNAME .
+doodd.stream CNAME .
+*.doodd.stream CNAME .
 drakula.stream CNAME .
 *.drakula.stream CNAME .
 filmstoon.stream CNAME .
@@ -18171,6 +18199,8 @@ fastclick.to CNAME .
 *.fastclick.to CNAME .
 fboxz.to CNAME .
 *.fboxz.to CNAME .
+filemoon.to CNAME .
+*.filemoon.to CNAME .
 filmehd.to CNAME .
 *.filmehd.to CNAME .
 filmex.to CNAME .
@@ -19821,6 +19851,8 @@ ultracine.vip CNAME .
 *.ultracine.vip CNAME .
 uniquestream.vip CNAME .
 *.uniquestream.vip CNAME .
+videe.vip CNAME .
+*.videe.vip CNAME .
 vizer.vip CNAME .
 *.vizer.vip CNAME .
 voirfilm.vip CNAME .

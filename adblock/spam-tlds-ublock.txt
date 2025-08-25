@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 24 Aug 2025 17:17 UTC
-! Version: 2025.0824.1717.27
+! Last modified: 25 Aug 2025 12:24 UTC
+! Version: 2025.0825.1224.31
 ! Syntax: uBlock
 ! Number of latin TLDs: 278 - non-latin TLDs: 151
 !
@@ -185,7 +185,7 @@
 ||okinawa^$doc
 ||ong^$doc
 ||onl^$doc,domain=~gc.onl
-||online^$doc,domain=~adguard-vpn.online|~argon2.online|~dancewave.online|~discuss.online|~eufh.online|~flexilead.online|~geoigarape.online|~instructions.online|~manuals.online|~radarpayment.online|~randemretail.online|~ravendawn.online|~shueisha.online
+||online^$doc,domain=~adguard-vpn.online|~argon2.online|~dancewave.online|~discuss.online|~eufh.online|~flexilead.online|~geoigarape.online|~instructions.online|~manuals.online|~radarpayment.online|~randemretail.online|~ravendawn.online|~shueisha.online|~vmwesa.online
 ||ooo^$doc,domain=~toast.ooo
 ||partners^$doc,domain=~stripe.partners|~xh.partners
 ||parts^$doc

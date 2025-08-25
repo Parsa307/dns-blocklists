@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Aug 2025 06:42 UTC
-# Version: 2025.0825.0642.16
+# Last modified: 25 Aug 2025 10:47 UTC
+# Version: 2025.0825.1047.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13740
+# Number of entries: 13748
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1878,6 +1878,7 @@ local=/bubucy.com/
 local=/buchberger-innsbruck.com/
 local=/bucheroase.com/
 local=/bucherrabatt.de/
+local=/buchsenbolzen.com/
 local=/buchverlag-scholz.de/
 local=/buckleybelts.de/
 local=/buckleyswiss.com/
@@ -3328,6 +3329,7 @@ local=/drezia.com/
 local=/drgillmaier.de/
 local=/drift-store.com/
 local=/drinkevolution.shop/
+local=/drinkkunst.com/
 local=/drmartens-eu.com/
 local=/drmartens-outlets.com/
 local=/drmartensbatai.com/
@@ -7284,6 +7286,7 @@ local=/lindabonf.shop/
 local=/linde-gmbh.com/
 local=/lindela.de/
 local=/lindenberg-modehaus.de/
+local=/lindenhoflands.de/
 local=/linderhoff.com/
 local=/linear-antrieb.de/
 local=/linearnetrik.de/
@@ -9911,6 +9914,7 @@ local=/qenova.com/
 local=/qgaevt.shop/
 local=/qgreentechnology.com/
 local=/qgripsearwax.com/
+local=/qhzshcku.shop/
 local=/qidjrs.shop/
 local=/qihaobuy.com/
 local=/qlepy.com/
@@ -11962,6 +11966,7 @@ local=/teveoaustria.at/
 local=/teveogermany.com/
 local=/teveoosterreich.at/
 local=/texasdreamdolls.com/
+local=/textiledecorationstore.com/
 local=/textilesdaily.com/
 local=/teylorfashion.de/
 local=/tez-sonido.com/
@@ -12773,7 +12778,9 @@ local=/vbarefootkaufen.de/
 local=/m.vbridal.com/
 local=/vcs-estate.com/
 local=/vcs-germany.com/
+local=/vddae.pro/
 local=/vecticon.co/
+local=/vediy.fun/
 local=/veesenmayer.com/
 local=/veestis.de/
 local=/vegacapital.pro/
@@ -13006,6 +13013,7 @@ local=/vivvamixstore.com/
 local=/vixi.store/
 local=/vizsales.com/
 local=/vl-soudure.com/
+local=/vldew.pro/
 local=/vliestapeten.com/
 local=/vlizo-berlin.de/
 local=/vlizo-modehaus.de/
