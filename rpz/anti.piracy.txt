@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756067100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756080840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Aug 2025 20:25 UTC
-; Version: 2025.0824.2025.55
+; Last modified: 25 Aug 2025 00:14 UTC
+; Version: 2025.0825.0014.16
 ; Syntax: RPZ
-; Number of entries: 20676
+; Number of entries: 20696
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -8161,6 +8161,10 @@ voe.dk CNAME .
 *.voe.dk CNAME .
 solarmovie.do CNAME .
 *.solarmovie.do CNAME .
+z-lib.do CNAME .
+*.z-lib.do CNAME .
+z-library.do CNAME .
+*.z-library.do CNAME .
 streamingcommunity.dog CNAME .
 *.streamingcommunity.dog CNAME .
 123movies.domains CNAME .
@@ -13981,6 +13985,10 @@ mp3fast.online CNAME .
 *.mp3fast.online CNAME .
 multicanaishd.online CNAME .
 *.multicanaishd.online CNAME .
+myfreesky.online CNAME .
+*.myfreesky.online CNAME .
+niulangshan.online CNAME .
+*.niulangshan.online CNAME .
 njuedu.online CNAME .
 *.njuedu.online CNAME .
 ocine.online CNAME .
@@ -14049,6 +14057,8 @@ wassermann.online CNAME .
 *.wassermann.online CNAME .
 xcine.online CNAME .
 *.xcine.online CNAME .
+z8341.online CNAME .
+*.z8341.online CNAME .
 zeflix.online CNAME .
 *.zeflix.online CNAME .
 zlib520.online CNAME .
@@ -14069,6 +14079,8 @@ zliw.online CNAME .
 *.zliw.online CNAME .
 tracker.zupix.online CNAME .
 *.tracker.zupix.online CNAME .
+zz101.online CNAME .
+*.zz101.online CNAME .
 0123moviesfree.org CNAME .
 *.0123moviesfree.org CNAME .
 1-thepiratebay.org CNAME .
@@ -14089,6 +14101,8 @@ tracker.zupix.online CNAME .
 *.1techno.org CNAME .
 1trance.org CNAME .
 *.1trance.org CNAME .
+2-lib.org CNAME .
+*.2-lib.org CNAME .
 2piratebay.org CNAME .
 *.2piratebay.org CNAME .
 3dsroms.org CNAME .
@@ -16635,6 +16649,8 @@ wawacity.rsvp CNAME .
 *.123animes.ru CNAME .
 123moviess.ru CNAME .
 *.123moviess.ru CNAME .
+17890714.ru CNAME .
+*.17890714.ru CNAME .
 1street.ru CNAME .
 *.1street.ru CNAME .
 240x320.ru CNAME .
@@ -18709,6 +18725,8 @@ strimsy.top CNAME .
 *.strimsy.top CNAME .
 tantifilm.top CNAME .
 *.tantifilm.top CNAME .
+tch1996.top CNAME .
+*.tch1996.top CNAME .
 thepiratebay1.top CNAME .
 *.thepiratebay1.top CNAME .
 unblockit.top CNAME .
@@ -20475,6 +20493,8 @@ limetorrents.xyz CNAME .
 *.limetorrents.xyz CNAME .
 wfzrbhp.luxevpn.xyz CNAME .
 *.wfzrbhp.luxevpn.xyz CNAME .
+lyin.xyz CNAME .
+*.lyin.xyz CNAME .
 mamahd.xyz CNAME .
 *.mamahd.xyz CNAME .
 maxseries.xyz CNAME .

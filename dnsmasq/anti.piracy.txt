@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Aug 2025 20:25 UTC
-# Version: 2025.0824.2025.55
+# Last modified: 25 Aug 2025 00:14 UTC
+# Version: 2025.0825.0014.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10338
+# Number of entries: 10348
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -169,6 +169,7 @@ local=/1377x.is/
 local=/141jav.com/
 local=/147job.com/
 local=/16mag.net/
+local=/17890714.ru/
 local=/1cinevood.kim/
 local=/1clickdown.com/
 local=/1ddl.org/
@@ -201,6 +202,7 @@ local=/1trance.org/
 local=/1watch-free.cc/
 local=/1watch-free.me/
 local=/1xstream.com/
+local=/2-lib.org/
 local=/20090910.xyz/
 local=/20links.com/
 local=/22-hd.com/
@@ -5376,6 +5378,7 @@ local=/lunchflix.com/
 local=/lunchflix.org/
 local=/wfzrbhp.luxevpn.xyz/
 local=/igwiki.lyci.de/
+local=/lyin.xyz/
 local=/tracker.lyretain.site/
 local=/lztr.us/
 local=/tracker.lztr.me/
@@ -6041,6 +6044,7 @@ local=/myfreemp3.vip/
 local=/myfreemp3cc.com/
 local=/myfreemp3juices.cc/
 local=/myfreemp3v.com/
+local=/myfreesky.online/
 local=/f4cineplex.myftp.org/
 local=/hawklord.myftp.org/
 local=/turtle55.myftp.org/
@@ -6259,6 +6263,7 @@ local=/tracker.nitrix.me/
 local=/nitro.to/
 local=/nitroflare.com/
 local=/nitroflare.net/
+local=/niulangshan.online/
 local=/504e163a.host.njalla.net/
 local=/njuedu.online/
 local=/njuedu.ru/
@@ -8434,6 +8439,7 @@ local=/tata.to/
 local=/tazz.tv/
 local=/tb7.pl/
 local=/tc-boxing.com/
+local=/tch1996.top/
 local=/tracker.tcp.exchange/
 local=/torrent.tdjs.tech/
 local=/teach12.com/
@@ -10233,10 +10239,13 @@ local=/yuptorrents.com/
 local=/yuwabits.net/
 local=/home.yxgz.club/
 local=/6ffc826b.yyv.co/
+local=/z-lib.do/
 local=/z-lib.org/
+local=/z-library.do/
 local=/z-shadow.co/
 local=/z-torrents.ru/
 local=/z7inc.com/
+local=/z8341.online/
 local=/lunatech.zaeleus.org/
 local=/zajefajna.com/
 local=/tracker.zaluan.xyz/
@@ -10347,3 +10356,4 @@ local=/zumods.com/
 local=/tracker.zupix.online/
 local=/zxcmovies.com/
 local=/zxonlinebd.com/
+local=/zz101.online/

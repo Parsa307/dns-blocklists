@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756067100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756080780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Aug 2025 20:25 UTC
-; Version: 2025.0824.2025.26
+; Last modified: 25 Aug 2025 00:13 UTC
+; Version: 2025.0825.0013.47
 ; Syntax: RPZ
-; Number of entries: 116804
+; Number of entries: 116800
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -41849,8 +41849,6 @@ hotmatchpoker.com CNAME .
 *.hotmatchpoker.com CNAME .
 hotpepperpoker.com CNAME .
 *.hotpepperpoker.com CNAME .
-hotpokerbonus.com CNAME .
-*.hotpokerbonus.com CNAME .
 hotpokerdeals.com CNAME .
 *.hotpokerdeals.com CNAME .
 hotpokerface.com CNAME .
@@ -57279,8 +57277,6 @@ sol-casino-de.com CNAME .
 *.sol-casino-de.com CNAME .
 solaireonline.com CNAME .
 *.solaireonline.com CNAME .
-solarbet.com CNAME .
-*.solarbet.com CNAME .
 solcasino1095.com CNAME .
 *.solcasino1095.com CNAME .
 solcasino465.com CNAME .
