@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Aug 2025 12:23 UTC
-# Version: 2025.0825.1223.55
+# Last modified: 25 Aug 2025 16:22 UTC
+# Version: 2025.0825.1622.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5707
+# Number of entries: 5715
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -383,6 +383,7 @@ local=/bananavpn.com/
 local=/fr-dns1.bancuh.com/
 local=/jp-dns1.bancuh.com/
 local=/sg-dns1.bancuh.com/
+local=/hellbreaksloose.barryscloset.com/
 local=/base99.com/
 local=/anamoxe.baselinux.net/
 local=/boltnixe.baselinux.net/
@@ -503,6 +504,7 @@ local=/bodvpn.com/
 local=/dns.bofh.in/
 local=/boghag.party/
 local=/boi9osyg1uwtyafn.com/
+local=/feedonblood.bolboroace.ro/
 local=/bolehvpn.net/
 local=/adguard.bonis.de/
 local=/adguard.bonsirven.eu/
@@ -877,6 +879,8 @@ local=/btg.go4it.com.mx/
 local=/modernlogic.iceage.com.my/
 local=/doge.intinet.com.ar/
 local=/12bucklemyshoe.kalbas.com.vn/
+local=/humankindisafailure.kindy4kids.com.au/
+local=/swordmachines.laxmikarmacharya.com.np/
 local=/auditing.lepetitprince.com.np/
 local=/logisticsacademy.logistica.com.mx/
 local=/encryption.madereramilano.com.ar/
@@ -1006,7 +1010,6 @@ local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/dns.cybertonic.tech/
-local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -1037,6 +1040,7 @@ local=/dns.david888.com/
 local=/dns.daw.dev/
 local=/jit.ddns.net/
 local=/zrd.ddns.net/
+local=/freewillisaflaw.ddnsfree.top/
 local=/why.is.it.my.fault.de-a.org/
 local=/dns.deadsec.net/
 local=/dear.actor/
@@ -1448,6 +1452,7 @@ local=/favoriteshoes.us/
 local=/fbproxies.info/
 local=/ns0.fdn.fr/
 local=/ns1.fdn.fr/
+local=/fear.fearenough.com/
 local=/audit.feedcube.org/
 local=/feeproxy.com/
 local=/dns.fehlsprache.de/
@@ -1486,7 +1491,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1617,6 +1621,7 @@ local=/cats.fuzzylookups.com/
 local=/dogs.fuzzylookups.com/
 local=/foxes.fuzzylookups.com/
 local=/g-a-y.pro/
+local=/earthmowers.gabrielamelopropiedades.cl/
 local=/gabstorm.com/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
@@ -2184,6 +2189,7 @@ local=/dns.karfamily.net/
 local=/dns.karl.one/
 local=/adguard.kasbot.net/
 local=/dns.kastner-online.de/
+local=/sentries.kategentry.com/
 local=/katonetwork.com/
 local=/kavkaz.monster/
 local=/dns.kawa.tf/
@@ -2401,6 +2407,7 @@ local=/dns.maitrekuc.fr/
 local=/mallocapp.com/
 local=/mallocprivacy.com/
 local=/dns.mandre.dev/
+local=/guttermans.manggalaperkasa.com/
 local=/dns.maolaohei.xyz/
 local=/mapspublications.us/
 local=/maqgie.xyz/
@@ -2505,6 +2512,7 @@ local=/www-nsc.moebh.me/
 local=/history-of-the-king-of-pop.moldeo.org/
 local=/only-shooting-stars-breakthe.moldeo.org/
 local=/dns.molinero.dev/
+local=/godhasleft.momgod.com/
 local=/naganohara-yoimiya.momokko.moe/
 local=/dns.momou.ch/
 local=/later.monkxy.org/
@@ -2595,7 +2603,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -3626,6 +3633,7 @@ local=/lol.skibiditoi.lat/
 local=/dns.skrep.eu/
 local=/dns.skrep.in/
 local=/skydragoness.com/
+local=/hopedies.skyhop.us/
 local=/skynetwork.info/
 local=/skyssh.co/
 local=/skyvpn.net/
