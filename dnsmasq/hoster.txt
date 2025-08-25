@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Aug 2025 18:45 UTC
-# Version: 2025.0824.1845.36
+# Last modified: 25 Aug 2025 06:43 UTC
+# Version: 2025.0825.0643.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2133
+# Number of entries: 2131
 #
 local=/000a.de/
 local=/000free.us/
@@ -878,7 +878,6 @@ local=/envy.nu/
 local=/eo3.de/
 local=/blog.eonet.jp/
 local=/epizy.com/
-local=/equalside.shop/
 local=/erlegen.de/
 local=/es.gp/
 local=/es-bbvacliente-movil.com/
@@ -1285,7 +1284,6 @@ local=/kanka.space/
 local=/kann-helfen.de/
 local=/kataweb.it/
 local=/keepfree.de/
-local=/keetkotoun.com/
 local=/kidnumber.shop/
 local=/kilu.at/
 local=/kilu.biz/

@@ -231,8 +231,6 @@ https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/montysecurity/C2-Tracker/refs/heads/main/data/all.txt
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt
-https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
-https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
 https://raw.githubusercontent.com/scamsniffer/scam-database/main/blacklist/domains.json

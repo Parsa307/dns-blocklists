@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756061100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756104180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Aug 2025 18:45 UTC
-; Version: 2025.0824.1845.36
+; Last modified: 25 Aug 2025 06:43 UTC
+; Version: 2025.0825.0643.52
 ; Syntax: RPZ
-; Number of entries: 4266
+; Number of entries: 4262
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1341,8 +1341,6 @@ justaboutblogs.com CNAME .
 *.justaboutblogs.com CNAME .
 ka-blogs.com CNAME .
 *.ka-blogs.com CNAME .
-keetkotoun.com CNAME .
-*.keetkotoun.com CNAME .
 kiluweb.com CNAME .
 *.kiluweb.com CNAME .
 kraftonevent.com CNAME .
@@ -3897,8 +3895,6 @@ emoneysale.shop CNAME .
 *.emoneysale.shop CNAME .
 energycd.shop CNAME .
 *.energycd.shop CNAME .
-equalside.shop CNAME .
-*.equalside.shop CNAME .
 esthersresaleshop.shop CNAME .
 *.esthersresaleshop.shop CNAME .
 faithflairboutique.shop CNAME .

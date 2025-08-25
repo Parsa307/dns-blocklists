@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Aug 2025 16:19 UTC
-# Version: 2025.0824.1619.07
+# Last modified: 25 Aug 2025 06:42 UTC
+# Version: 2025.0825.0642.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13742
+# Number of entries: 13740
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -99,6 +99,7 @@ local=/abstractp.com/
 local=/abtrucks-trailers.com/
 local=/abus-de.com/
 local=/acaciapecas.com/
+local=/acalies.com/
 local=/acapitalgroup.co/
 local=/acastleinthesun.com/
 local=/accbulk.com/
@@ -3830,6 +3831,7 @@ local=/essentielride.com/
 local=/essentrafinance.com/
 local=/essenverkauf.com/
 local=/esszimmerery.com/
+local=/establishg.com/
 local=/estate-go.com/
 local=/estate-nova.com/
 local=/estate-view.com/
@@ -3993,7 +3995,6 @@ local=/expert-re.com/
 local=/explicitcargo.com/
 local=/expochains.com/
 local=/expogoodet.shop/
-local=/expositioy.com/
 local=/expres-store.com/
 local=/express-inv.com/
 local=/expresstools.eu/
@@ -4312,7 +4313,6 @@ local=/firat-handel24.de/
 local=/firegemss.com/
 local=/firewood-versand.de/
 local=/firma-leitner.at/
-local=/firmadmire.com/
 local=/firmeneintrag.net/
 local=/firmenfinderonline.com/
 local=/first-bikes.de/
@@ -5280,7 +5280,6 @@ local=/growano.com/
 local=/growingcat.com/
 local=/growit-indoor.com/
 local=/growthfundx.com/
-local=/grraciously.com/
 local=/grs-capital.com/
 local=/gruber-graz.at/
 local=/gruber-remote.de/
@@ -9524,7 +9523,6 @@ local=/philosophyk.com/
 local=/phoenix-elektro.com/
 local=/phoenix-market.com/
 local=/phonekong.com/
-local=/phonesrefurb.com/
 local=/phontix.store/
 local=/photo-schmiede24.de/
 local=/photoschneider.de/
