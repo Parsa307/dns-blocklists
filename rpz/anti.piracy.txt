@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756167360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756195680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Aug 2025 00:16 UTC
-; Version: 2025.0826.0016.02
+; Last modified: 26 Aug 2025 08:08 UTC
+; Version: 2025.0826.0808.38
 ; Syntax: RPZ
-; Number of entries: 20792
+; Number of entries: 20788
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -10227,8 +10227,6 @@ filmpertutti.lat CNAME .
 *.filmpertutti.lat CNAME .
 ilgeniodellostreaming.lat CNAME .
 *.ilgeniodellostreaming.lat CNAME .
-pelisflix20.lat CNAME .
-*.pelisflix20.lat CNAME .
 pirateproxy.lat CNAME .
 *.pirateproxy.lat CNAME .
 tantifilm.lat CNAME .
@@ -16287,8 +16285,6 @@ tracker.ncore.pro CNAME .
 *.tracker.ncore.pro CNAME .
 nicemoviezion.pro CNAME .
 *.nicemoviezion.pro CNAME .
-pelisflix20.pro CNAME .
-*.pelisflix20.pro CNAME .
 piratebay.pro CNAME .
 *.piratebay.pro CNAME .
 proxybay.pro CNAME .
