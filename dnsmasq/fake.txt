@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 06:42 UTC
-# Version: 2025.0826.0642.11
+# Last modified: 26 Aug 2025 10:43 UTC
+# Version: 2025.0826.1043.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13798
+# Number of entries: 13801
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1216,6 +1216,7 @@ local=/bemyo.xyz/
 local=/bender-baumarkt.com/
 local=/bendoffice.com/
 local=/beneathk.com/
+local=/beneficialx.com/
 local=/benefitw.com/
 local=/benettonaustria.at/
 local=/benjamin-scheuer.de/
@@ -3887,7 +3888,6 @@ local=/eu-venum.shop/
 local=/eubiofficial.com/
 local=/euergutesbrennholz.com/
 local=/eufahrradteile.de/
-local=/euflowersale.shop/
 local=/eufootwear.com/
 local=/eugadneu.de/
 local=/euisabelmarant.de/
@@ -4332,6 +4332,7 @@ local=/firat-handel24.de/
 local=/firegemss.com/
 local=/firewood-versand.de/
 local=/firma-leitner.at/
+local=/firmadmire.com/
 local=/firmeneintrag.net/
 local=/firmenfinderonline.com/
 local=/first-bikes.de/
@@ -4473,6 +4474,7 @@ local=/forchock-sarl.com/
 local=/de.fordeals24.com/
 local=/fordogtrainers.de/
 local=/forealex.com/
+local=/foreseew.com/
 local=/forestryshoes.com/
 local=/forestseas.com/
 local=/foret-mareuillaise.com/
@@ -7393,6 +7395,7 @@ local=/locknlock.at/
 local=/lockpickingstore.de/
 local=/lockwoodinv.com/
 local=/locmyparcel.info/
+local=/locomotivey.com/
 local=/lodiac.com/
 local=/lodischuhedeutschland.com/
 local=/lodischuheonlineshop.de/
@@ -9562,6 +9565,7 @@ local=/philosophyk.com/
 local=/phoenix-elektro.com/
 local=/phoenix-market.com/
 local=/phonekong.com/
+local=/phonesrefurb.com/
 local=/phontix.store/
 local=/photo-schmiede24.de/
 local=/photoschneider.de/
@@ -13750,7 +13754,6 @@ local=/zesavi-tech.de/
 local=/zesbit.com/
 local=/zestara-berlin.de/
 local=/zetko-waren.de/
-local=/app.zety.de/
 local=/zevarpalace.pk/
 local=/zicklerbrennholz.de/
 local=/ziectmg.shop/

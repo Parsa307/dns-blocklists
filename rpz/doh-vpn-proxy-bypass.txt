@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756195980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756210500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Aug 2025 08:13 UTC
-; Version: 2025.0826.0813.52
+; Last modified: 26 Aug 2025 12:15 UTC
+; Version: 2025.0826.1215.53
 ; Syntax: RPZ
-; Number of entries: 11436
+; Number of entries: 11426
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -874,8 +874,6 @@ mailkyb.co CNAME .
 *.mailkyb.co CNAME .
 weather.meteorological.co CNAME .
 *.weather.meteorological.co CNAME .
-adguard.mrmartian.co CNAME .
-*.adguard.mrmartian.co CNAME .
 bdedu.ne1.co CNAME .
 *.bdedu.ne1.co CNAME .
 nrr.ne1.co CNAME .
@@ -1656,8 +1654,6 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2590,8 +2586,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -10626,8 +10620,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -11074,8 +11066,6 @@ dns.horcrux.vip CNAME .
 *.dns.horcrux.vip CNAME .
 dns.mtoo.vip CNAME .
 *.dns.mtoo.vip CNAME .
-squidmall.vip CNAME .
-*.squidmall.vip CNAME .
 theproxy.vip CNAME .
 *.theproxy.vip CNAME .
 unblocked2.vip CNAME .

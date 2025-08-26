@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 08:13 UTC
-# Version: 2025.0826.0813.52
+# Last modified: 26 Aug 2025 12:15 UTC
+# Version: 2025.0826.1215.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5718
+# Number of entries: 5713
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1344,7 +1344,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1491,7 +1490,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2534,7 +2532,6 @@ local=/movieproxy.com/
 local=/moyazyinomoyasi.com/
 local=/vpn.mozilla.org/
 local=/dns.mrkaran.dev/
-local=/adguard.mrmartian.co/
 local=/sail.msg.boats/
 local=/msr177.com/
 local=/dns.msxnet.ru/
@@ -2605,7 +2602,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -3699,7 +3695,6 @@ local=/math.spotifyfans.art/
 local=/kamaemon.spy.moe/
 local=/spys.one/
 local=/spysurfing.com/
-local=/squidmall.vip/
 local=/squidproxyserver.com/
 local=/squirrelvpn.com/
 local=/sriedmueadguard.casa/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 Jul 2025 17:55 UTC
-# Version: 2025.0723.1755.25
+# Last modified: 26 Aug 2025 09:51 UTC
+# Version: 2025.0826.0951.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 359
+# Number of entries: 355
 #
 local=/calculator-api-fr.allawnos.com/
 local=/calculator-api-in.allawnos.com/
@@ -60,10 +60,6 @@ local=/icosa-service-sg.allawnos.com/
 local=/icosa-service-us.allawnos.com/
 local=/icota-service-eu.allawnos.com/
 local=/icota-service-in.allawnos.com/
-local=/lang-server-eu.allawnos.com/
-local=/lang-server-in.allawnos.com/
-local=/lang-server-sg.allawnos.com/
-local=/lang-server-us.allawnos.com/
 local=/lockcard-service-in.allawnos.com/
 local=/moa-upload-in.allawnos.com/
 local=/moa-upload-sg.allawnos.com/
