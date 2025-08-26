@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756210200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756223220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Aug 2025 12:10 UTC
-; Version: 2025.0826.1210.38
+; Last modified: 26 Aug 2025 15:47 UTC
+; Version: 2025.0826.1547.23
 ; Syntax: RPZ
-; Number of entries: 20790
+; Number of entries: 20796
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -207,6 +207,8 @@ rivestream.netlify.app CNAME .
 *.rivestream.netlify.app CNAME .
 yify.netlify.app CNAME .
 *.yify.netlify.app CNAME .
+netmirror.app CNAME .
+*.netmirror.app CNAME .
 pirlotv.app CNAME .
 *.pirlotv.app CNAME .
 playmods.app CNAME .
@@ -1483,6 +1485,8 @@ dood.chat CNAME .
 *.dood.chat CNAME .
 eurostreaming.chat CNAME .
 *.eurostreaming.chat CNAME .
+streamingcommunityz.chat CNAME .
+*.streamingcommunityz.chat CNAME .
 altadefinizione.cheap CNAME .
 *.altadefinizione.cheap CNAME .
 streamingcommunity.cheap CNAME .
@@ -8933,6 +8937,8 @@ qg.lorzl.gq CNAME .
 *.qg.lorzl.gq CNAME .
 black-tracker.gr CNAME .
 *.black-tracker.gr CNAME .
+direttecommunity.gratis CNAME .
+*.direttecommunity.gratis CNAME .
 filmesviatorrents.gratis CNAME .
 *.filmesviatorrents.gratis CNAME .
 futemax.gratis CNAME .

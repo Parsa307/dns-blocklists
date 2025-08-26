@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 12:10 UTC
-# Version: 2025.0826.1210.38
+# Last modified: 26 Aug 2025 15:47 UTC
+# Version: 2025.0826.1547.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10395
+# Number of entries: 10398
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2508,6 +2508,7 @@ local=/directdl.com/
 local=/directoriowarez.com/
 local=/directwarez.com/
 local=/direttagol.it/
+local=/direttecommunity.gratis/
 local=/dirkstream.com/
 local=/dirtytorrents.com/
 local=/dirtywarez.com/
@@ -6174,6 +6175,7 @@ local=/rivestream.netlify.app/
 local=/yify.netlify.app/
 local=/tracker.netmap.top/
 local=/netmatrixbd.com/
+local=/netmirror.app/
 local=/netmirror.my/
 local=/netmovies.to/
 local=/netonlinebd.com/
@@ -8239,6 +8241,7 @@ local=/streamingcommunity.work/
 local=/streamingcommunity.xyz/
 local=/streamingcommunityz.bio/
 local=/streamingcommunityz.boats/
+local=/streamingcommunityz.chat/
 local=/streamingcommunityz.city/
 local=/streamingcommunityz.com/
 local=/streamingcommunityz.date/

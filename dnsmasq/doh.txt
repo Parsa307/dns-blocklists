@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 12:15 UTC
-# Version: 2025.0826.1215.25
+# Last modified: 26 Aug 2025 15:52 UTC
+# Version: 2025.0826.1552.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1433
+# Number of entries: 1436
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -518,6 +518,7 @@ local=/dns.eddi.net/
 local=/doh.eddi.net/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -561,6 +562,7 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
+local=/dns.fizz.studio/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
 local=/dns01.flm9.net/
@@ -903,6 +905,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -1263,6 +1266,7 @@ local=/spacedns.org/
 local=/doh-01.spectrum.com/
 local=/doh-02.spectrum.com/
 local=/dns.spirio.fr/
+local=/squidmall.vip/
 local=/sriedmueadguard.casa/
 local=/adguard.sscw.win/
 local=/doh.ntu.ssooss.win/
@@ -1297,7 +1301,6 @@ local=/dns.t53.de/
 local=/tecdrive.site/
 local=/dns1.techeasy.org/
 local=/vpn.technicule.info/
-local=/doh.technochat.in/
 local=/dns.technologycage.com/
 local=/dns.technostriker.com/
 local=/rx.techomespace.com/

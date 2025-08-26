@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756210500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756223520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Aug 2025 12:15 UTC
-; Version: 2025.0826.1215.53
+; Last modified: 26 Aug 2025 15:52 UTC
+; Version: 2025.0826.1552.59
 ; Syntax: RPZ
-; Number of entries: 11426
+; Number of entries: 11432
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1654,6 +1654,8 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2586,6 +2588,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -6926,8 +6930,6 @@ sitenable.in CNAME .
 *.sitenable.in CNAME .
 dns.skrep.in CNAME .
 *.dns.skrep.in CNAME .
-doh.technochat.in CNAME .
-*.doh.technochat.in CNAME .
 websurf.in CNAME .
 *.websurf.in CNAME .
 yogawiki.in CNAME .
@@ -10620,6 +10622,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -11066,6 +11070,8 @@ dns.horcrux.vip CNAME .
 *.dns.horcrux.vip CNAME .
 dns.mtoo.vip CNAME .
 *.dns.mtoo.vip CNAME .
+squidmall.vip CNAME .
+*.squidmall.vip CNAME .
 theproxy.vip CNAME .
 *.theproxy.vip CNAME .
 unblocked2.vip CNAME .
