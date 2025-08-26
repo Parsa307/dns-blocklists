@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Aug 2025 16:22 UTC
-# Version: 2025.0825.1622.26
+# Last modified: 26 Aug 2025 00:20 UTC
+# Version: 2025.0826.0020.58
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1592
 #
@@ -364,6 +364,7 @@
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
 0.0.0.0 dns.cybertonic.tech
+0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
 0.0.0.0 dns.d4d.moe
@@ -620,7 +621,6 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver2.dyndnsinternetguide.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -629,7 +629,6 @@
 0.0.0.0 doh.eddi.net
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -996,6 +995,7 @@
 0.0.0.0 morbitzer.de
 0.0.0.0 www.morbitzer.de
 0.0.0.0 dns.mrkaran.dev
+0.0.0.0 adguard.mrmartian.co
 0.0.0.0 msr177.com
 0.0.0.0 dns.msxnet.ru
 0.0.0.0 dns.mtoo.vip

@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Aug 2025 14:49 UTC
-# Version: 2025.0825.1449.24
+# Last modified: 25 Aug 2025 22:42 UTC
+# Version: 2025.0825.2242.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5980
+# Number of entries: 5981
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -4938,6 +4938,7 @@ local=/tj.wtf/
 local=/tj-bet88.store/
 local=/tklinknow.com/
 local=/tklinks.com/
+local=/tkopod.co/
 local=/tktwb.tw/
 local=/tkz.es/
 local=/tl.gd/

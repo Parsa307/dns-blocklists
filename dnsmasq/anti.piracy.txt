@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Aug 2025 12:17 UTC
-# Version: 2025.0825.1217.51
+# Last modified: 26 Aug 2025 00:16 UTC
+# Version: 2025.0826.0016.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10364
+# Number of entries: 10396
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3566,6 +3566,7 @@ local=/firstsrows.net/
 local=/firstsrowsports.tv/
 local=/satrong.fissabd.com/
 local=/fitgirl-repacks.site/
+local=/fitgirl-repacks.website/
 local=/tracker.fixr.pro/
 local=/fk9.pw/
 local=/fl1x.com/
@@ -6695,7 +6696,38 @@ local=/peliculaswarez.net/
 local=/pelis-plus.co/
 local=/pelis24.se/
 local=/pelis24.to/
+local=/pelisflix20.at/
+local=/pelisflix20.bid/
+local=/pelisflix20.bio/
+local=/pelisflix20.biz/
+local=/pelisflix20.buzz/
+local=/pelisflix20.cam/
+local=/pelisflix20.ceo/
+local=/pelisflix20.click/
+local=/pelisflix20.club/
+local=/pelisflix20.co/
+local=/pelisflix20.com/
+local=/pelisflix20.fit/
+local=/pelisflix20.fun/
 local=/pelisflix20.icu/
+local=/pelisflix20.info/
+local=/pelisflix20.ink/
+local=/pelisflix20.lat/
+local=/pelisflix20.live/
+local=/pelisflix20.me/
+local=/pelisflix20.mom/
+local=/pelisflix20.my/
+local=/pelisflix20.net/
+local=/pelisflix20.one/
+local=/pelisflix20.online/
+local=/pelisflix20.pro/
+local=/pelisflix20.pw/
+local=/pelisflix20.site/
+local=/pelisflix20.top/
+local=/pelisflix20.uno/
+local=/pelisflix20.vip/
+local=/pelisflix20.wiki/
+local=/pelisflix20.xyz/
 local=/pelisplus.blog/
 local=/pelisplus.co/
 local=/pelisplus.gratis/

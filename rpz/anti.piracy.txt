@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756124220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756167360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Aug 2025 12:17 UTC
-; Version: 2025.0825.1217.51
+; Last modified: 26 Aug 2025 00:16 UTC
+; Version: 2025.0826.0016.02
 ; Syntax: RPZ
-; Number of entries: 20728
+; Number of entries: 20792
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -359,6 +359,8 @@ movie-blog.at CNAME .
 *.movie-blog.at CNAME .
 myp2p.at CNAME .
 *.myp2p.at CNAME .
+pelisflix20.at CNAME .
+*.pelisflix20.at CNAME .
 rojadirectatv.at CNAME .
 *.rojadirectatv.at CNAME .
 totalsportek.at CNAME .
@@ -571,6 +573,8 @@ kickasstorrent.bid CNAME .
 *.kickasstorrent.bid CNAME .
 megakino.bid CNAME .
 *.megakino.bid CNAME .
+pelisflix20.bid CNAME .
+*.pelisflix20.bid CNAME .
 eurostreaming.bike CNAME .
 *.eurostreaming.bike CNAME .
 guardaserie.bike CNAME .
@@ -587,6 +591,8 @@ filmpertutti.bio CNAME .
 *.filmpertutti.bio CNAME .
 megakino.bio CNAME .
 *.megakino.bio CNAME .
+pelisflix20.bio CNAME .
+*.pelisflix20.bio CNAME .
 streamingcommunity.bio CNAME .
 *.streamingcommunity.bio CNAME .
 streamingcommunityz.bio CNAME .
@@ -689,6 +695,8 @@ ettv.nocensor.biz CNAME .
 *.ettv.nocensor.biz CNAME .
 t.overflow.biz CNAME .
 *.t.overflow.biz CNAME .
+pelisflix20.biz CNAME .
+*.pelisflix20.biz CNAME .
 regarder-serie.biz CNAME .
 *.regarder-serie.biz CNAME .
 sandrotracker.biz CNAME .
@@ -827,6 +835,8 @@ limetorrents.buzz CNAME .
 *.limetorrents.buzz CNAME .
 lookmovie.buzz CNAME .
 *.lookmovie.buzz CNAME .
+pelisflix20.buzz CNAME .
+*.pelisflix20.buzz CNAME .
 rarbg.buzz CNAME .
 *.rarbg.buzz CNAME .
 tantifilm.buzz CNAME .
@@ -947,6 +957,8 @@ megastream.cam CNAME .
 *.megastream.cam CNAME .
 movies123-online.cam CNAME .
 *.movies123-online.cam CNAME .
+pelisflix20.cam CNAME .
+*.pelisflix20.cam CNAME .
 serien.cam CNAME .
 *.serien.cam CNAME .
 songslover.cam CNAME .
@@ -1383,6 +1395,8 @@ streamingcommunity.center CNAME .
 *.streamingcommunity.center CNAME .
 tantifilm.center CNAME .
 *.tantifilm.center CNAME .
+pelisflix20.ceo CNAME .
+*.pelisflix20.ceo CNAME .
 tr.kxmp.cf CNAME .
 *.tr.kxmp.cf CNAME .
 altadefinizione.cfd CNAME .
@@ -1527,6 +1541,8 @@ kinox.click CNAME .
 *.kinox.click CNAME .
 nextream.click CNAME .
 *.nextream.click CNAME .
+pelisflix20.click CNAME .
+*.pelisflix20.click CNAME .
 pirateproxy.click CNAME .
 *.pirateproxy.click CNAME .
 pkgps4.click CNAME .
@@ -1699,6 +1715,8 @@ tracker.ourbits.club CNAME .
 *.tracker.ourbits.club CNAME .
 pdfmagazines.club CNAME .
 *.pdfmagazines.club CNAME .
+pelisflix20.club CNAME .
+*.pelisflix20.club CNAME .
 pirate-proxy.club CNAME .
 *.pirate-proxy.club CNAME .
 playseries.club CNAME .
@@ -1987,6 +2005,8 @@ thepiratebay-org.pbproxy2.co CNAME .
 *.thepiratebay-org.pbproxy2.co CNAME .
 pelis-plus.co CNAME .
 *.pelis-plus.co CNAME .
+pelisflix20.co CNAME .
+*.pelisflix20.co CNAME .
 pelisplus.co CNAME .
 *.pelisplus.co CNAME .
 phaze.co CNAME .
@@ -5773,6 +5793,8 @@ pdfroom.com CNAME .
 *.pdfroom.com CNAME .
 peckservers.com CNAME .
 *.peckservers.com CNAME .
+pelisflix20.com CNAME .
+*.pelisflix20.com CNAME .
 pelisplusgt.com CNAME .
 *.pelisplusgt.com CNAME .
 pesktop.com CNAME .
@@ -8501,6 +8523,8 @@ bollyflix.fit CNAME .
 *.bollyflix.fit CNAME .
 doodstream.fit CNAME .
 *.doodstream.fit CNAME .
+pelisflix20.fit CNAME .
+*.pelisflix20.fit CNAME .
 altadefinizione.fitness CNAME .
 *.altadefinizione.fitness CNAME .
 5movies.fm CNAME .
@@ -8757,6 +8781,8 @@ losmovies.fun CNAME .
 *.losmovies.fun CNAME .
 m4ufree.fun CNAME .
 *.m4ufree.fun CNAME .
+pelisflix20.fun CNAME .
+*.pelisflix20.fun CNAME .
 piratbit.fun CNAME .
 *.piratbit.fun CNAME .
 playx.fun CNAME .
@@ -9473,6 +9499,8 @@ nzblnk.info CNAME .
 *.nzblnk.info CNAME .
 openclip.info CNAME .
 *.openclip.info CNAME .
+pelisflix20.info CNAME .
+*.pelisflix20.info CNAME .
 pirate-bay.info CNAME .
 *.pirate-bay.info CNAME .
 piratebay1.info CNAME .
@@ -9621,6 +9649,8 @@ nyaa.iss.ink CNAME .
 *.nyaa.iss.ink CNAME .
 pahe.ink CNAME .
 *.pahe.ink CNAME .
+pelisflix20.ink CNAME .
+*.pelisflix20.ink CNAME .
 pirate-proxy.ink CNAME .
 *.pirate-proxy.ink CNAME .
 pirateproxy.ink CNAME .
@@ -10197,6 +10227,8 @@ filmpertutti.lat CNAME .
 *.filmpertutti.lat CNAME .
 ilgeniodellostreaming.lat CNAME .
 *.ilgeniodellostreaming.lat CNAME .
+pelisflix20.lat CNAME .
+*.pelisflix20.lat CNAME .
 pirateproxy.lat CNAME .
 *.pirateproxy.lat CNAME .
 tantifilm.lat CNAME .
@@ -10455,6 +10487,8 @@ noxe.live CNAME .
 *.noxe.live CNAME .
 piratestreaming.nuovo.live CNAME .
 *.piratestreaming.nuovo.live CNAME .
+pelisflix20.live CNAME .
+*.pelisflix20.live CNAME .
 pelisplus.live CNAME .
 *.pelisplus.live CNAME .
 piratebay.live CNAME .
@@ -11147,6 +11181,8 @@ oxtorrent.me CNAME .
 *.oxtorrent.me CNAME .
 passthepopcorn.me CNAME .
 *.passthepopcorn.me CNAME .
+pelisflix20.me CNAME .
+*.pelisflix20.me CNAME .
 piratepc.me CNAME .
 *.piratepc.me CNAME .
 tracker.pixelcove.me CNAME .
@@ -11465,6 +11501,8 @@ ilgeniodellostreaming.mom CNAME .
 *.ilgeniodellostreaming.mom CNAME .
 juststream.mom CNAME .
 *.juststream.mom CNAME .
+pelisflix20.mom CNAME .
+*.pelisflix20.mom CNAME .
 privatemoviez.mom CNAME .
 *.privatemoviez.mom CNAME .
 solarmovie.mom CNAME .
@@ -11561,6 +11599,8 @@ movievilla.my CNAME .
 *.movievilla.my CNAME .
 netmirror.my CNAME .
 *.netmirror.my CNAME .
+pelisflix20.my CNAME .
+*.pelisflix20.my CNAME .
 streamcloud.my CNAME .
 *.streamcloud.my CNAME .
 y2meta.my CNAME .
@@ -12899,6 +12939,8 @@ pdf-giant.net CNAME .
 *.pdf-giant.net CNAME .
 peliculaswarez.net CNAME .
 *.peliculaswarez.net CNAME .
+pelisflix20.net CNAME .
+*.pelisflix20.net CNAME .
 pelisplushd.net CNAME .
 *.pelisplushd.net CNAME .
 piecejointe.net CNAME .
@@ -13863,6 +13905,8 @@ libertyland.one CNAME .
 *.libertyland.one CNAME .
 moviesjoy.one CNAME .
 *.moviesjoy.one CNAME .
+pelisflix20.one CNAME .
+*.pelisflix20.one CNAME .
 piratebay.one CNAME .
 *.piratebay.one CNAME .
 pubfilm.one CNAME .
@@ -14011,6 +14055,8 @@ ocine.online CNAME .
 *.ocine.online CNAME .
 onlyforscholarship.online CNAME .
 *.onlyforscholarship.online CNAME .
+pelisflix20.online CNAME .
+*.pelisflix20.online CNAME .
 pelisplus.online CNAME .
 *.pelisplus.online CNAME .
 piratebaylive.online CNAME .
@@ -16241,6 +16287,8 @@ tracker.ncore.pro CNAME .
 *.tracker.ncore.pro CNAME .
 nicemoviezion.pro CNAME .
 *.nicemoviezion.pro CNAME .
+pelisflix20.pro CNAME .
+*.pelisflix20.pro CNAME .
 piratebay.pro CNAME .
 *.piratebay.pro CNAME .
 proxybay.pro CNAME .
@@ -16371,6 +16419,8 @@ nulledfree.pw CNAME .
 *.nulledfree.pw CNAME .
 tr.nyacat.pw CNAME .
 *.tr.nyacat.pw CNAME .
+pelisflix20.pw CNAME .
+*.pelisflix20.pw CNAME .
 predb.pw CNAME .
 *.predb.pw CNAME .
 primewire.pw CNAME .
@@ -17523,6 +17573,8 @@ mp3flac.site CNAME .
 *.mp3flac.site CNAME .
 mp3juices.site CNAME .
 *.mp3juices.site CNAME .
+pelisflix20.site CNAME .
+*.pelisflix20.site CNAME .
 pirateproxy.site CNAME .
 *.pirateproxy.site CNAME .
 popcornflix.site CNAME .
@@ -18721,6 +18773,8 @@ novastream.top CNAME .
 *.novastream.top CNAME .
 ol-am.top CNAME .
 *.ol-am.top CNAME .
+pelisflix20.top CNAME .
+*.pelisflix20.top CNAME .
 piratbit.top CNAME .
 *.piratbit.top CNAME .
 piratebayproxy.top CNAME .
@@ -19529,6 +19583,8 @@ filmsenzalimiti.uno CNAME .
 *.filmsenzalimiti.uno CNAME .
 gomovies.uno CNAME .
 *.gomovies.uno CNAME .
+pelisflix20.uno CNAME .
+*.pelisflix20.uno CNAME .
 seehd.uno CNAME .
 *.seehd.uno CNAME .
 tantifilm.uno CNAME .
@@ -19831,6 +19887,8 @@ myfreemp3.vip CNAME .
 *.myfreemp3.vip CNAME .
 nyafilmer.vip CNAME .
 *.nyafilmer.vip CNAME .
+pelisflix20.vip CNAME .
+*.pelisflix20.vip CNAME .
 pustakalya.vip CNAME .
 *.pustakalya.vip CNAME .
 putlocker.vip CNAME .
@@ -19931,6 +19989,8 @@ dramaqu.website CNAME .
 *.dramaqu.website CNAME .
 eurostreaming.website CNAME .
 *.eurostreaming.website CNAME .
+fitgirl-repacks.website CNAME .
+*.fitgirl-repacks.website CNAME .
 fmovies.website CNAME .
 *.fmovies.website CNAME .
 fzmovies.website CNAME .
@@ -19959,6 +20019,8 @@ filmpertutti.wiki CNAME .
 *.filmpertutti.wiki CNAME .
 ilgeniodellostreaming.wiki CNAME .
 *.ilgeniodellostreaming.wiki CNAME .
+pelisflix20.wiki CNAME .
+*.pelisflix20.wiki CNAME .
 putlockers.wiki CNAME .
 *.putlockers.wiki CNAME .
 rutracker.wiki CNAME .
@@ -20557,6 +20619,8 @@ nzbgrabit.xyz CNAME .
 *.nzbgrabit.xyz CNAME .
 opentracker.xyz CNAME .
 *.opentracker.xyz CNAME .
+pelisflix20.xyz CNAME .
+*.pelisflix20.xyz CNAME .
 piraat.xyz CNAME .
 *.piraat.xyz CNAME .
 pirateaccess.xyz CNAME .
