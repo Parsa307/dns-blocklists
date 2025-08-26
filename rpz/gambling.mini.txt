@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756210200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756237860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Aug 2025 12:10 UTC
-; Version: 2025.0826.1210.11
+; Last modified: 26 Aug 2025 19:51 UTC
+; Version: 2025.0826.1951.27
 ; Syntax: RPZ
-; Number of entries: 132864
+; Number of entries: 132876
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -102459,6 +102459,8 @@ aifi.se CNAME .
 *.aifi.se CNAME .
 aislots.se CNAME .
 *.aislots.se CNAME .
+amokcasino1.se CNAME .
+*.amokcasino1.se CNAME .
 arbetskostnad.se CNAME .
 *.arbetskostnad.se CNAME .
 arbetslivscentrum.se CNAME .
@@ -102487,6 +102489,8 @@ betsa.se CNAME .
 *.betsa.se CNAME .
 bettingmaskinen.se CNAME .
 *.bettingmaskinen.se CNAME .
+bettingparadise.se CNAME .
+*.bettingparadise.se CNAME .
 bettingstugan.se CNAME .
 *.bettingstugan.se CNAME .
 boomingslots.se CNAME .
@@ -102621,6 +102625,8 @@ luckicasino.se CNAME .
 *.luckicasino.se CNAME .
 luckyboyscasino.se CNAME .
 *.luckyboyscasino.se CNAME .
+luckyfuelcasino.se CNAME .
+*.luckyfuelcasino.se CNAME .
 luckyjunglecasino.se CNAME .
 *.luckyjunglecasino.se CNAME .
 luckystakecasino.se CNAME .
@@ -102639,6 +102645,8 @@ monsinocasino.se CNAME .
 *.monsinocasino.se CNAME .
 mountgold-casino.se CNAME .
 *.mountgold-casino.se CNAME .
+mountgoldcasino1.se CNAME .
+*.mountgoldcasino1.se CNAME .
 mrbencasino.se CNAME .
 *.mrbencasino.se CNAME .
 mrgreen.se CNAME .
@@ -102665,6 +102673,8 @@ punterzcasino.se CNAME .
 *.punterzcasino.se CNAME .
 quickcasino.se CNAME .
 *.quickcasino.se CNAME .
+refuelcasino1.se CNAME .
+*.refuelcasino1.se CNAME .
 ritzocasino.se CNAME .
 *.ritzocasino.se CNAME .
 rollcasino.se CNAME .
@@ -102771,6 +102781,8 @@ tucancasino.se CNAME .
 *.tucancasino.se CNAME .
 unibet.se CNAME .
 *.unibet.se CNAME .
+unlimitcasino1.se CNAME .
+*.unlimitcasino1.se CNAME .
 utanlicenscasino.se CNAME .
 *.utanlicenscasino.se CNAME .
 verajohn.se CNAME .

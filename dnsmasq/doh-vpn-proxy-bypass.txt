@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 15:52 UTC
-# Version: 2025.0826.1552.59
+# Last modified: 26 Aug 2025 19:56 UTC
+# Version: 2025.0826.1956.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5716
+# Number of entries: 5715
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1307,6 +1307,7 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1344,7 +1345,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1491,7 +1491,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2604,7 +2603,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -4848,6 +4846,7 @@ local=/tcpvpn.com/
 local=/tecdrive.site/
 local=/dns1.techeasy.org/
 local=/vpn.technicule.info/
+local=/doh.technochat.in/
 local=/essay.gov.technologybriefingcenter.com/
 local=/dns.technologycage.com/
 local=/dns.technostriker.com/

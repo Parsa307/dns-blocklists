@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 12:10 UTC
-# Version: 2025.0826.1210.11
+# Last modified: 26 Aug 2025 19:51 UTC
+# Version: 2025.0826.1951.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 66432
+# Number of entries: 66438
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -7020,6 +7020,7 @@ local=/amintotogo.site/
 local=/aml.casino/
 local=/amocasino.com/
 local=/amokcasino.com/
+local=/amokcasino1.se/
 local=/amon-betcasino.com/
 local=/amon-no.casino/
 local=/amonbet.com/
@@ -11567,6 +11568,7 @@ local=/bettingonbet.com/
 local=/bettingonchain.xyz/
 local=/bettingonline.cn/
 local=/bettingparadise.net/
+local=/bettingparadise.se/
 local=/bettingpartners.com/
 local=/bettingpirate.com/
 local=/bettingplacesonline.com/
@@ -38331,6 +38333,7 @@ local=/luckyelfcasinoaus.org/
 local=/luckyforlife.us/
 local=/luckyfox.io/
 local=/luckyfriends.com/
+local=/luckyfuelcasino.se/
 local=/luckyfun789.casino/
 local=/luckygambler.com/
 local=/luckygame777.casino/
@@ -41733,6 +41736,7 @@ local=/mountairycasino.lol/
 local=/mountbet.casino/
 local=/mountgold.com/
 local=/mountgold-casino.se/
+local=/mountgoldcasino1.se/
 local=/mousebin.com/
 local=/mouvementbois.com/
 local=/movecasino.com/
@@ -51404,6 +51408,7 @@ local=/refpasiiplrv.top/
 local=/refpasra.host/
 local=/refpasrasw.world/
 local=/refuelcasino.com/
+local=/refuelcasino1.se/
 local=/regal33.com/
 local=/regencycasino.site/
 local=/regentplay.com/
@@ -60766,6 +60771,7 @@ local=/unlimcasino7djj.buzz/
 local=/unlimcasino87r7.buzz/
 local=/unlimitcasino.com/
 local=/unlimitcasino.online/
+local=/unlimitcasino1.se/
 local=/unlimitcasinoq.com/
 local=/unlimitedplaycasinoandwin.com/
 local=/unlimitpapi.xyz/

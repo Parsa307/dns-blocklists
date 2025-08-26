@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 15:52 UTC
-# Version: 2025.0826.1552.25
+# Last modified: 26 Aug 2025 19:56 UTC
+# Version: 2025.0826.1956.20
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1593
+# Number of entries: 1592
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -621,6 +621,7 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver2.dyndnsinternetguide.com
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -629,7 +630,6 @@
 0.0.0.0 doh.eddi.net
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -673,7 +673,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns01.flm9.net
@@ -1030,7 +1029,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net
@@ -1444,6 +1442,7 @@
 0.0.0.0 tecdrive.site
 0.0.0.0 dns1.techeasy.org
 0.0.0.0 vpn.technicule.info
+0.0.0.0 doh.technochat.in
 0.0.0.0 dns.technologycage.com
 0.0.0.0 dns.technostriker.com
 0.0.0.0 rx.techomespace.com
