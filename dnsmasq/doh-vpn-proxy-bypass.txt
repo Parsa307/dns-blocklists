@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 19:56 UTC
-# Version: 2025.0826.1956.42
+# Last modified: 27 Aug 2025 07:53 UTC
+# Version: 2025.0827.0753.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5715
+# Number of entries: 5716
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1039,6 +1039,7 @@ local=/datatech.icu/
 local=/dns.datenquark.de/
 local=/dns.david888.com/
 local=/dns.daw.dev/
+local=/cloudflares.ddns.net/
 local=/jit.ddns.net/
 local=/zrd.ddns.net/
 local=/freewillisaflaw.ddnsfree.top/
@@ -1287,7 +1288,6 @@ local=/agh.dshubham.xyz/
 local=/duapps.com/
 local=/duba.net/
 local=/bitly-galatikx.duckdns.org/
-local=/home27.duckdns.org/
 local=/huawaakiskokoa.duckdns.org/
 local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
@@ -1307,7 +1307,6 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
-local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1345,6 +1344,7 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -2603,6 +2603,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/

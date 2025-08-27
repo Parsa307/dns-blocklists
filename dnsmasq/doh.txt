@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 19:56 UTC
-# Version: 2025.0826.1956.20
+# Last modified: 27 Aug 2025 07:53 UTC
+# Version: 2025.0827.0753.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1435
+# Number of entries: 1436
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -312,6 +312,7 @@ local=/doh.datahata.by/
 local=/dns.datenquark.de/
 local=/dns.david888.com/
 local=/dns.daw.dev/
+local=/cloudflares.ddns.net/
 local=/jit.ddns.net/
 local=/dns.deadsec.net/
 local=/dns.decky.eu/
@@ -500,7 +501,6 @@ local=/dns.dremaxx.de/
 local=/droyd.top/
 local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
-local=/home27.duckdns.org/
 local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
@@ -510,7 +510,6 @@ local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
@@ -519,6 +518,7 @@ local=/dns.eddi.net/
 local=/doh.eddi.net/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -904,6 +904,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/

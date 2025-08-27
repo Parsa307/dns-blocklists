@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 14:29 UTC
-# Version: 2025.0826.1429.13
+# Last modified: 27 Aug 2025 06:28 UTC
+# Version: 2025.0827.0628.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13807
+# Number of entries: 13809
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -11221,6 +11221,7 @@ local=/sofologic.de/
 local=/sofort-kreditt.com/
 local=/sofort-registerauszug24.de/
 local=/sofortfinanz.com/
+local=/sofortkreditplus.com/
 local=/soft-handel.de/
 local=/softelektro.com/
 local=/software-onsale.com/
@@ -11988,6 +11989,7 @@ local=/teodoroautopecas.com/
 local=/terange.com/
 local=/teras.at/
 local=/terea-polen.com/
+local=/terea-polen.is/
 local=/terminatei.com/
 local=/termink.com/
 local=/terminologe.com/

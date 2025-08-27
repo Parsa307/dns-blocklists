@@ -281,6 +281,13 @@
       }
     },
     {
+      "PK": "api.micloud.xiaomi.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "api.mintbrs.intl.miui.com",
       "action": {
         "do": 0,
@@ -2438,13 +2445,6 @@
     },
     {
       "PK": "upgrade.pandora.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "us.api.micloud.xiaomi.net",
       "action": {
         "do": 0,
         "status": 1

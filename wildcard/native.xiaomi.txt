@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Aug 2025 23:19 UTC
-# Version: 2025.0822.2319.59
+# Last modified: 27 Aug 2025 02:55 UTC
+# Version: 2025.0827.0255.28
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 362
 #
@@ -261,7 +261,7 @@
 *.wtradv.market.xiaomi.com
 *.resolver.mi.xiaomi.com
 *.mibi.xiaomi.com
-*.us.api.micloud.xiaomi.net
+*.api.micloud.xiaomi.net
 *.findapi.micloud.xiaomi.net
 *.api.g.micloud.xiaomi.net
 *.statusapi.micloud.xiaomi.net

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756238160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756281180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Aug 2025 19:56 UTC
-; Version: 2025.0826.1956.42
+; Last modified: 27 Aug 2025 07:53 UTC
+; Version: 2025.0827.0753.53
 ; Syntax: RPZ
-; Number of entries: 11430
+; Number of entries: 11432
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1654,6 +1654,8 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2586,6 +2588,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -8272,6 +8276,8 @@ dns.crystalyx.net CNAME .
 *.dns.crystalyx.net CNAME .
 dns.cynthialabs.net CNAME .
 *.dns.cynthialabs.net CNAME .
+cloudflares.ddns.net CNAME .
+*.cloudflares.ddns.net CNAME .
 jit.ddns.net CNAME .
 *.jit.ddns.net CNAME .
 zrd.ddns.net CNAME .
@@ -8300,8 +8306,6 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -9432,8 +9436,6 @@ ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
 bitly-galatikx.duckdns.org CNAME .
 *.bitly-galatikx.duckdns.org CNAME .
-home27.duckdns.org CNAME .
-*.home27.duckdns.org CNAME .
 huawaakiskokoa.duckdns.org CNAME .
 *.huawaakiskokoa.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
