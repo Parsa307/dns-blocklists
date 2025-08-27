@@ -11,11 +11,12 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 26 Aug 2025 19:31 UTC
-! Version: 2025.0826.1931.06
+! Last modified: 27 Aug 2025 22:30 UTC
+! Version: 2025.0827.2230.36
 ! Syntax: AdBlock
 !
 @@||0.gp^
+@@||00m.in^
 @@||00oo.lol^
 @@||010.at^
 @@||02faq.com^
@@ -2062,6 +2063,7 @@
 @@||hoo.be^
 @@||hop2.page^
 @@||hopla.to^
+@@||hopp.co^
 @@||hops.me^
 @@||hopth.ru^
 @@||hotlinkto.info^
@@ -3845,7 +3847,6 @@
 @@||recut.in^
 @@||red.ht^
 @@||redaz.in^
-@@||v.redd.it^
 @@||redditlink.org^
 @@||redditp2pcredit.life^
 @@||redditsp2pcredit.life^

@@ -11,12 +11,13 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 19:31 UTC
-# Version: 2025.0826.1931.06
+# Last modified: 27 Aug 2025 22:30 UTC
+# Version: 2025.0827.2230.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6010
+# Number of entries: 6011
 #
 local=/0.gp/
+local=/00m.in/
 local=/00oo.lol/
 local=/010.at/
 local=/02faq.com/
@@ -2131,6 +2132,7 @@ local=/homes.jp/
 local=/hoo.be/
 local=/hop2.page/
 local=/hopla.to/
+local=/hopp.co/
 local=/hops.me/
 local=/hopth.ru/
 local=/hotlinkto.info/
@@ -3964,7 +3966,6 @@ local=/reconis.co/
 local=/recut.in/
 local=/red.ht/
 local=/redaz.in/
-local=/v.redd.it/
 local=/redditlink.org/
 local=/redditp2pcredit.life/
 local=/redditsp2pcredit.life/

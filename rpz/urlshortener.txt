@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756236660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756333800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Aug 2025 19:31 UTC
-; Version: 2025.0826.1931.06
+; Last modified: 27 Aug 2025 22:30 UTC
+; Version: 2025.0827.2230.36
 ; Syntax: RPZ
-; Number of entries: 12020
+; Number of entries: 12022
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1468,6 +1468,8 @@ go.hny.co CNAME .
 *.go.hny.co CNAME .
 hokie.co CNAME .
 *.hokie.co CNAME .
+hopp.co CNAME .
+*.hopp.co CNAME .
 hrbrg.co CNAME .
 *.hrbrg.co CNAME .
 hs-uk.co CNAME .
@@ -5232,6 +5234,8 @@ yap.im CNAME .
 *.yap.im CNAME .
 zws.im CNAME .
 *.zws.im CNAME .
+00m.in CNAME .
+*.00m.in CNAME .
 10i.in CNAME .
 *.10i.in CNAME .
 1i1.in CNAME .
@@ -6438,8 +6442,6 @@ ptab.it CNAME .
 *.ptab.it CNAME .
 qs1.it CNAME .
 *.qs1.it CNAME .
-v.redd.it CNAME .
-*.v.redd.it CNAME .
 redu.it CNAME .
 *.redu.it CNAME .
 rickroll.it CNAME .

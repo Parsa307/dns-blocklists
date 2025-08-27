@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756280880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756338540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Aug 2025 07:48 UTC
-; Version: 2025.0827.0748.41
+; Last modified: 27 Aug 2025 23:49 UTC
+; Version: 2025.0827.2349.35
 ; Syntax: RPZ
 ; Number of entries: 20798
 ;
@@ -18339,6 +18339,8 @@ housemovie.to CNAME .
 *.housemovie.to CNAME .
 hs-scene.to CNAME .
 *.hs-scene.to CNAME .
+huhu.to CNAME .
+*.huhu.to CNAME .
 huramovies.to CNAME .
 *.huramovies.to CNAME .
 hurawatchz.to CNAME .
@@ -20563,8 +20565,6 @@ ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
-speedtest.iperson.xyz CNAME .
-*.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .
