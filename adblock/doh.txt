@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 28 Aug 2025 03:55 UTC
-! Version: 2025.0828.0355.29
+! Last modified: 28 Aug 2025 11:54 UTC
+! Version: 2025.0828.1154.40
 ! Syntax: AdBlock
-! Number of entries: 1435
+! Number of entries: 1436
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -498,7 +498,6 @@
 ||dot.pub^
 ||ns1.dotls.org^
 ||dns.dotnet.win^
-||family.dns.doubleangels.com^
 ||dns.dremaxx.de^
 ||droyd.top^
 ||doh.dscloud.me^
@@ -521,6 +520,7 @@
 ||doh.eddi.net^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
+||dns.efficientdocuments.com^
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
 ||eliatofani.ovh^
@@ -906,6 +906,7 @@
 ||blackhole.myon.lu^
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||doh-ca.naftalie.net^
