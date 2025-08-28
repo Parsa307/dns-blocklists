@@ -1078,6 +1078,13 @@
       }
     },
     {
+      "PK": "compromise.cool",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.computer",
       "action": {
         "do": 0,

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Aug 2025 23:54 UTC
-# Version: 2025.0827.2354.26
+# Last modified: 28 Aug 2025 03:55 UTC
+# Version: 2025.0828.0355.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5716
+# Number of entries: 5719
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1308,6 +1308,7 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1345,7 +1346,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -2593,6 +2593,7 @@ local=/myproxy.help/
 local=/myproxy.link/
 local=/myproxy.lol/
 local=/myproxysite.org/
+local=/mysiteunblocked.com/
 local=/myspaceunlock.com/
 local=/mysteriumvpn.com/
 local=/mytunneling.com/
@@ -3618,8 +3619,11 @@ local=/sitesunblocked.net/
 local=/sitesunblocked.org/
 local=/siteunblock.org/
 local=/siteunblock.xyz/
+local=/siteunblocked.club/
 local=/siteunblocked.icu/
 local=/siteunblocked.lol/
+local=/siteunblocked.net/
+local=/siteunblocked.org/
 local=/siteunblocked.space/
 local=/siteunblocked.website/
 local=/siteunblocked.xyz/
@@ -4809,7 +4813,6 @@ local=/surfskip.com/
 local=/surfsneaker.com/
 local=/surfsuark.com/
 local=/surfwebsite.org/
-local=/dns.surobe.com/
 local=/surtshark.com/
 local=/dns.sv-zauner.at/
 local=/dns.svoi.dev/
