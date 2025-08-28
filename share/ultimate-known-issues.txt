@@ -50,3 +50,7 @@ userlocation.googleapis.com
 # The problem does not occur under iOS.
 # https://github.com/hagezi/dns-blocklists/issues/6664
 fscdn.eppo.cloud
+
+# NFL app iOS/Android gets stuck on the start screen
+# Related to tracking services.
+conduit.redfast.com

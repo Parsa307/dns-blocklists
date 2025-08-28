@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756396380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756411080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Aug 2025 15:53 UTC
-; Version: 2025.0828.1553.08
+; Last modified: 28 Aug 2025 19:58 UTC
+; Version: 2025.0828.1958.20
 ; Syntax: RPZ
-; Number of entries: 20810
+; Number of entries: 20822
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1805,6 +1805,8 @@ tracker.hiyj.cn CNAME .
 *.tracker.hiyj.cn CNAME .
 jshdtv.cn CNAME .
 *.jshdtv.cn CNAME .
+tracker.home.kmzs123.cn CNAME .
+*.tracker.home.kmzs123.cn CNAME .
 tracker.kmzs123.cn CNAME .
 *.tracker.kmzs123.cn CNAME .
 tracker.loligirl.cn CNAME .
@@ -8531,6 +8533,8 @@ doodstream.fit CNAME .
 *.doodstream.fit CNAME .
 pelisflix20.fit CNAME .
 *.pelisflix20.fit CNAME .
+vidoy.fit CNAME .
+*.vidoy.fit CNAME .
 altadefinizione.fitness CNAME .
 *.altadefinizione.fitness CNAME .
 5movies.fm CNAME .
@@ -8807,6 +8811,8 @@ unbl0ck.fun CNAME .
 *.unbl0ck.fun CNAME .
 vddek.fun CNAME .
 *.vddek.fun CNAME .
+vdeke.fun CNAME .
+*.vdeke.fun CNAME .
 veday.fun CNAME .
 *.veday.fun CNAME .
 way2movies.fun CNAME .
@@ -10407,6 +10413,8 @@ bdtv.live CNAME .
 *.bdtv.live CNAME .
 binged.live CNAME .
 *.binged.live CNAME .
+bitstreams.live CNAME .
+*.bitstreams.live CNAME .
 bonsaihd.live CNAME .
 *.bonsaihd.live CNAME .
 bossbd.live CNAME .
@@ -16333,6 +16341,8 @@ unblockit.pro CNAME .
 *.unblockit.pro CNAME .
 uploadcloud.pro CNAME .
 *.uploadcloud.pro CNAME .
+vddeq.pro CNAME .
+*.vddeq.pro CNAME .
 vide0.pro CNAME .
 *.vide0.pro CNAME .
 videqvidey.pro CNAME .
@@ -17631,6 +17641,8 @@ streameast.sk CNAME .
 *.streameast.sk CNAME .
 vipboxtv.sk CNAME .
 *.vipboxtv.sk CNAME .
+z-library.sk CNAME .
+*.z-library.sk CNAME .
 1337x.skin CNAME .
 *.1337x.skin CNAME .
 2embed.skin CNAME .
@@ -17801,6 +17813,8 @@ tracker.healthcareindia.store CNAME .
 *.tracker.healthcareindia.store CNAME .
 lookmovie.store CNAME .
 *.lookmovie.store CNAME .
+moviecluphd.store CNAME .
+*.moviecluphd.store CNAME .
 mypanlss.store CNAME .
 *.mypanlss.store CNAME .
 toparena.store CNAME .
@@ -20575,8 +20589,6 @@ ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
-speedtest.iperson.xyz CNAME .
-*.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .

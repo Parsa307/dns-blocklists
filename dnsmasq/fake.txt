@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Aug 2025 10:28 UTC
-# Version: 2025.0828.1028.59
+# Last modified: 28 Aug 2025 18:30 UTC
+# Version: 2025.0828.1830.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13861
+# Number of entries: 13863
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -3030,6 +3030,7 @@ local=/delyanshop.com/
 local=/demababy.de/
 local=/demays.cc/
 local=/demediz.com/
+local=/demeindlshop.com/
 local=/demetramaheras.com/
 local=/demonia-finland.com/
 local=/demoniabootscanada.com/
@@ -13024,6 +13025,7 @@ local=/vicinityk.com/
 local=/victoriassecrets.at/
 local=/victoroutlet.de/
 local=/victoryshop.shop/
+local=/vidaq.de/
 local=/viddsey.pro/
 local=/videforex.com/
 local=/videospiel-markt.de/

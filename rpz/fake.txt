@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756376880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756405800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Aug 2025 10:28 UTC
-; Version: 2025.0828.1028.59
+; Last modified: 28 Aug 2025 18:30 UTC
+; Version: 2025.0828.1830.06
 ; Syntax: RPZ
-; Number of entries: 27722
+; Number of entries: 27726
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4999,6 +4999,8 @@ delyanshop.com CNAME .
 *.delyanshop.com CNAME .
 demediz.com CNAME .
 *.demediz.com CNAME .
+demeindlshop.com CNAME .
+*.demeindlshop.com CNAME .
 demetramaheras.com CNAME .
 *.demetramaheras.com CNAME .
 demonia-finland.com CNAME .
@@ -23061,6 +23063,8 @@ viasalutis.de CNAME .
 *.viasalutis.de CNAME .
 victoroutlet.de CNAME .
 *.victoroutlet.de CNAME .
+vidaq.de CNAME .
+*.vidaq.de CNAME .
 videospiel-markt.de CNAME .
 *.videospiel-markt.de CNAME .
 vientooffice.de CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756396680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756411380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Aug 2025 15:58 UTC
-; Version: 2025.0828.1558.01
+; Last modified: 28 Aug 2025 20:03 UTC
+; Version: 2025.0828.2003.24
 ; Syntax: RPZ
 ; Number of entries: 10654
 ;
@@ -430,8 +430,6 @@ pipod.mypics.ca CNAME .
 *.pipod.mypics.ca CNAME .
 use.mypics.ca CNAME .
 *.use.mypics.ca CNAME .
-learn.science.freak.nard.ca CNAME .
-*.learn.science.freak.nard.ca CNAME .
 ne1.ca CNAME .
 *.ne1.ca CNAME .
 poiuytrewq.novipro.ca CNAME .
@@ -1474,6 +1472,8 @@ study.paper.coolcomputerguy.com CNAME .
 *.study.paper.coolcomputerguy.com CNAME .
 dns.cooluc.com CNAME .
 *.dns.cooluc.com CNAME .
+copvpn.com CNAME .
+*.copvpn.com CNAME .
 corecloak.com CNAME .
 *.corecloak.com CNAME .
 coverproxy.com CNAME .
@@ -1662,6 +1662,8 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2046,6 +2048,8 @@ hidemyass.com CNAME .
 *.hidemyass.com CNAME .
 hidemycomp.com CNAME .
 *.hidemycomp.com CNAME .
+hidemyip.com CNAME .
+*.hidemyip.com CNAME .
 hideoxy.com CNAME .
 *.hideoxy.com CNAME .
 hidessh.com CNAME .
@@ -2598,6 +2602,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -7208,8 +7214,6 @@ shadownxirby.baselinux.net CNAME .
 *.shadownxirby.baselinux.net CNAME .
 solmariknein.baselinux.net CNAME .
 *.solmariknein.baselinux.net CNAME .
-josephsutopiaaa.benjaminbartlett.net CNAME .
-*.josephsutopiaaa.benjaminbartlett.net CNAME .
 bestssh.net CNAME .
 *.bestssh.net CNAME .
 betterproxy.net CNAME .
@@ -7514,8 +7518,6 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -9606,8 +9608,6 @@ muxyuji.ru CNAME .
 *.muxyuji.ru CNAME .
 dns.nas-server.ru CNAME .
 *.dns.nas-server.ru CNAME .
-josephsutopia.novff.ru CNAME .
-*.josephsutopia.novff.ru CNAME .
 adguard.oms-ctr.ru CNAME .
 *.adguard.oms-ctr.ru CNAME .
 vpn-ru-msk.pakharenko.ru CNAME .

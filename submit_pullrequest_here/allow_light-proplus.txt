@@ -1,5 +1,8 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# NFL app iOS/Android gets stuck on the start screen
+conduit.redfast.com
+
 # https://github.com/hagezi/dns-blocklists/issues/6872
 *.ppe.settings.data.azclient.ms
 *.test.settings.data.azclient.ms
