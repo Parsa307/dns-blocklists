@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756381740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756396320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Aug 2025 11:49 UTC
-; Version: 2025.0828.1149.48
+; Last modified: 28 Aug 2025 15:52 UTC
+; Version: 2025.0828.1552.37
 ; Syntax: RPZ
-; Number of entries: 132100
+; Number of entries: 132070
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -21221,18 +21221,10 @@ ufabet.codes CNAME .
 *.136bet5.com CNAME .
 136betsport.com CNAME .
 *.136betsport.com CNAME .
-1370betsl0.com CNAME .
-*.1370betsl0.com CNAME .
 1370betst10.com CNAME .
 *.1370betst10.com CNAME .
-1371betsl0.com CNAME .
-*.1371betsl0.com CNAME .
-1372betsl0.com CNAME .
-*.1372betsl0.com CNAME .
 1373betson.com CNAME .
 *.1373betson.com CNAME .
-1379betsl0.com CNAME .
-*.1379betsl0.com CNAME .
 137verdecasino59.com CNAME .
 *.137verdecasino59.com CNAME .
 1380betst10.com CNAME .
@@ -24997,8 +24989,6 @@ images.6929183.com CNAME .
 *.7y11.com CNAME .
 7y2024.com CNAME .
 *.7y2024.com CNAME .
-7ybets.com CNAME .
-*.7ybets.com CNAME .
 7ylucky.com CNAME .
 *.7ylucky.com CNAME .
 7yylucky.com CNAME .
@@ -27577,8 +27567,6 @@ apuestacity.com CNAME .
 *.apuestacity.com CNAME .
 apuestamos.com CNAME .
 *.apuestamos.com CNAME .
-apuestas-casinos.com CNAME .
-*.apuestas-casinos.com CNAME .
 apuestasargentinas.com CNAME .
 *.apuestasargentinas.com CNAME .
 apuestasdeportivas.com CNAME .
@@ -39369,8 +39357,6 @@ com3456.com CNAME .
 *.com3456.com CNAME .
 combodef.com CNAME .
 *.combodef.com CNAME .
-comeandtakeitbbqtx.com CNAME .
-*.comeandtakeitbbqtx.com CNAME .
 comedyflavors.com CNAME .
 *.comedyflavors.com CNAME .
 comeon.com CNAME .
@@ -42231,8 +42217,6 @@ expansion-slots.com CNAME .
 *.expansion-slots.com CNAME .
 expekt.com CNAME .
 *.expekt.com CNAME .
-expertcasinotips.com CNAME .
-*.expertcasinotips.com CNAME .
 experts-casinos.com CNAME .
 *.experts-casinos.com CNAME .
 explorebestcasinosites.com CNAME .
@@ -45341,8 +45325,6 @@ ginjacasino.com CNAME .
 *.ginjacasino.com CNAME .
 ginzapokerlounge.com CNAME .
 *.ginzapokerlounge.com CNAME .
-giocobets.com CNAME .
-*.giocobets.com CNAME .
 giokibet-casino.com CNAME .
 *.giokibet-casino.com CNAME .
 gir-vaycasino.com CNAME .
@@ -57679,8 +57661,6 @@ osakacasino88.com CNAME .
 *.osakacasino88.com CNAME .
 osga.com CNAME .
 *.osga.com CNAME .
-osgshows.com CNAME .
-*.osgshows.com CNAME .
 oshcasino.com CNAME .
 *.oshcasino.com CNAME .
 oshi-casino.com CNAME .
@@ -62831,8 +62811,6 @@ rtg-casinos-for-usa-players.com CNAME .
 *.rtg-casinos-for-usa-players.com CNAME .
 rtgprogressivejackpot.com CNAME .
 *.rtgprogressivejackpot.com CNAME .
-rtp-database.com CNAME .
-*.rtp-database.com CNAME .
 rtp-lotte4dsuper.com CNAME .
 *.rtp-lotte4dsuper.com CNAME .
 rtp-slotonline.com CNAME .
@@ -64419,8 +64397,6 @@ slotexpress.com CNAME .
 *.slotexpress.com CNAME .
 slotgacor11.com CNAME .
 *.slotgacor11.com CNAME .
-slotgacor2.com CNAME .
-*.slotgacor2.com CNAME .
 slotgacor360.com CNAME .
 *.slotgacor360.com CNAME .
 slotgacor4dweb.com CNAME .
@@ -72273,8 +72249,6 @@ winbeatz-casino.com CNAME .
 *.winbeatz-casino.com CNAME .
 winbeatzcasino.com CNAME .
 *.winbeatzcasino.com CNAME .
-winbet123link2.com CNAME .
-*.winbet123link2.com CNAME .
 winbetslotapp.com CNAME .
 *.winbetslotapp.com CNAME .
 winbetslotvip.com CNAME .
@@ -85447,6 +85421,8 @@ footballpredictions.net CNAME .
 *.footballpredictions.net CNAME .
 forbescasinocz.net CNAME .
 *.forbescasinocz.net CNAME .
+forexwinners.net CNAME .
+*.forexwinners.net CNAME .
 fortunecoinscasino.net CNAME .
 *.fortunecoinscasino.net CNAME .
 fortuneslots.net CNAME .
@@ -106659,8 +106635,6 @@ gamblers.solutions CNAME .
 *.111bets.space CNAME .
 11bets.space CNAME .
 *.11bets.space CNAME .
-1wincasino.space CNAME .
-*.1wincasino.space CNAME .
 1xbet-en.space CNAME .
 *.1xbet-en.space CNAME .
 1xbet-fr.space CNAME .
@@ -106713,8 +106687,6 @@ bets77.space CNAME .
 *.bets77.space CNAME .
 bets777.space CNAME .
 *.bets777.space CNAME .
-betsson.space CNAME .
-*.betsson.space CNAME .
 betwarriorcasino.space CNAME .
 *.betwarriorcasino.space CNAME .
 bigboost.space CNAME .
@@ -107037,8 +107009,6 @@ vavadacasinotop.space CNAME .
 *.vavadacasinotop.space CNAME .
 vaycasino.space CNAME .
 *.vaycasino.space CNAME .
-vbetcasino.space CNAME .
-*.vbetcasino.space CNAME .
 vegascasino777anz.space CNAME .
 *.vegascasino777anz.space CNAME .
 vegascasino777ij.space CNAME .

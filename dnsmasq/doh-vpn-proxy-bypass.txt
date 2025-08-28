@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Aug 2025 11:55 UTC
-# Version: 2025.0828.1155.01
+# Last modified: 28 Aug 2025 15:58 UTC
+# Version: 2025.0828.1558.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5317
+# Number of entries: 5327
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -378,6 +378,7 @@ local=/imwitboolymon.bad.mn/
 local=/westhamforever.bad.mn/
 local=/purchase.badrag.net/
 local=/veryvery.badrag.net/
+local=/piano.math.baikabibai.com/
 local=/dns.baishiyuan.cn/
 local=/banana-vpn.com/
 local=/bananavpn.com/
@@ -417,6 +418,7 @@ local=/beetvpn.com/
 local=/beevpn.com/
 local=/bellproxy.com/
 local=/dns.belnet.be/
+local=/josephsutopiaaa.benjaminbartlett.net/
 local=/bentnailfarm4121.com/
 local=/dns.bermeitinger.eu/
 local=/openvpnpptp.bese.info/
@@ -946,6 +948,7 @@ local=/doh.cornes.me/
 local=/corsproxy.io/
 local=/tips.cosmetologylive.beauty/
 local=/cosmohacker.space/
+local=/excel.proof.cot.lt/
 local=/coursera.gq/
 local=/coverproxy.com/
 local=/covertproxy.com/
@@ -957,6 +960,7 @@ local=/b.cpfrx.info/
 local=/c.cpfrx.info/
 local=/e.cpfrx.info/
 local=/www.i.cpfrx.info/
+local=/donotblockthisschool.crabdance.com/
 local=/rammerhead.crackerstreams.org/
 local=/cracksite.info/
 local=/crawlbase.com/
@@ -1023,6 +1027,7 @@ local=/dns.daarrk.tech/
 local=/dabmix.com/
 local=/executor.dadyal.pk/
 local=/friedeggs.dagmaar.com/
+local=/math.bio.dalbosco.net/
 local=/dns.dallinbryce.com/
 local=/danhcan.top/
 local=/danielrcrawfordfanpage.danielrcrawford.com/
@@ -1345,7 +1350,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1492,6 +1496,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2526,6 +2531,7 @@ local=/aahfgdd.mooo.com/
 local=/aleks.readtheory.com.mooo.com/
 local=/freednsafraidorg.mooo.com/
 local=/propeller.catapzlt.rohu.mooo.com/
+local=/skibidilibidimibidi.mooo.com/
 local=/thanks-pie-for-the-links.mooo.com/
 local=/morbitzer.de/
 local=/morevpn.com/
@@ -2605,7 +2611,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -2616,6 +2621,7 @@ local=/adguard.quydang.name.vn/
 local=/nanoproxy.com/
 local=/napps-1.com/
 local=/napps-2.com/
+local=/learn.science.freak.nard.ca/
 local=/dns.narl.app/
 local=/dns.nas-server.ru/
 local=/ae-fuj-w-p-1.nashkan.net/
@@ -2754,6 +2760,7 @@ local=/notvpn.io/
 local=/amp.nov.su/
 local=/dns.novali.date/
 local=/novatech.fun/
+local=/josephsutopia.novff.ru/
 local=/dns.novg.net/
 local=/nice.noviolencia.ar/
 local=/poiuytrewq.novipro.ca/
@@ -2892,6 +2899,7 @@ local=/learning.orestpena.com/
 local=/fnrkrbvtpy.abbotsfordhallforhire.org.au/
 local=/resolver.dnsprivacy.org.uk/
 local=/oliverdiepiogreedycheckers.sponsorafuture.org.uk/
+local=/google.com.teachinghospital.org.np/
 local=/dns.oryxlabs.com/
 local=/os4work.com/
 local=/edu.osobi.ro/
@@ -3485,6 +3493,7 @@ local=/dns.sarak.as/
 local=/dns.sarakas.net/
 local=/dns.sarilouis.com/
 local=/saturnvpn.com/
+local=/graph.words.savatech.ch/
 local=/ns1.sc-lezhi.com/
 local=/dns.scapetical.com/
 local=/dns.scarx.net/
@@ -3681,6 +3690,7 @@ local=/cms.sotna.org/
 local=/sourceproxy.com/
 local=/area.level.southtrestle.com/
 local=/spacedns.org/
+local=/sage.course.spacetechnology.net/
 local=/spacevpn.io/
 local=/spanish101.college/
 local=/sparklabs.com/

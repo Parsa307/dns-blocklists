@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756382100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756396680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Aug 2025 11:55 UTC
-; Version: 2025.0828.1155.01
+; Last modified: 28 Aug 2025 15:58 UTC
+; Version: 2025.0828.1558.01
 ; Syntax: RPZ
-; Number of entries: 10634
+; Number of entries: 10654
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -430,6 +430,8 @@ pipod.mypics.ca CNAME .
 *.pipod.mypics.ca CNAME .
 use.mypics.ca CNAME .
 *.use.mypics.ca CNAME .
+learn.science.freak.nard.ca CNAME .
+*.learn.science.freak.nard.ca CNAME .
 ne1.ca CNAME .
 *.ne1.ca CNAME .
 poiuytrewq.novipro.ca CNAME .
@@ -602,6 +604,8 @@ dot.quickline.ch CNAME .
 *.1337.righes.ch CNAME .
 rah.rren.ch CNAME .
 *.rah.rren.ch CNAME .
+graph.words.savatech.ch CNAME .
+*.graph.words.savatech.ch CNAME .
 dns.sheggi.ch CNAME .
 *.dns.sheggi.ch CNAME .
 dns.simplylinux.ch CNAME .
@@ -1188,6 +1192,8 @@ vpn.azure.com CNAME .
 *.vpn.azure.com CNAME .
 dns.b72.com CNAME .
 *.dns.b72.com CNAME .
+piano.math.baikabibai.com CNAME .
+*.piano.math.baikabibai.com CNAME .
 banana-vpn.com CNAME .
 *.banana-vpn.com CNAME .
 bananavpn.com CNAME .
@@ -1474,6 +1480,8 @@ coverproxy.com CNAME .
 *.coverproxy.com CNAME .
 covertproxy.com CNAME .
 *.covertproxy.com CNAME .
+donotblockthisschool.crabdance.com CNAME .
+*.donotblockthisschool.crabdance.com CNAME .
 crawlbase.com CNAME .
 *.crawlbase.com CNAME .
 createssh.com CNAME .
@@ -1654,8 +1662,6 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2528,6 +2534,8 @@ freednsafraidorg.mooo.com CNAME .
 *.freednsafraidorg.mooo.com CNAME .
 propeller.catapzlt.rohu.mooo.com CNAME .
 *.propeller.catapzlt.rohu.mooo.com CNAME .
+skibidilibidimibidi.mooo.com CNAME .
+*.skibidilibidimibidi.mooo.com CNAME .
 thanks-pie-for-the-links.mooo.com CNAME .
 *.thanks-pie-for-the-links.mooo.com CNAME .
 morevpn.com CNAME .
@@ -2590,8 +2598,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -6782,6 +6788,8 @@ unblocked.love CNAME .
 *.unblocked.love CNAME .
 grr.smel.ls CNAME .
 *.grr.smel.ls CNAME .
+excel.proof.cot.lt CNAME .
+*.excel.proof.cot.lt CNAME .
 doh.domreg.lt CNAME .
 *.doh.domreg.lt CNAME .
 o1.lt CNAME .
@@ -7200,6 +7208,8 @@ shadownxirby.baselinux.net CNAME .
 *.shadownxirby.baselinux.net CNAME .
 solmariknein.baselinux.net CNAME .
 *.solmariknein.baselinux.net CNAME .
+josephsutopiaaa.benjaminbartlett.net CNAME .
+*.josephsutopiaaa.benjaminbartlett.net CNAME .
 bestssh.net CNAME .
 *.bestssh.net CNAME .
 betterproxy.net CNAME .
@@ -7472,6 +7482,8 @@ dns.crystalyx.net CNAME .
 *.dns.crystalyx.net CNAME .
 dns.cynthialabs.net CNAME .
 *.dns.cynthialabs.net CNAME .
+math.bio.dalbosco.net CNAME .
+*.math.bio.dalbosco.net CNAME .
 cloudflares.ddns.net CNAME .
 *.cloudflares.ddns.net CNAME .
 jit.ddns.net CNAME .
@@ -8056,6 +8068,8 @@ clientdns3.softcom.net CNAME .
 *.clientdns3.softcom.net CNAME .
 solidproxy.net CNAME .
 *.solidproxy.net CNAME .
+sage.course.spacetechnology.net CNAME .
+*.sage.course.spacetechnology.net CNAME .
 sshagan.net CNAME .
 *.sshagan.net CNAME .
 sshdropbear.net CNAME .
@@ -8372,6 +8386,8 @@ mathvideos.sharmaraju.com.np CNAME .
 *.mathvideos.sharmaraju.com.np CNAME .
 analyze.sumanniroula.com.np CNAME .
 *.analyze.sumanniroula.com.np CNAME .
+google.com.teachinghospital.org.np CNAME .
+*.google.com.teachinghospital.org.np CNAME .
 bdns.nu CNAME .
 *.bdns.nu CNAME .
 monkeydoo.hardsoft.nu CNAME .
@@ -9590,6 +9606,8 @@ muxyuji.ru CNAME .
 *.muxyuji.ru CNAME .
 dns.nas-server.ru CNAME .
 *.dns.nas-server.ru CNAME .
+josephsutopia.novff.ru CNAME .
+*.josephsutopia.novff.ru CNAME .
 adguard.oms-ctr.ru CNAME .
 *.adguard.oms-ctr.ru CNAME .
 vpn-ru-msk.pakharenko.ru CNAME .
@@ -9826,6 +9844,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
