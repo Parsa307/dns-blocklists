@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Aug 2025 11:52 UTC
-# Version: 2025.0829.1152.49
+# Last modified: 29 Aug 2025 15:59 UTC
+# Version: 2025.0829.1559.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10481
+# Number of entries: 10470
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2319,7 +2319,9 @@ local=/d0000d.com/
 local=/d123movies.to/
 local=/d4download.com/
 local=/bingoportal.da.ru/
+local=/daddylive.sx/
 local=/daddylivehd1.click/
+local=/daddyny.com/
 local=/dadyflix.co/
 local=/dafunda.com/
 local=/extracker.dahrkael.net/
@@ -5026,13 +5028,11 @@ local=/kinoua.tv/
 local=/kinoukr.com/
 local=/kinovezha.com/
 local=/kinovibe.vip/
-local=/kinox.ac/
 local=/kinox.actor/
 local=/kinox.ae/
 local=/kinox.am/
 local=/kinox.bet/
 local=/kinox.bio/
-local=/kinox.blog/
 local=/kinox.by/
 local=/kinox.bz/
 local=/kinox.ceo/
@@ -5056,7 +5056,6 @@ local=/kinox.fyi/
 local=/kinox.gr/
 local=/kinox.gratis/
 local=/kinox.group/
-local=/kinox.haus/
 local=/kinox.homes/
 local=/kinox.id/
 local=/kinox.ink/
@@ -5070,17 +5069,14 @@ local=/kinox.my/
 local=/kinox.navy/
 local=/kinox.now/
 local=/kinox.nu/
-local=/kinox.pet/
 local=/kinox.prof/
 local=/kinox.pub/
-local=/kinox.rent/
 local=/kinox.ru/
 local=/kinox.run/
 local=/kinox.sg/
 local=/kinox.sh/
 local=/kinox.si/
 local=/kinox.so/
-local=/kinox.social/
 local=/kinox.space/
 local=/kinox.style/
 local=/kinox.su/
@@ -5088,19 +5084,16 @@ local=/kinox.sx/
 local=/kinox.tattoo/
 local=/kinox.tax/
 local=/kinox.taxi/
-local=/kinox.team/
 local=/kinox.tel/
 local=/kinox.to/
 local=/kinox.today/
 local=/kinox.tools/
 local=/kinox.top/
-local=/kinox.tours/
 local=/kinox.town/
 local=/kinox.toys/
 local=/kinox.tube/
 local=/kinox.tv/
 local=/kinox.vc/
-local=/kinox.vin/
 local=/kinox.wtf/
 local=/kinoz.co/
 local=/kinoz.to/
@@ -7473,13 +7466,11 @@ local=/rivestream.xyz/
 local=/rjseries.com/
 local=/rlcafenet.com/
 local=/rlsbb.cc/
-local=/rlsbb.co/
 local=/rlsbb.com/
 local=/rlsbb.in/
 local=/rlsbb.info/
 local=/rlsbb.ru/
 local=/rlsbb.to/
-local=/rlsbb.us/
 local=/rlsdb.com/
 local=/rlsxtvt.icu/
 local=/rmovi.net/
@@ -9500,9 +9491,7 @@ local=/rlsbb.unblockit.date/
 local=/rlsbb.unblockit.download/
 local=/rlsbb.unblockit.esq/
 local=/rlsbb.unblockit.ing/
-local=/rlsbb.unblockit.meme/
 local=/rlsbb.unblockit.mov/
-local=/rlsbb.unblockit.ong/
 local=/rlsbb.unblockit.vegas/
 local=/rlsbb.unblockit.zip/
 local=/unblockninja.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756468320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756483140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Aug 2025 11:52 UTC
-; Version: 2025.0829.1152.49
+; Last modified: 29 Aug 2025 15:59 UTC
+; Version: 2025.0829.1559.32
 ; Syntax: RPZ
-; Number of entries: 20962
+; Number of entries: 20940
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -35,8 +35,6 @@ hydrahd.ac CNAME .
 *.hydrahd.ac CNAME .
 katmoviehd.ac CNAME .
 *.katmoviehd.ac CNAME .
-kinox.ac CNAME .
-*.kinox.ac CNAME .
 kissanime.ac CNAME .
 *.kissanime.ac CNAME .
 openloadmovies.ac CNAME .
@@ -775,8 +773,6 @@ dood.blog CNAME .
 *.dood.blog CNAME .
 filmsenzalimiti.blog CNAME .
 *.filmsenzalimiti.blog CNAME .
-kinox.blog CNAME .
-*.kinox.blog CNAME .
 pelisplus.blog CNAME .
 *.pelisplus.blog CNAME .
 tantifilm.blog CNAME .
@@ -2059,8 +2055,6 @@ reelsdownload.co CNAME .
 *.reelsdownload.co CNAME .
 retrozone.co CNAME .
 *.retrozone.co CNAME .
-rlsbb.co CNAME .
-*.rlsbb.co CNAME .
 rulu.co CNAME .
 *.rulu.co CNAME .
 saveas.co CNAME .
@@ -3521,6 +3515,8 @@ d0000d.com CNAME .
 *.d0000d.com CNAME .
 d4download.com CNAME .
 *.d4download.com CNAME .
+daddyny.com CNAME .
+*.daddyny.com CNAME .
 dafunda.com CNAME .
 *.dafunda.com CNAME .
 dailym3uiptv.com CNAME .
@@ -9061,8 +9057,6 @@ eurostreaming.haus CNAME .
 *.eurostreaming.haus CNAME .
 ilgeniodellostreaming.haus CNAME .
 *.ilgeniodellostreaming.haus CNAME .
-kinox.haus CNAME .
-*.kinox.haus CNAME .
 filmywap.help CNAME .
 *.filmywap.help CNAME .
 privatemoviez.help CNAME .
@@ -11481,8 +11475,6 @@ dood.meme CNAME .
 *.dood.meme CNAME .
 ssrmovies.meme CNAME .
 *.ssrmovies.meme CNAME .
-rlsbb.unblockit.meme CNAME .
-*.rlsbb.unblockit.meme CNAME .
 gomovies.men CNAME .
 *.gomovies.men CNAME .
 guardaserie.men CNAME .
@@ -14041,8 +14033,6 @@ unblockweb.one CNAME .
 *.unblockweb.one CNAME .
 wawacity.one CNAME .
 *.wawacity.one CNAME .
-rlsbb.unblockit.ong CNAME .
-*.rlsbb.unblockit.ong CNAME .
 0123movie.onl CNAME .
 *.0123movie.onl CNAME .
 dood.onl CNAME .
@@ -16003,8 +15993,6 @@ dood.pet CNAME .
 *.dood.pet CNAME .
 ftp.pet CNAME .
 *.ftp.pet CNAME .
-kinox.pet CNAME .
-*.kinox.pet CNAME .
 altadefinizione.ph CNAME .
 *.altadefinizione.ph CNAME .
 demonoid.ph CNAME .
@@ -16629,8 +16617,6 @@ wawacity.red CNAME .
 *.wawacity.red CNAME .
 guardaserie.rent CNAME .
 *.guardaserie.rent CNAME .
-kinox.rent CNAME .
-*.kinox.rent CNAME .
 streamingcommunity.rent CNAME .
 *.streamingcommunity.rent CNAME .
 guardaserie.rentals CNAME .
@@ -17799,8 +17785,6 @@ eurostreaming.social CNAME .
 *.eurostreaming.social CNAME .
 guardaserie.social CNAME .
 *.guardaserie.social CNAME .
-kinox.social CNAME .
-*.kinox.social CNAME .
 altadefinizione.solutions CNAME .
 *.altadefinizione.solutions CNAME .
 bollyflix.solutions CNAME .
@@ -18067,6 +18051,8 @@ crichd.sx CNAME .
 *.crichd.sx CNAME .
 cricsports.sx CNAME .
 *.cricsports.sx CNAME .
+daddylive.sx CNAME .
+*.daddylive.sx CNAME .
 ekino.sx CNAME .
 *.ekino.sx CNAME .
 tracker.empornium.sx CNAME .
@@ -18155,8 +18141,6 @@ cineblog01.team CNAME .
 *.cineblog01.team CNAME .
 dood.team CNAME .
 *.dood.team CNAME .
-kinox.team CNAME .
-*.kinox.team CNAME .
 megakino.team CNAME .
 *.megakino.team CNAME .
 serienjunkies.team CNAME .
@@ -18989,8 +18973,6 @@ zlibi.top CNAME .
 *.zlibi.top CNAME .
 altadefinizione.tours CNAME .
 *.altadefinizione.tours CNAME .
-kinox.tours CNAME .
-*.kinox.tours CNAME .
 cineblog01.town CNAME .
 *.cineblog01.town CNAME .
 eurostreaming.town CNAME .
@@ -19825,8 +19807,6 @@ onehack.us CNAME .
 *.onehack.us CNAME .
 putlockers9.us CNAME .
 *.putlockers9.us CNAME .
-rlsbb.us CNAME .
-*.rlsbb.us CNAME .
 serienjunkies.us CNAME .
 *.serienjunkies.us CNAME .
 sexy-pics.us CNAME .
@@ -19985,8 +19965,6 @@ ilgeniodellostreaming.vin CNAME .
 *.ilgeniodellostreaming.vin CNAME .
 katmoviehd.vin CNAME .
 *.katmoviehd.vin CNAME .
-kinox.vin CNAME .
-*.kinox.vin CNAME .
 megakino.vin CNAME .
 *.megakino.vin CNAME .
 streamingcommunity.vin CNAME .

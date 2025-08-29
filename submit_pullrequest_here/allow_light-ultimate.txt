@@ -1,6 +1,11 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/7155
+# cdn.http.anno.channel4.com
+# cf.http.anno.channel4.com
+# d2ez07zbodk7u2.cloudfront.net
+
 # https://github.com/hagezi/dns-blocklists/issues/7123
 lang-server-*.allawnos.com
 

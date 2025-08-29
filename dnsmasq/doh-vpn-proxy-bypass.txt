@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Aug 2025 11:57 UTC
-# Version: 2025.0829.1157.48
+# Last modified: 29 Aug 2025 16:04 UTC
+# Version: 2025.0829.1604.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5327
+# Number of entries: 5335
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -135,6 +135,7 @@ local=/922proxy.com/
 local=/dns.9999.sg/
 local=/99proxy.com/
 local=/9w9.org/
+local=/quickphysics.a-quo.com/
 local=/dns.a47.me/
 local=/doh.aaaab3n.moe/
 local=/adb.aadityakushwaha.com/
@@ -531,6 +532,7 @@ local=/breakwall.net/
 local=/dns.brembeck.cloud/
 local=/tutor.skills.bretonmeadowfarm.org/
 local=/ag.brianlee.fun/
+local=/easybio.bridgeslab.net/
 local=/bright4good.eco/
 local=/brightvpn.com/
 local=/britishproxy.com/
@@ -867,6 +869,7 @@ local=/dns.cloud88.com.au/
 local=/about.cmbazan.com.ar/
 local=/state.lab.covi.com.ar/
 local=/croxyproxy.com.in/
+local=/procoding.dragrecords.com.au/
 local=/echan.faizinternational.com.np/
 local=/info.faizinternational.com.np/
 local=/pleaseworkiwantutopia.faizinternational.com.np/
@@ -1350,7 +1353,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1706,6 +1708,7 @@ local=/giveproxy.com/
 local=/gizlen.net/
 local=/gizlibaglanti.com/
 local=/h.gjrick.tw/
+local=/solidreading.gkihalimun.org/
 local=/sdns22.gkonuralp.com/
 local=/chaotic-guest-bestie.glacialpower.com/
 local=/i-civics.glacialpower.com/
@@ -1971,6 +1974,7 @@ local=/vpn.i81.ru/
 local=/beepboopbop.iamadeveloper.dev/
 local=/dns.iamanuragh.in/
 local=/dns.iamninja.ru/
+local=/novahistory.ibernoticias.com/
 local=/link-five.ibewlocalzero.com/
 local=/link-four.ibewlocalzero.com/
 local=/link-one.ibewlocalzero.com/
@@ -2145,6 +2149,7 @@ local=/vps2.jnraptor.net/
 local=/dns.joey01245.nl/
 local=/vpn.jogjacloud.com/
 local=/johneldenring.lol/
+local=/alphaphysics.johnwarburton.net/
 local=/child.joindns4.eu/
 local=/child-noads.joindns4.eu/
 local=/noads.joindns4.eu/
@@ -2612,7 +2617,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -2898,7 +2902,9 @@ local=/proxy.ordentlichbreit.de/
 local=/learning.orestpena.com/
 local=/fnrkrbvtpy.abbotsfordhallforhire.org.au/
 local=/resolver.dnsprivacy.org.uk/
+local=/keencalc.ivc.org.ar/
 local=/oliverdiepiogreedycheckers.sponsorafuture.org.uk/
+local=/topliterature.sunrise.org.uk/
 local=/google.com.teachinghospital.org.np/
 local=/dns.oryxlabs.com/
 local=/os4work.com/
@@ -3439,6 +3445,7 @@ local=/jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx/
 local=/dns.rootlab.top/
 local=/dns.rotunneling.net/
 local=/roundrockisd.online/
+local=/rapidcalc.rpvf.com/
 local=/rah.rren.ch/
 local=/o.rsaikat.com/
 local=/au.rslvr.eu/
@@ -3608,6 +3615,7 @@ local=/dns.simplylinux.ch/
 local=/dns.sindominio.net/
 local=/sinesprox.cloud/
 local=/bring-your-own.sinewave.cc/
+local=/virtualalgebra.siniritarit.fi/
 local=/gurtyo.sino.tw/
 local=/dnsovertls.sinodun.com/
 local=/dnsovertls1.sinodun.com/
