@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Aug 2025 18:30 UTC
-# Version: 2025.0828.1830.06
+# Last modified: 29 Aug 2025 02:58 UTC
+# Version: 2025.0829.0258.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13863
+# Number of entries: 13864
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -693,6 +693,7 @@ local=/arila.de/
 local=/arina-handel.de/
 local=/arins-consulting.com/
 local=/arithmeticn.com/
+local=/arkamgym.com/
 local=/arkcoin.cc/
 local=/arkload.com/
 local=/arlbergatelier.at/
