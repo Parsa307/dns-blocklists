@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Aug 2025 04:26 UTC
-# Version: 2025.0829.0426.27
+# Last modified: 29 Aug 2025 11:57 UTC
+# Version: 2025.0829.1157.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5323
+# Number of entries: 5327
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1294,9 +1294,11 @@ local=/duapps.com/
 local=/duba.net/
 local=/bitly-galatikx.duckdns.org/
 local=/huawaakiskokoa.duckdns.org/
+local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/tuandns.duckdns.org/
+local=/tungdnsne.duckdns.org/
 local=/blahaj.duia.us/
 local=/butidontwanttacos.duia.us/
 local=/dualpower.duia.eu/
@@ -1348,6 +1350,7 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1631,6 +1634,7 @@ local=/cluster-1.gac.edu/
 local=/bu-abdulla.gafton.eu/
 local=/galacticspace.galaxysoft.ro/
 local=/dns.gamban.com/
+local=/adguard.gambini.org/
 local=/proxy.gamecove.net/
 local=/gamers-nor.com/
 local=/work.quiz.gamersuk.org/

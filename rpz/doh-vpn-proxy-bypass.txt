@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756441560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756468620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Aug 2025 04:26 UTC
-; Version: 2025.0829.0426.27
+; Last modified: 29 Aug 2025 11:57 UTC
+; Version: 2025.0829.1157.48
 ; Syntax: RPZ
-; Number of entries: 10646
+; Number of entries: 10654
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1662,6 +1662,8 @@ ecoweb-network.com CNAME .
 *.ecoweb-network.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -8656,12 +8658,16 @@ bitly-galatikx.duckdns.org CNAME .
 *.bitly-galatikx.duckdns.org CNAME .
 huawaakiskokoa.duckdns.org CNAME .
 *.huawaakiskokoa.duckdns.org CNAME .
+jurre-home.duckdns.org CNAME .
+*.jurre-home.duckdns.org CNAME .
 krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
 tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
+tungdnsne.duckdns.org CNAME .
+*.tungdnsne.duckdns.org CNAME .
 ueni.dyndns.org CNAME .
 *.ueni.dyndns.org CNAME .
 tor.eff.org CNAME .
@@ -8710,6 +8716,8 @@ freevpn.org CNAME .
 *.freevpn.org CNAME .
 freevpnapp.org CNAME .
 *.freevpnapp.org CNAME .
+adguard.gambini.org CNAME .
+*.adguard.gambini.org CNAME .
 work.quiz.gamersuk.org CNAME .
 *.work.quiz.gamersuk.org CNAME .
 gatcha.org CNAME .

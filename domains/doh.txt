@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Aug 2025 04:26 UTC
-# Version: 2025.0829.0426.06
+# Last modified: 29 Aug 2025 11:57 UTC
+# Version: 2025.0829.1157.26
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1589
+# Number of entries: 1593
 #
 003153.xyz
 ns.00dani.me
@@ -612,9 +612,11 @@ dns.dremaxx.de
 droyd.top
 doh.dscloud.me
 agh.dshubham.xyz
+jurre-home.duckdns.org
 krtekvpn.duckdns.org
 osefcorp.duckdns.org
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 dukun.de
 dns.dyn1.de
 ueni.dyndns.org
@@ -628,6 +630,7 @@ dns.eddi.net
 doh.eddi.net
 dns.tuna.tsinghua.edu.cn
 adguard.ef67daisuki.club
+dns.efficientdocuments.com
 hole.elbschloss.xyz
 dns.elemental.software
 eliatofani.ovh
@@ -695,6 +698,7 @@ dns.futuredns.me
 cluster-0.gac.edu
 cluster-1.gac.edu
 dns.gamban.com
+adguard.gambini.org
 dns.beta.gandi.net
 gclouddns.com
 adg.geili.me
