@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756540620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756569480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Aug 2025 07:57 UTC
-; Version: 2025.0830.0757.21
+; Last modified: 30 Aug 2025 15:58 UTC
+; Version: 2025.0830.1558.55
 ; Syntax: RPZ
-; Number of entries: 20946
+; Number of entries: 20948
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3643,6 +3643,8 @@ dhakamovie.com CNAME .
 *.dhakamovie.com CNAME .
 dhakasports.com CNAME .
 *.dhakasports.com CNAME .
+tracker.dhitechnical.com CNAME .
+*.tracker.dhitechnical.com CNAME .
 dht.dhtclub.com CNAME .
 *.dht.dhtclub.com CNAME .
 diamondsrooms.com CNAME .
@@ -7971,6 +7973,8 @@ altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
+tracker-de-2.cutie.dating CNAME .
+*.tracker-de-2.cutie.dating CNAME .
 altadefinizione.day CNAME .
 *.altadefinizione.day CNAME .
 ilgeniodellostreaming.day CNAME .
@@ -20709,8 +20713,6 @@ ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
-speedtest.iperson.xyz CNAME .
-*.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .

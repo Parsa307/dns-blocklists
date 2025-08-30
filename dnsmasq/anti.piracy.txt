@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Aug 2025 07:57 UTC
-# Version: 2025.0830.0757.21
+# Last modified: 30 Aug 2025 15:58 UTC
+# Version: 2025.0830.1558.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10473
+# Number of entries: 10474
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2292,6 +2292,7 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
+local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/
@@ -2480,6 +2481,7 @@ local=/dhakaftp.com/
 local=/dhakaiptv.com/
 local=/dhakamovie.com/
 local=/dhakasports.com/
+local=/tracker.dhitechnical.com/
 local=/dht.dhtclub.com/
 local=/diablotorrent.hu/
 local=/diakov.net/
@@ -4701,7 +4703,6 @@ local=/ns349743.ip-91-121-106.eu/
 local=/ipacrack.com/
 local=/ipalibrary.me/
 local=/ipboot.xyz/
-local=/speedtest.iperson.xyz/
 local=/tracker.iperson.xyz/
 local=/tracker.ipfsscan.io/
 local=/iphonebooks.info/
