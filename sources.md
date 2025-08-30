@@ -279,15 +279,8 @@ https://raw.githubusercontent.com/ukrainianfilters/lists/main/ads/ads.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/combined/combined.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/privacy/privacy.txt
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-https://raw.githubusercontent.com/xRuffKez/BadHosts/main/badhosts.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day_dga/domains-only/nrd-14day-dga.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day/domains-only/nrd-14day.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day_phishing/domains-only/nrd-phishing-14day.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_dga/domains-only/nrd-30day-dga_part1.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_dga/domains-only/nrd-30day-dga_part2.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-30day_part1.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-30day_part2.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt
+https://raw.githubusercontent.com/xRuffKez/BadHosts/refs/heads/main/badhosts.txt
+https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-phishing-30day
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current.csv.gz
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv

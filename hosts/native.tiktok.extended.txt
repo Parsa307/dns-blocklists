@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Aug 2025 23:17 UTC
-# Version: 2025.0829.2317.01
+# Last modified: 30 Aug 2025 16:48 UTC
+# Version: 2025.0830.1648.37
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 418
+# Number of entries: 454
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -49,6 +49,11 @@
 0.0.0.0 xlog-o.byteoversea.com
 0.0.0.0 xlog-va.byteoversea.com
 0.0.0.0 xlog-va-useast2a.byteoversea.com
+0.0.0.0 tnc-boot.capcutapi.com
+0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc-va.capcutapi.com
+0.0.0.0 tnc-va-us-looki.capcutapi.com
+0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 applog.snssdk.com
@@ -375,6 +380,35 @@
 0.0.0.0 rtlog58-normal-useast1a.tiktokv.com
 0.0.0.0 rtlog58-normal-useast2a.tiktokv.com
 0.0.0.0 rtlog58-normal-ycru.tiktokv.com
+0.0.0.0 tnc-boot.tiktokv.com
+0.0.0.0 tnc0-normal-my.tiktokv.com
+0.0.0.0 tnc0-normal-sg1.tiktokv.com
+0.0.0.0 tnc0-normal-useast1a.tiktokv.com
+0.0.0.0 tnc100-alisg.tiktokv.com
+0.0.0.0 tnc100-my.tiktokv.com
+0.0.0.0 tnc100-useast1a.tiktokv.com
+0.0.0.0 tnc100-useast2a.tiktokv.com
+0.0.0.0 tnc16-normal-ie.tiktokv.eu
+0.0.0.0 tnc16-normal-no1a.tiktokv.eu
+0.0.0.0 tnc16-normal-useast5.tiktokv.us
+0.0.0.0 tnc16-normal-useast8.tiktokv.us
+0.0.0.0 tnc16-normal-useastred.tiktokv.eu
+0.0.0.0 tnc16-normal-ycru.tiktokv.com
+0.0.0.0 tnc16-normal-zr-alisg.tiktokv.com
+0.0.0.0 tnc16-normal-zr-useast1a.tiktokv.com
+0.0.0.0 tnc16-platform-alisg.tiktokv.com
+0.0.0.0 tnc16-platform-my.tiktokv.com
+0.0.0.0 tnc16-platform-useast1a.tiktokv.com
+0.0.0.0 tnc16-platform-useast2a.tiktokv.com
+0.0.0.0 tnc19-normal-ie.tiktokv.eu
+0.0.0.0 tnc19-normal-no1a.tiktokv.eu
+0.0.0.0 tnc19-normal-useast5.tiktokv.us
+0.0.0.0 tnc19-normal-useast8.tiktokv.us
+0.0.0.0 tnc31-normal-zr-useast1a.tiktokv.com
+0.0.0.0 tnc31-platform-alisg.tiktokv.com
+0.0.0.0 tnc31-platform-useast1a.tiktokv.com
+0.0.0.0 tnc31-platform-useast2a.tiktokv.com
+0.0.0.0 tnc58-platform-ycru.tiktokv.com
 0.0.0.0 ad-format.us.tiktokv.com
 0.0.0.0 ad-format-ttp2.us.tiktokv.com
 0.0.0.0 ad-instantpage.us.tiktokv.com
@@ -399,6 +433,8 @@
 0.0.0.0 rtlog16-platform-useast5.us.tiktokv.com
 0.0.0.0 rtlog19-applog-useast5.us.tiktokv.com
 0.0.0.0 rtlog19-platform-useast5.us.tiktokv.com
+0.0.0.0 tnc16-normal-useast8.us.tiktokv.com
+0.0.0.0 tnc16-platform-useast5.us.tiktokv.com
 0.0.0.0 xlog16-normal-useast8.us.tiktokv.com
 0.0.0.0 xlog16-platform-useast5.us.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
