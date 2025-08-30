@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Aug 2025 03:52 UTC
-# Version: 2025.0830.0352.55
+# Last modified: 30 Aug 2025 07:57 UTC
+# Version: 2025.0830.0757.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10472
+# Number of entries: 10473
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -7997,6 +7997,7 @@ local=/softmp3.org/
 local=/softmupparna.net/
 local=/softpilot.win/
 local=/softreflex.com/
+local=/softsamba.com/
 local=/softsclub.com/
 local=/softserialskey.com/
 local=/softtorrents.org/

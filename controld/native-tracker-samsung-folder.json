@@ -225,7 +225,21 @@
       }
     },
     {
+      "PK": "dc.di.atlas.samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "dc.dqa.samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dev-apigw.samsungdmroute.com",
       "action": {
         "do": 0,
         "status": 1
@@ -260,6 +274,20 @@
       }
     },
     {
+      "PK": "dls-ddc.dqa.samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dls-udc.dqa.samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "download-samsung.dtignite.com",
       "action": {
         "do": 0,
@@ -268,6 +296,13 @@
     },
     {
       "PK": "dpu.samsungelectronics.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dqa-auth.di.atlas.samsung.com",
       "action": {
         "do": 0,
         "status": 1
@@ -421,6 +456,13 @@
       }
     },
     {
+      "PK": "moai-dev-samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "nmetrics.samsung.com",
       "action": {
         "do": 0,
@@ -471,6 +513,20 @@
     },
     {
       "PK": "push.samsungosp.com.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "qmds-dev-samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "regi.di.atlas.samsung.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1262,6 +1318,13 @@
     },
     {
       "PK": "stats.samsungpass.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "stg-apigw.samsungdmroute.com",
       "action": {
         "do": 0,
         "status": 1

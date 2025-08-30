@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756509660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756538340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Samsung Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Aug 2025 23:21 UTC
-; Version: 2025.0829.2321.10
+; Last modified: 30 Aug 2025 07:19 UTC
+; Version: 2025.0830.0719.56
 ; Syntax: RPZ
-; Number of entries: 392
+; Number of entries: 410
 ;
 h4g3z1-native.samsung.web.app CNAME .
 *.h4g3z1-native.samsung.web.app CNAME .
@@ -63,6 +63,10 @@ samsung.telemetry.eyeo.com CNAME .
 *.samsung.telemetry.eyeo.com CNAME .
 ehg-samsungusa.hitbox.com CNAME .
 *.ehg-samsungusa.hitbox.com CNAME .
+moai-dev-samsung.com CNAME .
+*.moai-dev-samsung.com CNAME .
+qmds-dev-samsung.com CNAME .
+*.qmds-dev-samsung.com CNAME .
 zn8qwjgdslpyjq5n3-samsungcustomerboard.siteintercept.qualtrics.com CNAME .
 *.zn8qwjgdslpyjq5n3-samsungcustomerboard.siteintercept.qualtrics.com CNAME .
 zn9xowqszdbqtbfwx-seasamsung.siteintercept.qualtrics.com CNAME .
@@ -75,8 +79,14 @@ zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com CNAME .
 *.zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com CNAME .
 sia.internet.apps.samsung.com CNAME .
 *.sia.internet.apps.samsung.com CNAME .
+dc.di.atlas.samsung.com CNAME .
+*.dc.di.atlas.samsung.com CNAME .
 dls-account.di.atlas.samsung.com CNAME .
 *.dls-account.di.atlas.samsung.com CNAME .
+dqa-auth.di.atlas.samsung.com CNAME .
+*.dqa-auth.di.atlas.samsung.com CNAME .
+regi.di.atlas.samsung.com CNAME .
+*.regi.di.atlas.samsung.com CNAME .
 images.b2bindia.samsung.com CNAME .
 *.images.b2bindia.samsung.com CNAME .
 analytics.bigdata.samsung.com CNAME .
@@ -103,6 +113,10 @@ images.chbusiness.samsung.com CNAME .
 *.images.chbusiness.samsung.com CNAME .
 dc.dqa.samsung.com CNAME .
 *.dc.dqa.samsung.com CNAME .
+dls-ddc.dqa.samsung.com CNAME .
+*.dls-ddc.dqa.samsung.com CNAME .
+dls-udc.dqa.samsung.com CNAME .
+*.dls-udc.dqa.samsung.com CNAME .
 event-tracking.samsung.com CNAME .
 *.event-tracking.samsung.com CNAME .
 images.frbusiness.samsung.com CNAME .
@@ -147,6 +161,10 @@ diagmon-serviceapi.samsungdm.com CNAME .
 *.diagmon-serviceapi.samsungdm.com CNAME .
 report.gras.samsungdm.com CNAME .
 *.report.gras.samsungdm.com CNAME .
+dev-apigw.samsungdmroute.com CNAME .
+*.dev-apigw.samsungdmroute.com CNAME .
+stg-apigw.samsungdmroute.com CNAME .
+*.stg-apigw.samsungdmroute.com CNAME .
 analytics.samsungedo.com CNAME .
 *.analytics.samsungedo.com CNAME .
 apu.samsungelectronics.com CNAME .

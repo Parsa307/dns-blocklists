@@ -1,5 +1,8 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/7157
+*.pvp.net
+
 # https://github.com/hagezi/dns-blocklists/issues/7044
 usage-ping.brave.com
 

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Aug 2025 23:21 UTC
-# Version: 2025.0829.2321.10
+# Last modified: 30 Aug 2025 07:19 UTC
+# Version: 2025.0830.0719.56
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 254
+# Number of entries: 265
 #
 samsung-com.112.2o7.net
 metric.account-samsung.com
@@ -96,6 +96,8 @@ ehg-samsungusa.hitbox.com
 conn-v2.samsung.japps.cn
 report-v2.samsung.japps.cn
 sis-v2.samsung.japps.cn
+moai-dev-samsung.com
+www.moai-dev-samsung.com
 samsungcard.sc.omtrdc.net
 samsungnorthamerica.sc.omtrdc.net
 samsung.com.ssl.sc.omtrdc.net
@@ -112,13 +114,18 @@ samsungseao.tt.omtrdc.net
 samsungturkey.tt.omtrdc.net
 samsungus.tt.omtrdc.net
 samsungtv-d.openx.net
+qmds-dev-samsung.com
+www.qmds-dev-samsung.com
 zn8qwjgdslpyjq5n3-samsungcustomerboard.siteintercept.qualtrics.com
 zn9xowqszdbqtbfwx-seasamsung.siteintercept.qualtrics.com
 znewylzpqds1jt1sh-samsunggdc.siteintercept.qualtrics.com
 znexudtrhw0nwrmga-seasamsung.siteintercept.qualtrics.com
 zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com
 sia.internet.apps.samsung.com
+dc.di.atlas.samsung.com
 dls-account.di.atlas.samsung.com
+dqa-auth.di.atlas.samsung.com
+regi.di.atlas.samsung.com
 images.b2bindia.samsung.com
 analytics.bigdata.samsung.com
 lp.americas.business.samsung.com
@@ -132,6 +139,8 @@ seao.business.samsung.com
 channelusa.samsung.com
 images.chbusiness.samsung.com
 dc.dqa.samsung.com
+dls-ddc.dqa.samsung.com
+dls-udc.dqa.samsung.com
 event-tracking.samsung.com
 europe.event-tracking.samsung.com
 images.frbusiness.samsung.com
@@ -193,6 +202,8 @@ prderrordumpssm.samsungcloudsolution.net
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
 report.gras.samsungdm.com
+dev-apigw.samsungdmroute.com
+stg-apigw.samsungdmroute.com
 analytics.samsungedo.com
 apu.samsungelectronics.com
 bpu.samsungelectronics.com
