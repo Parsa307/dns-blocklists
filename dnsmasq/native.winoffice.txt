@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Aug 2025 23:14 UTC
-# Version: 2025.0822.2314.12
+# Last modified: 29 Aug 2025 23:14 UTC
+# Version: 2025.0829.2314.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 420
+# Number of entries: 421
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -147,6 +147,7 @@ local=/usc-onenote-telemetry.officeapps.live.com/
 local=/usc-visio-telemetry.officeapps.live.com/
 local=/visio-telemetry.officeapps.live.com/
 local=/word-telemetry.officeapps.live.com/
+local=/zac-visio-telemetry.officeapps.live.com/
 local=/outlookads.live.com/
 local=/rad.live.com/
 local=/ssw.live.com/

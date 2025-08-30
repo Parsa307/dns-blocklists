@@ -1562,6 +1562,27 @@
       }
     },
     {
+      "PK": "za-p.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-cota.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "zasc-vcode-api.vivoglobal.com",
       "action": {
         "do": 0,
@@ -1570,6 +1591,13 @@
     },
     {
       "PK": "zasc-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-vcode-or.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1

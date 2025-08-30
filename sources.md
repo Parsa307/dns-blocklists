@@ -57,7 +57,6 @@ https://iplists.firehol.org/files/greensnow.ipset
 https://lists.cyberhost.uk/malware.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
 https://nirbytes.com/post/1000-proxies-for-school-chromebook-2025/
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phish.co.za/latest/phishing-domains-ACTIVE.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
@@ -169,7 +168,6 @@ https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/main/ips.txt
 https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/master/Piracy%20List
 https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
-https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.txt
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
@@ -309,7 +307,6 @@ https://vn-badsite-filter.pages.dev/vn-badsite-filter-hosts.txt
 https://www.auktionshilfe.info/board-feed/22/
 https://www.auktionshilfe.info/thread/20469-ver%C3%B6ffentlichung-von-fakeshops-und-betr%C3%BCgerischen-stellenangebote-blaue-kennzeic/
 https://www.binarydefense.com/banlist.txt
-https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.data.gouv.fr/fr/datasets/r/d2d9df6d-1cd2-41a8-96f5-684cb3057ecb
 https://www.domcop.com/files/top/top10milliondomains.csv.zip
 https://www.globalantiscam.org/scam-websites

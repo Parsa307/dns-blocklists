@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jul 2025 23:11 UTC
-# Version: 2025.0725.2311.40
+# Last modified: 29 Aug 2025 23:19 UTC
+# Version: 2025.0829.2319.01
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 26
 #
@@ -33,5 +33,5 @@
 0.0.0.0 sca-pnrt-stsdk.vivoglobal.com sca-romsp-unifyconfig.vivoglobal.com sca-st-sl.vivoglobal.com sca-stsdk.vivoglobal.com sca-timesync.vivoglobal.com sca-vcode-api.vivoglobal.com sca-vcode-od.vivoglobal.com sca-vcode-or.vivoglobal.com sg-cfg-stsdk.vivoglobal.com
 0.0.0.0 stsdk.vivoglobal.com onrt.stsdk.vivoglobal.com ort.stsdk.vivoglobal.com pnrt.stsdk.vivoglobal.com prt.stsdk.vivoglobal.com tr-album-api.vivoglobal.com tr-cota.vivoglobal.com tr-domaincfg.vivoglobal.com tr-err-up.vivoglobal.com
 0.0.0.0 tr-gdpr-vgc-datacenter.vivoglobal.com tr-onrt-stsdk.vivoglobal.com tr-ort-stsdk.vivoglobal.com tr-p.vivoglobal.com tr-pnrt-stsdk.vivoglobal.com tr-romsp-unifyconfig.vivoglobal.com tr-st-sl.vivoglobal.com tr-st-sysupgrade.vivoglobal.com tr-stsdk.vivoglobal.com
-0.0.0.0 tr-sysupgrade-api.vivoglobal.com tr-timesync.vivoglobal.com tr-vcode-api.vivoglobal.com tr-vcode-od.vivoglobal.com tr-vcode-or.vivoglobal.com tr-weather.vivoglobal.com err.up.vivoglobal.com xn-ex-adreq-asa-c5b.vivoglobal.com zasc-vcode-api.vivoglobal.com
-0.0.0.0 zasc-vcode-od.vivoglobal.com h4g3z1-native.vivo.web.app vhs.wwstat.com 
+0.0.0.0 tr-sysupgrade-api.vivoglobal.com tr-timesync.vivoglobal.com tr-vcode-api.vivoglobal.com tr-vcode-od.vivoglobal.com tr-vcode-or.vivoglobal.com tr-weather.vivoglobal.com err.up.vivoglobal.com xn-ex-adreq-asa-c5b.vivoglobal.com za-p.vivoglobal.com
+0.0.0.0 zasc-cota.vivoglobal.com zasc-romsp-unifyconfig.vivoglobal.com zasc-vcode-api.vivoglobal.com zasc-vcode-od.vivoglobal.com zasc-vcode-or.vivoglobal.com h4g3z1-native.vivo.web.app vhs.wwstat.com 

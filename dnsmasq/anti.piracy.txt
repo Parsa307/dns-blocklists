@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Aug 2025 15:59 UTC
-# Version: 2025.0829.1559.32
+# Last modified: 29 Aug 2025 23:05 UTC
+# Version: 2025.0829.2305.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10470
+# Number of entries: 10471
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -35,6 +35,7 @@ local=/0ffbug.tv/
 local=/0mag.net/
 local=/0magnet.com/
 local=/0second.com/
+local=/0vg9r.com/
 local=/weedy.1.vg/
 local=/1-2-3movies.com/
 local=/1-thepiratebay.org/
@@ -4700,7 +4701,6 @@ local=/ns349743.ip-91-121-106.eu/
 local=/ipacrack.com/
 local=/ipalibrary.me/
 local=/ipboot.xyz/
-local=/speedtest.iperson.xyz/
 local=/tracker.iperson.xyz/
 local=/tracker.ipfsscan.io/
 local=/iphonebooks.info/
@@ -5132,7 +5132,6 @@ local=/klon.tv/
 local=/kludd.com/
 local=/kmnbd.net/
 local=/kmsautoplus.su/
-local=/tracker.home.kmzs123.cn/
 local=/tracker.kmzs123.cn/
 local=/tracker.kmzs123.top/
 local=/knaben.eu/
@@ -5724,6 +5723,7 @@ local=/mkvanime.mov/
 local=/mkvcage.com/
 local=/mkvcage.ws/
 local=/mkvcinemas.cat/
+local=/mkvcinemas.date/
 local=/mkvcinemas.kim/
 local=/mkvcinemas.kiwi/
 local=/mkvcinemas.men/
@@ -7890,6 +7890,7 @@ local=/sky-tech.hu/
 local=/skybizbd.net/
 local=/skylinectg.com/
 local=/skyll.net/
+local=/skymovieshd.care/
 local=/skymovieshd.credit/
 local=/skymovieshd.land/
 local=/skynetbd.net/

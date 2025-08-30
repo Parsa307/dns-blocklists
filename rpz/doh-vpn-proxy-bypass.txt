@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756483440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756508580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Aug 2025 16:04 UTC
-; Version: 2025.0829.1604.30
+; Last modified: 29 Aug 2025 23:03 UTC
+; Version: 2025.0829.2303.49
 ; Syntax: RPZ
 ; Number of entries: 10670
 ;
@@ -286,8 +286,6 @@ dns.sv-zauner.at CNAME .
 *.dns.sv-zauner.at CNAME .
 dns.cloud88.com.au CNAME .
 *.dns.cloud88.com.au CNAME .
-procoding.dragrecords.com.au CNAME .
-*.procoding.dragrecords.com.au CNAME .
 humankindisafailure.kindy4kids.com.au CNAME .
 *.humankindisafailure.kindy4kids.com.au CNAME .
 dns.netraptor.com.au CNAME .
@@ -9860,6 +9858,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

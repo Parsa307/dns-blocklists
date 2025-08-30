@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756483140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756508700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Aug 2025 15:59 UTC
-; Version: 2025.0829.1559.32
+; Last modified: 29 Aug 2025 23:05 UTC
+; Version: 2025.0829.2305.26
 ; Syntax: RPZ
-; Number of entries: 20940
+; Number of entries: 20942
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -993,6 +993,8 @@ altadefinizione.care CNAME .
 *.altadefinizione.care CNAME .
 cb01.care CNAME .
 *.cb01.care CNAME .
+skymovieshd.care CNAME .
+*.skymovieshd.care CNAME .
 altadefinizione.casa CNAME .
 *.altadefinizione.casa CNAME .
 cineblog01.casa CNAME .
@@ -1827,8 +1829,6 @@ tracker.hiyj.cn CNAME .
 *.tracker.hiyj.cn CNAME .
 jshdtv.cn CNAME .
 *.jshdtv.cn CNAME .
-tracker.home.kmzs123.cn CNAME .
-*.tracker.home.kmzs123.cn CNAME .
 tracker.kmzs123.cn CNAME .
 *.tracker.kmzs123.cn CNAME .
 tracker.loligirl.cn CNAME .
@@ -2183,6 +2183,8 @@ eurostreaming.college CNAME .
 *.0magnet.com CNAME .
 0second.com CNAME .
 *.0second.com CNAME .
+0vg9r.com CNAME .
+*.0vg9r.com CNAME .
 1-2-3movies.com CNAME .
 *.1-2-3movies.com CNAME .
 100520.com CNAME .
@@ -7957,6 +7959,8 @@ altadefinizione.date CNAME .
 *.altadefinizione.date CNAME .
 fmovies.date CNAME .
 *.fmovies.date CNAME .
+mkvcinemas.date CNAME .
+*.mkvcinemas.date CNAME .
 streamingcommunityz.date CNAME .
 *.streamingcommunityz.date CNAME .
 rlsbb.unblockit.date CNAME .
@@ -20703,8 +20707,6 @@ ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
-speedtest.iperson.xyz CNAME .
-*.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .
