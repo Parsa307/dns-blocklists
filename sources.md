@@ -284,7 +284,6 @@ https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/doma
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current.csv.gz
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv
-https://safelyweb.com/scams-database
 https://schoolwebproxy.com/1000-proxies-for-school-chromebook-2025/
 https://secure.fanboy.co.nz/fanboy-agegate.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
