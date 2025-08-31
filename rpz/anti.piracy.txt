@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756612620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756656540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 Aug 2025 03:57 UTC
-; Version: 2025.0831.0357.32
+; Last modified: 31 Aug 2025 16:09 UTC
+; Version: 2025.0831.1609.56
 ; Syntax: RPZ
-; Number of entries: 21080
+; Number of entries: 21084
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -11397,6 +11397,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -16409,6 +16411,8 @@ doodstream.pro CNAME .
 *.doodstream.pro CNAME .
 dreamsite.pro CNAME .
 *.dreamsite.pro CNAME .
+edgestreams.pro CNAME .
+*.edgestreams.pro CNAME .
 egydead.pro CNAME .
 *.egydead.pro CNAME .
 europixhd.pro CNAME .
@@ -16453,6 +16457,8 @@ live7.pro CNAME .
 *.live7.pro CNAME .
 tv2.lk21official.pro CNAME .
 *.tv2.lk21official.pro CNAME .
+mainstreams.pro CNAME .
+*.mainstreams.pro CNAME .
 megakino.pro CNAME .
 *.megakino.pro CNAME .
 mp3db.pro CNAME .
@@ -20843,8 +20849,6 @@ ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
-speedtest.iperson.xyz CNAME .
-*.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .

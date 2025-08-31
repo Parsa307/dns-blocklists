@@ -1,18 +1,19 @@
-! Title: HaGeZi's The World's Most Abused TLDs - Aggressive
-! Description: The Top Most Abused Top Level Domains
-! Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
-!         https://radar.cloudflare.com/email-security
-!         https://trends.netcraft.com/cybercrime/tlds
-!         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
-! Homepage: https://github.com/hagezi/dns-blocklists
-! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-! Issues: https://github.com/hagezi/dns-blocklists/issues
-! Expires: 1 day
-! Last modified: 31 Aug 2025 12:55 UTC
-! Version: 2025.0831.1255.37
-! Syntax: Domains (without subdomains)
-! Number of latin TLDs: 278 - punycode TLDs: 151
-!
+# Title: HaGeZi's The World's Most Abused TLDs - Aggressive
+# Description: The Top Most Abused Top Level Domains
+# Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
+#         https://radar.cloudflare.com/email-security
+#         https://trends.netcraft.com/cybercrime/tlds
+#         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
+#         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Expires: 1 day
+# Last modified: 31 Aug 2025 15:25 UTC
+# Version: 2025.0831.1525.30
+# Syntax: Domains (without subdomains)
+# Number of latin TLDs: 277 - punycode TLDs: 151
+#
 actor
 africa
 agency
@@ -172,7 +173,6 @@ money
 monster
 motorcycles
 mov
-my
 name
 navy
 new

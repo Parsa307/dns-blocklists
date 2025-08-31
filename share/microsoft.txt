@@ -20,6 +20,7 @@ win-global-asimov-leafs-events-data.trafficmanager.net
 
 # Activity history Tracking across Windows devices.
 # It's primarily used in connection with Windows Timeline, a feature introduced in Windows 10 that allows users to see a history of activities they've performed on their devices.
+# Blocking this domains may break Authenticator app's Cloud backup feature on Android.
 activity.windows.com
 assets.activity.windows.com
 canary.activity.windows.com

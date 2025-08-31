@@ -1617,13 +1617,6 @@
       }
     },
     {
-      "PK": "edu.my",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "e.foundation",
       "action": {
         "do": 1,
@@ -2269,13 +2262,6 @@
     },
     {
       "PK": "google.cf",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "google.com.my",
       "action": {
         "do": 1,
         "status": 1
@@ -3706,13 +3692,6 @@
       "PK": "music-merchant.shop",
       "action": {
         "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "*.my",
-      "action": {
-        "do": 0,
         "status": 1
       }
     },

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Aug 2025 03:57 UTC
-# Version: 2025.0831.0357.32
+# Last modified: 31 Aug 2025 16:09 UTC
+# Version: 2025.0831.1609.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10540
+# Number of entries: 10542
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2921,6 +2921,7 @@ local=/eddie4.nl/
 local=/edels-stube.eu/
 local=/edgeemu.net/
 local=/edgeoftheworld.net/
+local=/edgestreams.pro/
 local=/tracker.edkj.club/
 local=/edmag.net/
 local=/tracker.sjtu.edu.cn/
@@ -4715,7 +4716,6 @@ local=/ns349743.ip-91-121-106.eu/
 local=/ipacrack.com/
 local=/ipalibrary.me/
 local=/ipboot.xyz/
-local=/speedtest.iperson.xyz/
 local=/tracker.iperson.xyz/
 local=/tracker.ipfsscan.io/
 local=/iphonebooks.info/
@@ -5517,6 +5517,7 @@ local=/magnetoo.io/
 local=/mahirbd.com/
 local=/mahou.org/
 local=/mahou-shoujo.moe/
+local=/mainstreams.pro/
 local=/majaa.net/
 local=/majin2007.com/
 local=/majomparade.com/
@@ -8475,6 +8476,7 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
+local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/

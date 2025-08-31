@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 31 Aug 2025 12:55 UTC
-! Version: 2025.0831.1255.37
+! Last modified: 31 Aug 2025 15:25 UTC
+! Version: 2025.0831.1525.30
 ! Syntax: AdBlock
-! Number of latin TLDs: 278 - punycode TLDs: 151
+! Number of latin TLDs: 277 - punycode TLDs: 151
 !
 ||actor^
 ||africa^
@@ -174,7 +174,6 @@
 ||monster^
 ||motorcycles^
 ||mov^
-||my^
 ||name^
 ||navy^
 ||new^
@@ -444,4 +443,3 @@
 ||xn--qxa6a^
 ||xn--qxam^
 ||xn--y9a3aq^
-!         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt

@@ -1,10 +1,18 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
-# https://github.com/hagezi/dns-blocklists/issues/7155
-# cdn.http.anno.channel4.com
-# cf.http.anno.channel4.com
-# d2ez07zbodk7u2.cloudfront.net
+# https://github.com/hagezi/dns-blocklists/issues/7174
+banner-bc2.cartoes.itau.com.br
+banner1.itau.com.br
+banner2.itau.com.br
+cdn-banner.cloud.itau.com.br
+da789ctlbdylk.cloudfront.net
+gtm.mobilepessoafisica.itau.akadns.net
+log-3347ea06.bzl.v2.we-stats.com
+mobilepessoafisica.itau.com.br
+promotion.xmeye.net
+wup-3347ea06.bzl.v2.we-stats.com
+wup-8deb1bc1.bzl.v2.we-stats.com
 
 # https://github.com/hagezi/dns-blocklists/issues/7123
 lang-server-*.allawnos.com
