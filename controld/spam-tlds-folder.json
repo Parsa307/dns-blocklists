@@ -652,6 +652,13 @@
       }
     },
     {
+      "PK": "*.florist",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.foo",
       "action": {
         "do": 0,
@@ -849,6 +856,13 @@
     },
     {
       "PK": "*.homes",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.hot",
       "action": {
         "do": 0,
         "status": 1

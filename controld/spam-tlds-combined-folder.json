@@ -1946,6 +1946,13 @@
       }
     },
     {
+      "PK": "*.florist",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "flourish.studio",
       "action": {
         "do": 1,
@@ -2586,6 +2593,13 @@
       "PK": "host.church",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.hot",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },

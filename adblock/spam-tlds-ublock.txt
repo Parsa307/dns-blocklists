@@ -11,10 +11,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 31 Aug 2025 15:25 UTC
-! Version: 2025.0831.1525.30
+! Last modified: 31 Aug 2025 19:24 UTC
+! Version: 2025.0831.1924.59
 ! Syntax: uBlock
-! Number of latin TLDs: 277 - non-latin TLDs: 151
+! Number of latin TLDs: 279 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -108,6 +108,7 @@
 ||fishing^$doc
 ||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit|~union.fit
 ||fitness^$doc,domain=~johnreed.fitness
+||florist^$doc
 ||foo^$doc,domain=~helloworld.foo
 ||forex^$doc
 ||forsale^$doc
@@ -137,6 +138,7 @@
 ||healthcare^$doc,domain=~severance.healthcare
 ||help^$doc,domain=~fastmail.help|~gorgias.help|~kustomer.help
 ||homes^$doc,domain=~stremio.homes
+||hot^$doc
 ||how^$doc,domain=~mond.how
 ||icu^$doc,domain=~fastdl.icu|~lunar.icu|~mon.icu
 ||ink^$doc,domain=~filepress.ink|~ishortn.ink|~mez.ink|~next.ink|~rdl.ink|~shrinkme.ink|~sumerian.ink|~work.ink
