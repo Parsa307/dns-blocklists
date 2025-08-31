@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756569480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756612620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Aug 2025 15:58 UTC
-; Version: 2025.0830.1558.27
+; Last modified: 31 Aug 2025 03:57 UTC
+; Version: 2025.0831.0357.04
 ; Syntax: RPZ
-; Number of entries: 136038
+; Number of entries: 136046
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -2203,6 +2203,8 @@ gg146.bet CNAME .
 *.gg146.bet CNAME .
 gg16.bet CNAME .
 *.gg16.bet CNAME .
+gg196.bet CNAME .
+*.gg196.bet CNAME .
 gg199.bet CNAME .
 *.gg199.bet CNAME .
 gg23.bet CNAME .
@@ -7233,6 +7235,8 @@ casinosters.ca CNAME .
 *.casinosters.ca CNAME .
 casinosworld.ca CNAME .
 *.casinosworld.ca CNAME .
+casinotime.ca CNAME .
+*.casinotime.ca CNAME .
 casinowin.ca CNAME .
 *.casinowin.ca CNAME .
 chiefcasinos.ca CNAME .
@@ -21719,6 +21723,8 @@ pgslot-casino.co CNAME .
 *.pgslot-casino.co CNAME .
 pinkybet.co CNAME .
 *.pinkybet.co CNAME .
+playatharrys.co CNAME .
+*.playatharrys.co CNAME .
 playersclubvip.co CNAME .
 *.playersclubvip.co CNAME .
 playerslounge.co CNAME .
@@ -25699,8 +25705,6 @@ images.6929183.com CNAME .
 *.777slot02.com CNAME .
 777slot04.com CNAME .
 *.777slot04.com CNAME .
-777slot13.com CNAME .
-*.777slot13.com CNAME .
 777slot15.com CNAME .
 *.777slot15.com CNAME .
 777slot16.com CNAME .
@@ -33569,8 +33573,6 @@ bitesizebingo.com CNAME .
 *.bitesizebingo.com CNAME .
 bitkingz.com CNAME .
 *.bitkingz.com CNAME .
-bitkingz1.com CNAME .
-*.bitkingz1.com CNAME .
 bitkong.com CNAME .
 *.bitkong.com CNAME .
 bitsler.com CNAME .
@@ -38081,6 +38083,8 @@ casinomaxi8020.com CNAME .
 *.casinomaxi8020.com CNAME .
 casinomaxi8021.com CNAME .
 *.casinomaxi8021.com CNAME .
+casinomaxi910.com CNAME .
+*.casinomaxi910.com CNAME .
 casinomaxisitesi.com CNAME .
 *.casinomaxisitesi.com CNAME .
 casinomcw.com CNAME .
@@ -40217,8 +40221,6 @@ cheekycasino.com CNAME .
 *.cheekycasino.com CNAME .
 cheekygamblers.com CNAME .
 *.cheekygamblers.com CNAME .
-cheekyper.com CNAME .
-*.cheekyper.com CNAME .
 cheerballlok2022.com CNAME .
 *.cheerballlok2022.com CNAME .
 cheeringpg.com CNAME .
@@ -49175,6 +49177,8 @@ i9bet150.com CNAME .
 *.i9bet150.com CNAME .
 i9bet151.com CNAME .
 *.i9bet151.com CNAME .
+i9bet258.com CNAME .
+*.i9bet258.com CNAME .
 i9bet41.com CNAME .
 *.i9bet41.com CNAME .
 i9betmobile.com CNAME .
@@ -68613,8 +68617,6 @@ t8abc.com CNAME .
 *.t8abc.com CNAME .
 t8bet.com CNAME .
 *.t8bet.com CNAME .
-t8pp.com CNAME .
-*.t8pp.com CNAME .
 ta777b.com CNAME .
 *.ta777b.com CNAME .
 ta777d.com CNAME .
@@ -72309,8 +72311,6 @@ vegasfantasycasino.com CNAME .
 *.vegasfantasycasino.com CNAME .
 vegasgems.com CNAME .
 *.vegasgems.com CNAME .
-vegashero.com CNAME .
-*.vegashero.com CNAME .
 vegashero1.com CNAME .
 *.vegashero1.com CNAME .
 vegasheroslots.com CNAME .
@@ -81427,6 +81427,8 @@ ktv1bet.ink CNAME .
 *.ktv1bet.ink CNAME .
 maxbetcasino.ink CNAME .
 *.maxbetcasino.ink CNAME .
+maxslotscasino.ink CNAME .
+*.maxslotscasino.ink CNAME .
 mostbet-casinopl2025.ink CNAME .
 *.mostbet-casinopl2025.ink CNAME .
 officialzpokerdom.ink CNAME .
@@ -82835,6 +82837,8 @@ usutotogas1.life CNAME .
 *.usutotogas1.life CNAME .
 villentocasino.life CNAME .
 *.villentocasino.life CNAME .
+vulkan777.life CNAME .
+*.vulkan777.life CNAME .
 w69thai.life CNAME .
 *.w69thai.life CNAME .
 wargaq7.life CNAME .
@@ -86811,6 +86815,8 @@ chipstars-casino.net CNAME .
 *.chipstars-casino.net CNAME .
 choctaw-casino.net CNAME .
 *.choctaw-casino.net CNAME .
+choi789.net CNAME .
+*.choi789.net CNAME .
 chookdee777.net CNAME .
 *.chookdee777.net CNAME .
 chumba-casino-login.net CNAME .
@@ -97623,8 +97629,6 @@ poker88idr.org CNAME .
 *.poker88idr.org CNAME .
 pokeraz.org CNAME .
 *.pokeraz.org CNAME .
-pokerbankrolls.org CNAME .
-*.pokerbankrolls.org CNAME .
 pokerdom-casino-ru.org CNAME .
 *.pokerdom-casino-ru.org CNAME .
 pokerdom-kz.org CNAME .
@@ -123429,6 +123433,10 @@ luck99.xn--tckwe CNAME .
 *.1xbet-zika.xyz CNAME .
 1xcasino-1xbet.xyz CNAME .
 *.1xcasino-1xbet.xyz CNAME .
+1xslot6.xyz CNAME .
+*.1xslot6.xyz CNAME .
+1xslot7.xyz CNAME .
+*.1xslot7.xyz CNAME .
 1xslots-play.xyz CNAME .
 *.1xslots-play.xyz CNAME .
 1xslots-slot.xyz CNAME .
