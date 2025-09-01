@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756743720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756757400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Sep 2025 16:22 UTC
-; Version: 2025.0901.1622.18
+; Last modified: 01 Sep 2025 20:10 UTC
+; Version: 2025.0901.2010.56
 ; Syntax: RPZ
-; Number of entries: 134638
+; Number of entries: 134614
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -8269,8 +8269,6 @@ aldo.casino CNAME .
 *.aldo.casino CNAME .
 alexander-no.casino CNAME .
 *.alexander-no.casino CNAME .
-alfobet.casino CNAME .
-*.alfobet.casino CNAME .
 allslotsonline.casino CNAME .
 *.allslotsonline.casino CNAME .
 allwyn.casino CNAME .
@@ -8375,8 +8373,6 @@ arkada5005.casino CNAME .
 *.arkada5005.casino CNAME .
 arkada505.casino CNAME .
 *.arkada505.casino CNAME .
-arkada576.casino CNAME .
-*.arkada576.casino CNAME .
 arkada581.casino CNAME .
 *.arkada581.casino CNAME .
 arkada61.casino CNAME .
@@ -28175,8 +28171,6 @@ akunokyouten.com CNAME .
 *.akunokyouten.com CNAME .
 akuratrbslot88.com CNAME .
 *.akuratrbslot88.com CNAME .
-al-fnaan.com CNAME .
-*.al-fnaan.com CNAME .
 aladdinsgoldcasino.com CNAME .
 *.aladdinsgoldcasino.com CNAME .
 aladdinslots.com CNAME .
@@ -28337,8 +28331,6 @@ allcasinosapp.com CNAME .
 *.allcasinosapp.com CNAME .
 allegres.com CNAME .
 *.allegres.com CNAME .
-allenhamed.com CNAME .
-*.allenhamed.com CNAME .
 allforexbonus.com CNAME .
 *.allforexbonus.com CNAME .
 allgames365.com CNAME .
@@ -28527,8 +28519,6 @@ ambpokerclub.com CNAME .
 *.ambpokerclub.com CNAME .
 ambrosine.com CNAME .
 *.ambrosine.com CNAME .
-ambxcasino.com CNAME .
-*.ambxcasino.com CNAME .
 amcleanbookmakers.com CNAME .
 *.amcleanbookmakers.com CNAME .
 amcolourher.com CNAME .
@@ -28663,8 +28653,6 @@ androvepokertables.com CNAME .
 *.androvepokertables.com CNAME .
 anemoncasino261.com CNAME .
 *.anemoncasino261.com CNAME .
-angelslots88.com CNAME .
-*.angelslots88.com CNAME .
 angkaagenolx.com CNAME .
 *.angkaagenolx.com CNAME .
 angkabet88911.com CNAME .
@@ -28709,8 +28697,6 @@ anonovopg.com CNAME .
 *.anonovopg.com CNAME .
 anonymous-casino.com CNAME .
 *.anonymous-casino.com CNAME .
-anotherwomanbyrose.com CNAME .
-*.anotherwomanbyrose.com CNAME .
 anthonysofskippack.com CNAME .
 *.anthonysofskippack.com CNAME .
 antiqueslotsc.com CNAME .
@@ -28777,8 +28763,6 @@ apkpinup.com CNAME .
 *.apkpinup.com CNAME .
 apkslots777.com CNAME .
 *.apkslots777.com CNAME .
-apktongtoto.com CNAME .
-*.apktongtoto.com CNAME .
 apl-poker.com CNAME .
 *.apl-poker.com CNAME .
 aplaycasino.com CNAME .
@@ -85323,8 +85307,6 @@ allinbet-casino.net CNAME .
 *.allinbet-casino.net CNAME .
 almsdar.net CNAME .
 *.almsdar.net CNAME .
-alphaandomegadrivingschool.net CNAME .
-*.alphaandomegadrivingschool.net CNAME .
 altanaya.net CNAME .
 *.altanaya.net CNAME .
 amonbet-casino.net CNAME .
@@ -90723,8 +90705,6 @@ alfabetslot.online CNAME .
 *.alfabetslot.online CNAME .
 alienpoker789.online CNAME .
 *.alienpoker789.online CNAME .
-allrightcasino17.online CNAME .
-*.allrightcasino17.online CNAME .
 alpenslots.online CNAME .
 *.alpenslots.online CNAME .
 alternativ-betiniacasino.online CNAME .
@@ -111091,10 +111071,6 @@ amp-7slots-star.top CNAME .
 *.amp-7slots-star.top CNAME .
 amp-7slots-top.top CNAME .
 *.amp-7slots-top.top CNAME .
-amp-casino-ru.top CNAME .
-*.amp-casino-ru.top CNAME .
-amp-ru-casino.top CNAME .
-*.amp-ru-casino.top CNAME .
 amp-ru-pokerdom.top CNAME .
 *.amp-ru-pokerdom.top CNAME .
 arkada-casino-aku.top CNAME .

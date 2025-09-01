@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756743720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756757460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Sep 2025 16:22 UTC
-; Version: 2025.0901.1622.48
+; Last modified: 01 Sep 2025 20:11 UTC
+; Version: 2025.0901.2011.27
 ; Syntax: RPZ
-; Number of entries: 21820
+; Number of entries: 21808
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2727,8 +2727,6 @@ apkdone.com CNAME .
 *.apkdone.com CNAME .
 apkfuture.com CNAME .
 *.apkfuture.com CNAME .
-apkged.com CNAME .
-*.apkged.com CNAME .
 apkgw.com CNAME .
 *.apkgw.com CNAME .
 apkhouse.com CNAME .
@@ -2763,8 +2761,6 @@ apkmodgo.com CNAME .
 *.apkmodgo.com CNAME .
 apkmody.com CNAME .
 *.apkmody.com CNAME .
-apkmolo.com CNAME .
-*.apkmolo.com CNAME .
 apkneom.com CNAME .
 *.apkneom.com CNAME .
 apkpanda.com CNAME .
@@ -14871,8 +14867,6 @@ animetosho.org CNAME .
 *.animetosho.org CNAME .
 animeyume.org CNAME .
 *.animeyume.org CNAME .
-animez.org CNAME .
-*.animez.org CNAME .
 anistar.org CNAME .
 *.anistar.org CNAME .
 annas-archive.org CNAME .
@@ -18537,8 +18531,6 @@ vegamovies.spa CNAME .
 *.vegamovies.spa CNAME .
 1soft.space CNAME .
 *.1soft.space CNAME .
-allevertakstream.space CNAME .
-*.allevertakstream.space CNAME .
 bananas.space CNAME .
 *.bananas.space CNAME .
 best4stremio.space CNAME .
@@ -19061,8 +19053,6 @@ animixplay.to CNAME .
 *.animixplay.to CNAME .
 aniwatchtv.to CNAME .
 *.aniwatchtv.to CNAME .
-aniwave.to CNAME .
-*.aniwave.to CNAME .
 aniworld.to CNAME .
 *.aniworld.to CNAME .
 anix.to CNAME .
@@ -19863,8 +19853,6 @@ animebytes.tv CNAME .
 *.animebytes.tv CNAME .
 animefreak.tv CNAME .
 *.animefreak.tv CNAME .
-animeid.tv CNAME .
-*.animeid.tv CNAME .
 animekisa.tv CNAME .
 *.animekisa.tv CNAME .
 animeland.tv CNAME .

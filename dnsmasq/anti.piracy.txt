@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Sep 2025 16:22 UTC
-# Version: 2025.0901.1622.48
+# Last modified: 01 Sep 2025 20:11 UTC
+# Version: 2025.0901.2011.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10910
+# Number of entries: 10904
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -520,7 +520,6 @@ local=/alldj.org/
 local=/alleenretail.org/
 local=/allesanddro.de/
 local=/allesender.de/
-local=/allevertakstream.space/
 local=/allfon.net/
 local=/allfreeapk.com/
 local=/allfreesoftware.org/
@@ -764,7 +763,6 @@ local=/animeheaven.ru/
 local=/animeholics.org/
 local=/animehub.ac/
 local=/animeid.cc/
-local=/animeid.tv/
 local=/animekai.bz/
 local=/animekai.to/
 local=/animekaizoku.com/
@@ -826,7 +824,6 @@ local=/animexin.dev/
 local=/animexx.de/
 local=/animeyt.moe/
 local=/animeyume.org/
-local=/animez.org/
 local=/animezia.com/
 local=/animixplay.com/
 local=/animixplay.to/
@@ -840,7 +837,6 @@ local=/anistar.org/
 local=/aniwatch.me/
 local=/aniwatcher.com/
 local=/aniwatchtv.to/
-local=/aniwave.to/
 local=/aniworld.to/
 local=/anix.cc/
 local=/anix.to/
@@ -886,7 +882,6 @@ local=/apkdlmod.com/
 local=/apkdone.com/
 local=/apkfolks.io/
 local=/apkfuture.com/
-local=/apkged.com/
 local=/apkgod.net/
 local=/apkgw.com/
 local=/apkhome.io/
@@ -911,7 +906,6 @@ local=/apkmodget.com/
 local=/apkmodgo.com/
 local=/apkmody.com/
 local=/apkmody.mobi/
-local=/apkmolo.com/
 local=/apkneom.com/
 local=/apkpanda.com/
 local=/apkpapi.com/
