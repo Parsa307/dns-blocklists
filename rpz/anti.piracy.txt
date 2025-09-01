@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756699140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756715220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Sep 2025 03:59 UTC
-; Version: 2025.0901.0359.02
+; Last modified: 01 Sep 2025 08:27 UTC
+; Version: 2025.0901.0827.16
 ; Syntax: RPZ
-; Number of entries: 21822
+; Number of entries: 21824
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1979,8 +1979,6 @@ torrents-nn.cn CNAME .
 *.torrents-nn.cn CNAME .
 123moviehub.co CNAME .
 *.123moviehub.co CNAME .
-123moviesto.co CNAME .
-*.123moviesto.co CNAME .
 allmoviesforyou.co CNAME .
 *.allmoviesforyou.co CNAME .
 alltorrents.co CNAME .
@@ -8849,6 +8847,8 @@ kinox.fit CNAME .
 *.kinox.fit CNAME .
 pelisflix20.fit CNAME .
 *.pelisflix20.fit CNAME .
+videq.fit CNAME .
+*.videq.fit CNAME .
 vidoy.fit CNAME .
 *.vidoy.fit CNAME .
 altadefinizione.fitness CNAME .
@@ -18435,6 +18435,8 @@ videqapp.site CNAME .
 *.videqapp.site CNAME .
 viedeyz.site CNAME .
 *.viedeyz.site CNAME .
+vipdeq.site CNAME .
+*.vipdeq.site CNAME .
 vkstream.site CNAME .
 *.vkstream.site CNAME .
 watchstream.site CNAME .

@@ -63,3 +63,18 @@ www3.doubleclick.net
 # Breaks on-demand videos of Mediaset programs from smart TVs
 # Because it is a disguised, popular CNAME tracker, it is not unblocked in the aggressive lists.
 mediasetitalia01.wt-eu02.net
+
+# Possible fix for the data octopus Tiktok: 
+#  - You can't follow anyone
+#  - Random content doesn't load
+#  - Profiles remains empty
+#  - The app shows a network error
+#  - The same videos are often suggested
+# These errors are not reproducible and occur very rarely.
+# This Tiktoktupus app is the absolute privacy plague!
+# The domains will remain blocked in the native and aggressive lists for the time being.
+log*-applog*.tiktok*.*
+log*-checkout*.tiktok*.*
+log*-normal*.tiktok*.*
+log*-platform*.tiktok*.*
+log*-tmp*.tiktok*.*

@@ -1,5 +1,11 @@
 # Domains to be added only to the pro, pro++ and ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/7146
+open.xueqiu.com
+qmas.xueqiu.com
+umas.xueqiu.com
+tracking.xueqiu.com
+
 # https://github.com/hagezi/dns-blocklists/issues/7090
 attr-logs.s3.us-west-2.amazonaws.com
 

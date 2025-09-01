@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Aug 2025 23:15 UTC
-# Version: 2025.0829.2315.58
+# Last modified: 01 Sep 2025 07:35 UTC
+# Version: 2025.0901.0735.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 324
+# Number of entries: 361
 #
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -49,6 +49,12 @@ local=/xlog.byteoversea.com/
 local=/xlog-o.byteoversea.com/
 local=/xlog-va.byteoversea.com/
 local=/xlog-va-useast2a.byteoversea.com/
+local=/tnc-boot.capcutapi.com/
+local=/tnc-sg.capcutapi.com/
+local=/tnc-va.capcutapi.com/
+local=/tnc-va-us-looki.capcutapi.com/
+local=/tnc16-normal-us-ttp.capcutapi.us/
+local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net/
 local=/abtest-ch.snssdk.com/
 local=/analytics.snssdk.com/
 local=/applog.snssdk.com/
@@ -288,6 +294,35 @@ local=/rtlog58-normal-alisg.tiktokv.com/
 local=/rtlog58-normal-useast1a.tiktokv.com/
 local=/rtlog58-normal-useast2a.tiktokv.com/
 local=/rtlog58-normal-ycru.tiktokv.com/
+local=/tnc-boot.tiktokv.com/
+local=/tnc0-normal-my.tiktokv.com/
+local=/tnc0-normal-sg1.tiktokv.com/
+local=/tnc0-normal-useast1a.tiktokv.com/
+local=/tnc100-alisg.tiktokv.com/
+local=/tnc100-my.tiktokv.com/
+local=/tnc100-useast1a.tiktokv.com/
+local=/tnc100-useast2a.tiktokv.com/
+local=/tnc16-normal-ie.tiktokv.eu/
+local=/tnc16-normal-no1a.tiktokv.eu/
+local=/tnc16-normal-useast5.tiktokv.us/
+local=/tnc16-normal-useast8.tiktokv.us/
+local=/tnc16-normal-useastred.tiktokv.eu/
+local=/tnc16-normal-ycru.tiktokv.com/
+local=/tnc16-normal-zr-alisg.tiktokv.com/
+local=/tnc16-normal-zr-useast1a.tiktokv.com/
+local=/tnc16-platform-alisg.tiktokv.com/
+local=/tnc16-platform-my.tiktokv.com/
+local=/tnc16-platform-useast1a.tiktokv.com/
+local=/tnc16-platform-useast2a.tiktokv.com/
+local=/tnc19-normal-ie.tiktokv.eu/
+local=/tnc19-normal-no1a.tiktokv.eu/
+local=/tnc19-normal-useast5.tiktokv.us/
+local=/tnc19-normal-useast8.tiktokv.us/
+local=/tnc31-normal-zr-useast1a.tiktokv.com/
+local=/tnc31-platform-alisg.tiktokv.com/
+local=/tnc31-platform-useast1a.tiktokv.com/
+local=/tnc31-platform-useast2a.tiktokv.com/
+local=/tnc58-platform-ycru.tiktokv.com/
 local=/ad-format.us.tiktokv.com/
 local=/ad-format-ttp2.us.tiktokv.com/
 local=/ad-instantpage.us.tiktokv.com/
@@ -308,6 +343,8 @@ local=/rtlog16-normal-useast8.us.tiktokv.com/
 local=/rtlog16-platform-useast5.us.tiktokv.com/
 local=/rtlog19-applog-useast5.us.tiktokv.com/
 local=/rtlog19-platform-useast5.us.tiktokv.com/
+local=/tnc16-normal-useast8.us.tiktokv.com/
+local=/tnc16-platform-useast5.us.tiktokv.com/
 local=/xlog16-normal-useast8.us.tiktokv.com/
 local=/xlog16-platform-useast5.us.tiktokv.com/
 local=/xlog.tiktokv.com/
