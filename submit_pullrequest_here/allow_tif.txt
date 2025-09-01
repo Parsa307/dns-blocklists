@@ -1,7 +1,7 @@
 # Domains to be removed from the tif and tif medium/mini list.
 
 # Genuine Streaming Site (Netflix look-a-like...)
-net2025.cc
+*.net2025.cc
 
 # https://github.com/hagezi/dns-blocklists/issues/6794
 analytics.community-scripts.org
