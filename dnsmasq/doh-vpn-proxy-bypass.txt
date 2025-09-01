@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Aug 2025 16:15 UTC
-# Version: 2025.0831.1615.11
+# Last modified: 01 Sep 2025 04:03 UTC
+# Version: 2025.0901.0403.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5207
+# Number of entries: 5218
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -103,6 +103,7 @@ local=/3proxy.de/
 local=/dns.3wv.de/
 local=/3x.nz/
 local=/dns.4-the.win/
+local=/chicken2.404.mn/
 local=/notfound-google.404.mn/
 local=/doh.42l.fr/
 local=/bannana.web-doge.42web.io/
@@ -236,6 +237,7 @@ local=/dns.almir1904.eu/
 local=/alohabrowser.com/
 local=/alphabr.online/
 local=/alphabrowser.xyz/
+local=/dreamofbonky.alptechflow.com/
 local=/cuh.altimiras.cl/
 local=/adguard.alu.dog/
 local=/aluu.xyz/
@@ -359,6 +361,7 @@ local=/awabo.com/
 local=/award-vpn.com/
 local=/awebproxy.com/
 local=/awhoer.net/
+local=/boi.ax1951.com/
 local=/axaxa.fun/
 local=/learn.azimei.cn/
 local=/teachers.azimei.cn/
@@ -949,6 +952,7 @@ local=/contentabc.com/
 local=/dns.controld.com/
 local=/freedns.controld.com/
 local=/dwerk.conyser.cl/
+local=/rc-1207.conyser.cl/
 local=/cool-proxy.net/
 local=/study.paper.coolcomputerguy.com/
 local=/coolproxy.org/
@@ -999,6 +1003,7 @@ local=/croxyproxy.vip/
 local=/croxyproxys.com/
 local=/croxyproxyvpn.com/
 local=/crushus.com/
+local=/kingofthepirates.cryodome.com/
 local=/power.cryodome.com/
 local=/crypticvpn.com/
 local=/crypto.sx/
@@ -2317,6 +2322,7 @@ local=/classroom.google.lang.hm/
 local=/shop.lang.hm/
 local=/lantern.io/
 local=/bensmells.laoxz.cn/
+local=/drive.google.com.laoxz.cn/
 local=/ik-heet-henk.laptopy.nl/
 local=/largero.com/
 local=/dns.lars-lehmann.net/
@@ -2523,6 +2529,7 @@ local=/doh.micronets.in/
 local=/microvpn.com/
 local=/www-proxy.migastep.com/
 local=/dns.mihanentalpo.me/
+local=/drive.google.com.mikata.ru/
 local=/dns.mikeliu.org/
 local=/mikezhang.xyz/
 local=/dns.milkpie.one/
@@ -2648,7 +2655,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -2723,6 +2729,7 @@ local=/netscop.net/
 local=/netsneak.com/
 local=/netvpn.us/
 local=/dns.netvpn.net/
+local=/gym.clas.swork.networkindia.com/
 local=/kywantsmyautographonfood.networkoutpost.com/
 local=/cube.neubsi.at/
 local=/dns.neubsi.at/
@@ -3053,6 +3060,7 @@ local=/piraproxy.org/
 local=/piratebayproxy.co/
 local=/education.pitlobra.ro/
 local=/study.pitlobra.ro/
+local=/calitech.pits.cl/
 local=/watch-you.now.pits.cl/
 local=/pixelprivacy.com/
 local=/pixolium.com/
@@ -3368,6 +3376,7 @@ local=/dns12.quad9.net/
 local=/dns13.quad9.net/
 local=/dns9.quad9.net/
 local=/2.dnscrypt-cert.quad9.net/
+local=/notsuchagoodideabro.quality-electronics.com/
 local=/quic.lol/
 local=/quickbypass.com/
 local=/doh.quickline.ch/
@@ -3605,6 +3614,7 @@ local=/serverhoya.com/
 local=/karvneti.servernux.com/
 local=/nirbytesproxyxhshdow.servernux.com/
 local=/nirbytesxshadow.servernux.com/
+local=/sixseven41.servernux.com/
 local=/serverssh.net/
 local=/assets-prod-a230.s3.serverwild.com/
 local=/pod.servicegrup.ro/
@@ -5201,6 +5211,7 @@ local=/zerotunnel.com/
 local=/zerovpn-app.com/
 local=/zexusdigital.online/
 local=/dns.zfsystem.tech/
+local=/oh.zjhmz.cn/
 local=/doh.zknt.org/
 local=/zonevpn.com/
 local=/zoogvpn.com/

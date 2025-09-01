@@ -267,6 +267,13 @@
       }
     },
     {
+      "PK": "arc.pub",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "arduino.cc",
       "action": {
         "do": 1,
