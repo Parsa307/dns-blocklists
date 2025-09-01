@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Sep 2025 08:32 UTC
-# Version: 2025.0901.0832.12
+# Last modified: 01 Sep 2025 16:27 UTC
+# Version: 2025.0901.1627.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1637
+# Number of entries: 1639
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -645,8 +645,10 @@
 0.0.0.0 easyhandshake.com
 0.0.0.0 dns.eddi.net
 0.0.0.0 doh.eddi.net
+0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -1479,7 +1481,6 @@
 0.0.0.0 dns.t-ipnet.de
 0.0.0.0 dns.t53.de
 0.0.0.0 httpdns.danuoyi.tbcache.com
-0.0.0.0 tecdrive.site
 0.0.0.0 dns1.techeasy.org
 0.0.0.0 vpn.technicule.info
 0.0.0.0 doh.technochat.in
@@ -1513,6 +1514,7 @@
 0.0.0.0 dns.tipsy.coffee
 0.0.0.0 tk31z.com
 0.0.0.0 dns.tls-data.de
+0.0.0.0 tlz.asia
 0.0.0.0 d.toairs.com
 0.0.0.0 dot.tooli.ca
 0.0.0.0 nsc.torgues.net

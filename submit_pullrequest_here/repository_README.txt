@@ -38,8 +38,8 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 22. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
 23. [Online DNS Services](#dnsservices)
 24. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
-25. [Sources](sources.md)
-26. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
+25. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
+26. [Sources](sources.md)
 
 ### :books: **Multi - Cleans the Internet and protects your privacy!** <a name="overview"></a>
 

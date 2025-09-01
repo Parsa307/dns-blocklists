@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Sep 2025 08:32 UTC
-# Version: 2025.0901.0832.12
+# Last modified: 01 Sep 2025 16:27 UTC
+# Version: 2025.0901.1627.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1477
+# Number of entries: 1479
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -532,8 +532,10 @@ local=/adguard.easez.net/
 local=/easyhandshake.com/
 local=/dns.eddi.net/
 local=/doh.eddi.net/
+local=/dns.edgeburnmedia.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -1333,7 +1335,6 @@ local=/dns.szpadel.ovh/
 local=/dns.t-ipnet.de/
 local=/dns.t53.de/
 local=/httpdns.danuoyi.tbcache.com/
-local=/tecdrive.site/
 local=/dns1.techeasy.org/
 local=/vpn.technicule.info/
 local=/doh.technochat.in/
@@ -1367,6 +1368,7 @@ local=/adb.timnichollsphotography.com/
 local=/dns.tipsy.coffee/
 local=/tk31z.com/
 local=/dns.tls-data.de/
+local=/tlz.asia/
 local=/d.toairs.com/
 local=/dot.tooli.ca/
 local=/nsc.torgues.net/
