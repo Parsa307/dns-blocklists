@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 27 Aug 2025 02:55 UTC
-! Version: 2025.0827.0255.28
+! Last modified: 02 Sep 2025 16:15 UTC
+! Version: 2025.0902.1615.38
 ! Syntax: AdBlock
-! Number of entries: 362
+! Number of entries: 361
 !
 ||traffic-media.co.uk^
 ||mistat.india.xiaomi.com.edgesuite.net^
@@ -48,7 +48,6 @@
 ||migcreport.g.mi.com^
 ||mis.g.mi.com^
 ||in.tv.global.mi.com^
-||hd.mi.com^
 ||a.hl.mi.com^
 ||idm.iot.mi.com^
 ||api.jr.mi.com^

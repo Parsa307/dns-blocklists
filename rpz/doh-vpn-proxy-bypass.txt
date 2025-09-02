@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756802040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756830480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Sep 2025 08:34 UTC
-; Version: 2025.0902.0834.35
+; Last modified: 02 Sep 2025 16:28 UTC
+; Version: 2025.0902.1628.04
 ; Syntax: RPZ
-; Number of entries: 9606
+; Number of entries: 9582
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1516,8 +1516,6 @@ coverproxy.com CNAME .
 *.coverproxy.com CNAME .
 covertproxy.com CNAME .
 *.covertproxy.com CNAME .
-donotblockthisschool.crabdance.com CNAME .
-*.donotblockthisschool.crabdance.com CNAME .
 crawlbase.com CNAME .
 *.crawlbase.com CNAME .
 createssh.com CNAME .
@@ -1538,8 +1536,6 @@ crushus.com CNAME .
 *.crushus.com CNAME .
 kingofthepirates.cryodome.com CNAME .
 *.kingofthepirates.cryodome.com CNAME .
-power.cryodome.com CNAME .
-*.power.cryodome.com CNAME .
 crypticvpn.com CNAME .
 *.crypticvpn.com CNAME .
 dns.cryptomize.com CNAME .
@@ -2672,8 +2668,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -4822,8 +4816,6 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
-cynntex.fun CNAME .
-*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -6468,10 +6460,6 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
-sagamihara.dynv6.net CNAME .
-*.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
 *.t9rke-5zq1m.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
@@ -7398,8 +7386,6 @@ alphabr.online CNAME .
 *.alphabr.online CNAME .
 cbentertainment.online CNAME .
 *.cbentertainment.online CNAME .
-desbloquearredes.online CNAME .
-*.desbloquearredes.online CNAME .
 my.englishpapers.online CNAME .
 *.my.englishpapers.online CNAME .
 reading.englishpapers.online CNAME .
@@ -7586,14 +7572,8 @@ why.is.it.my.fault.de-a.org CNAME .
 *.why.is.it.my.fault.de-a.org CNAME .
 epichistory.dearabba.org CNAME .
 *.epichistory.dearabba.org CNAME .
-dev.dietpc.org CNAME .
-*.dev.dietpc.org CNAME .
-help.dietpc.org CNAME .
-*.help.dietpc.org CNAME .
 ojisama.dietpc.org CNAME .
 *.ojisama.dietpc.org CNAME .
-stats.dietpc.org CNAME .
-*.stats.dietpc.org CNAME .
 diglet.org CNAME .
 *.diglet.org CNAME .
 dns8.org CNAME .
@@ -7626,8 +7606,6 @@ tor.eff.org CNAME .
 *.tor.eff.org CNAME .
 elgatobypasses.org CNAME .
 *.elgatobypasses.org CNAME .
-mylo.estic.org CNAME .
-*.mylo.estic.org CNAME .
 arashi.eu.org CNAME .
 *.arashi.eu.org CNAME .
 armorrush.eu.org CNAME .
@@ -8896,8 +8874,6 @@ dns2.cbio.top CNAME .
 *.dns2.cbio.top CNAME .
 dns.chromeina.top CNAME .
 *.dns.chromeina.top CNAME .
-danhcan.top CNAME .
-*.danhcan.top CNAME .
 freewillisaflaw.ddnsfree.top CNAME .
 *.freewillisaflaw.ddnsfree.top CNAME .
 droyd.top CNAME .

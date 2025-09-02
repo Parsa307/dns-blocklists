@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756801560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756829940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Sep 2025 08:26 UTC
-; Version: 2025.0902.0826.40
+; Last modified: 02 Sep 2025 16:19 UTC
+; Version: 2025.0902.1619.58
 ; Syntax: RPZ
-; Number of entries: 21800
+; Number of entries: 21782
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -187,8 +187,6 @@ dfast.app CNAME .
 *.dfast.app CNAME .
 dramaqu.app CNAME .
 *.dramaqu.app CNAME .
-dunia21.app CNAME .
-*.dunia21.app CNAME .
 eurostreaming.app CNAME .
 *.eurostreaming.app CNAME .
 fdownload.app CNAME .
@@ -3511,8 +3509,6 @@ crackedme.com CNAME .
 *.crackedme.com CNAME .
 crackedmine.com CNAME .
 *.crackedmine.com CNAME .
-crackedreal.com CNAME .
-*.crackedreal.com CNAME .
 crackedversion.com CNAME .
 *.crackedversion.com CNAME .
 crackfind.com CNAME .
@@ -9473,8 +9469,6 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
-tracker-zhuqiy.dgj055.icu CNAME .
-*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
@@ -12071,8 +12065,6 @@ altadefinizione.mov CNAME .
 *.altadefinizione.mov CNAME .
 dood.mov CNAME .
 *.dood.mov CNAME .
-dunia21.mov CNAME .
-*.dunia21.mov CNAME .
 mkvanime.mov CNAME .
 *.mkvanime.mov CNAME .
 pirate-proxy.mov CNAME .
@@ -14557,8 +14549,6 @@ wawacity.one CNAME .
 *.0123movie.onl CNAME .
 dood.onl CNAME .
 *.dood.onl CNAME .
-dunia21.onl CNAME .
-*.dunia21.onl CNAME .
 egydead.onl CNAME .
 *.egydead.onl CNAME .
 guardaserie.onl CNAME .
@@ -16619,8 +16609,6 @@ ilgeniodellostreaming.pictures CNAME .
 *.ilgeniodellostreaming.pictures CNAME .
 altadefinizione.pink CNAME .
 *.altadefinizione.pink CNAME .
-dood.pink CNAME .
-*.dood.pink CNAME .
 eurostreaming.pink CNAME .
 *.eurostreaming.pink CNAME .
 guardaserie.pink CNAME .
@@ -17253,8 +17241,6 @@ vegamovies.report CNAME .
 *.vegamovies.report CNAME .
 cineblog01.rest CNAME .
 *.cineblog01.rest CNAME .
-dood.rest CNAME .
-*.dood.rest CNAME .
 nocensor.rest CNAME .
 *.nocensor.rest CNAME .
 streamingcommunity.rest CNAME .
@@ -20895,8 +20881,6 @@ streamingcommunity.vote CNAME .
 *.streamingcommunity.vote CNAME .
 vegamovies.vote CNAME .
 *.vegamovies.vote CNAME .
-eurostreaming.voto CNAME .
-*.eurostreaming.voto CNAME .
 ilgeniodellostreaming.voto CNAME .
 *.ilgeniodellostreaming.voto CNAME .
 vegamovies.voto CNAME .
@@ -21555,8 +21539,6 @@ ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
-speedtest.iperson.xyz CNAME .
-*.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .

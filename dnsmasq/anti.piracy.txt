@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Sep 2025 08:26 UTC
-# Version: 2025.0902.0826.40
+# Last modified: 02 Sep 2025 16:19 UTC
+# Version: 2025.0902.1619.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10900
+# Number of entries: 10891
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2174,7 +2174,6 @@ local=/crackedfully.com/
 local=/crackedme.com/
 local=/crackedmine.com/
 local=/crackedpc.org/
-local=/crackedreal.com/
 local=/crackedstream.tv/
 local=/crackedversion.com/
 local=/crackfind.com/
@@ -2489,7 +2488,6 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
-local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -2659,13 +2657,11 @@ local=/dood.onl/
 local=/dood.page/
 local=/dood.pet/
 local=/dood.pics/
-local=/dood.pink/
 local=/dood.plus/
 local=/dood.pm/
 local=/dood.pro/
 local=/dood.qpon/
 local=/dood.re/
-local=/dood.rest/
 local=/dood.rip/
 local=/dood.ro/
 local=/dood.sbs/
@@ -2855,15 +2851,12 @@ local=/tr4ck3r.duckdns.org/
 local=/tracker.ducks.party/
 local=/duckwad.net/
 local=/dummipedia.org/
-local=/dunia21.app/
 local=/dunia21.bid/
 local=/dunia21.cc/
 local=/dunia21.club/
 local=/dunia21.download/
 local=/dunia21.me/
-local=/dunia21.mov/
 local=/dunia21.net/
-local=/dunia21.onl/
 local=/dunia21.pw/
 local=/dunia21.social/
 local=/dup3.me/
@@ -3172,7 +3165,6 @@ local=/eurostreaming.vg/
 local=/eurostreaming.vip/
 local=/eurostreaming.vision/
 local=/eurostreaming.vote/
-local=/eurostreaming.voto/
 local=/eurostreaming.voyage/
 local=/eurostreaming.website/
 local=/eurostreaming.ws/
@@ -4739,7 +4731,6 @@ local=/ns349743.ip-91-121-106.eu/
 local=/ipacrack.com/
 local=/ipalibrary.me/
 local=/ipboot.xyz/
-local=/speedtest.iperson.xyz/
 local=/tracker.iperson.xyz/
 local=/tracker.ipfsscan.io/
 local=/iphonebooks.info/

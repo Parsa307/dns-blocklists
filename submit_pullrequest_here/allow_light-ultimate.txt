@@ -1,6 +1,12 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/7205
+captcha.hd.mi.com
+
+# https://github.com/hagezi/dns-blocklists/issues/7201
+pro-1w-dataaggregator.onelouder.com
+
 # https://github.com/hagezi/dns-blocklists/issues/7174
 banner-bc2.cartoes.itau.com.br
 banner1.itau.com.br

@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Sep 2025 06:49 UTC
-# Version: 2025.0902.0649.06
+# Last modified: 02 Sep 2025 15:27 UTC
+# Version: 2025.0902.1527.35
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6115
+# Number of entries: 6130
 #
 *.0.gp
 *.00m.in
@@ -1174,6 +1174,7 @@
 *.shortlinks.co.uk
 *.shorturls.co.uk
 *.shrnk.co.uk
+*.smarturl.co.uk
 *.trimlink.co.uk
 *.url.co.uk
 *.urlshortener.co.uk
@@ -1279,12 +1280,14 @@
 *.cute.link
 *.cuterurlha.xyz
 *.cuteurl.co
+*.cuteurl.com
 *.cutfy.co
 *.cutit.bid
 *.cutle.co
 *.cutlink.now
 *.cutlinker.com
 *.cutlly.com
+*.cutqr.com
 *.cuts.al
 *.cuts.kr
 *.cuts2.com
@@ -1358,7 +1361,6 @@
 *.davisonbarker.pro
 *.track3.davydovlaw.com
 *.db.tt
-*.dbox.lol
 *.dbricks.co
 *.go.dbs.com
 *.dcbspage.org
@@ -1466,7 +1468,6 @@
 *.dow.la
 *.ppt.dpanda.in
 *.dpb.fm
-*.dpb.link
 *.dpba2404.com
 *.dpessm.com
 *.dpmd.ai
@@ -1485,7 +1486,6 @@
 *.drop.tf
 *.droplr.net
 *.dropmylinks.com
-*.drpsnd.io
 *.drte.co
 *.druuz.com
 *.drw.sh
@@ -1499,7 +1499,6 @@
 *.dswurl.de
 *.dtdg.co
 *.dte.bz
-*.dtl.la
 *.dtsx.io
 *.duakale.me
 *.dub.co
@@ -1626,7 +1625,6 @@
 *.envs.sh
 *.epicureanrecipevault.one
 *.epochtim.es
-*.epsi.link
 *.ept.ms
 *.eqix.it
 *.eqrco.de
@@ -2004,6 +2002,7 @@
 *.goo.vc
 *.goo-gl.me
 *.goo-id.com
+*.goo2.pro
 *.goo2url.com
 *.google-139382.com
 *.google-photo.live
@@ -2401,6 +2400,7 @@
 *.ix.sk
 *.iyc.life
 *.izi.su
+*.izyurl.com
 *.j.gs
 *.j.mp
 *.j-it.su
@@ -2628,6 +2628,7 @@
 *.l00p.eu
 *.l138.co
 *.l1k.ir
+*.l1nx.ai
 *.l24.im
 *.l2f.ca
 *.l338.co
@@ -2835,6 +2836,7 @@
 *.linkopener.co
 *.linkotw.live
 *.linkpays.in
+*.linkpool.us
 *.linkpop.com
 *.linkpug4d.com
 *.linkqb.com
@@ -2846,6 +2848,7 @@
 *.links2.me
 *.links4money.com
 *.linksable.to
+*.linksdr.com
 *.linksehat.net
 *.linksfire.net
 *.linkshare.pro
@@ -3036,6 +3039,7 @@
 *.lz.com
 *.lzd.co
 *.lzd.page
+*.m.gg
 *.m.me
 *.m-ini.me
 *.m-k.ca
@@ -3336,6 +3340,7 @@
 *.myikoniq.info
 *.mylinkinb.io
 *.mylinks.top
+*.mylinks.tr
 *.mylinksentry.com
 *.mylnks.xyz
 *.mylt.tv
@@ -3484,6 +3489,7 @@
 *.nsfw.in
 *.nst.cx
 *.nswroads.work
+*.ntalij.com
 *.ntap.com
 *.ntck.co
 *.ntlink.co
@@ -3948,6 +3954,7 @@
 *.qutt.me
 *.qutt.us
 *.qvc.co
+*.qxa.me
 *.qxp.cz
 *.qxp.sk
 *.qxxxp.org
@@ -4008,6 +4015,7 @@
 *.rdz.me
 *.reactlink.com
 *.read.bi
+*.readeach.com
 *.readhacker.news
 *.go.rebel.pl
 *.rebelne.ws
@@ -4044,6 +4052,7 @@
 *.ref.so
 *.ref11.top
 *.refini.tv
+*.reformed.link
 *.regmovi.es
 *.s.reinhart1010.id
 *.reive.site
@@ -4332,6 +4341,7 @@
 *.shorkit.com
 *.shorl.com
 *.shorrty.com
+*.short.al
 *.short.bid
 *.short.cc
 *.short.cl
@@ -4418,6 +4428,7 @@
 *.shortio.sk
 *.shortit.me
 *.shortl.net
+*.shortlinc.com
 *.shortlink.is
 *.shortlink.net
 *.shortlink.sbs
@@ -5439,6 +5450,7 @@
 *.urlr.me
 *.urlra.com
 *.urlro.com
+*.urlroot.com
 *.urlroxx.com
 *.urls.by
 *.urls.fr
@@ -5494,6 +5506,7 @@
 *.urlz.com
 *.urlz.fr
 *.urlz.my
+*.urlzam.com
 *.urlzen.com
 *.urlzip.io
 *.urlzs.com
@@ -5638,6 +5651,7 @@
 *.vslinks.com
 *.vt802.us
 *.shorturl.vtcode.vn
+*.vtity.com
 *.vtns.io
 *.vtred.co
 *.vtred.net
@@ -6049,6 +6063,7 @@
 *.zi.ma
 *.zi.pe
 *.ziadi.co
+*.zieud.com
 *.zig.ht
 *.zigilink.com
 *.zik.link
