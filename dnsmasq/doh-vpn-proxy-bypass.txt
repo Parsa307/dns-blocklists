@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Sep 2025 20:17 UTC
-# Version: 2025.0901.2017.17
+# Last modified: 02 Sep 2025 00:18 UTC
+# Version: 2025.0902.0018.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4815
+# Number of entries: 4808
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -339,9 +339,7 @@ local=/atris.cyou/
 local=/dohtrial.att.net/
 local=/stevenisafemboy.auraria.org/
 local=/auto-aufladen.de/
-local=/crazy.autoluc.cl/
 local=/jesusisking.autoluc.cl/
-local=/mrrychrimisg7xv2mlqzp9sd4khjf.autoluc.cl/
 local=/avanquestusa.com/
 local=/vanheim.ff.avast.com/
 local=/vpn-sd.ff.avast.com/
@@ -401,7 +399,6 @@ local=/bootnbo.baselinux.net/
 local=/dogeproxiex.baselinux.net/
 local=/nirbolt.baselinux.net/
 local=/nirbyteproxbolt.baselinux.net/
-local=/nirbytesx.baselinux.net/
 local=/nprxenirbyt.baselinux.net/
 local=/shadownxirby.baselinux.net/
 local=/solmariknein.baselinux.net/
@@ -448,7 +445,6 @@ local=/betternet.co/
 local=/betterproxy.net/
 local=/bettervpn.com/
 local=/bgvpn.com/
-local=/bi-tree.ru/
 local=/bigma.org/
 local=/httpdns.bilivideo.com/
 local=/carverd.bine.me/
@@ -489,7 +485,6 @@ local=/dot-sg.blahdns.com/
 local=/dns.blaumer.dev/
 local=/blewpass.com/
 local=/some.bling.org/
-local=/dogloafs.blinklab.com/
 local=/us1.blissdns.net/
 local=/blocka.net/
 local=/blockaway.net/
@@ -2417,9 +2412,7 @@ local=/bolt.louis-ip.com/
 local=/n5.lsasss.com/
 local=/ltlxvxjjmvhn.me/
 local=/btg.ludopop.cl/
-local=/lukscasino-479-tr.xyz/
 local=/lukscasino-542-tr.xyz/
-local=/lukscasino-929-tr.xyz/
 local=/dns.luma-medien.com/
 local=/lumes.jp/
 local=/luminati.io/

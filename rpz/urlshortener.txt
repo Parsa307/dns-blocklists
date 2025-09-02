@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756747980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756766100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Sep 2025 17:33 UTC
-; Version: 2025.0901.1733.40
+; Last modified: 01 Sep 2025 22:35 UTC
+; Version: 2025.0901.2235.59
 ; Syntax: RPZ
-; Number of entries: 12236
+; Number of entries: 12232
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1382,6 +1382,8 @@ cu7.co CNAME .
 *.cu7.co CNAME .
 cuteurl.co CNAME .
 *.cuteurl.co CNAME .
+cutfy.co CNAME .
+*.cutfy.co CNAME .
 cutle.co CNAME .
 *.cutle.co CNAME .
 cvs.co CNAME .
@@ -2116,8 +2118,6 @@ bitigee.com CNAME .
 *.bitigee.com CNAME .
 bitly.com CNAME .
 *.bitly.com CNAME .
-bitlyli.com CNAME .
-*.bitlyli.com CNAME .
 bitlylinks.com CNAME .
 *.bitlylinks.com CNAME .
 bitlyvi.com CNAME .
@@ -2602,6 +2602,8 @@ hodroffs.com CNAME .
 *.hodroffs.com CNAME .
 hoki22crot.com CNAME .
 *.hoki22crot.com CNAME .
+hooturl.com CNAME .
+*.hooturl.com CNAME .
 hotsexymaids.com CNAME .
 *.hotsexymaids.com CNAME .
 h-pp.hotstar.com CNAME .
@@ -5182,8 +5184,6 @@ tinyurl.hu CNAME .
 *.tinyurl.hu CNAME .
 zsirkacsa.hu CNAME .
 *.zsirkacsa.hu CNAME .
-bitj.icu CNAME .
-*.bitj.icu CNAME .
 linkin.icu CNAME .
 *.linkin.icu CNAME .
 oo0oo.icu CNAME .
@@ -10550,8 +10550,6 @@ abdn.site CNAME .
 *.abdn.site CNAME .
 alturl.site CNAME .
 *.alturl.site CNAME .
-as1ansl0t88.site CNAME .
-*.as1ansl0t88.site CNAME .
 bitlee.site CNAME .
 *.bitlee.site CNAME .
 bprl.site CNAME .
@@ -11944,8 +11942,6 @@ agmd.win CNAME .
 *.agmd.win CNAME .
 akunvip.win CNAME .
 *.akunvip.win CNAME .
-bet200.win CNAME .
-*.bet200.win CNAME .
 cashurl.win CNAME .
 *.cashurl.win CNAME .
 dogelexus.win CNAME .

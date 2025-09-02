@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756757820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756772280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Sep 2025 20:17 UTC
-; Version: 2025.0901.2017.17
+; Last modified: 02 Sep 2025 00:18 UTC
+; Version: 2025.0902.0018.26
 ; Syntax: RPZ
-; Number of entries: 9630
+; Number of entries: 9616
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -630,12 +630,8 @@ search.alemanaactiva.cl CNAME .
 *.search.alemanaactiva.cl CNAME .
 cuh.altimiras.cl CNAME .
 *.cuh.altimiras.cl CNAME .
-crazy.autoluc.cl CNAME .
-*.crazy.autoluc.cl CNAME .
 jesusisking.autoluc.cl CNAME .
 *.jesusisking.autoluc.cl CNAME .
-mrrychrimisg7xv2mlqzp9sd4khjf.autoluc.cl CNAME .
-*.mrrychrimisg7xv2mlqzp9sd4khjf.autoluc.cl CNAME .
 duracell.bulkenergy.cl CNAME .
 *.duracell.bulkenergy.cl CNAME .
 help.cartes.cl CNAME .
@@ -1324,8 +1320,6 @@ dot-sg.blahdns.com CNAME .
 *.dot-sg.blahdns.com CNAME .
 blewpass.com CNAME .
 *.blewpass.com CNAME .
-dogloafs.blinklab.com CNAME .
-*.dogloafs.blinklab.com CNAME .
 blockedsiteaccess.com CNAME .
 *.blockedsiteaccess.com CNAME .
 doh.blockerdns.com CNAME .
@@ -6170,8 +6164,6 @@ nirbolt.baselinux.net CNAME .
 *.nirbolt.baselinux.net CNAME .
 nirbyteproxbolt.baselinux.net CNAME .
 *.nirbyteproxbolt.baselinux.net CNAME .
-nirbytesx.baselinux.net CNAME .
-*.nirbytesx.baselinux.net CNAME .
 nprxenirbyt.baselinux.net CNAME .
 *.nprxenirbyt.baselinux.net CNAME .
 shadownxirby.baselinux.net CNAME .
@@ -8548,8 +8540,6 @@ sybau.alcrb.ru CNAME .
 *.sybau.alcrb.ru CNAME .
 ad.anym0re.ru CNAME .
 *.ad.anym0re.ru CNAME .
-bi-tree.ru CNAME .
-*.bi-tree.ru CNAME .
 ukvpns.blogspot.ru CNAME .
 *.ukvpns.blogspot.ru CNAME .
 comss.ru CNAME .
@@ -9508,12 +9498,8 @@ kx-97795-tr.xyz CNAME .
 *.kx-97795-tr.xyz CNAME .
 ledfordmiddleschool.xyz CNAME .
 *.ledfordmiddleschool.xyz CNAME .
-lukscasino-479-tr.xyz CNAME .
-*.lukscasino-479-tr.xyz CNAME .
 lukscasino-542-tr.xyz CNAME .
 *.lukscasino-542-tr.xyz CNAME .
-lukscasino-929-tr.xyz CNAME .
-*.lukscasino-929-tr.xyz CNAME .
 dns.maolaohei.xyz CNAME .
 *.dns.maolaohei.xyz CNAME .
 maqgie.xyz CNAME .

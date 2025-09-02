@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Sep 2025 20:16 UTC
-# Version: 2025.0901.2016.48
+# Last modified: 02 Sep 2025 00:17 UTC
+# Version: 2025.0902.0017.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1480
+# Number of entries: 1478
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -841,9 +841,7 @@ local=/doh.phdns3.lonet.org/
 local=/doh.phdns4.lonet.org/
 local=/doh.phdns5.lonet.org/
 local=/n5.lsasss.com/
-local=/lukscasino-479-tr.xyz/
 local=/lukscasino-542-tr.xyz/
-local=/lukscasino-929-tr.xyz/
 local=/dns.luma-medien.com/
 local=/orau.lz0724.com/
 local=/addns1.m-it.ro/
