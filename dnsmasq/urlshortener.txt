@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Sep 2025 22:35 UTC
-# Version: 2025.0901.2235.59
+# Last modified: 02 Sep 2025 06:49 UTC
+# Version: 2025.0902.0649.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6116
+# Number of entries: 6115
 #
 local=/0.gp/
 local=/00m.in/
@@ -854,7 +854,6 @@ local=/bolagroup.vip/
 local=/bolagroup.xyz/
 local=/bolahiu.vip/
 local=/bolstr.online/
-local=/bom.one/
 local=/bom.so/
 local=/bom.to/
 local=/bonai.re/

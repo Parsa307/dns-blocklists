@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756771920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756801560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Sep 2025 00:12 UTC
-; Version: 2025.0902.0012.17
+; Last modified: 02 Sep 2025 08:26 UTC
+; Version: 2025.0902.0826.40
 ; Syntax: RPZ
-; Number of entries: 21806
+; Number of entries: 21800
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -175,8 +175,6 @@ aostv.app CNAME .
 *.aostv.app CNAME .
 bitcine.app CNAME .
 *.bitcine.app CNAME .
-buffstreams.app CNAME .
-*.buffstreams.app CNAME .
 cb01.app CNAME .
 *.cb01.app CNAME .
 cineblog01.app CNAME .
@@ -469,8 +467,6 @@ altadefinizione.bargains CNAME .
 *.altadefinizione.bargains CNAME .
 vegamovies.bargains CNAME .
 *.vegamovies.bargains CNAME .
-businesszone.com.bd CNAME .
-*.businesszone.com.bd CNAME .
 carnival.com.bd CNAME .
 *.carnival.com.bd CNAME .
 cloudone.com.bd CNAME .
@@ -1659,8 +1655,6 @@ tracker.cl CNAME .
 *.tracker.cl CNAME .
 vegamovies.cl CNAME .
 *.vegamovies.cl CNAME .
-cb01.cleaning CNAME .
-*.cb01.cleaning CNAME .
 01streaming.click CNAME .
 *.01streaming.click CNAME .
 altadefinizione.click CNAME .
@@ -3433,8 +3427,6 @@ cloudtorrents.com CNAME .
 *.cloudtorrents.com CNAME .
 club-mst3k.com CNAME .
 *.club-mst3k.com CNAME .
-clubecine.com CNAME .
-*.clubecine.com CNAME .
 clubnzb.com CNAME .
 *.clubnzb.com CNAME .
 clubwarez.com CNAME .
@@ -7973,8 +7965,6 @@ guardaserie.community CNAME .
 *.guardaserie.community CNAME .
 vibe.community CNAME .
 *.vibe.community CNAME .
-cb01.construction CNAME .
-*.cb01.construction CNAME .
 cb01.contractors CNAME .
 *.cb01.contractors CNAME .
 dood.contractors CNAME .
@@ -8961,8 +8951,6 @@ animationdigitalnetwork.fr CNAME .
 *.animationdigitalnetwork.fr CNAME .
 benouworldtrip.fr CNAME .
 *.benouworldtrip.fr CNAME .
-bonoov.fr CNAME .
-*.bonoov.fr CNAME .
 tracker.computel.fr CNAME .
 *.tracker.computel.fr CNAME .
 cpasbien-torrents.fr CNAME .
@@ -9485,6 +9473,8 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
+tracker-zhuqiy.dgj055.icu CNAME .
+*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
@@ -9525,6 +9515,8 @@ vidcloud.icu CNAME .
 *.vidcloud.icu CNAME .
 vidclouds.icu CNAME .
 *.vidclouds.icu CNAME .
+videqs.icu CNAME .
+*.videqs.icu CNAME .
 warez-bb.icu CNAME .
 *.warez-bb.icu CNAME .
 altadefinizione.id CNAME .
@@ -11795,6 +11787,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -19095,8 +19089,6 @@ tracker.cinemaz.to CNAME .
 *.tracker.cinemaz.to CNAME .
 comicmafia.to CNAME .
 *.comicmafia.to CNAME .
-couchtv.to CNAME .
-*.couchtv.to CNAME .
 cpasbien.to CNAME .
 *.cpasbien.to CNAME .
 cricfree.to CNAME .
@@ -21563,6 +21555,8 @@ ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
+speedtest.iperson.xyz CNAME .
+*.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Sep 2025 00:12 UTC
-# Version: 2025.0902.0012.17
+# Last modified: 02 Sep 2025 08:26 UTC
+# Version: 2025.0902.0826.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10903
+# Number of entries: 10900
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1459,7 +1459,6 @@ local=/bollywood.eu/
 local=/bolmovies.com/
 local=/bomplay.com/
 local=/bondhuitbd.com/
-local=/bonoov.fr/
 local=/bonsaihd.fun/
 local=/bonsaihd.live/
 local=/bt.bontal.net/
@@ -1574,7 +1573,6 @@ local=/btzone.org/
 local=/buddycenters.shop/
 local=/buddyfly.top/
 local=/buffstream.io/
-local=/buffstreams.app/
 local=/buffstreams.sx/
 local=/buffstreams.tv/
 local=/csite.bugs3.com/
@@ -1691,7 +1689,6 @@ local=/cb01.care/
 local=/cb01.cc/
 local=/cb01.cfd/
 local=/cb01.charity/
-local=/cb01.cleaning/
 local=/cb01.click/
 local=/cb01.clothing/
 local=/cb01.club/
@@ -1700,7 +1697,6 @@ local=/cb01.co/
 local=/cb01.coach/
 local=/cb01.com/
 local=/cb01.community/
-local=/cb01.construction/
 local=/cb01.contractors/
 local=/cb01.credit/
 local=/cb01.de/
@@ -1966,7 +1962,6 @@ local=/cloudtorrents.com/
 local=/cloudvideo.tv/
 local=/hd.club.tw/
 local=/club-mst3k.com/
-local=/clubecine.com/
 local=/clubfilm.ir/
 local=/clubnzb.com/
 local=/clubwarez.com/
@@ -2037,7 +2032,6 @@ local=/123movies.com.pk/
 local=/www.aenianos.com.br/
 local=/aruacfilmes.com.br/
 local=/btarg.com.ar/
-local=/businesszone.com.bd/
 local=/carnival.com.bd/
 local=/cloudone.com.bd/
 local=/coolrom.com.au/
@@ -2147,7 +2141,6 @@ local=/couchtuner.cloud/
 local=/couchtuner.show/
 local=/couchtuner.space/
 local=/couchtuner0.com/
-local=/couchtv.to/
 local=/courseclub.me/
 local=/mp3.couver.ru/
 local=/cpasbien.bz/
@@ -2496,6 +2489,7 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
+local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -4745,6 +4739,7 @@ local=/ns349743.ip-91-121-106.eu/
 local=/ipacrack.com/
 local=/ipalibrary.me/
 local=/ipboot.xyz/
+local=/speedtest.iperson.xyz/
 local=/tracker.iperson.xyz/
 local=/tracker.ipfsscan.io/
 local=/iphonebooks.info/
@@ -8546,6 +8541,7 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
+local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
@@ -10086,6 +10082,7 @@ local=/videq.com/
 local=/videq.fit/
 local=/videqapp.site/
 local=/videqs.com/
+local=/videqs.icu/
 local=/videqstream.com/
 local=/videqvidey.pro/
 local=/vider.info/

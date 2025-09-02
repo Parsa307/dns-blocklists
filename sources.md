@@ -169,6 +169,7 @@ https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/main/ips.txt
 https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/master/Piracy%20List
 https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
+https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.txt
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt

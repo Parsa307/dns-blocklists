@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Sep 2025 00:18 UTC
-# Version: 2025.0902.0018.26
+# Last modified: 02 Sep 2025 08:34 UTC
+# Version: 2025.0902.0834.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4808
+# Number of entries: 4803
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -548,12 +548,10 @@ local=/goguardian.broomleigh.org/
 local=/linewize.broomleigh.org/
 local=/schoolwork.broomleigh.org/
 local=/brovpn.io/
-local=/record.brownfamilypics.com/
 local=/browsec.com/
 local=/browser.lol/
 local=/browserling.com/
 local=/edu.bsfa.info/
-local=/flashorbolt.bsfa.info/
 local=/travel.bsfa.info/
 local=/use.bsfa.info/
 local=/doh.bt.com/
@@ -564,7 +562,6 @@ local=/goose.buckyfan.net/
 local=/buffered.com/
 local=/zainisashithead.bugaloop.com/
 local=/stratus.bugz.fr/
-local=/duracell.bulkenergy.cl/
 local=/bulletvpn.com/
 local=/bunkerbustervpn.com/
 local=/dns.burgas.pro/
@@ -572,7 +569,6 @@ local=/dns.busold.ws/
 local=/dns.butterfly87.sbs/
 local=/bvpn.com/
 local=/byewall.com/
-local=/bypass.pw/
 local=/bypassable.com/
 local=/bypassed.wtf/
 local=/bypasser.us/
@@ -819,7 +815,6 @@ local=/hidemyass.co.uk/
 local=/ag.hostme.co.il/
 local=/insteadvpn.co.cc/
 local=/justproxy.co.uk/
-local=/quiz.kanayadrumband.co.id/
 local=/lamnia.co.uk/
 local=/my-private-network.co.uk/
 local=/dns.neilzone.co.uk/
@@ -850,7 +845,6 @@ local=/vpnguide.co.cc/
 local=/vpnmailvista.co.cc/
 local=/vpnofanti.co.cc/
 local=/vpnoffice.co.cc/
-local=/ddx-2.webconstructions.co.uk/
 local=/webproxy.co.at/
 local=/agh.workfordemo.co.in/
 local=/cocoombr.com/
@@ -935,7 +929,6 @@ local=/comss.ru/
 local=/circlegeometry.conexioncircular.cl/
 local=/moremathat.conexioncircular.cl/
 local=/confirmedvpn.com/
-local=/concitedll.conifera.cl/
 local=/dns1.conne.net/
 local=/dns.connect.fail/
 local=/connectionvpn.com/
@@ -1327,6 +1320,7 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1413,6 +1407,7 @@ local=/proxy.eti.pw/
 local=/ettego.com/
 local=/arashi.eu.org/
 local=/armorrush.eu.org/
+local=/doh.excdn.eu.org/
 local=/dns.fullaccesstointernet.jp.eu.org/
 local=/dns.mayx.eu.org/
 local=/arashi.net.eu.org/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756772280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756802040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Sep 2025 00:18 UTC
-; Version: 2025.0902.0018.26
+; Last modified: 02 Sep 2025 08:34 UTC
+; Version: 2025.0902.0834.35
 ; Syntax: RPZ
-; Number of entries: 9616
+; Number of entries: 9606
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -632,8 +632,6 @@ cuh.altimiras.cl CNAME .
 *.cuh.altimiras.cl CNAME .
 jesusisking.autoluc.cl CNAME .
 *.jesusisking.autoluc.cl CNAME .
-duracell.bulkenergy.cl CNAME .
-*.duracell.bulkenergy.cl CNAME .
 help.cartes.cl CNAME .
 *.help.cartes.cl CNAME .
 lvpqirhbat.castroyasociados.cl CNAME .
@@ -654,8 +652,6 @@ circlegeometry.conexioncircular.cl CNAME .
 *.circlegeometry.conexioncircular.cl CNAME .
 moremathat.conexioncircular.cl CNAME .
 *.moremathat.conexioncircular.cl CNAME .
-concitedll.conifera.cl CNAME .
-*.concitedll.conifera.cl CNAME .
 dwerk.conyser.cl CNAME .
 *.dwerk.conyser.cl CNAME .
 ab.ctx.cl CNAME .
@@ -1360,8 +1356,6 @@ brightvpn.com CNAME .
 *.brightvpn.com CNAME .
 britishproxy.com CNAME .
 *.britishproxy.com CNAME .
-record.brownfamilypics.com CNAME .
-*.record.brownfamilypics.com CNAME .
 browsec.com CNAME .
 *.browsec.com CNAME .
 browserling.com CNAME .
@@ -4976,8 +4970,6 @@ dns.gi.co.id CNAME .
 *.dns.gi.co.id CNAME .
 hax.co.id CNAME .
 *.hax.co.id CNAME .
-quiz.kanayadrumband.co.id CNAME .
-*.quiz.kanayadrumband.co.id CNAME .
 dns.spil.co.id CNAME .
 *.dns.spil.co.id CNAME .
 croxy-proxy.id CNAME .
@@ -5144,8 +5136,6 @@ brazilproxy.info CNAME .
 *.brazilproxy.info CNAME .
 edu.bsfa.info CNAME .
 *.edu.bsfa.info CNAME .
-flashorbolt.bsfa.info CNAME .
-*.flashorbolt.bsfa.info CNAME .
 travel.bsfa.info CNAME .
 *.travel.bsfa.info CNAME .
 use.bsfa.info CNAME .
@@ -6478,6 +6468,8 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -7640,6 +7632,8 @@ arashi.eu.org CNAME .
 *.arashi.eu.org CNAME .
 armorrush.eu.org CNAME .
 *.armorrush.eu.org CNAME .
+doh.excdn.eu.org CNAME .
+*.doh.excdn.eu.org CNAME .
 dns.fullaccesstointernet.jp.eu.org CNAME .
 *.dns.fullaccesstointernet.jp.eu.org CNAME .
 dns.mayx.eu.org CNAME .
@@ -8400,8 +8394,6 @@ doh.totoro.pub CNAME .
 *.doh.totoro.pub CNAME .
 proxyduke.bingle.pw CNAME .
 *.proxyduke.bingle.pw CNAME .
-bypass.pw CNAME .
-*.bypass.pw CNAME .
 maths.ds6.pw CNAME .
 *.maths.ds6.pw CNAME .
 proxy.eti.pw CNAME .
@@ -9042,8 +9034,6 @@ unblocksites.co.uk CNAME .
 *.unblocksites.co.uk CNAME .
 vpncompare.co.uk CNAME .
 *.vpncompare.co.uk CNAME .
-ddx-2.webconstructions.co.uk CNAME .
-*.ddx-2.webconstructions.co.uk CNAME .
 dns.dns-53.uk CNAME .
 *.dns.dns-53.uk CNAME .
 do.dnscrypt.uk CNAME .
