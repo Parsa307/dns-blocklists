@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756830480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756845180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Sep 2025 16:28 UTC
-; Version: 2025.0902.1628.04
+; Last modified: 02 Sep 2025 20:33 UTC
+; Version: 2025.0902.2033.22
 ; Syntax: RPZ
-; Number of entries: 9582
+; Number of entries: 9576
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1884,12 +1884,6 @@ love.fugyou.com CNAME .
 *.love.fugyou.com CNAME .
 funknetwork.com CNAME .
 *.funknetwork.com CNAME .
-cats.fuzzylookups.com CNAME .
-*.cats.fuzzylookups.com CNAME .
-dogs.fuzzylookups.com CNAME .
-*.dogs.fuzzylookups.com CNAME .
-foxes.fuzzylookups.com CNAME .
-*.foxes.fuzzylookups.com CNAME .
 gabstorm.com CNAME .
 *.gabstorm.com CNAME .
 dns.gamban.com CNAME .
@@ -2668,6 +2662,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -4816,6 +4812,8 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
+cynntex.fun CNAME .
+*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -8778,8 +8776,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -9414,8 +9410,6 @@ dns.f97.xyz CNAME .
 *.dns.f97.xyz CNAME .
 finalbreaths.xyz CNAME .
 *.finalbreaths.xyz CNAME .
-flarquix.xyz CNAME .
-*.flarquix.xyz CNAME .
 proxy.forkbomb.xyz CNAME .
 *.proxy.forkbomb.xyz CNAME .
 free-proxy.xyz CNAME .

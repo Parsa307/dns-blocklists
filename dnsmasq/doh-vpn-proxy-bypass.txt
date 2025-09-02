@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Sep 2025 16:28 UTC
-# Version: 2025.0902.1628.04
+# Last modified: 02 Sep 2025 20:33 UTC
+# Version: 2025.0902.2033.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4791
+# Number of entries: 4788
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1017,6 +1017,7 @@ local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/dns.cybertonic.tech/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -1496,9 +1497,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
-local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
 local=/flashputon.net/
@@ -1623,9 +1622,6 @@ local=/furriesarecute.furryplace.eu/
 local=/doh.futa.app/
 local=/doh.futa.gg/
 local=/dns.futuredns.me/
-local=/cats.fuzzylookups.com/
-local=/dogs.fuzzylookups.com/
-local=/foxes.fuzzylookups.com/
 local=/g-a-y.pro/
 local=/earthmowers.gabrielamelopropiedades.cl/
 local=/gabstorm.com/
@@ -2631,6 +2627,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/

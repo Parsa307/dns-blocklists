@@ -4221,6 +4221,13 @@
       }
     },
     {
+      "PK": "peugeot.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.pharmacy",
       "action": {
         "do": 0,

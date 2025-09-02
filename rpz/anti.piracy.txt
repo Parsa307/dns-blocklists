@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756829940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756844760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Sep 2025 16:19 UTC
-; Version: 2025.0902.1619.58
+; Last modified: 02 Sep 2025 20:26 UTC
+; Version: 2025.0902.2026.30
 ; Syntax: RPZ
-; Number of entries: 21782
+; Number of entries: 21766
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1221,10 +1221,6 @@ flixta.cc CNAME .
 *.flixta.cc CNAME .
 fmovies0.cc CNAME .
 *.fmovies0.cc CNAME .
-footybite.cc CNAME .
-*.footybite.cc CNAME .
-formula1stream.cc CNAME .
-*.formula1stream.cc CNAME .
 freemp3.cc CNAME .
 *.freemp3.cc CNAME .
 freemp3juices.cc CNAME .
@@ -2045,8 +2041,6 @@ filmstreaming.co CNAME .
 *.filmstreaming.co CNAME .
 filmstreaming1.co CNAME .
 *.filmstreaming1.co CNAME .
-filmstreaming1vf.co CNAME .
-*.filmstreaming1vf.co CNAME .
 firstrow.co CNAME .
 *.firstrow.co CNAME .
 fmovies.co CNAME .
@@ -4527,8 +4521,6 @@ globalcommunicationbd.com CNAME .
 *.globalcommunicationbd.com CNAME .
 globalwarez.com CNAME .
 *.globalwarez.com CNAME .
-glotorrents.com CNAME .
-*.glotorrents.com CNAME .
 gnetworkbd.com CNAME .
 *.gnetworkbd.com CNAME .
 gnutellaforums.com CNAME .
@@ -16827,8 +16819,6 @@ altadefinizione01.plus CNAME .
 *.altadefinizione01.plus CNAME .
 dood.plus CNAME .
 *.dood.plus CNAME .
-filmstreaming.plus CNAME .
-*.filmstreaming.plus CNAME .
 megakino.plus CNAME .
 *.megakino.plus CNAME .
 moviesjoy.plus CNAME .
@@ -17077,8 +17067,6 @@ fk9.pw CNAME .
 *.fk9.pw CNAME .
 fullhdfilmizlesene.pw CNAME .
 *.fullhdfilmizlesene.pw CNAME .
-funxd.pw CNAME .
-*.funxd.pw CNAME .
 gktorrent.pw CNAME .
 *.gktorrent.pw CNAME .
 glotorrents.pw CNAME .
@@ -18529,8 +18517,6 @@ egydead.space CNAME .
 *.egydead.space CNAME .
 eurostreaming.space CNAME .
 *.eurostreaming.space CNAME .
-kinox.filmi.space CNAME .
-*.kinox.filmi.space CNAME .
 filmpertutti.space CNAME .
 *.filmpertutti.space CNAME .
 gabber.space CNAME .
@@ -18789,8 +18775,6 @@ goku.sx CNAME .
 *.goku.sx CNAME .
 goldesel.sx CNAME .
 *.goldesel.sx CNAME .
-gomovies.sx CNAME .
-*.gomovies.sx CNAME .
 hianime.sx CNAME .
 *.hianime.sx CNAME .
 himovies.sx CNAME .
