@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756888800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756915560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Sep 2025 08:40 UTC
-; Version: 2025.0903.0840.24
+; Last modified: 03 Sep 2025 16:06 UTC
+; Version: 2025.0903.1606.23
 ; Syntax: RPZ
-; Number of entries: 21732
+; Number of entries: 21712
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -513,8 +513,6 @@ greenbytes.net.bd CNAME .
 *.greenbytes.net.bd CNAME .
 movie.idsbangladesh.net.bd CNAME .
 *.movie.idsbangladesh.net.bd CNAME .
-ismart.net.bd CNAME .
-*.ismart.net.bd CNAME .
 www.kalponik.net.bd CNAME .
 *.www.kalponik.net.bd CNAME .
 okay.net.bd CNAME .
@@ -1315,8 +1313,6 @@ tp.m-team.cc CNAME .
 *.tp.m-team.cc CNAME .
 tracker.m-team.cc CNAME .
 *.tracker.m-team.cc CNAME .
-mmastreams.cc CNAME .
-*.mmastreams.cc CNAME .
 modradar.cc CNAME .
 *.modradar.cc CNAME .
 movcr.cc CNAME .
@@ -5351,8 +5347,6 @@ mkvcage.com CNAME .
 *.mkvcage.com CNAME .
 mlbgamepass.com CNAME .
 *.mlbgamepass.com CNAME .
-mlbshow.com CNAME .
-*.mlbshow.com CNAME .
 mlcboard.com CNAME .
 *.mlcboard.com CNAME .
 mloads.com CNAME .
@@ -5399,8 +5393,6 @@ mods-app.com CNAME .
 *.mods-app.com CNAME .
 modsmaniac.com CNAME .
 *.modsmaniac.com CNAME .
-modsofapk.com CNAME .
-*.modsofapk.com CNAME .
 modtoco.com CNAME .
 *.modtoco.com CNAME .
 modxda.com CNAME .
@@ -5665,8 +5657,6 @@ nglink.com CNAME .
 *.nglink.com CNAME .
 ngprovider.com CNAME .
 *.ngprovider.com CNAME .
-nhlbite.com CNAME .
-*.nhlbite.com CNAME .
 nightmarestresser.com CNAME .
 *.nightmarestresser.com CNAME .
 niktu.com CNAME .
@@ -10915,14 +10905,10 @@ livehd7i.live CNAME .
 *.livehd7i.live CNAME .
 losmovies.live CNAME .
 *.losmovies.live CNAME .
-maxserie.live CNAME .
-*.maxserie.live CNAME .
 movie4u.live CNAME .
 *.movie4u.live CNAME .
 moviemela.live CNAME .
 *.moviemela.live CNAME .
-movies123.live CNAME .
-*.movies123.live CNAME .
 multicanais.live CNAME .
 *.multicanais.live CNAME .
 myanime.live CNAME .
@@ -11751,8 +11737,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -18575,6 +18559,8 @@ toparena.store CNAME .
 *.toparena.store CNAME .
 veritasforall.store CNAME .
 *.veritasforall.store CNAME .
+viddee.store CNAME .
+*.viddee.store CNAME .
 videyco.store CNAME .
 *.videyco.store CNAME .
 0123movie.stream CNAME .
@@ -20037,8 +20023,6 @@ movie-blog.tv CNAME .
 *.movie-blog.tv CNAME .
 movie4k.tv CNAME .
 *.movie4k.tv CNAME .
-moviee.tv CNAME .
-*.moviee.tv CNAME .
 moviekids.tv CNAME .
 *.moviekids.tv CNAME .
 movies2watch.tv CNAME .
@@ -20707,8 +20691,6 @@ ilgeniodellostreaming.vin CNAME .
 *.ilgeniodellostreaming.vin CNAME .
 katmoviehd.vin CNAME .
 *.katmoviehd.vin CNAME .
-megakino.vin CNAME .
-*.megakino.vin CNAME .
 streamingcommunity.vin CNAME .
 *.streamingcommunity.vin CNAME .
 thepiratebay.vin CNAME .
@@ -20869,8 +20851,6 @@ letmewatchthis.watch CNAME .
 *.letmewatchthis.watch CNAME .
 miru.watch CNAME .
 *.miru.watch CNAME .
-movieshd.watch CNAME .
-*.movieshd.watch CNAME .
 projectfreetv.watch CNAME .
 *.projectfreetv.watch CNAME .
 redditsoccerstreams.watch CNAME .

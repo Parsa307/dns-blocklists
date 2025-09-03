@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756889280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756916040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Sep 2025 08:48 UTC
-; Version: 2025.0903.0848.54
+; Last modified: 03 Sep 2025 16:14 UTC
+; Version: 2025.0903.1614.01
 ; Syntax: RPZ
-; Number of entries: 9548
+; Number of entries: 9496
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -428,8 +428,6 @@ skill.vocab.lekovic.ca CNAME .
 *.skill.vocab.lekovic.ca CNAME .
 pipod.mypics.ca CNAME .
 *.pipod.mypics.ca CNAME .
-use.mypics.ca CNAME .
-*.use.mypics.ca CNAME .
 ne1.ca CNAME .
 *.ne1.ca CNAME .
 poiuytrewq.novipro.ca CNAME .
@@ -674,10 +672,6 @@ luh.masgas.cl CNAME .
 *.luh.masgas.cl CNAME .
 dns.michelo.cl CNAME .
 *.dns.michelo.cl CNAME .
-dynamitefor.miningsteel.cl CNAME .
-*.dynamitefor.miningsteel.cl CNAME .
-lasersfor.miningsteel.cl CNAME .
-*.lasersfor.miningsteel.cl CNAME .
 zuh.ndr.cl CNAME .
 *.zuh.ndr.cl CNAME .
 dnsotls.lab.nic.cl CNAME .
@@ -2586,8 +2580,6 @@ history-of-war.morgeweb.com CNAME .
 *.history-of-war.morgeweb.com CNAME .
 movieproxy.com CNAME .
 *.movieproxy.com CNAME .
-moyazyinomoyasi.com CNAME .
-*.moyazyinomoyasi.com CNAME .
 msr177.com CNAME .
 *.msr177.com CNAME .
 mtagprox.com CNAME .
@@ -2602,28 +2594,6 @@ my-proxy.com CNAME .
 *.my-proxy.com CNAME .
 my-safe-net.com CNAME .
 *.my-safe-net.com CNAME .
-1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com CNAME .
-*.1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com CNAME .
-abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com CNAME .
-*.abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com CNAME .
-doge.myclarevision.com CNAME .
-*.doge.myclarevision.com CNAME .
-example.myclarevision.com CNAME .
-*.example.myclarevision.com CNAME .
-freelearn.myclarevision.com CNAME .
-*.freelearn.myclarevision.com CNAME .
-gogardiansucks.myclarevision.com CNAME .
-*.gogardiansucks.myclarevision.com CNAME .
-i.myclarevision.com CNAME .
-*.i.myclarevision.com CNAME .
-learn.myclarevision.com CNAME .
-*.learn.myclarevision.com CNAME .
-linewizesucks.myclarevision.com CNAME .
-*.linewizesucks.myclarevision.com CNAME .
-thisismathteach.myclarevision.com CNAME .
-*.thisismathteach.myclarevision.com CNAME .
-newhomeowners.org.myhousesetup.com CNAME .
-*.newhomeowners.org.myhousesetup.com CNAME .
 myiphide.com CNAME .
 *.myiphide.com CNAME .
 sites.scholar.academic.mylogisoft.com CNAME .
@@ -2640,8 +2610,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -5678,8 +5646,6 @@ lewsha.lol CNAME .
 *.lewsha.lol CNAME .
 myproxy.lol CNAME .
 *.myproxy.lol CNAME .
-nathanielgavin.lol CNAME .
-*.nathanielgavin.lol CNAME .
 proxy.lol CNAME .
 *.proxy.lol CNAME .
 proxyduke.lol CNAME .
@@ -6698,8 +6664,6 @@ magiccloak.net CNAME .
 *.magiccloak.net CNAME .
 dns.marbledfennec.net CNAME .
 *.dns.marbledfennec.net CNAME .
-gomkey.meexpress.net CNAME .
-*.gomkey.meexpress.net CNAME .
 megaproxylist.net CNAME .
 *.megaproxylist.net CNAME .
 researchedu.mesaayuda.net CNAME .
@@ -7310,8 +7274,6 @@ mathvideos.sharmaraju.com.np CNAME .
 *.mathvideos.sharmaraju.com.np CNAME .
 analyze.sumanniroula.com.np CNAME .
 *.analyze.sumanniroula.com.np CNAME .
-google.com.teachinghospital.org.np CNAME .
-*.google.com.teachinghospital.org.np CNAME .
 bdns.nu CNAME .
 *.bdns.nu CNAME .
 monkeydoo.hardsoft.nu CNAME .
@@ -7852,8 +7814,6 @@ bright-storm-707.scientificsense.org CNAME .
 *.bright-storm-707.scientificsense.org CNAME .
 dns.scuola.org CNAME .
 *.dns.scuola.org CNAME .
-secretproxy.org CNAME .
-*.secretproxy.org CNAME .
 secretsline.org CNAME .
 *.secretsline.org CNAME .
 shadowsocks.org CNAME .
@@ -8450,8 +8410,6 @@ smart.data.mydj.ro CNAME .
 *.smart.data.mydj.ro CNAME .
 gg.nordparrot.ro CNAME .
 *.gg.nordparrot.ro CNAME .
-edu.osobi.ro CNAME .
-*.edu.osobi.ro CNAME .
 osobiacademy.osobi.ro CNAME .
 *.osobiacademy.osobi.ro CNAME .
 education.pitlobra.ro CNAME .
@@ -8690,10 +8648,6 @@ dumb.frtala.sk CNAME .
 *.dumb.frtala.sk CNAME .
 dns.levonet.sk CNAME .
 *.dns.levonet.sk CNAME .
-this.is.for.lightspeedpal.ostrovsky.sk CNAME .
-*.this.is.for.lightspeedpal.ostrovsky.sk CNAME .
-thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk CNAME .
-*.thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk CNAME .
 surfshark.sk CNAME .
 *.surfshark.sk CNAME .
 dns.elemental.software CNAME .
@@ -8748,8 +8702,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -8778,8 +8730,6 @@ jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
 *.jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
-dns.cybertonic.tech CNAME .
-*.dns.cybertonic.tech CNAME .
 dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 easyproxy.tech CNAME .
@@ -9452,8 +9402,6 @@ nowhiteflags.xyz CNAME .
 *.nowhiteflags.xyz CNAME .
 ns8469rfvth42.xyz CNAME .
 *.ns8469rfvth42.xyz CNAME .
-nullsbrawly.xyz CNAME .
-*.nullsbrawly.xyz CNAME .
 oneproxy.xyz CNAME .
 *.oneproxy.xyz CNAME .
 pankvyh.xyz CNAME .

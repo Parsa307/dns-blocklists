@@ -378,6 +378,9 @@ NRDs and DGAs are known to be favoured by threat actors to launch malicious camp
 
 **For the lists and further details visit the [corresponding repository](https://github.com/xRuffKez/NRD). The lists in various formats can be found [here](https://github.com/xRuffKez/NRD/tree/main/lists).**
 
+> [!TIP]
+> The NRDs per day data is stored in the [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) of this repository, with file names following the pattern `nrd_YYYY-MM-DD.txt`. Each file represents a single day, and data for the last 31 days is available in this format.
+
 ---
 
 ### :outbox_tray: **DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS!** <a name="bypass"></a>

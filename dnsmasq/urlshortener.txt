@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Sep 2025 06:51 UTC
-# Version: 2025.0903.0651.34
+# Last modified: 03 Sep 2025 14:28 UTC
+# Version: 2025.0903.1428.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6145
+# Number of entries: 6143
 #
 local=/0.gp/
 local=/00m.in/
@@ -443,7 +443,6 @@ local=/ajn.me/
 local=/ak.gd/
 local=/aka.ci/
 local=/aka.gr/
-local=/aka.ms/
 local=/aka.my/
 local=/aka.re/
 local=/aka0.com/
@@ -3106,7 +3105,6 @@ local=/mawar500.cc/
 local=/maxiurl.com/
 local=/maxlink.ly/
 local=/maxurl.app/
-local=/maxurlz.com/
 local=/maxwin.top/
 local=/mayaediciones.com/
 local=/mayedu.ec/

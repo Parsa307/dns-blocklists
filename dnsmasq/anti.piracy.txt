@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Sep 2025 08:40 UTC
-# Version: 2025.0903.0840.24
+# Last modified: 03 Sep 2025 16:06 UTC
+# Version: 2025.0903.1606.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10866
+# Number of entries: 10856
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -5551,7 +5551,6 @@ local=/mathanosto.top/
 local=/matrix-virovitica.com/
 local=/mawtoload.com/
 local=/max-rls.com/
-local=/maxserie.live/
 local=/maxseries.top/
 local=/maxseries.xyz/
 local=/maxwarez.ru/
@@ -5628,7 +5627,6 @@ local=/megakino.team/
 local=/megakino.tech/
 local=/megakino.tips/
 local=/megakino.video/
-local=/megakino.vin/
 local=/megakino.works/
 local=/megakino.ws/
 local=/megamanmaker.com/
@@ -5739,7 +5737,6 @@ local=/mkvdrama.org/
 local=/mkvking.me/
 local=/mlb24all.ir/
 local=/mlbgamepass.com/
-local=/mlbshow.com/
 local=/mlbstreams.to/
 local=/mlcboard.com/
 local=/mlmsoftwarez.in/
@@ -5752,7 +5749,6 @@ local=/mma-core.com/
 local=/mma-torrents.com/
 local=/mma-tracker.net/
 local=/mma-tracker.org/
-local=/mmastreams.cc/
 local=/mmosite.com/
 local=/mmult.ru/
 local=/mo9999.net/
@@ -5791,7 +5787,6 @@ local=/mods-app.com/
 local=/mods4u.in/
 local=/modsapk.us/
 local=/modsmaniac.com/
-local=/modsofapk.com/
 local=/modtoco.com/
 local=/modw.net/
 local=/modxda.com/
@@ -5864,7 +5859,6 @@ local=/movieblogarea.com/
 local=/movieboxbd.com/
 local=/moviecluphd.store/
 local=/moviedream.ws/
-local=/moviee.tv/
 local=/moviefiles.org/
 local=/movieforfree.co/
 local=/moviefreak.xyz/
@@ -5902,7 +5896,6 @@ local=/movies-d.com/
 local=/movies-free.net/
 local=/movies-watch.biz/
 local=/movies123.email/
-local=/movies123.live/
 local=/movies123.pk/
 local=/movies123.sbs/
 local=/movies123.studio/
@@ -5929,7 +5922,6 @@ local=/moviesdvdr.com/
 local=/movieseriestv.net/
 local=/movieserver.net/
 local=/moviesfoundonline.com/
-local=/movieshd.watch/
 local=/moviesite.hu/
 local=/moviesjoy.is/
 local=/moviesjoy.life/
@@ -6201,7 +6193,6 @@ local=/futeboldahora.net.br/
 local=/futeboltotal.net.br/
 local=/greenbytes.net.bd/
 local=/movie.idsbangladesh.net.bd/
-local=/ismart.net.bd/
 local=/www.kalponik.net.bd/
 local=/okay.net.bd/
 local=/plus.net.bd/
@@ -6311,7 +6302,6 @@ local=/ngp.re/
 local=/ngprovider.com/
 local=/nhentai.net/
 local=/nhl24all.ir/
-local=/nhlbite.com/
 local=/nhlhd.tv/
 local=/nhlstream.net/
 local=/nhlstreams.io/
@@ -8507,7 +8497,6 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
-local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
@@ -10032,6 +10021,7 @@ local=/vidcloud1.com/
 local=/vidcloud9.com/
 local=/vidclouds.icu/
 local=/vidcloudtv.net/
+local=/viddee.store/
 local=/vide0.com/
 local=/vide0.me/
 local=/vide0.net/
