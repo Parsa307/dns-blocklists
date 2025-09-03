@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756845180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756889280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Sep 2025 20:33 UTC
-; Version: 2025.0902.2033.22
+; Last modified: 03 Sep 2025 08:48 UTC
+; Version: 2025.0903.0848.54
 ; Syntax: RPZ
-; Number of entries: 9576
+; Number of entries: 9548
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -256,8 +256,6 @@ freeproxy.asia CNAME .
 *.freeproxy.asia CNAME .
 kproxy.asia CNAME .
 *.kproxy.asia CNAME .
-kamaemon.laifu.asia CNAME .
-*.kamaemon.laifu.asia CNAME .
 mehide.asia CNAME .
 *.mehide.asia CNAME .
 tlz.asia CNAME .
@@ -302,8 +300,6 @@ dns.belnet.be CNAME .
 *.dns.belnet.be CNAME .
 intertravel.guillaumevanstrydonck.be CNAME .
 *.intertravel.guillaumevanstrydonck.be CNAME .
-hideme.be CNAME .
-*.hideme.be CNAME .
 dns1.nielsdb.be CNAME .
 *.dns1.nielsdb.be CNAME .
 dns1.pietjacobs.be CNAME .
@@ -668,8 +664,6 @@ curry.idemonch.cl CNAME .
 *.curry.idemonch.cl CNAME .
 devfruitpremium.incodesltda.cl CNAME .
 *.devfruitpremium.incodesltda.cl CNAME .
-owner.should.hopefully.spot.this.ingeker.cl CNAME .
-*.owner.should.hopefully.spot.this.ingeker.cl CNAME .
 login.knr.cl CNAME .
 *.login.knr.cl CNAME .
 orxwaicjss.laboratoriosdavis.cl CNAME .
@@ -844,8 +838,6 @@ domain.guojinloong.cn CNAME .
 *.domain.guojinloong.cn CNAME .
 dns.hujiayucc.cn CNAME .
 *.dns.hujiayucc.cn CNAME .
-h5.wan.360.23xinyou.51.3w2.cc.nc.hzlqun.cn CNAME .
-*.h5.wan.360.23xinyou.51.3w2.cc.nc.hzlqun.cn CNAME .
 bensmells.laoxz.cn CNAME .
 *.bensmells.laoxz.cn CNAME .
 drive.google.com.laoxz.cn CNAME .
@@ -2150,16 +2142,6 @@ doth.huque.com CNAME .
 *.doth.huque.com CNAME .
 novahistory.ibernoticias.com CNAME .
 *.novahistory.ibernoticias.com CNAME .
-link-five.ibewlocalzero.com CNAME .
-*.link-five.ibewlocalzero.com CNAME .
-link-four.ibewlocalzero.com CNAME .
-*.link-four.ibewlocalzero.com CNAME .
-link-one.ibewlocalzero.com CNAME .
-*.link-one.ibewlocalzero.com CNAME .
-link-three.ibewlocalzero.com CNAME .
-*.link-three.ibewlocalzero.com CNAME .
-link-two.ibewlocalzero.com CNAME .
-*.link-two.ibewlocalzero.com CNAME .
 ibvpn.com CNAME .
 *.ibvpn.com CNAME .
 icitek.com CNAME .
@@ -2372,8 +2354,6 @@ dns.kamilszczepanski.com CNAME .
 *.dns.kamilszczepanski.com CNAME .
 sentries.kategentry.com CNAME .
 *.sentries.kategentry.com CNAME .
-katonetwork.com CNAME .
-*.katonetwork.com CNAME .
 keenow.com CNAME .
 *.keenow.com CNAME .
 keepanonymous.com CNAME .
@@ -2472,8 +2452,6 @@ quickvpn.lipisoft.com CNAME .
 *.quickvpn.lipisoft.com CNAME .
 liquidvpn.com CNAME .
 *.liquidvpn.com CNAME .
-kamaemon.lntxbox.com CNAME .
-*.kamaemon.lntxbox.com CNAME .
 dns.lobbygod.com CNAME .
 *.dns.lobbygod.com CNAME .
 localtonet.com CNAME .
@@ -6458,6 +6436,8 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
 *.t9rke-5zq1m.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
@@ -6514,6 +6494,8 @@ flashput.net CNAME .
 *.flashput.net CNAME .
 flashputon.net CNAME .
 *.flashputon.net CNAME .
+dns.flightspace.net CNAME .
+*.dns.flightspace.net CNAME .
 dns01.flm9.net CNAME .
 *.dns01.flm9.net CNAME .
 ns1.flodns.net CNAME .
@@ -7410,8 +7392,6 @@ inpssh.online CNAME .
 *.inpssh.online CNAME .
 externalmobiel.lekdijk.online CNAME .
 *.externalmobiel.lekdijk.online CNAME .
-letscomply.online CNAME .
-*.letscomply.online CNAME .
 dns.mathewakhil.online CNAME .
 *.dns.mathewakhil.online CNAME .
 myhalo.online CNAME .
@@ -7714,10 +7694,6 @@ hshh.org CNAME .
 *.hshh.org CNAME .
 math.hypernormal.org CNAME .
 *.math.hypernormal.org CNAME .
-supernatural.hypernormal.org CNAME .
-*.supernatural.hypernormal.org CNAME .
-unusual.hypernormal.org CNAME .
-*.unusual.hypernormal.org CNAME .
 ininja.org CNAME .
 *.ininja.org CNAME .
 app.edu.iownyour.org CNAME .
@@ -8048,8 +8024,6 @@ fezgate.ovh CNAME .
 *.fezgate.ovh CNAME .
 vps.fleuryk.ovh CNAME .
 *.vps.fleuryk.ovh CNAME .
-dns.henek.ovh CNAME .
-*.dns.henek.ovh CNAME .
 jackyes.ovh CNAME .
 *.jackyes.ovh CNAME .
 dns.mateo.ovh CNAME .
@@ -8618,8 +8592,6 @@ vpnprivacy.services CNAME .
 *.vpnprivacy.services CNAME .
 dns.9999.sg CNAME .
 *.dns.9999.sg CNAME .
-my-learning-hall.jemix.sg CNAME .
-*.my-learning-hall.jemix.sg CNAME .
 surfshark.sg CNAME .
 *.surfshark.sg CNAME .
 schoolmath.hop.sh CNAME .
@@ -8776,6 +8748,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -9426,8 +9400,6 @@ vpn.gosami.xyz CNAME .
 *.vpn.gosami.xyz CNAME .
 gostarlight.xyz CNAME .
 *.gostarlight.xyz CNAME .
-hoyofun.xyz CNAME .
-*.hoyofun.xyz CNAME .
 i2pd.xyz CNAME .
 *.i2pd.xyz CNAME .
 ikarosalpha.xyz CNAME .

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Sep 2025 20:32 UTC
-# Version: 2025.0902.2032.55
+# Last modified: 03 Sep 2025 08:48 UTC
+# Version: 2025.0903.0848.26
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1638
+# Number of entries: 1640
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -639,6 +639,7 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver2.dyndnsinternetguide.com
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -693,8 +694,10 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
+0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
 0.0.0.0 ns1.flodns.net
 0.0.0.0 ns2.flodns.net
@@ -766,7 +769,6 @@
 0.0.0.0 query.hdns.io
 0.0.0.0 ordns.he.net
 0.0.0.0 dns.hellozhao.com
-0.0.0.0 dns.henek.ovh
 0.0.0.0 httpdns.ocloud.heytapmobi.com
 0.0.0.0 httpdns.push.heytapmobi.com
 0.0.0.0 httpdns-push.heytapmobile.com

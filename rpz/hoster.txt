@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756823820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756882260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Sep 2025 14:37 UTC
-; Version: 2025.0902.1437.08
+; Last modified: 03 Sep 2025 06:51 UTC
+; Version: 2025.0903.0651.07
 ; Syntax: RPZ
-; Number of entries: 4260
+; Number of entries: 4256
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -95,8 +95,6 @@ com24.at CNAME .
 *.com24.at CNAME .
 kilu.at CNAME .
 *.kilu.at CNAME .
-majesticbank.at CNAME .
-*.majesticbank.at CNAME .
 telekom.at CNAME .
 *.telekom.at CNAME .
 webnode.at CNAME .
@@ -1333,8 +1331,6 @@ joueb.com CNAME .
 *.joueb.com CNAME .
 jts-blog.com CNAME .
 *.jts-blog.com CNAME .
-justaboutblogs.com CNAME .
-*.justaboutblogs.com CNAME .
 ka-blogs.com CNAME .
 *.ka-blogs.com CNAME .
 kiluweb.com CNAME .

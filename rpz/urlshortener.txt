@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756865280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756882260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Sep 2025 02:08 UTC
-; Version: 2025.0903.0208.30
+; Last modified: 03 Sep 2025 06:51 UTC
+; Version: 2025.0903.0651.34
 ; Syntax: RPZ
-; Number of entries: 12300
+; Number of entries: 12290
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -860,8 +860,6 @@ link.cc CNAME .
 *.link.cc CNAME .
 linkim.cc CNAME .
 *.linkim.cc CNAME .
-linky.cc CNAME .
-*.linky.cc CNAME .
 litl.cc CNAME .
 *.litl.cc CNAME .
 lkgw.cc CNAME .
@@ -1494,8 +1492,6 @@ hsdt.co CNAME .
 *.hsdt.co CNAME .
 htgb.co CNAME .
 *.htgb.co CNAME .
-hyperly.co CNAME .
-*.hyperly.co CNAME .
 hyperurl.co CNAME .
 *.hyperurl.co CNAME .
 i-d.co CNAME .
@@ -7816,8 +7812,6 @@ fvglvsex.lol CNAME .
 *.fvglvsex.lol CNAME .
 ice.lol CNAME .
 *.ice.lol CNAME .
-idfk.lol CNAME .
-*.idfk.lol CNAME .
 indahnyaberbagi.lol CNAME .
 *.indahnyaberbagi.lol CNAME .
 kingplate.lol CNAME .
@@ -8338,8 +8332,6 @@ go.id.me CNAME .
 *.go.id.me CNAME .
 idmail.me CNAME .
 *.idmail.me CNAME .
-igit.me CNAME .
-*.igit.me CNAME .
 inds.me CNAME .
 *.inds.me CNAME .
 instaurl.me CNAME .
@@ -10574,8 +10566,6 @@ imo-call.shop CNAME .
 *.imo-call.shop CNAME .
 indahnyaberbagi.shop CNAME .
 *.indahnyaberbagi.shop CNAME .
-linkgacorr88.shop CNAME .
-*.linkgacorr88.shop CNAME .
 oneany.shop CNAME .
 *.oneany.shop CNAME .
 3x.si CNAME .

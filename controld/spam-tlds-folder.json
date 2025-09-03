@@ -1156,6 +1156,13 @@
       }
     },
     {
+      "PK": "*.ng",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.ninja",
       "action": {
         "do": 0,
