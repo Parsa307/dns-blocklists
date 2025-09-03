@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Sep 2025 19:15 UTC
-# Version: 2025.0902.1915.27
+# Last modified: 03 Sep 2025 02:08 UTC
+# Version: 2025.0903.0208.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6152
+# Number of entries: 6150
 #
 local=/0.gp/
 local=/00m.in/
@@ -1311,6 +1311,7 @@ local=/cutu.me/
 local=/cutur.link/
 local=/cuturl.com/
 local=/cuturl.net/
+local=/cutx.me/
 local=/cuty.io/
 local=/cutyurl.com/
 local=/cvcpl.us/
@@ -2055,7 +2056,6 @@ local=/grlu.us/
 local=/grm.my/
 local=/grnh.se/
 local=/grouprai.se/
-local=/groupsexting.live/
 local=/gskvn.live/
 local=/gst.bz/
 local=/gt7.de/
@@ -2078,7 +2078,6 @@ local=/hammerthoritaly.com/
 local=/han.gl/
 local=/hanaco.jp/
 local=/hangeulplay.com/
-local=/harapan777.love/
 local=/has.coffee/
 local=/hashi.co/
 local=/hatl.ink/
@@ -4360,7 +4359,6 @@ local=/short.cm/
 local=/short.gy/
 local=/short.icu/
 local=/short.io/
-local=/short.ly/
 local=/short.ms/
 local=/short.ovh/
 local=/short.pe/

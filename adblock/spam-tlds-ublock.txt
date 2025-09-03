@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 Sep 2025 20:12 UTC
-! Version: 2025.0902.2012.11
+! Last modified: 03 Sep 2025 02:08 UTC
+! Version: 2025.0903.0208.00
 ! Syntax: uBlock
 ! Number of latin TLDs: 279 - non-latin TLDs: 151
 !
@@ -86,7 +86,7 @@
 ||directory^$doc,domain=~2fa.directory|~cursor.directory|~fedi.directory|~passkeys.directory|~reactnative.directory
 ||discount^$doc,domain=~real.discount
 ||diy^$doc
-||dog^$doc,domain=~heika.dog|~telegram.dog
+||dog^$doc,domain=~heika.dog|~misskey.dog|~telegram.dog
 ||download^$doc,domain=~caido.download|~kali.download|~mkvtoolnix.download|~up4ever.download|~upfiles.download
 ||dpdns.org^$doc
 ||eco^$doc,domain=~elli.eco|~play.eco
@@ -206,7 +206,7 @@
 ||post^$doc,domain=~cypruspost.post
 ||prof^$doc,domain=~casey.prof
 ||promo^$doc
-||pub^$doc,domain=~arc.pub|~infosec.pub|~static.pub|~wapo.pub
+||pub^$doc,domain=~arc.pub|~infosec.pub|~leaflet.pub|~static.pub|~wapo.pub
 ||pw^$doc,domain=~buttercup.pw|~core.pw|~darkcrystal.pw|~dpc.pw|~gopass.pw|~palaugov.pw|~petridish.pw|~plutonium.pw|~xor.pw|~zok.pw
 ||qpon^$doc
 ||quest^$doc,domain=~dice.quest|~epochal.quest|~mhn.quest|~mylegendary.quest|~prometheus.quest|~raccoon.quest

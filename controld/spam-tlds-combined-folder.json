@@ -3017,6 +3017,13 @@
       }
     },
     {
+      "PK": "leaflet.pub",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "lecture.new",
       "action": {
         "do": 1,
@@ -3557,6 +3564,13 @@
     },
     {
       "PK": "mirror.work",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "misskey.dog",
       "action": {
         "do": 1,
         "status": 1

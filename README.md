@@ -525,7 +525,7 @@ A blocklist for blocking all known URL/link shortener.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 6152 compressed domains
+**Entries:** 6150 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|

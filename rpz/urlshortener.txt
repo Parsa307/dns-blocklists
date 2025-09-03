@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756840500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756865280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Sep 2025 19:15 UTC
-; Version: 2025.0902.1915.27
+; Last modified: 03 Sep 2025 02:08 UTC
+; Version: 2025.0903.0208.30
 ; Syntax: RPZ
-; Number of entries: 12304
+; Number of entries: 12300
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -7676,8 +7676,6 @@ google-photo.live CNAME .
 *.google-photo.live CNAME .
 googleidmaps.live CNAME .
 *.googleidmaps.live CNAME .
-groupsexting.live CNAME .
-*.groupsexting.live CNAME .
 gskvn.live CNAME .
 *.gskvn.live CNAME .
 hoaminh.live CNAME .
@@ -7852,8 +7850,6 @@ whatsapp4d.lol CNAME .
 *.whatsapp4d.lol CNAME .
 whatsapp8.lol CNAME .
 *.whatsapp8.lol CNAME .
-harapan777.love CNAME .
-*.harapan777.love CNAME .
 sensasi777.love CNAME .
 *.sensasi777.love CNAME .
 your.ls CNAME .
@@ -8032,8 +8028,6 @@ rebrand.ly CNAME .
 *.rebrand.ly CNAME .
 scrb.ly CNAME .
 *.scrb.ly CNAME .
-short.ly CNAME .
-*.short.ly CNAME .
 simp.ly CNAME .
 *.simp.ly CNAME .
 sincere.ly CNAME .
@@ -8218,6 +8212,8 @@ cutt4.me CNAME .
 *.cutt4.me CNAME .
 cutu.me CNAME .
 *.cutu.me CNAME .
+cutx.me CNAME .
+*.cutx.me CNAME .
 cvent.me CNAME .
 *.cvent.me CNAME .
 dealc.me CNAME .
