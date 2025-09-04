@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756974480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757002260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Sep 2025 08:28 UTC
-; Version: 2025.0904.0828.08
+; Last modified: 04 Sep 2025 16:11 UTC
+; Version: 2025.0904.1611.36
 ; Syntax: RPZ
-; Number of entries: 21664
+; Number of entries: 21642
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -307,8 +307,6 @@ wovie.vercel.app CNAME .
 *.wovie.vercel.app CNAME .
 zmov.vercel.app CNAME .
 *.zmov.vercel.app CNAME .
-vipleague.app CNAME .
-*.vipleague.app CNAME .
 nunflix-firebase.web.app CNAME .
 *.nunflix-firebase.web.app CNAME .
 h4g3z1-anti.piracy.web.app CNAME .
@@ -1615,8 +1613,6 @@ altadefinizione.cheap CNAME .
 *.altadefinizione.cheap CNAME .
 streamingcommunity.cheap CNAME .
 *.streamingcommunity.cheap CNAME .
-vegamovies.cheap CNAME .
-*.vegamovies.cheap CNAME .
 cineblog01.christmas CNAME .
 *.cineblog01.christmas CNAME .
 vegamovies.church CNAME .
@@ -7559,8 +7555,6 @@ warezhero.com CNAME .
 *.warezhero.com CNAME .
 warezhud.com CNAME .
 *.warezhud.com CNAME .
-warezkeeper.com CNAME .
-*.warezkeeper.com CNAME .
 warezlander.com CNAME .
 *.warezlander.com CNAME .
 warezm.com CNAME .
@@ -8453,8 +8447,6 @@ streameast.ec CNAME .
 *.streameast.ec CNAME .
 forum.wawa-mania.ec CNAME .
 *.forum.wawa-mania.ec CNAME .
-wawacity.ec CNAME .
-*.wawacity.ec CNAME .
 webcast.berkeley.edu CNAME .
 *.webcast.berkeley.edu CNAME .
 diva.sfsu.edu CNAME .
@@ -9989,8 +9981,6 @@ vider.info CNAME .
 *.vider.info CNAME .
 gsm.waptop.info CNAME .
 *.gsm.waptop.info CNAME .
-warezalot.info CNAME .
-*.warezalot.info CNAME .
 warezdownloads.info CNAME .
 *.warezdownloads.info CNAME .
 warezforum.info CNAME .
@@ -11881,8 +11871,6 @@ uwatchfree.mn CNAME .
 *.uwatchfree.mn CNAME .
 vegamovies.mn CNAME .
 *.vegamovies.mn CNAME .
-yesmovies.mn CNAME .
-*.yesmovies.mn CNAME .
 apkmody.mobi CNAME .
 *.apkmody.mobi CNAME .
 cb01.mobi CNAME .
@@ -12065,8 +12053,6 @@ uwatchfree.mx CNAME .
 *.uwatchfree.mx CNAME .
 vumoo.mx CNAME .
 *.vumoo.mx CNAME .
-wiflix.mx CNAME .
-*.wiflix.mx CNAME .
 yts.mx CNAME .
 *.yts.mx CNAME .
 hdfilme-to.my CNAME .
@@ -13985,8 +13971,6 @@ ultraflixhd.net CNAME .
 *.ultraflixhd.net CNAME .
 ultramovies.net CNAME .
 *.ultramovies.net CNAME .
-unblocksource.net CNAME .
-*.unblocksource.net CNAME .
 unblockthe.net CNAME .
 *.unblockthe.net CNAME .
 uniongang.net CNAME .
@@ -16289,8 +16273,6 @@ vkstreaming.org CNAME .
 *.vkstreaming.org CNAME .
 voe.org CNAME .
 *.voe.org CNAME .
-voir-seriestreaming.org CNAME .
-*.voir-seriestreaming.org CNAME .
 voirdrama.org CNAME .
 *.voirdrama.org CNAME .
 volno.org CNAME .
@@ -18027,8 +18009,6 @@ topnow.se CNAME .
 *.topnow.se CNAME .
 torrentproject.se CNAME .
 *.torrentproject.se CNAME .
-underver.se CNAME .
-*.underver.se CNAME .
 vegamovies.se CNAME .
 *.vegamovies.se CNAME .
 vipboxtv.se CNAME .
@@ -18357,8 +18337,6 @@ streamingcommunity.skin CNAME .
 *.streamingcommunity.skin CNAME .
 tantifilm.skin CNAME .
 *.tantifilm.skin CNAME .
-tuttostream.skin CNAME .
-*.tuttostream.skin CNAME .
 vegamovies.skin CNAME .
 *.vegamovies.skin CNAME .
 vegamovies.sl CNAME .

@@ -4327,6 +4327,13 @@
       }
     },
     {
+      "PK": "vlo.name",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "vmwesa.online",
       "action": {
         "do": 1,

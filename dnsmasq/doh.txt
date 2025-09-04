@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Sep 2025 08:35 UTC
-# Version: 2025.0904.0835.04
+# Last modified: 04 Sep 2025 16:18 UTC
+# Version: 2025.0904.1618.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1477
+# Number of entries: 1476
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -309,7 +309,6 @@ local=/cubedns.com/
 local=/qual.cuprum.ru/
 local=/dns.cwlys.com/
 local=/dns.cybertonic.tech/
-local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
 local=/dns.d4d.moe/
@@ -580,6 +579,7 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
+local=/dns.fizz.studio/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
 local=/dns.flightspace.net/
@@ -934,6 +934,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -1353,7 +1354,6 @@ local=/dns.thegoodsource.net/
 local=/dns.therifleman.name/
 local=/blocker.thethorsens.org/
 local=/doh.thio.me/
-local=/dns.thiz.top/
 local=/doh.tiar.app/
 local=/dot.tiar.app/
 local=/jp.tiar.app/
@@ -1414,7 +1414,6 @@ local=/httpdns.volcengineapi.com/
 local=/vorlif.org/
 local=/vtcuong.site/
 local=/dns.w3ctag.org/
-local=/dns.wahr.top/
 local=/aqua.is.my.waifu.cz/
 local=/darkness.is.my.waifu.cz/
 local=/megumin.is.my.waifu.cz/

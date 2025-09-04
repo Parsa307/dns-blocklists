@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756974900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757002740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Sep 2025 08:35 UTC
-; Version: 2025.0904.0835.30
+; Last modified: 04 Sep 2025 16:19 UTC
+; Version: 2025.0904.1619.16
 ; Syntax: RPZ
-; Number of entries: 10278
+; Number of entries: 10268
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -240,8 +240,6 @@ lawless-zone.dns.army CNAME .
 *.lawless-zone.dns.army CNAME .
 wolf-zone.dns.army CNAME .
 *.wolf-zone.dns.army CNAME .
-greenzone.v6.army CNAME .
-*.greenzone.v6.army CNAME .
 hugeph.art CNAME .
 *.hugeph.art CNAME .
 math.spotifyfans.art CNAME .
@@ -368,8 +366,6 @@ unblocksite.biz CNAME .
 *.unblocksite.biz CNAME .
 4287613382.uncork.biz CNAME .
 *.4287613382.uncork.biz CNAME .
-food.uncork.biz CNAME .
-*.food.uncork.biz CNAME .
 uproxy2.biz CNAME .
 *.uproxy2.biz CNAME .
 unblocked.black CNAME .
@@ -2610,6 +2606,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -4474,8 +4472,6 @@ uhm-idk-what-to-put-here.twilightparadox.com CNAME .
 *.uhm-idk-what-to-put-here.twilightparadox.com CNAME .
 twingate.com CNAME .
 *.twingate.com CNAME .
-twinklestarknights.com CNAME .
-*.twinklestarknights.com CNAME .
 typaza.com CNAME .
 *.typaza.com CNAME .
 u-proxy.com CNAME .
@@ -5552,8 +5548,6 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
-cynntex.fun CNAME .
-*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -9212,8 +9206,6 @@ proxyserver.rocks CNAME .
 *.proxyserver.rocks CNAME .
 dns.quiet.rocks CNAME .
 *.dns.quiet.rocks CNAME .
-edge-v6x.v6.rocks CNAME .
-*.edge-v6x.v6.rocks CNAME .
 unblockit.rsvp CNAME .
 *.unblockit.rsvp CNAME .
 sybau.alcrb.ru CNAME .
@@ -9482,6 +9474,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -9610,14 +9604,10 @@ revelio.top CNAME .
 *.revelio.top CNAME .
 dns.rootlab.top CNAME .
 *.dns.rootlab.top CNAME .
-dns.thiz.top CNAME .
-*.dns.thiz.top CNAME .
 uproxy.top CNAME .
 *.uproxy.top CNAME .
 vpnmaster.top CNAME .
 *.vpnmaster.top CNAME .
-dns.wahr.top CNAME .
-*.dns.wahr.top CNAME .
 xholgm.top CNAME .
 *.xholgm.top CNAME .
 agh.xinfeng16m.top CNAME .

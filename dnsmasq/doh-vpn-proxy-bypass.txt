@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Sep 2025 08:35 UTC
-# Version: 2025.0904.0835.30
+# Last modified: 04 Sep 2025 16:19 UTC
+# Version: 2025.0904.1619.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5139
+# Number of entries: 5134
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1017,7 +1017,6 @@ local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/dns.cybertonic.tech/
-local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -1497,6 +1496,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flashpull.com/
 local=/flashput.net/
@@ -2595,6 +2595,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -4346,7 +4347,6 @@ local=/theunblock.net/
 local=/thevpncompany.net/
 local=/thexite.net/
 local=/doh.thio.me/
-local=/dns.thiz.top/
 local=/threeproxy.net/
 local=/okwhattheflip.thuis.vlaanderen/
 local=/thundervpnwin.com/
@@ -4466,7 +4466,6 @@ local=/schoology2.twilightparadox.com/
 local=/spacetechnology.twilightparadox.com/
 local=/uhm-idk-what-to-put-here.twilightparadox.com/
 local=/twingate.com/
-local=/twinklestarknights.com/
 local=/dns.twnic.tw/
 local=/twoproxy.net/
 local=/adguard.twotigers.xyz/
@@ -4633,7 +4632,6 @@ local=/unblockyoutubefree.net/
 local=/unblockytproxy.com/
 local=/uncensoreddns.org/
 local=/4287613382.uncork.biz/
-local=/food.uncork.biz/
 local=/mathsfun.undergames.cl/
 local=/reading.undetected.lol/
 local=/block.undo.cl/
@@ -4714,8 +4712,6 @@ local=/utopianpal.com/
 local=/utunnel.io/
 local=/uvpn.me/
 local=/v.recipes/
-local=/edge-v6x.v6.rocks/
-local=/greenzone.v6.army/
 local=/dns.vaioswolke.xyz/
 local=/doh.valscosmos.com/
 local=/valuepremium.us/
@@ -4912,7 +4908,6 @@ local=/mercy.vtapeoplecounting.com/
 local=/vtcuong.site/
 local=/vyprvpn.com/
 local=/dns.w3ctag.org/
-local=/dns.wahr.top/
 local=/aqua.is.my.waifu.cz/
 local=/darkness.is.my.waifu.cz/
 local=/megumin.is.my.waifu.cz/

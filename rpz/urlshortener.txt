@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756968660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756996200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Sep 2025 06:51 UTC
-; Version: 2025.0904.0651.25
+; Last modified: 04 Sep 2025 14:30 UTC
+; Version: 2025.0904.1430.01
 ; Syntax: RPZ
-; Number of entries: 12410
+; Number of entries: 12392
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -354,8 +354,6 @@ smallurl.at CNAME .
 *.smallurl.at CNAME .
 tatt.at CNAME .
 *.tatt.at CNAME .
-tprurl.at CNAME .
-*.tprurl.at CNAME .
 twirl.at CNAME .
 *.twirl.at CNAME .
 urlcut.at CNAME .
@@ -3864,8 +3862,6 @@ urlhum.com CNAME .
 *.urlhum.com CNAME .
 urlifys.com CNAME .
 *.urlifys.com CNAME .
-urlinko.com CNAME .
-*.urlinko.com CNAME .
 urlkai.com CNAME .
 *.urlkai.com CNAME .
 urlki.com CNAME .
@@ -3978,8 +3974,6 @@ v2links.com CNAME .
 *.v2links.com CNAME .
 vanityurlshorteners.com CNAME .
 *.vanityurlshorteners.com CNAME .
-vciya.com CNAME .
-*.vciya.com CNAME .
 vd55.com CNAME .
 *.vd55.com CNAME .
 venkateswaragases.com CNAME .
@@ -4030,8 +4024,6 @@ vtity.com CNAME .
 *.vtity.com CNAME .
 vurl.com CNAME .
 *.vurl.com CNAME .
-vurlz.com CNAME .
-*.vurlz.com CNAME .
 w3dv.com CNAME .
 *.w3dv.com CNAME .
 wangzhanzhubo.com CNAME .
@@ -4074,8 +4066,6 @@ wrdsdaily.com CNAME .
 *.wrdsdaily.com CNAME .
 on.wsj.com CNAME .
 *.on.wsj.com CNAME .
-wssurl.com CNAME .
-*.wssurl.com CNAME .
 wtfurl.com CNAME .
 *.wtfurl.com CNAME .
 wuniw.com CNAME .
@@ -4646,8 +4636,6 @@ go.uv.es CNAME .
 *.go.uv.es CNAME .
 links.uv.es CNAME .
 *.links.uv.es CNAME .
-wipi.es CNAME .
-*.wipi.es CNAME .
 xgam.es CNAME .
 *.xgam.es CNAME .
 xurl.es CNAME .
@@ -8744,8 +8732,6 @@ untiny.me CNAME .
 *.untiny.me CNAME .
 uoft.me CNAME .
 *.uoft.me CNAME .
-updating.me CNAME .
-*.updating.me CNAME .
 url-shortener.me CNAME .
 *.url-shortener.me CNAME .
 urle.me CNAME .
@@ -10132,8 +10118,6 @@ vivir.pro CNAME .
 *.vivir.pro CNAME .
 wajinlong.pro CNAME .
 *.wajinlong.pro CNAME .
-wakgengs.pro CNAME .
-*.wakgengs.pro CNAME .
 xxxdwz.pro CNAME .
 *.xxxdwz.pro CNAME .
 youris.pro CNAME .
@@ -10772,8 +10756,6 @@ terasherelinks.site CNAME .
 *.terasherelinks.site CNAME .
 totopecah.site CNAME .
 *.totopecah.site CNAME .
-tt5k.site CNAME .
-*.tt5k.site CNAME .
 unshort.site CNAME .
 *.unshort.site CNAME .
 url2a.site CNAME .

@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Sep 2025 06:51 UTC
-# Version: 2025.0904.0651.25
+# Last modified: 04 Sep 2025 14:30 UTC
+# Version: 2025.0904.1430.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6205
+# Number of entries: 6196
 #
 local=/0.gp/
 local=/00m.in/
@@ -5196,7 +5196,6 @@ local=/tpc.io/
 local=/tpm.ac/
 local=/tpmr.com/
 local=/tprk.us/
-local=/tprurl.at/
 local=/tr.ee/
 local=/tr.im/
 local=/tr.link/
@@ -5260,7 +5259,6 @@ local=/tst.page/
 local=/tsta.rs/
 local=/tsz4.me/
 local=/tt.vg/
-local=/tt5k.site/
 local=/ttad.me/
 local=/ttbad.com/
 local=/tto.jp/
@@ -5389,7 +5387,6 @@ local=/uoft.me/
 local=/uom.link/
 local=/uos.cc/
 local=/up.to/
-local=/updating.me/
 local=/upfull.fr/
 local=/uplinks.co/
 local=/upmchp.us/
@@ -5481,7 +5478,6 @@ local=/urlify.cn/
 local=/urlify.link/
 local=/urlifys.com/
 local=/urlin.it/
-local=/urlinko.com/
 local=/urlinkz.me/
 local=/urlino.net/
 local=/urlis.net/
@@ -5634,7 +5630,6 @@ local=/vav.li/
 local=/vaza.me/
 local=/vbly.us/
 local=/vcgo.to/
-local=/vciya.com/
 local=/vd55.com/
 local=/vdio.pro/
 local=/vea.link/
@@ -5726,7 +5721,6 @@ local=/vturl.net/
 local=/vu.fr/
 local=/vur.me/
 local=/vurl.com/
-local=/vurlz.com/
 local=/vv.vg/
 local=/vvd.bz/
 local=/vvd.im/
@@ -5752,7 +5746,6 @@ local=/waa.ai/
 local=/waad.co/
 local=/wahoowa.net/
 local=/wajinlong.pro/
-local=/wakgengs.pro/
 local=/wal.ee/
 local=/walk.sc/
 local=/walkjc.org/
@@ -5871,7 +5864,6 @@ local=/win.gs/
 local=/win7.life/
 local=/winlynk.com/
 local=/shortener.winplaybox.in/
-local=/wipi.es/
 local=/wipp.me/
 local=/wishct.live/
 local=/wispi.ly/
@@ -5916,7 +5908,6 @@ local=/wru.kr/
 local=/ws.tc/
 local=/ws91.cn/
 local=/on.wsj.com/
-local=/wssurl.com/
 local=/wtc.la/
 local=/wtfurl.com/
 local=/wu.cz/
