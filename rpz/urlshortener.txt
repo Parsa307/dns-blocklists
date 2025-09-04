@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756938420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756968660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Sep 2025 22:27 UTC
-; Version: 2025.0903.2227.28
+; Last modified: 04 Sep 2025 06:51 UTC
+; Version: 2025.0904.0651.25
 ; Syntax: RPZ
-; Number of entries: 12432
+; Number of entries: 12410
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3720,8 +3720,6 @@ tmidao.com CNAME .
 *.tmidao.com CNAME .
 tmidaos.com CNAME .
 *.tmidaos.com CNAME .
-tokurlshortener.com CNAME .
-*.tokurlshortener.com CNAME .
 link.tomalvarez.com CNAME .
 *.link.tomalvarez.com CNAME .
 tonancos.com CNAME .
@@ -4510,8 +4508,6 @@ me2.do CNAME .
 *.me2.do CNAME .
 miurl.do CNAME .
 *.miurl.do CNAME .
-smo.do CNAME .
-*.smo.do CNAME .
 thedo.do CNAME .
 *.thedo.do CNAME .
 tiny.do CNAME .
@@ -5082,8 +5078,6 @@ m.gg CNAME .
 *.m.gg CNAME .
 njit.gg CNAME .
 *.njit.gg CNAME .
-rck.gg CNAME .
-*.rck.gg CNAME .
 rog.gg CNAME .
 *.rog.gg CNAME .
 shorten.gg CNAME .
@@ -5216,8 +5210,6 @@ rb.gy CNAME .
 *.rb.gy CNAME .
 short.gy CNAME .
 *.short.gy CNAME .
-sk.gy CNAME .
-*.sk.gy CNAME .
 ty.gy CNAME .
 *.ty.gy CNAME .
 pitt.health CNAME .
@@ -7834,8 +7826,6 @@ shortener.live CNAME .
 *.shortener.live CNAME .
 shrtxb4d.live CNAME .
 *.shrtxb4d.live CNAME .
-shss-ares.live CNAME .
-*.shss-ares.live CNAME .
 slimeteam.live CNAME .
 *.slimeteam.live CNAME .
 tdv-adm.live CNAME .
@@ -7946,8 +7936,6 @@ whatsapp4d.lol CNAME .
 *.whatsapp4d.lol CNAME .
 whatsapp8.lol CNAME .
 *.whatsapp8.lol CNAME .
-sensasi777.love CNAME .
-*.sensasi777.love CNAME .
 your.ls CNAME .
 *.your.ls CNAME .
 abso.lt CNAME .
@@ -9346,8 +9334,6 @@ statistics4u.net CNAME .
 *.statistics4u.net CNAME .
 sub2unlock.net CNAME .
 *.sub2unlock.net CNAME .
-telnet-service.net CNAME .
-*.telnet-service.net CNAME .
 tiklagit.net CNAME .
 *.tiklagit.net CNAME .
 tiny-links.net CNAME .
@@ -9938,8 +9924,6 @@ linko.page CNAME .
 *.linko.page CNAME .
 lzd.page CNAME .
 *.lzd.page CNAME .
-shp.page CNAME .
-*.shp.page CNAME .
 tst.page CNAME .
 *.tst.page CNAME .
 yh9.page CNAME .
@@ -10966,8 +10950,6 @@ medusa88.store CNAME .
 *.medusa88.store CNAME .
 pedalhub.store CNAME .
 *.pedalhub.store CNAME .
-situsslotzeus.store CNAME .
-*.situsslotzeus.store CNAME .
 tj-bet88.store CNAME .
 *.tj-bet88.store CNAME .
 link.plutonflix.stream CNAME .
@@ -11912,8 +11894,6 @@ tiny.us CNAME .
 *.tiny.us CNAME .
 u.tlht.us CNAME .
 *.u.tlht.us CNAME .
-togoto.us CNAME .
-*.togoto.us CNAME .
 toyota.us CNAME .
 *.toyota.us CNAME .
 tprk.us CNAME .
@@ -12386,8 +12366,6 @@ shortinx.xyz CNAME .
 *.shortinx.xyz CNAME .
 shortlink88.xyz CNAME .
 *.shortlink88.xyz CNAME .
-shortlinksakti.xyz CNAME .
-*.shortlinksakti.xyz CNAME .
 shortmds.xyz CNAME .
 *.shortmds.xyz CNAME .
 shortme.xyz CNAME .

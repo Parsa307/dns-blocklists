@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Sep 2025 22:27 UTC
-# Version: 2025.0903.2227.28
+# Last modified: 04 Sep 2025 06:51 UTC
+# Version: 2025.0904.0651.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6216
+# Number of entries: 6205
 #
 local=/0.gp/
 local=/00m.in/
@@ -4044,7 +4044,6 @@ local=/rbtly.com/
 local=/rbx-url.com/
 local=/rbxurl.pro/
 local=/rch.lt/
-local=/rck.gg/
 local=/rcknr.io/
 local=/rcl.ink/
 local=/rcld.io/
@@ -4325,7 +4324,6 @@ local=/sendgrid.net/
 local=/sendme.help/
 local=/sendurl.me/
 local=/senin.lol/
-local=/sensasi777.love/
 local=/seocantik.link/
 local=/seogilak.lol/
 local=/seq.vc/
@@ -4489,7 +4487,6 @@ local=/shortlink.sbs/
 local=/shortlink88.xyz/
 local=/shortlinkgenerator.com/
 local=/shortlinkpanel.com/
-local=/shortlinksakti.xyz/
 local=/shortll.com/
 local=/shortlurl.com/
 local=/shortly.cc/
@@ -4557,7 +4554,6 @@ local=/shoturl.us/
 local=/shotzon.com/
 local=/showrtner.com/
 local=/shp.ee/
-local=/shp.page/
 local=/shpze.com/
 local=/shr.gg/
 local=/shr.li/
@@ -4600,7 +4596,6 @@ local=/shrtxtus.wiki/
 local=/shrtyo.site/
 local=/shrunken.com/
 local=/shrunkin.com/
-local=/shss-ares.live/
 local=/sht.moe/
 local=/sht.wf/
 local=/shtlink.eu/
@@ -4650,9 +4645,7 @@ local=/siteco.re/
 local=/sites.kr/
 local=/siteurl.ink/
 local=/situs.bio/
-local=/situsslotzeus.store/
 local=/siz.la/
-local=/sk.gy/
 local=/sk.news/
 local=/skimmth.is/
 local=/s.skip.bh/
@@ -4707,7 +4700,6 @@ local=/wts3.smhi.se/
 local=/smlfy.com/
 local=/smlk.es/
 local=/smll.cc/
-local=/smo.do/
 local=/smoner.com/
 local=/smr.sh/
 local=/smr.to/
@@ -4971,7 +4963,6 @@ local=/telegramviral.com/
 local=/telegramviral.online/
 local=/teleko.me/
 local=/tellurl.com/
-local=/telnet-service.net/
 local=/www.temporary-url.com/
 local=/temu.to/
 local=/ter.li/
@@ -5168,12 +5159,10 @@ local=/to.ly/
 local=/to8.cc/
 local=/toclick.link/
 local=/tog.li/
-local=/togoto.us/
 local=/tohle.de/
 local=/toi.in/
 local=/tokogenie.online/
 local=/tokopedia.link/
-local=/tokurlshortener.com/
 local=/toliveal.ie/
 local=/link.tomalvarez.com/
 local=/tomasz.top/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Sep 2025 00:03 UTC
-# Version: 2025.0904.0003.00
+# Last modified: 04 Sep 2025 08:28 UTC
+# Version: 2025.0904.0828.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10843
+# Number of entries: 10832
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -4720,6 +4720,7 @@ local=/ns349743.ip-91-121-106.eu/
 local=/ipacrack.com/
 local=/ipalibrary.me/
 local=/ipboot.xyz/
+local=/speedtest.iperson.xyz/
 local=/tracker.iperson.xyz/
 local=/tracker.ipfsscan.io/
 local=/iphonebooks.info/
@@ -7635,7 +7636,6 @@ local=/scenepirates.com/
 local=/scenerace.net/
 local=/scenesource.me/
 local=/scenespot.net/
-local=/sceneunderground.org/
 local=/schoener-fernsehen.com/
 local=/sci-hub.ru/
 local=/sci-hub.se/
@@ -7867,7 +7867,6 @@ local=/sitostreaming.com/
 local=/sittingonclouds.net/
 local=/siyahmelek.pro/
 local=/sjcrack.com/
-local=/skidrow-games.com/
 local=/skidrowcodex.net/
 local=/skidrowcodexgames.com/
 local=/skidrowcrack.com/
@@ -7901,7 +7900,6 @@ local=/skytorrents.lol/
 local=/skytorrents.to/
 local=/tracker.skyts.cn/
 local=/sladinki007.net/
-local=/slam.ws/
 local=/sleek.to/
 local=/vibe.sleepyinternetfun.xyz/
 local=/slidemovies.org/
@@ -7966,8 +7964,6 @@ local=/soaperpage.com/
 local=/soapertv.cc/
 local=/soapgate.org/
 local=/socagol.tv/
-local=/soccerbite.net/
-local=/soccerinhd.com/
 local=/socceron.name/
 local=/socceron.org/
 local=/socceronline.me/
@@ -8537,7 +8533,6 @@ local=/tantifilm.exchange/
 local=/tantifilm.fm/
 local=/tantifilm.foundation/
 local=/tantifilm.fyi/
-local=/tantifilm.hair/
 local=/tantifilm.help/
 local=/tantifilm.homes/
 local=/tantifilm.icu/
@@ -8565,16 +8560,13 @@ local=/tantifilm.sbs/
 local=/tantifilm.shop/
 local=/tantifilm.skin/
 local=/tantifilm.space/
-local=/tantifilm.stream/
 local=/tantifilm.tech/
-local=/tantifilm.top/
 local=/tantifilm.tv/
 local=/tantifilm.uno/
 local=/tantifilm.vg/
 local=/tantifilm.vip/
 local=/tantifilm.watch/
 local=/tantifilm.ws/
-local=/tantifilm.xyz/
 local=/tantifilm.zone/
 local=/tantinuovo.com/
 local=/taodung.com/
@@ -8796,7 +8788,6 @@ local=/thesport.live/
 local=/thesports1.org/
 local=/thestreameast.biz/
 local=/thestreameast.ru/
-local=/thestreameast.st/
 local=/thestreameast.su/
 local=/thesurgeons.org/
 local=/theswarm.me/
@@ -8971,7 +8962,6 @@ local=/torrent411.to/
 local=/torrent4you.me/
 local=/torrent4you.org/
 local=/torrent9.biz/
-local=/torrent9.blue/
 local=/torrent9.fm/
 local=/torrent9.games/
 local=/torrent9.gg/
@@ -9029,7 +9019,6 @@ local=/torrentgalaxy.mx/
 local=/torrentgalaxy.org/
 local=/torrentgalaxy.to/
 local=/torrentgalaxy-official.site/
-local=/torrentgamers.net/
 local=/torrenthaja.com/
 local=/torrenther.com/
 local=/torrenthound.com/

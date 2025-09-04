@@ -574,6 +574,13 @@
       }
     },
     {
+      "PK": "blink.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.blue",
       "action": {
         "do": 0,

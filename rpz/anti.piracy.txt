@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756944180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756974480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Sep 2025 00:03 UTC
-; Version: 2025.0904.0003.00
+; Last modified: 04 Sep 2025 08:28 UTC
+; Version: 2025.0904.0828.08
 ; Syntax: RPZ
-; Number of entries: 21686
+; Number of entries: 21664
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -841,8 +841,6 @@ layarkaca21.blue CNAME .
 *.layarkaca21.blue CNAME .
 putlocker.blue CNAME .
 *.putlocker.blue CNAME .
-torrent9.blue CNAME .
-*.torrent9.blue CNAME .
 newalbumreleases.unblockit.blue CNAME .
 *.newalbumreleases.unblockit.blue CNAME .
 vegamovies.blue CNAME .
@@ -6529,8 +6527,6 @@ sitostreaming.com CNAME .
 *.sitostreaming.com CNAME .
 sjcrack.com CNAME .
 *.sjcrack.com CNAME .
-skidrow-games.com CNAME .
-*.skidrow-games.com CNAME .
 skidrowcodexgames.com CNAME .
 *.skidrowcodexgames.com CNAME .
 skidrowcrack.com CNAME .
@@ -6587,8 +6583,6 @@ soap2dayfree.com CNAME .
 *.soap2dayfree.com CNAME .
 soaperpage.com CNAME .
 *.soaperpage.com CNAME .
-soccerinhd.com CNAME .
-*.soccerinhd.com CNAME .
 soccerstreamlinks.com CNAME .
 *.soccerstreamlinks.com CNAME .
 soccerstreamshd.com CNAME .
@@ -9311,8 +9305,6 @@ ilgeniodellostreaming.hair CNAME .
 *.ilgeniodellostreaming.hair CNAME .
 olamovies.hair CNAME .
 *.olamovies.hair CNAME .
-tantifilm.hair CNAME .
-*.tantifilm.hair CNAME .
 123movies.haus CNAME .
 *.123movies.haus CNAME .
 altadefinizione.haus CNAME .
@@ -13709,8 +13701,6 @@ snowtigers.net CNAME .
 *.snowtigers.net CNAME .
 snsbd.net CNAME .
 *.snsbd.net CNAME .
-soccerbite.net CNAME .
-*.soccerbite.net CNAME .
 soccerstreams.net CNAME .
 *.soccerstreams.net CNAME .
 sockshare.net CNAME .
@@ -13913,8 +13903,6 @@ torrenter.net CNAME .
 *.torrenter.net CNAME .
 torrentfilmes.net CNAME .
 *.torrentfilmes.net CNAME .
-torrentgamers.net CNAME .
-*.torrentgamers.net CNAME .
 torrentialstorm.net CNAME .
 *.torrentialstorm.net CNAME .
 torrentkitty.net CNAME .
@@ -15955,8 +15943,6 @@ sceneaccess.org CNAME .
 *.sceneaccess.org CNAME .
 scenehd.org CNAME .
 *.scenehd.org CNAME .
-sceneunderground.org CNAME .
-*.sceneunderground.org CNAME .
 sdbits.org CNAME .
 *.sdbits.org CNAME .
 seeders-paradise.org CNAME .
@@ -18515,8 +18501,6 @@ sci-hub.st CNAME .
 *.sci-hub.st CNAME .
 free.open.tracker.0.starka.st CNAME .
 *.free.open.tracker.0.starka.st CNAME .
-thestreameast.st CNAME .
-*.thestreameast.st CNAME .
 vegamovies.st CNAME .
 *.vegamovies.st CNAME .
 yts.st CNAME .
@@ -18599,8 +18583,6 @@ sportshub.stream CNAME .
 *.sportshub.stream CNAME .
 streamingcommunity.stream CNAME .
 *.streamingcommunity.stream CNAME .
-tantifilm.stream CNAME .
-*.tantifilm.stream CNAME .
 tennis.stream CNAME .
 *.tennis.stream CNAME .
 vostfr.stream CNAME .
@@ -19615,8 +19597,6 @@ streamhunters.top CNAME .
 *.streamhunters.top CNAME .
 strimsy.top CNAME .
 *.strimsy.top CNAME .
-tantifilm.top CNAME .
-*.tantifilm.top CNAME .
 tch1996.top CNAME .
 *.tch1996.top CNAME .
 thedaddy.top CNAME .
@@ -21183,8 +21163,6 @@ se7en.ws CNAME .
 *.se7en.ws CNAME .
 serials.ws CNAME .
 *.serials.ws CNAME .
-slam.ws CNAME .
-*.slam.ws CNAME .
 softarchive.ws CNAME .
 *.softarchive.ws CNAME .
 stream2watch.ws CNAME .
@@ -21443,6 +21421,8 @@ ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
+speedtest.iperson.xyz CNAME .
+*.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .
@@ -21575,8 +21555,6 @@ streamonsport28.xyz CNAME .
 *.streamonsport28.xyz CNAME .
 streamwoop.xyz CNAME .
 *.streamwoop.xyz CNAME .
-tantifilm.xyz CNAME .
-*.tantifilm.xyz CNAME .
 teamberga.xyz CNAME .
 *.teamberga.xyz CNAME .
 teatv.xyz CNAME .
