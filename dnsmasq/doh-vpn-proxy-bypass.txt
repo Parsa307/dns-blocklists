@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Sep 2025 16:14 UTC
-# Version: 2025.0903.1614.01
+# Last modified: 04 Sep 2025 00:09 UTC
+# Version: 2025.0904.0009.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4748
+# Number of entries: 4747
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1016,6 +1016,7 @@ local=/cyberghostvpn.com/
 local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
+local=/dns.cybertonic.tech/
 local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
@@ -1312,7 +1313,6 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
-local=/gustamadh.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
@@ -1350,7 +1350,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1497,6 +1496,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flashpull.com/
 local=/flashput.net/
@@ -2595,6 +2595,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -3036,9 +3037,7 @@ local=/polisitogel.living/
 local=/polisitogel.luxe/
 local=/polisitogel.show/
 local=/polisitogel.webcam/
-local=/science-exp.port0.org/
 local=/doh.port53.dk/
-local=/croze.port82.net/
 local=/portalssh.com/
 local=/dns.porteii.com/
 local=/portmap.io/

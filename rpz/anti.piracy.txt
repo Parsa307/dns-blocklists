@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756915560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756944180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Sep 2025 16:06 UTC
-; Version: 2025.0903.1606.23
+; Last modified: 04 Sep 2025 00:03 UTC
+; Version: 2025.0904.0003.00
 ; Syntax: RPZ
-; Number of entries: 21712
+; Number of entries: 21686
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -4401,6 +4401,8 @@ fzmovies-series.com CNAME .
 *.fzmovies-series.com CNAME .
 gadget-vault.com CNAME .
 *.gadget-vault.com CNAME .
+yuptracker.gaijinent.com CNAME .
+*.yuptracker.gaijinent.com CNAME .
 galaxyaudiobook.com CNAME .
 *.galaxyaudiobook.com CNAME .
 game-2u.com CNAME .
@@ -5989,8 +5991,6 @@ planete-lolo.com CNAME .
 *.planete-lolo.com CNAME .
 platinmods.com CNAME .
 *.platinmods.com CNAME .
-playhydrax.com CNAME .
-*.playhydrax.com CNAME .
 playtvgo.com CNAME .
 *.playtvgo.com CNAME .
 playurbano.com CNAME .
@@ -6161,8 +6161,6 @@ qvvo.com CNAME .
 *.qvvo.com CNAME .
 qwemovies.com CNAME .
 *.qwemovies.com CNAME .
-r123movie.com CNAME .
-*.r123movie.com CNAME .
 racing-underground.com CNAME .
 *.racing-underground.com CNAME .
 media.radiantbd.com CNAME .
@@ -6235,8 +6233,6 @@ redbeltmovie.com CNAME .
 *.redbeltmovie.com CNAME .
 reddit-soccerstreams.com CNAME .
 *.reddit-soccerstreams.com CNAME .
-redditnhlstreams.com CNAME .
-*.redditnhlstreams.com CNAME .
 redvido.com CNAME .
 *.redvido.com CNAME .
 dpiui.reedlan.com CNAME .
@@ -6289,8 +6285,6 @@ rlsbb.com CNAME .
 *.rlsbb.com CNAME .
 rlsdb.com CNAME .
 *.rlsdb.com CNAME .
-rnbastreams.com CNAME .
-*.rnbastreams.com CNAME .
 roarmediazone.com CNAME .
 *.roarmediazone.com CNAME .
 rochestergroove.com CNAME .
@@ -10947,8 +10941,6 @@ rarbg.live CNAME .
 *.rarbg.live CNAME .
 realstation.live CNAME .
 *.realstation.live CNAME .
-redditmlbstreams.live CNAME .
-*.redditmlbstreams.live CNAME .
 rojadirectaenhd.live CNAME .
 *.rojadirectaenhd.live CNAME .
 fs.satrong.live CNAME .
@@ -11669,8 +11661,6 @@ putlocker123.me CNAME .
 *.putlocker123.me CNAME .
 qatarstreams.me CNAME .
 *.qatarstreams.me CNAME .
-9.rarbg.me CNAME .
-*.9.rarbg.me CNAME .
 repack.me CNAME .
 *.repack.me CNAME .
 tracker.revolutiontt.me CNAME .
@@ -11737,6 +11727,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tarjetaroja.me CNAME .
@@ -13471,8 +13463,6 @@ pirate-bays.net CNAME .
 *.pirate-bays.net CNAME .
 pirate-share.net CNAME .
 *.pirate-share.net CNAME .
-piratebay-proxy.net CNAME .
-*.piratebay-proxy.net CNAME .
 piratebay-proxylist.net CNAME .
 *.piratebay-proxylist.net CNAME .
 piratebayorg.net CNAME .
@@ -13483,12 +13473,8 @@ piratecity.net CNAME .
 *.piratecity.net CNAME .
 pirateday.net CNAME .
 *.pirateday.net CNAME .
-piratepiratepirate.net CNAME .
-*.piratepiratepirate.net CNAME .
 pirateproxy.net CNAME .
 *.pirateproxy.net CNAME .
-pirateunblocker.net CNAME .
-*.pirateunblocker.net CNAME .
 pirvox.net CNAME .
 *.pirvox.net CNAME .
 bt.planetq.net CNAME .
@@ -13577,8 +13563,6 @@ rdconlinebd.net CNAME .
 *.rdconlinebd.net CNAME .
 realfiles.net CNAME .
 *.realfiles.net CNAME .
-redditnflstreams.net CNAME .
-*.redditnflstreams.net CNAME .
 ica1616.redirectme.net CNAME .
 *.ica1616.redirectme.net CNAME .
 marshilltorrents.redirectme.net CNAME .
@@ -15929,8 +15913,6 @@ rarbgweb.org CNAME .
 *.rarbgweb.org CNAME .
 rarewares.org CNAME .
 *.rarewares.org CNAME .
-redditnbastreams.org CNAME .
-*.redditnbastreams.org CNAME .
 redskunk.org CNAME .
 *.redskunk.org CNAME .
 redump.org CNAME .
@@ -19305,8 +19287,6 @@ rarbg.to CNAME .
 *.rarbg.to CNAME .
 rarbggo.to CNAME .
 *.rarbggo.to CNAME .
-rarbgo.to CNAME .
-*.rarbgo.to CNAME .
 rarbgproxy.to CNAME .
 *.rarbgproxy.to CNAME .
 rargb.to CNAME .
@@ -20121,8 +20101,6 @@ rojadirecta.tv CNAME .
 *.rojadirecta.tv CNAME .
 rojadirectatv.tv CNAME .
 *.rojadirectatv.tv CNAME .
-rojatv.tv CNAME .
-*.rojatv.tv CNAME .
 roomba.tv CNAME .
 *.roomba.tv CNAME .
 rooomba.tv CNAME .
@@ -20935,8 +20913,6 @@ flixtor.win CNAME .
 *.flixtor.win CNAME .
 piratebays.win CNAME .
 *.piratebays.win CNAME .
-pirateproxy.win CNAME .
-*.pirateproxy.win CNAME .
 rakettv.win CNAME .
 *.rakettv.win CNAME .
 seriesvault.win CNAME .
@@ -21467,8 +21443,6 @@ ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
-speedtest.iperson.xyz CNAME .
-*.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .
