@@ -308,7 +308,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 825251 domains/hosts - 91695 compressed hosts - 695170 compressed domains
+**Entries:** 820784 domains/hosts - 91199 compressed hosts - 705963 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
