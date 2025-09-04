@@ -216,6 +216,9 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 > **Windows/XBox:**          
 > Some Microsoft trackers are blocked in Ultimate, which lead to restrictions, e.g. Windows Spotlight, XBox Live Achievements Activity History and others. For details and which domains must be unblocked for which function, see: [Microsoft Tracker](share/microsoft.txt).
 >                   
+> **Location and IP trackers:**
+> Certain location and IP trackers used by websites to identify or monitor your IP address and geographic location are blocked. This enhances privacy but may lead to issues such as incorrect regional settings, additional CAPTCHAs, or reduced website functionality. These trackers are commonly employed for hidden analytics and targeted advertising.
+>                    
 >**Miscellaneous:**          
 > Details on other known issues can be found [here](share/ultimate-known-issues.txt).  
                    
