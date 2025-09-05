@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Sep 2025 14:13 UTC
-# Version: 2025.0901.1413.22
+# Last modified: 05 Sep 2025 14:04 UTC
+# Version: 2025.0905.1404.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 363
+# Number of entries: 367
 #
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -113,12 +113,12 @@ local=/analytics-test.tiktok.com/
 local=/analytics-useast2a.tiktok.com/
 local=/analytics-v6.tiktok.com/
 local=/business-api.tiktok.com/
-local=/p0-common-image-private-useastred.eu.tiktok.com/
 local=/ads.in.tiktok.com/
 local=/location.tiktok.com/
 local=/location-i18n.tiktok.com/
 local=/location-sg.tiktok.com/
 local=/location-va.tiktok.com/
+local=/log22-normal-useast1a.tiktok.com/
 local=/mcs-i18n.tiktok.com/
 local=/mcs-va.tiktok.com/
 local=/mssdk-i18n.tiktok.com/
@@ -210,6 +210,7 @@ local=/log32-normal-alisg.tiktokv.com/
 local=/log32-normal-no1a.tiktokv.eu/
 local=/log32-normal-useast1a.tiktokv.com/
 local=/log32-normal-useast2a.tiktokv.com/
+local=/log32-normal-zr.tiktokv.com/
 local=/log53-normal-c-useast1a.tiktokv.com/
 local=/log58-normal.tiktokv.com/
 local=/log58-normal-alisg.tiktokv.com/
@@ -280,6 +281,7 @@ local=/rtlog19-normal.tiktokv.com/
 local=/rtlog19-normal-alisg.tiktokv.com/
 local=/rtlog19-normal-useast1a.tiktokv.com/
 local=/rtlog19-normal-useast2a.tiktokv.com/
+local=/rtlog19-normal-zr-useast1a.tiktokv.com/
 local=/rtlog22-applog-useast1a.tiktokv.com/
 local=/rtlog22-applog-useast2a.tiktokv.com/
 local=/rtlog22-normal.tiktokv.com/
@@ -290,6 +292,8 @@ local=/rtlog31-normal.tiktokv.com/
 local=/rtlog31-normal-alisg.tiktokv.com/
 local=/rtlog31-normal-useast1a.tiktokv.com/
 local=/rtlog31-normal-useast2a.tiktokv.com/
+local=/rtlog32-normal-alisg.tiktokv.com/
+local=/rtlog32-normal-zr.tiktokv.com/
 local=/rtlog58-normal.tiktokv.com/
 local=/rtlog58-normal-alisg.tiktokv.com/
 local=/rtlog58-normal-useast1a.tiktokv.com/

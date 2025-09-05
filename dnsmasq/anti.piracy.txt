@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 09:17 UTC
-# Version: 2025.0905.0917.48
+# Last modified: 05 Sep 2025 16:23 UTC
+# Version: 2025.0905.1623.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10821
+# Number of entries: 10828
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3658,10 +3658,12 @@ local=/fmovies.llc/
 local=/fmovies.one/
 local=/fmovies.org/
 local=/fmovies.pub/
+local=/fmovies.ro/
 local=/fmovies.sc/
 local=/fmovies.se/
 local=/fmovies.taxi/
 local=/fmovies.to/
+local=/fmovies.today/
 local=/fmovies.website/
 local=/fmovies.world/
 local=/fmovies.wtf/
@@ -4366,6 +4368,7 @@ local=/hdfull.lv/
 local=/hdhome.org/
 local=/hdhub4u.family/
 local=/hdhub4u.gifts/
+local=/hdhub4u.menu/
 local=/hdhublist.com/
 local=/hdlivemovies.com/
 local=/hdm.to/
@@ -8988,6 +8991,7 @@ local=/torrentchannel.com/
 local=/torrentchile.org/
 local=/torrentcity.net/
 local=/torrentcity.pl/
+local=/torrentclub.online/
 local=/torrentclub.space/
 local=/torrentday.com/
 local=/torrentdb.li/
@@ -9677,6 +9681,7 @@ local=/vcdquality.com/
 local=/vce-besplatno.ru/
 local=/vddek.fun/
 local=/vddeq.pro/
+local=/vddi.mom/
 local=/vdeke.fun/
 local=/vdiiy.space/
 local=/vdomela.com/
@@ -10086,6 +10091,7 @@ local=/vkstreaming.net/
 local=/vkstreaming.org/
 local=/vkstreamingfilm.biz/
 local=/vkstreamingfilm.com/
+local=/vldeq.com/
 local=/vmovee.cc/
 local=/vmovee.me/
 local=/vmovee.watch/
@@ -10148,6 +10154,7 @@ local=/vrpirates.wiki/
 local=/vrtor.ru/
 local=/vstorrent.org/
 local=/vudeo.io/
+local=/vudiy.fun/
 local=/git.vulnix.sh/
 local=/tracker.vulnix.sh/
 local=/vumeto.com/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Sep 2025 14:13 UTC
-# Version: 2025.0901.1413.22
+# Last modified: 05 Sep 2025 14:04 UTC
+# Version: 2025.0905.1404.25
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 368
+# Number of entries: 374
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -118,12 +118,12 @@
 0.0.0.0 analytics-useast2a.tiktok.com
 0.0.0.0 analytics-v6.tiktok.com
 0.0.0.0 business-api.tiktok.com
-0.0.0.0 p0-common-image-private-useastred.eu.tiktok.com
 0.0.0.0 ads.in.tiktok.com
 0.0.0.0 location.tiktok.com
 0.0.0.0 location-i18n.tiktok.com
 0.0.0.0 location-sg.tiktok.com
 0.0.0.0 location-va.tiktok.com
+0.0.0.0 log22-normal-useast1a.tiktok.com
 0.0.0.0 mcs-i18n.tiktok.com
 0.0.0.0 mcs-va.tiktok.com
 0.0.0.0 mssdk-i18n.tiktok.com
@@ -215,6 +215,7 @@
 0.0.0.0 log32-normal-no1a.tiktokv.eu
 0.0.0.0 log32-normal-useast1a.tiktokv.com
 0.0.0.0 log32-normal-useast2a.tiktokv.com
+0.0.0.0 log32-normal-zr.tiktokv.com
 0.0.0.0 log53-normal-c-useast1a.tiktokv.com
 0.0.0.0 log58-normal.tiktokv.com
 0.0.0.0 log58-normal-alisg.tiktokv.com
@@ -230,6 +231,8 @@
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs-ttp2.tiktokv.us
 0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 chunderw-vpc-gll-stage-us2-tnx.mcs-va.tiktokv.com
+0.0.0.0 customers-data-repository-postgresmx.mcs-va.tiktokv.com
 0.0.0.0 mcs-va-useast2a.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon.tiktokv.eu
@@ -285,6 +288,7 @@
 0.0.0.0 rtlog19-normal-alisg.tiktokv.com
 0.0.0.0 rtlog19-normal-useast1a.tiktokv.com
 0.0.0.0 rtlog19-normal-useast2a.tiktokv.com
+0.0.0.0 rtlog19-normal-zr-useast1a.tiktokv.com
 0.0.0.0 rtlog22-applog-useast1a.tiktokv.com
 0.0.0.0 rtlog22-applog-useast2a.tiktokv.com
 0.0.0.0 rtlog22-normal.tiktokv.com
@@ -295,6 +299,8 @@
 0.0.0.0 rtlog31-normal-alisg.tiktokv.com
 0.0.0.0 rtlog31-normal-useast1a.tiktokv.com
 0.0.0.0 rtlog31-normal-useast2a.tiktokv.com
+0.0.0.0 rtlog32-normal-alisg.tiktokv.com
+0.0.0.0 rtlog32-normal-zr.tiktokv.com
 0.0.0.0 rtlog58-normal.tiktokv.com
 0.0.0.0 rtlog58-normal-alisg.tiktokv.com
 0.0.0.0 rtlog58-normal-useast1a.tiktokv.com

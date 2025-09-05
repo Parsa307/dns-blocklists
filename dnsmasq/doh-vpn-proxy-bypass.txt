@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 09:36 UTC
-# Version: 2025.0905.0936.12
+# Last modified: 05 Sep 2025 16:30 UTC
+# Version: 2025.0905.1630.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5716
+# Number of entries: 5723
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -897,6 +897,7 @@ local=/gurt.neikos.com.mx/
 local=/hicluzelol.neikos.com.mx/
 local=/dns.netraptor.com.au/
 local=/new-proxy.com.de/
+local=/mrcrossmathhelp.oresumodaopera.com.br/
 local=/proxy.com.de/
 local=/proxy-service.com.de/
 local=/proxy-site.com.de/
@@ -917,6 +918,7 @@ local=/surfshark.com.au/
 local=/unblock-proxy.com.de/
 local=/doh.viatech.com.tw/
 local=/webproxy.com.de/
+local=/dogebynirb.winkel.com.ar/
 local=/dns.comeonjames.club/
 local=/dns.comff.net/
 local=/commonapp.college/
@@ -1016,8 +1018,6 @@ local=/cyberghostvpn.com/
 local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
-local=/dns.cybertonic.tech/
-local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -1079,6 +1079,9 @@ local=/adguard.lege.despagne.net/
 local=/doh-primary-pool.detoxifypornblocker.com/
 local=/dev-ngrok.com/
 local=/dns.dev-umbrellagov.com/
+local=/nirbytesp.developer.li/
+local=/nirdogepx.developer.li/
+local=/sinckfladogenirb.developer.li/
 local=/learn.devmon.ru/
 local=/study.know.devreler.com/
 local=/dewassh.net/
@@ -1261,6 +1264,7 @@ local=/dnswebvsn.com/
 local=/do-39574-tr.xyz/
 local=/googolclasroom.dob.jp/
 local=/pleaseworkughhfd.dob.jp/
+local=/dv4.dogenetwork.cc/
 local=/doh.beauty/
 local=/doh.buzz/
 local=/doh.li/
@@ -1497,6 +1501,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flashpull.com/
 local=/flashput.net/
@@ -2488,6 +2493,7 @@ local=/dns.mikeliu.org/
 local=/mikezhang.xyz/
 local=/dns.milkpie.one/
 local=/farmhouse.mills-family.us/
+local=/craftmaine.mine.bz/
 local=/aiden-major.minecraftnoob.com/
 local=/hihihi.minecraftnoob.com/
 local=/insta.minecraftnoob.com/
@@ -4752,6 +4758,7 @@ local=/stopcensoring.me/
 local=/stormproxies.com/
 local=/dns.stormycloud.org/
 local=/whatisfunanymore.com.strangled.net/
+local=/squidward.strangled.net/
 local=/dns.strassmair.org/
 local=/streamvia.com/
 local=/streamvpn.com/

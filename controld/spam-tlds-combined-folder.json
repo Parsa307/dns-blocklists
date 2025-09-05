@@ -3556,6 +3556,13 @@
       }
     },
     {
+      "PK": "*.menu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "metahub.space",
       "action": {
         "do": 1,

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757063760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757089380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Sep 2025 09:16 UTC
-; Version: 2025.0905.0916.21
+; Last modified: 05 Sep 2025 16:23 UTC
+; Version: 2025.0905.1623.19
 ; Syntax: RPZ
-; Number of entries: 130078
+; Number of entries: 130098
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -3765,6 +3765,12 @@ jasus.bot CNAME .
 *.jasus.bot CNAME .
 web3casino.bot CNAME .
 *.web3casino.bot CNAME .
+anaboytoto.boutique CNAME .
+*.anaboytoto.boutique CNAME .
+anaboytotopola.boutique CNAME .
+*.anaboytotopola.boutique CNAME .
+anoboytotomacau.boutique CNAME .
+*.anoboytotomacau.boutique CNAME .
 tepat4d.boutique CNAME .
 *.tepat4d.boutique CNAME .
 bet.br CNAME .
@@ -32853,6 +32859,8 @@ big88.com CNAME .
 *.big88.com CNAME .
 big88slots.com CNAME .
 *.big88slots.com CNAME .
+biganslotclub.com CNAME .
+*.biganslotclub.com CNAME .
 bigazart.com CNAME .
 *.bigazart.com CNAME .
 bigbangcasinor.com CNAME .
@@ -49565,6 +49573,8 @@ jogar9.com CNAME .
 *.jogar9.com CNAME .
 jogarcasinoportugal.com CNAME .
 *.jogarcasinoportugal.com CNAME .
+jogjatotorame.com CNAME .
+*.jogjatotorame.com CNAME .
 jogo004f.com CNAME .
 *.jogo004f.com CNAME .
 jogo005f.com CNAME .
@@ -77265,6 +77275,8 @@ akhirnya.id CNAME .
 *.akhirnya.id CNAME .
 bakul.id CNAME .
 *.bakul.id CNAME .
+batamshop.id CNAME .
+*.batamshop.id CNAME .
 beritacasino.id CNAME .
 *.beritacasino.id CNAME .
 betsymoore.biz.id CNAME .
@@ -81119,6 +81131,8 @@ gameofthronesslotscasino.lol CNAME .
 *.gameofthronesslotscasino.lol CNAME .
 gaulselow.lol CNAME .
 *.gaulselow.lol CNAME .
+gelora188h.lol CNAME .
+*.gelora188h.lol CNAME .
 gem88.lol CNAME .
 *.gem88.lol CNAME .
 goldennuggetcasino1.lol CNAME .
@@ -88139,6 +88153,8 @@ zetcasino.one CNAME .
 *.zetcasino.one CNAME .
 1xbet.onl CNAME .
 *.1xbet.onl CNAME .
+anoboytoto.onl CNAME .
+*.anoboytoto.onl CNAME .
 betting.onl CNAME .
 *.betting.onl CNAME .
 crowncasino.onl CNAME .
@@ -103543,6 +103559,8 @@ gbapp.site CNAME .
 *.gbapp.site CNAME .
 gbcaoldcasino666pmys.site CNAME .
 *.gbcaoldcasino666pmys.site CNAME .
+gelora188g.site CNAME .
+*.gelora188g.site CNAME .
 gemgemi.site CNAME .
 *.gemgemi.site CNAME .
 gemi99alt.site CNAME .
@@ -105335,6 +105353,8 @@ free-casino-start.space CNAME .
 *.free-casino-start.space CNAME .
 fresh-casino1.space CNAME .
 *.fresh-casino1.space CNAME .
+gelora188g.space CNAME .
+*.gelora188g.space CNAME .
 glory-casino-bangladesh.space CNAME .
 *.glory-casino-bangladesh.space CNAME .
 goldencity.space CNAME .

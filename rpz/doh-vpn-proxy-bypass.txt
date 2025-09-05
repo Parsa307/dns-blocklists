@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757064960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757089800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Sep 2025 09:36 UTC
-; Version: 2025.0905.0936.12
+; Last modified: 05 Sep 2025 16:30 UTC
+; Version: 2025.0905.1630.47
 ; Syntax: RPZ
-; Number of entries: 11432
+; Number of entries: 11446
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -224,6 +224,8 @@ visit.sistemasplenario.com.ar CNAME .
 *.visit.sistemasplenario.com.ar CNAME .
 doge.sundblad.com.ar CNAME .
 *.doge.sundblad.com.ar CNAME .
+dogebynirb.winkel.com.ar CNAME .
+*.dogebynirb.winkel.com.ar CNAME .
 nice.noviolencia.ar CNAME .
 *.nice.noviolencia.ar CNAME .
 keencalc.ivc.org.ar CNAME .
@@ -380,6 +382,8 @@ adguard.gbrossi.com.br CNAME .
 *.adguard.gbrossi.com.br CNAME .
 grid.brain.marcenes.com.br CNAME .
 *.grid.brain.marcenes.com.br CNAME .
+mrcrossmathhelp.oresumodaopera.com.br CNAME .
+*.mrcrossmathhelp.oresumodaopera.com.br CNAME .
 chat.digimaster.srv.br CNAME .
 *.chat.digimaster.srv.br CNAME .
 mabuktogel.builders CNAME .
@@ -398,6 +402,8 @@ unblocked.buzz CNAME .
 *.unblocked.buzz CNAME .
 doh.datahata.by CNAME .
 *.doh.datahata.by CNAME .
+craftmaine.mine.bz CNAME .
+*.craftmaine.mine.bz CNAME .
 dns.npe.bz CNAME .
 *.dns.npe.bz CNAME .
 theproxy.bz CNAME .
@@ -490,6 +496,8 @@ japan.dnsovertor.cc CNAME .
 *.japan.dnsovertor.cc CNAME .
 seoul.dnsovertor.cc CNAME .
 *.seoul.dnsovertor.cc CNAME .
+dv4.dogenetwork.cc CNAME .
+*.dv4.dogenetwork.cc CNAME .
 dns.flymc.cc CNAME .
 *.dns.flymc.cc CNAME .
 www-proxy.formen.cc CNAME .
@@ -6712,8 +6720,6 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
-cynntex.fun CNAME .
-*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -7530,6 +7536,12 @@ lol.skibiditoi.lat CNAME .
 *.lol.skibiditoi.lat CNAME .
 vpn.lat CNAME .
 *.vpn.lat CNAME .
+nirbytesp.developer.li CNAME .
+*.nirbytesp.developer.li CNAME .
+nirdogepx.developer.li CNAME .
+*.nirdogepx.developer.li CNAME .
+sinckfladogenirb.developer.li CNAME .
+*.sinckfladogenirb.developer.li CNAME .
 doh.li CNAME .
 *.doh.li CNAME .
 study.tests.fiat500.li CNAME .
@@ -8922,6 +8934,8 @@ dns.stevenz.net CNAME .
 *.dns.stevenz.net CNAME .
 whatisfunanymore.com.strangled.net CNAME .
 *.whatisfunanymore.com.strangled.net CNAME .
+squidward.strangled.net CNAME .
+*.squidward.strangled.net CNAME .
 doh.sunoaki.net CNAME .
 *.doh.sunoaki.net CNAME .
 sunvpn.net CNAME .
@@ -10640,6 +10654,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -10668,8 +10684,6 @@ jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
 *.jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
-dns.cybertonic.tech CNAME .
-*.dns.cybertonic.tech CNAME .
 dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 easyproxy.tech CNAME .
