@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757002740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757030940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Sep 2025 16:19 UTC
-; Version: 2025.0904.1619.16
+; Last modified: 05 Sep 2025 00:09 UTC
+; Version: 2025.0905.0009.53
 ; Syntax: RPZ
-; Number of entries: 10268
+; Number of entries: 10260
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -608,8 +608,6 @@ surfshark.ch CNAME .
 *.surfshark.ch CNAME .
 switch.ch CNAME .
 *.switch.ch CNAME .
-tststststststststststststststststststststs.zavoj.ch CNAME .
-*.tststststststststststststststststststststs.zavoj.ch CNAME .
 adguard.ruby.ci CNAME .
 *.adguard.ruby.ci CNAME .
 onion.city CNAME .
@@ -2606,8 +2604,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -4938,8 +4934,6 @@ zoogvpn.com CNAME .
 *.zoogvpn.com CNAME .
 calculus.zothow.com CNAME .
 *.calculus.zothow.com CNAME .
-diagnostics.zothow.com CNAME .
-*.diagnostics.zothow.com CNAME .
 zwyr157wwiu6eior.com CNAME .
 *.zwyr157wwiu6eior.com CNAME .
 httpdns.zybang.com CNAME .
@@ -5548,6 +5542,8 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
+cynntex.fun CNAME .
+*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -9474,8 +9470,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -9504,8 +9498,6 @@ jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
 *.jprivatelink-makingcomplicatedasdllaksdjfldksafj.root.sx CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
-dns.cybertonic.tech CNAME .
-*.dns.cybertonic.tech CNAME .
 dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 easyproxy.tech CNAME .

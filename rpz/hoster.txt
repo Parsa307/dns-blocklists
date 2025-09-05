@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756882260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757024820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Sep 2025 06:51 UTC
-; Version: 2025.0903.0651.07
+; Last modified: 04 Sep 2025 22:27 UTC
+; Version: 2025.0904.2227.36
 ; Syntax: RPZ
-; Number of entries: 4256
+; Number of entries: 4244
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1691,8 +1691,6 @@ tempisite.com CNAME .
 *.tempisite.com CNAME .
 terapad.com CNAME .
 *.terapad.com CNAME .
-the-finance-world.com CNAME .
-*.the-finance-world.com CNAME .
 theblogaddict.com CNAME .
 *.theblogaddict.com CNAME .
 theblogfairy.com CNAME .
@@ -2279,10 +2277,6 @@ ucoz.de CNAME .
 *.ucoz.de CNAME .
 verkniffen.de CNAME .
 *.verkniffen.de CNAME .
-voellig-daneben.de CNAME .
-*.voellig-daneben.de CNAME .
-vollsten.de CNAME .
-*.vollsten.de CNAME .
 web-clan.de CNAME .
 *.web-clan.de CNAME .
 webblog24.de CNAME .
@@ -3361,8 +3355,6 @@ vefblog.net CNAME .
 *.vefblog.net CNAME .
 vmn.net CNAME .
 *.vmn.net CNAME .
-vollidiot.net CNAME .
-*.vollidiot.net CNAME .
 web1337.net CNAME .
 *.web1337.net CNAME .
 webfreehosting.net CNAME .
@@ -3965,10 +3957,6 @@ onlineweb.shop CNAME .
 *.onlineweb.shop CNAME .
 orangeusa.shop CNAME .
 *.orangeusa.shop CNAME .
-orderedlinks.shop CNAME .
-*.orderedlinks.shop CNAME .
-outoverall.shop CNAME .
-*.outoverall.shop CNAME .
 pizzakeep.shop CNAME .
 *.pizzakeep.shop CNAME .
 rentweek.shop CNAME .

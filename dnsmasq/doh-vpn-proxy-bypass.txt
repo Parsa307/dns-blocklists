@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Sep 2025 16:19 UTC
-# Version: 2025.0904.1619.16
+# Last modified: 05 Sep 2025 00:09 UTC
+# Version: 2025.0905.0009.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5134
+# Number of entries: 5130
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1016,7 +1016,7 @@ local=/cyberghostvpn.com/
 local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
-local=/dns.cybertonic.tech/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -1496,7 +1496,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flashpull.com/
 local=/flashput.net/
@@ -2595,7 +2594,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -5109,7 +5107,6 @@ local=/zakaria.website/
 local=/zalmos.com/
 local=/learning.zanity.net/
 local=/bananakun.zapto.org/
-local=/tststststststststststststststststststststs.zavoj.ch/
 local=/xyz.zaylovesparker.xyz/
 local=/zburger.top/
 local=/zcoup.com/
@@ -5133,7 +5130,6 @@ local=/zonevpn.com/
 local=/zoogvpn.com/
 local=/zorrovpn.io/
 local=/calculus.zothow.com/
-local=/diagnostics.zothow.com/
 local=/zougloub.eu/
 local=/zpath.net/
 local=/zpn.im/

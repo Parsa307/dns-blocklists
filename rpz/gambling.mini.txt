@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757002260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757030520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Sep 2025 16:11 UTC
-; Version: 2025.0904.1611.10
+; Last modified: 05 Sep 2025 00:02 UTC
+; Version: 2025.0905.0002.54
 ; Syntax: RPZ
-; Number of entries: 129716
+; Number of entries: 129698
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -72701,8 +72701,6 @@ yono-567-slots-apk.com CNAME .
 *.yono-567-slots-apk.com CNAME .
 yono-567-slots-app-download.com CNAME .
 *.yono-567-slots-app-download.com CNAME .
-yono-slots-777.com CNAME .
-*.yono-slots-777.com CNAME .
 yono-slots-all-games.com CNAME .
 *.yono-slots-all-games.com CNAME .
 yono-slots-app.com CNAME .
@@ -72795,8 +72793,6 @@ yummy-wins-casino.com CNAME .
 *.yummy-wins-casino.com CNAME .
 yummyspins.com CNAME .
 *.yummyspins.com CNAME .
-yumyum3.com CNAME .
-*.yumyum3.com CNAME .
 yuugado.com CNAME .
 *.yuugado.com CNAME .
 yuyu4dbeb.com CNAME .
@@ -73125,8 +73121,6 @@ zotabets.com CNAME .
 *.zotabets.com CNAME .
 zqvnn.com CNAME .
 *.zqvnn.com CNAME .
-zrmotorsslough.com CNAME .
-*.zrmotorsslough.com CNAME .
 zula-casino-app.com CNAME .
 *.zula-casino-app.com CNAME .
 zula-casino-login.com CNAME .
@@ -73185,10 +73179,6 @@ zzg2j7.com CNAME .
 *.zzg2j7.com CNAME .
 zzg3f5.com CNAME .
 *.zzg3f5.com CNAME .
-zzks123.com CNAME .
-*.zzks123.com CNAME .
-zzltjd.com CNAME .
-*.zzltjd.com CNAME .
 zzzaazaazzaa.com CNAME .
 *.zzzaazaazzaa.com CNAME .
 zzzbet-casino.com CNAME .
@@ -81361,8 +81351,6 @@ zerkalo-leonbets15.lol CNAME .
 *.zerkalo-leonbets15.lol CNAME .
 zerkalo-leonbets16.lol CNAME .
 *.zerkalo-leonbets16.lol CNAME .
-zerkalo-leonbets17.lol CNAME .
-*.zerkalo-leonbets17.lol CNAME .
 zerkalo-leonbets19.lol CNAME .
 *.zerkalo-leonbets19.lol CNAME .
 zerkalo-leonbets20.lol CNAME .
@@ -87629,12 +87617,8 @@ vulkan-vegas-casino.nl CNAME .
 *.vulkan-vegas-casino.nl CNAME .
 winner-casino.nl CNAME .
 *.winner-casino.nl CNAME .
-zodiac-casino.nl CNAME .
-*.zodiac-casino.nl CNAME .
 zoncasino.nl CNAME .
 *.zoncasino.nl CNAME .
-zoomecasino.nl CNAME .
-*.zoomecasino.nl CNAME .
 bonisacasino.no CNAME .
 *.bonisacasino.no CNAME .
 briobets.no CNAME .
@@ -104721,8 +104705,6 @@ yupraslots.site CNAME .
 *.yupraslots.site CNAME .
 yykoin2.site CNAME .
 *.yykoin2.site CNAME .
-zafirbets.site CNAME .
-*.zafirbets.site CNAME .
 zelvoslots.site CNAME .
 *.zelvoslots.site CNAME .
 zeus777slots.site CNAME .
