@@ -55,7 +55,7 @@ See also: [Which sources are used for the lists and how are the lists compiled o
 | :blue_book:[Normal](#normal)       | 319300<br>145429     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
 | :ledger:[Pro](#pro)              | 424186<br>190562         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
 | :orange_book:[Pro++](#proplus)    | 587890<br>284208 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :closed_book:[Ultimate](#ultimate)    | 800609<br>411644 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 800566<br>411693 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
 
 :green_circle: contains the list named in the column caption
 :yellow_square: partially contains the list named in the column caption
@@ -222,7 +222,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 >**Miscellaneous:**          
 > Details on other known issues can be found [here](share/ultimate-known-issues.txt).  
                    
-**Entries:** 800609 domains/hosts - 88957 compressed hosts - 411644 compressed domains
+**Entries:** 800566 domains/hosts - 88952 compressed hosts - 411693 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -308,7 +308,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 815743 domains/hosts - 90639 compressed hosts - 688882 compressed domains
+**Entries:** 756069 domains/hosts - 84008 compressed hosts - 654220 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
