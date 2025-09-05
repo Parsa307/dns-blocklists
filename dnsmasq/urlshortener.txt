@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Sep 2025 22:28 UTC
-# Version: 2025.0904.2228.01
+# Last modified: 05 Sep 2025 06:48 UTC
+# Version: 2025.0905.0648.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6319
+# Number of entries: 6318
 #
 local=/0.gp/
 local=/00m.in/
@@ -3000,7 +3000,6 @@ local=/litt.xyz/
 local=/little.im/
 local=/littlelinkapp.com/
 local=/littlelnk.com/
-local=/littleurl.app/
 local=/littleurl.in/
 local=/litty.in/
 local=/liu.es/
