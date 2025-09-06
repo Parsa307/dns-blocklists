@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Aug 2025 23:19 UTC
-# Version: 2025.0829.2319.01
+# Last modified: 05 Sep 2025 23:20 UTC
+# Version: 2025.0905.2320.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 228
+# Number of entries: 229
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
 local=/az.appstore.vivo.com.cn/
@@ -87,6 +87,7 @@ local=/eu-domaincfg.vivoglobal.com/
 local=/eu-errup.vivoglobal.com/
 local=/eu-onrt-stsdk.vivoglobal.com/
 local=/eu-ort-stsdk.vivoglobal.com/
+local=/eu-p.vivoglobal.com/
 local=/eu-pnrt-stsdk.vivoglobal.com/
 local=/eu-romsp-unifyconfig.vivoglobal.com/
 local=/eu-st-sl.vivoglobal.com/

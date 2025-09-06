@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 16:23 UTC
-# Version: 2025.0905.1623.19
+# Last modified: 05 Sep 2025 23:14 UTC
+# Version: 2025.0905.2314.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 65049
+# Number of entries: 65045
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -851,6 +851,7 @@ local=/1winqj.casino/
 local=/1wins.cl/
 local=/1wins-bangladesh.com/
 local=/1wins-casino-india.com/
+local=/pixel-us.1winsa.com/
 local=/1winslots.run/
 local=/1winst.casino/
 local=/1winsv.casino/
@@ -3640,10 +3641,6 @@ local=/68scasino.com/
 local=/68slotsgo.club/
 local=/68u9.com/
 local=/68win26.com/
-local=/asstook.68winapi.com/
-local=/asstook.68winbin.com/
-local=/andcniw86.68wincdn.com/
-local=/assoniw86.68winoss.com/
 local=/68x-bets.com/
 local=/68x-casino.com/
 local=/68x-slots.com/
@@ -7905,7 +7902,6 @@ local=/avanzaweng.xyz/
 local=/avatar-88.xyz/
 local=/avcasino.org/
 local=/avcasino-ro.com/
-local=/cdn65.avcjtodj.com/
 local=/avegasslotspk.com/
 local=/avemp3.site/
 local=/aveslots.com/

@@ -1527,13 +1527,6 @@
       }
     },
     {
-      "PK": "monitor.pandora.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "monitor.scf.pt.xiaomi.com",
       "action": {
         "do": 0,
@@ -2486,14 +2479,14 @@
       }
     },
     {
-      "PK": "voip.game.xiaomi.com",
+      "PK": "wap.game.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "wap.game.xiaomi.com",
+      "PK": "wl.voip.game.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1

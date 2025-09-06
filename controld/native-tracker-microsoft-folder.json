@@ -218,13 +218,6 @@
       }
     },
     {
-      "PK": "adsstatic.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "adstore.response.gcp.eastus.trafficmanager.net",
       "action": {
         "do": 0,
@@ -533,6 +526,13 @@
       }
     },
     {
+      "PK": "beta.adsstatic.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "bf-analytics-tracker-tm.trafficmanager.net",
       "action": {
         "do": 0,
@@ -555,13 +555,6 @@
     },
     {
       "PK": "bingads.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bingadsresources.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1430,20 +1423,6 @@
     },
     {
       "PK": "glance-analytics.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "h1.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "h2.msn.com",
       "action": {
         "do": 0,
         "status": 1

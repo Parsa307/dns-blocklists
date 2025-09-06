@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Aug 2025 07:19 UTC
-# Version: 2025.0830.0719.56
+# Last modified: 05 Sep 2025 23:23 UTC
+# Version: 2025.0905.2323.08
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 205
+# Number of entries: 204
 #
 *.samsung-com.112.2o7.net
 *.metric.account-samsung.com
@@ -104,7 +104,6 @@
 *.tracking.americas.business.samsung.com
 *.lp.apac.business.samsung.com
 *.tracking.apac.business.samsung.com
-*.eu.business.samsung.com
 *.tracking.europe.business.samsung.com
 *.images.it.business.samsung.com
 *.seao.business.samsung.com

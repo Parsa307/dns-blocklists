@@ -60,7 +60,6 @@ https://nirbytes.com/post/1000-proxies-for-school-chromebook-2025/
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phish.co.za/latest/phishing-domains-ACTIVE.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
-https://phishing.army/download/phishing_army_blocklist.txt
 https://phishing-filter.pages.dev/phishing-filter-hosts.txt
 https://phish.sinking.yachts/v2/text
 https://phishunt.io/feed.txt
@@ -305,6 +304,7 @@ https://vn-badsite-filter.pages.dev/vn-badsite-filter-hosts.txt
 https://www.auktionshilfe.info/board-feed/22/
 https://www.auktionshilfe.info/thread/20469-ver%C3%B6ffentlichung-von-fakeshops-und-betr%C3%BCgerischen-stellenangebote-blaue-kennzeic/
 https://www.binarydefense.com/banlist.txt
+https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.data.gouv.fr/fr/datasets/r/d2d9df6d-1cd2-41a8-96f5-684cb3057ecb
 https://www.domcop.com/files/top/top10milliondomains.csv.zip
 https://www.globalantiscam.org/scam-websites

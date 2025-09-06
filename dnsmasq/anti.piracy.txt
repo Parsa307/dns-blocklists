@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 16:23 UTC
-# Version: 2025.0905.1623.46
+# Last modified: 05 Sep 2025 23:09 UTC
+# Version: 2025.0905.2309.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10828
+# Number of entries: 10829
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2337,6 +2337,7 @@ local=/d4download.com/
 local=/bingoportal.da.ru/
 local=/daddylive.sx/
 local=/daddylivehd1.click/
+local=/daddylivestream.com/
 local=/daddyny.com/
 local=/dadyflix.co/
 local=/dafunda.com/
@@ -4723,7 +4724,6 @@ local=/ns349743.ip-91-121-106.eu/
 local=/ipacrack.com/
 local=/ipalibrary.me/
 local=/ipboot.xyz/
-local=/speedtest.iperson.xyz/
 local=/tracker.iperson.xyz/
 local=/tracker.ipfsscan.io/
 local=/iphonebooks.info/
@@ -6718,6 +6718,7 @@ local=/tracker.parrotsec.org/
 local=/partidosenvivo.gratis/
 local=/partis.si/
 local=/passion-musique.net/
+local=/passpulse.net/
 local=/passthepopcorn.me/
 local=/passthepopcorn.org/
 local=/patalpuri.com/

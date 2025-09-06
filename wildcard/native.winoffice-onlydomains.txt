@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Aug 2025 23:14 UTC
-# Version: 2025.0829.2314.20
+# Last modified: 05 Sep 2025 23:16 UTC
+# Version: 2025.0905.2316.14
 # Syntax: Domains (without subdomains)
-# Number of entries: 421
+# Number of entries: 418
 #
 c-bingapis-com.dual-a-0034.a-msedge.net
 measure.office.com.akamaized.net
@@ -157,7 +157,7 @@ clientcenter.ads-int.microsoft.com
 dmc.ads-int.microsoft.com
 ui.ads-int.microsoft.com
 adsdk.microsoft.com
-adsstatic.microsoft.com
+beta.adsstatic.microsoft.com
 adsstatic-int.microsoft.com
 advertising.microsoft.com
 analyticspixel.microsoft.com
@@ -267,8 +267,6 @@ c.fr.msn.com
 g00.msn.com
 c.gr.msn.com
 h.msn.com
-h1.msn.com
-h2.msn.com
 h6.msn.com
 c.hk.msn.com
 c.id.msn.com
@@ -332,7 +330,6 @@ avdab-t-corniche-events-relay.trafficmanager.net
 beacons.trafficmanager.net
 bf-analytics-tracker-tm.trafficmanager.net
 bingads.trafficmanager.net
-bingadsresources.trafficmanager.net
 collection-location-livenet.trafficmanager.net
 collector-main.trafficmanager.net
 tracker.flightview.com.trafficmanager.net
