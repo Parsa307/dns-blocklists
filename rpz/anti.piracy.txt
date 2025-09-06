@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757113740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757147400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Sep 2025 23:09 UTC
-; Version: 2025.0905.2309.36
+; Last modified: 06 Sep 2025 08:30 UTC
+; Version: 2025.0906.0830.43
 ; Syntax: RPZ
-; Number of entries: 21658
+; Number of entries: 21662
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -13651,6 +13651,8 @@ sextorrent.net CNAME .
 *.sextorrent.net CNAME .
 tracker.shadowthein.net CNAME .
 *.tracker.shadowthein.net CNAME .
+shahiid4u.net CNAME .
+*.shahiid4u.net CNAME .
 sharego.net CNAME .
 *.sharego.net CNAME .
 sharehitz.net CNAME .
@@ -21417,6 +21419,8 @@ ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
+speedtest.iperson.xyz CNAME .
+*.speedtest.iperson.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .
