@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 23:09 UTC
-# Version: 2025.0905.2309.13
+# Last modified: 06 Sep 2025 19:41 UTC
+# Version: 2025.0906.1941.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6341
+# Number of entries: 6346
 #
 local=/0.gp/
 local=/00m.in/
@@ -735,6 +735,7 @@ local=/bee1s.com/
 local=/bee4.biz/
 local=/beeb.us/
 local=/beepurl.com/
+local=/beif.us/
 local=/beingtek.com/
 local=/bely.pw/
 local=/benco.io/
@@ -3507,6 +3508,7 @@ local=/n66d.com/
 local=/n7i.cn/
 local=/n9.cl/
 local=/n9x.co/
+local=/na2.com/
 local=/na5.nl/
 local=/nah.uy/
 local=/naik-terus.com/
@@ -4336,6 +4338,7 @@ local=/safe.mn/
 local=/safelinking.net/
 local=/safelinku.com/
 local=/safeurl.ch/
+local=/safeurl.in/
 local=/safl.it/
 local=/saggiolink.it/
 local=/sah.ooo/
@@ -5625,6 +5628,7 @@ local=/urlky.com/
 local=/urlli.com/
 local=/urllimit.com/
 local=/urllink.link/
+local=/urllinker.com/
 local=/urlme.cc/
 local=/urlme.us/
 local=/urlmy.link/
@@ -6188,6 +6192,7 @@ local=/yji.tw/
 local=/ykm.de/
 local=/ylg.org/
 local=/ylink.bid/
+local=/ylinkshort.com/
 local=/yo.ma/
 local=/yoalizer.com/
 local=/yogh.me/

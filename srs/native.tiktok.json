@@ -1,0 +1,1103 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": "frontier.byteoversea.com"
+    },
+    {
+      "domain_suffix": "gplog-sg.byteoversea.com"
+    },
+    {
+      "domain_suffix": "gplog-va.byteoversea.com"
+    },
+    {
+      "domain_suffix": "gplog-va-useast2a.byteoversea.com"
+    },
+    {
+      "domain_suffix": "gpm-mon-sg.byteoversea.com"
+    },
+    {
+      "domain_suffix": "gpm-mon-va.byteoversea.com"
+    },
+    {
+      "domain_suffix": "gpm-mon-va-useast1a.byteoversea.com"
+    },
+    {
+      "domain_suffix": "gpm-mon-va-useast2a.byteoversea.com"
+    },
+    {
+      "domain_suffix": "log.byteoversea.com"
+    },
+    {
+      "domain_suffix": "log-tiktok.byteoversea.net"
+    },
+    {
+      "domain_suffix": "log15.byteoversea.com"
+    },
+    {
+      "domain_suffix": "log16.byteoversea.com"
+    },
+    {
+      "domain_suffix": "maliva-mcs.byteoversea.com"
+    },
+    {
+      "domain_suffix": "maliva-mcs-useast2a.byteoversea.com"
+    },
+    {
+      "domain_suffix": "mcs-tiktok.byteoversea.net"
+    },
+    {
+      "domain_suffix": "mon.byteoversea.com"
+    },
+    {
+      "domain_suffix": "mon-csj-maliva-ios.byteoversea.com"
+    },
+    {
+      "domain_suffix": "mon-va.byteoversea.com"
+    },
+    {
+      "domain_suffix": "mon-va-useast2a.byteoversea.com"
+    },
+    {
+      "domain_suffix": "mssdk-sg.byteoversea.com"
+    },
+    {
+      "domain_suffix": "mssdk-sg-bu.byteoversea.com"
+    },
+    {
+      "domain_suffix": "mssdk-va.byteoversea.com"
+    },
+    {
+      "domain_suffix": "mssdk-va-useast2a.byteoversea.com"
+    },
+    {
+      "domain_suffix": "p16-ad.byteoversea.com"
+    },
+    {
+      "domain_suffix": "pc-mon-va.byteoversea.com"
+    },
+    {
+      "domain_suffix": "rtlog.byteoversea.com"
+    },
+    {
+      "domain_suffix": "sgali-mcs.byteoversea.com"
+    },
+    {
+      "domain_suffix": "sgaws-mcs.byteoversea.com"
+    },
+    {
+      "domain_suffix": "sgee-log.byteoversea.com"
+    },
+    {
+      "domain_suffix": "sgee-mcs.byteoversea.com"
+    },
+    {
+      "domain_suffix": "ug-sg.byteoversea.com"
+    },
+    {
+      "domain_suffix": "v16-ad.byteoversea.com"
+    },
+    {
+      "domain_suffix": "vaali-mcs.byteoversea.com"
+    },
+    {
+      "domain_suffix": "vaali-mcs-useast1a.byteoversea.com"
+    },
+    {
+      "domain_suffix": "vaali-mcs-useast2a.byteoversea.com"
+    },
+    {
+      "domain_suffix": "web-mon-useast2a.byteoversea.com"
+    },
+    {
+      "domain_suffix": "xlog.byteoversea.com"
+    },
+    {
+      "domain_suffix": "xlog-o.byteoversea.com"
+    },
+    {
+      "domain_suffix": "xlog-va.byteoversea.com"
+    },
+    {
+      "domain_suffix": "xlog-va-useast2a.byteoversea.com"
+    },
+    {
+      "domain_suffix": "tnc-boot.capcutapi.com"
+    },
+    {
+      "domain_suffix": "tnc-sg.capcutapi.com"
+    },
+    {
+      "domain_suffix": "tnc-va.capcutapi.com"
+    },
+    {
+      "domain_suffix": "tnc-va-us-looki.capcutapi.com"
+    },
+    {
+      "domain_suffix": "tnc16-normal-us-ttp.capcutapi.us"
+    },
+    {
+      "domain_suffix": "sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net"
+    },
+    {
+      "domain_suffix": "abtest-ch.snssdk.com"
+    },
+    {
+      "domain_suffix": "analytics.snssdk.com"
+    },
+    {
+      "domain_suffix": "applog.snssdk.com"
+    },
+    {
+      "domain_suffix": "bds.snssdk.com"
+    },
+    {
+      "domain_suffix": "extlog.snssdk.com"
+    },
+    {
+      "domain_suffix": "haohuo.snssdk.com"
+    },
+    {
+      "domain_suffix": "log.snssdk.com"
+    },
+    {
+      "domain_suffix": "log-hl.snssdk.com"
+    },
+    {
+      "domain_suffix": "log-lf.snssdk.com"
+    },
+    {
+      "domain_suffix": "log-lq.snssdk.com"
+    },
+    {
+      "domain_suffix": "logtrace.snssdk.com"
+    },
+    {
+      "domain_suffix": "mcs.snssdk.com"
+    },
+    {
+      "domain_suffix": "mercury-sdk.snssdk.com"
+    },
+    {
+      "domain_suffix": "mon.snssdk.com"
+    },
+    {
+      "domain_suffix": "mon-hl.snssdk.com"
+    },
+    {
+      "domain_suffix": "mssdk.snssdk.com"
+    },
+    {
+      "domain_suffix": "mssdk-bu.snssdk.com"
+    },
+    {
+      "domain_suffix": "open.snssdk.com"
+    },
+    {
+      "domain_suffix": "os-mon.snssdk.com"
+    },
+    {
+      "domain_suffix": "pangolin.snssdk.com"
+    },
+    {
+      "domain_suffix": "pc-mon.snssdk.com"
+    },
+    {
+      "domain_suffix": "sdfp.snssdk.com"
+    },
+    {
+      "domain_suffix": "tbm.snssdk.com"
+    },
+    {
+      "domain_suffix": "temai.snssdk.com"
+    },
+    {
+      "domain_suffix": "tnc3-aliec2.snssdk.com"
+    },
+    {
+      "domain_suffix": "tnc3-alisc1.snssdk.com"
+    },
+    {
+      "domain_suffix": "tnc3-bjlgy.snssdk.com"
+    },
+    {
+      "domain_suffix": "tobapplog.snssdk.com"
+    },
+    {
+      "domain_suffix": "toblog.snssdk.com"
+    },
+    {
+      "domain_suffix": "tsearch.snssdk.com"
+    },
+    {
+      "domain_suffix": "ug.snssdk.com"
+    },
+    {
+      "domain_suffix": "vas-hl-x.snssdk.com"
+    },
+    {
+      "domain_suffix": "xlog.snssdk.com"
+    },
+    {
+      "domain_suffix": "ad.tiktok.tv"
+    },
+    {
+      "domain_suffix": "ads.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads.tiktok.in"
+    },
+    {
+      "domain_suffix": "ads.tiktok.tv"
+    },
+    {
+      "domain_suffix": "ads-api.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads-crm.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads-frontier.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads-imapi.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads-measurement.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads-service.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads-sg.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads-useast2a.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads-va.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads-ws.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics-attribution.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics-attribution-va.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics-exp-i18n.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics-exp-sg.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics-i18n.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics-sg.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics-test.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics-useast2a.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics-v6.tiktok.com"
+    },
+    {
+      "domain_suffix": "business-api.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads.in.tiktok.com"
+    },
+    {
+      "domain_suffix": "location.tiktok.com"
+    },
+    {
+      "domain_suffix": "location-i18n.tiktok.com"
+    },
+    {
+      "domain_suffix": "location-sg.tiktok.com"
+    },
+    {
+      "domain_suffix": "location-va.tiktok.com"
+    },
+    {
+      "domain_suffix": "mcs-i18n.tiktok.com"
+    },
+    {
+      "domain_suffix": "mcs-va.tiktok.com"
+    },
+    {
+      "domain_suffix": "mssdk-i18n.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads.us.tiktok.com"
+    },
+    {
+      "domain_suffix": "ads-ttp2.us.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics.us.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics-exp.us.tiktok.com"
+    },
+    {
+      "domain_suffix": "analytics-ttp2.us.tiktok.com"
+    },
+    {
+      "domain_suffix": "location.us.tiktok.com"
+    },
+    {
+      "domain_suffix": "mcs.us.tiktok.com"
+    },
+    {
+      "domain_suffix": "mcs-ttp2.us.tiktok.com"
+    },
+    {
+      "domain_suffix": "mssdk.us.tiktok.com"
+    },
+    {
+      "domain_suffix": "sf16-telemetry-proxy-oci.tiktokcdn-us.com"
+    },
+    {
+      "domain_suffix": "ad.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad.tiktokv.us"
+    },
+    {
+      "domain_suffix": "ad-format.tiktokv.us"
+    },
+    {
+      "domain_suffix": "ad-format-i18n.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-format-sg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-format-ttp2.tiktokv.us"
+    },
+    {
+      "domain_suffix": "ad-i18n.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-instantpage.tiktokv.us"
+    },
+    {
+      "domain_suffix": "ad-instantpage-i18n.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-instantpage-ie.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "ad-instantpage-ru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-instantpage-sg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-instantpage-ttp2.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "ad-instantpage-ttp2.tiktokv.us"
+    },
+    {
+      "domain_suffix": "ad-instantpage-va.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-sg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-ttp2.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "ad-ttp2.tiktokv.us"
+    },
+    {
+      "domain_suffix": "ad-va.tiktokv.com"
+    },
+    {
+      "domain_suffix": "adinstantpage16-normal-useastred.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "live-video-log16-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "location.tiktokv.com"
+    },
+    {
+      "domain_suffix": "location.tiktokv.us"
+    },
+    {
+      "domain_suffix": "location-i18n.tiktokv.com"
+    },
+    {
+      "domain_suffix": "location-sg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "location-v6.tiktokv.com"
+    },
+    {
+      "domain_suffix": "location-v6.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "location-v6.tiktokv.us"
+    },
+    {
+      "domain_suffix": "location-v6-i18n.tiktokv.com"
+    },
+    {
+      "domain_suffix": "location-v6-ru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "location-v6-sg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "location-v6-ttp2.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "location-v6-ttp2.tiktokv.us"
+    },
+    {
+      "domain_suffix": "location-v6-va.tiktokv.com"
+    },
+    {
+      "domain_suffix": "location-va.tiktokv.com"
+    },
+    {
+      "domain_suffix": "locationv16-normal-useastred.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "log.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log.tiktokv.us"
+    },
+    {
+      "domain_suffix": "log-i18n.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log-phx.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log-ru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log-va.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log-va-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log15-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log15-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log15-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log15-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log16-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log16-platform-ycru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log16-tmp-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log17-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log17-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log17-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log17-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log19-applog-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log19-applog-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log19-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log19-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log19-normal-no1a.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "log19-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log19-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log22-applog-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log22-applog-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log22-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log22-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log22-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log22-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log3-normal-c-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log3-normal-c-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log31-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log31-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log31-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log31-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log32-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log32-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log32-normal-no1a.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "log32-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log32-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log32-normal-zr.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log53-normal-c-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log58-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log58-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log58-normal-c-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log58-normal-c-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log58-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log58-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log58-normal-ycru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log77-normal-c-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log77-normal-c-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log9-normal-c-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "logbk.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mcs.tiktokv.us"
+    },
+    {
+      "domain_suffix": "mcs-ttp2.tiktokv.us"
+    },
+    {
+      "domain_suffix": "mcs-va.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mcs-va-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mon.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mon.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "mon-i18n.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mon-phx.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mon-ru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mon-sg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mon-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mon-va.tiktokv.com"
+    },
+    {
+      "domain_suffix": "monbk.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mssdk-i18n.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mssdk-phx.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mssdk-ru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mssdk-sg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mssdk-va-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtc-logger.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtc-logger.tiktokv.us"
+    },
+    {
+      "domain_suffix": "rtc-logger-i18n.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtc-logger-ie.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "rtc-logger-ttp2.tiktokv.us"
+    },
+    {
+      "domain_suffix": "rtc-logger-va.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtc-logger16-normal-useastred.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "rtlog.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog-i18n.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog-phx.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog-ru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog-va.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog-va-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog15-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog15-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog15-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog15-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog16-applog-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog16-applog-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog16-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog16-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog16-normal-ie.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "rtlog16-normal-ind.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog16-normal-no1a.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "rtlog16-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog16-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog16-normal-useast5.tiktokv.us"
+    },
+    {
+      "domain_suffix": "rtlog16-normal-useast8.tiktokv.us"
+    },
+    {
+      "domain_suffix": "rtlog16-normal-useastred.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "rtlog16-tmp-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog17-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog17-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog17-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog17-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog19-applog-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog19-applog-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog19-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog19-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog19-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog19-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog19-normal-zr-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog22-applog-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog22-applog-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog22-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog22-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog22-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog22-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog31-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog31-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog31-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog31-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog32-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog32-normal-zr.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog58-normal.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog58-normal-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog58-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog58-normal-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog58-normal-ycru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc-boot.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc0-normal-my.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc0-normal-sg1.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc0-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc100-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc100-my.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc100-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc100-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc16-normal-ie.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "tnc16-normal-no1a.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "tnc16-normal-useast5.tiktokv.us"
+    },
+    {
+      "domain_suffix": "tnc16-normal-useast8.tiktokv.us"
+    },
+    {
+      "domain_suffix": "tnc16-normal-useastred.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "tnc16-normal-ycru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc16-normal-zr-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc16-normal-zr-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc16-platform-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc16-platform-my.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc16-platform-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc16-platform-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc19-normal-ie.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "tnc19-normal-no1a.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "tnc19-normal-useast5.tiktokv.us"
+    },
+    {
+      "domain_suffix": "tnc19-normal-useast8.tiktokv.us"
+    },
+    {
+      "domain_suffix": "tnc31-normal-zr-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc31-platform-alisg.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc31-platform-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc31-platform-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc58-platform-ycru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-format.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-format-ttp2.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-instantpage.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "ad-instantpage-ttp2.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "location.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "location-ttp2.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log16-applog-useast5.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log19-applog-useast5.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mcs.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mon.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "mssdk.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtc-logger.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtc-logger-ttp2.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog16-applog-useast5.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog16-normal-useast8.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog16-platform-useast5.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog19-applog-useast5.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "rtlog19-platform-useast5.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc16-normal-useast8.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "tnc16-platform-useast5.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "xlog16-normal-useast8.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "xlog16-platform-useast5.us.tiktokv.com"
+    },
+    {
+      "domain_suffix": "xlog.tiktokv.com"
+    },
+    {
+      "domain_suffix": "xlog-ru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "xlog-va.tiktokv.com"
+    },
+    {
+      "domain_suffix": "xlog-va-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "xlog16-normal-c-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "xlog16-normal-c-useast2a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "xlog16-normal-no1a.tiktokv.eu"
+    },
+    {
+      "domain_suffix": "xlog16-normal-useast5.tiktokv.us"
+    },
+    {
+      "domain_suffix": "xlog16-platform-ycru.tiktokv.com"
+    },
+    {
+      "domain_suffix": "xlog16-tmp-normal-useast1a.tiktokv.com"
+    },
+    {
+      "domain_suffix": "log-snssdk.tiktokv-us.com"
+    },
+    {
+      "domain_suffix": "ads-ie.tiktokw.eu"
+    },
+    {
+      "domain_suffix": "ads-ttp2.tiktokw.eu"
+    },
+    {
+      "domain_suffix": "analytics-ie.tiktokw.eu"
+    },
+    {
+      "domain_suffix": "analytics-ipv6.tiktokw.us"
+    },
+    {
+      "domain_suffix": "analytics-ttp2.tiktokw.eu"
+    },
+    {
+      "domain_suffix": "analytics16-normal-useastred.tiktokw.eu"
+    },
+    {
+      "domain_suffix": "location.tiktokw.us"
+    },
+    {
+      "domain_suffix": "mcs.tiktokw.us"
+    },
+    {
+      "domain_suffix": "mcs-ie.tiktokw.eu"
+    },
+    {
+      "domain_suffix": "mcs-ie2.tiktokw.eu"
+    },
+    {
+      "domain_suffix": "mssdk.tiktokw.eu"
+    },
+    {
+      "domain_suffix": "mssdk.tiktokw.us"
+    },
+    {
+      "domain_suffix": "h4g3z1-native.tiktok.web.app"
+    }
+  ]
+}

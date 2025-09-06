@@ -1,0 +1,227 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": "ravm.tv"
+    },
+    {
+      "domain_suffix": "acr.roku.com"
+    },
+    {
+      "domain_suffix": "admin-advertising.roku.com"
+    },
+    {
+      "domain_suffix": "ads.roku.com"
+    },
+    {
+      "domain_suffix": "adservices.roku.com"
+    },
+    {
+      "domain_suffix": "advertising.roku.com"
+    },
+    {
+      "domain_suffix": "advertising-v3.roku.com"
+    },
+    {
+      "domain_suffix": "analytics.roku.com"
+    },
+    {
+      "domain_suffix": "adeng-identity-prod3.bdp.roku.com"
+    },
+    {
+      "domain_suffix": "adeng-looker-bi-oneview-prod-1001.bdp.roku.com"
+    },
+    {
+      "domain_suffix": "adeng-looker-dev-1001.bdp.roku.com"
+    },
+    {
+      "domain_suffix": "adeng-looker-dev-1003.bdp.roku.com"
+    },
+    {
+      "domain_suffix": "adi-airflow.bdp.roku.com"
+    },
+    {
+      "domain_suffix": "ads.beta.roku.com"
+    },
+    {
+      "domain_suffix": "cloudservices.roku.com"
+    },
+    {
+      "domain_suffix": "samples.voice.cti.roku.com"
+    },
+    {
+      "domain_suffix": "ravm-qa-e.data.roku.com"
+    },
+    {
+      "domain_suffix": "ravm-qa-w.data.roku.com"
+    },
+    {
+      "domain_suffix": "ravm-staging.data.roku.com"
+    },
+    {
+      "domain_suffix": "ravm-staging-e.data.roku.com"
+    },
+    {
+      "domain_suffix": "ravm-staging-w.data.roku.com"
+    },
+    {
+      "domain_suffix": "ads-aka-us-east-1.delivery.roku.com"
+    },
+    {
+      "domain_suffix": "ads-aka-us-west-2.delivery.roku.com"
+    },
+    {
+      "domain_suffix": "ads-cf-us-east-1.delivery.roku.com"
+    },
+    {
+      "domain_suffix": "ads-cf-us-west-2.delivery.roku.com"
+    },
+    {
+      "domain_suffix": "ads-us-east-1.delivery.roku.com"
+    },
+    {
+      "domain_suffix": "ads-us-east-2.delivery.roku.com"
+    },
+    {
+      "domain_suffix": "ads-us-west-2.delivery.roku.com"
+    },
+    {
+      "domain_suffix": "ads-cf-us-east-1.dev.delivery.roku.com"
+    },
+    {
+      "domain_suffix": "ads.gcp.roku.com"
+    },
+    {
+      "domain_suffix": "ad.prod.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "ad-bl.prod.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "ad-eng.prod.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "ad-eng-pci.prod.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "ad-eng-pci-bl.prod.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "ad-eng-bl.use1.prod.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "ad-eng-pci-bl.use1.prod.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "ad-eng-bl.usw2.prod.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "ad-eng-pci-bl.usw2.prod.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "ad.staging.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "ad-eng.staging.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "ad-bl.usw2.staging.rpay.int.roku.com"
+    },
+    {
+      "domain_suffix": "logs.roku.com"
+    },
+    {
+      "domain_suffix": "blog-advertising.msc.roku.com"
+    },
+    {
+      "domain_suffix": "advertising-qa.us-east-1.dev.msc.roku.com"
+    },
+    {
+      "domain_suffix": "advertising-v3-qa.us-east-1.dev.msc.roku.com"
+    },
+    {
+      "domain_suffix": "blog-advertising-qa.us-east-1.dev.msc.roku.com"
+    },
+    {
+      "domain_suffix": "blog-advertising-v2-qa.us-east-1.dev.msc.roku.com"
+    },
+    {
+      "domain_suffix": "advertising.qa.us-east-1.dev.msc.roku.com"
+    },
+    {
+      "domain_suffix": "advertising.us-east-1.msc.roku.com"
+    },
+    {
+      "domain_suffix": "advertising-v3.us-east-1.msc.roku.com"
+    },
+    {
+      "domain_suffix": "blog-advertising-v2.us-east-1.msc.roku.com"
+    },
+    {
+      "domain_suffix": "ad-eng-pci-bl.geoproximity.rpay.roku.com"
+    },
+    {
+      "domain_suffix": "ad-bl.geoproximity.staging.rpay.roku.com"
+    },
+    {
+      "domain_suffix": "ad-eng-bl.geoproximity.staging.rpay.roku.com"
+    },
+    {
+      "domain_suffix": "ad-eng-pci-bl.geoproximity.staging.rpay.roku.com"
+    },
+    {
+      "domain_suffix": "assets.sr.roku.com"
+    },
+    {
+      "domain_suffix": "item-tracking.dev.sr.roku.com"
+    },
+    {
+      "domain_suffix": "logs.dev.sr.roku.com"
+    },
+    {
+      "domain_suffix": "traces.dev.sr.roku.com"
+    },
+    {
+      "domain_suffix": "traces-us-east-1.dev.sr.roku.com"
+    },
+    {
+      "domain_suffix": "traces-us-west-2.dev.sr.roku.com"
+    },
+    {
+      "domain_suffix": "userdata.dev.sr.roku.com"
+    },
+    {
+      "domain_suffix": "logs.sr.roku.com"
+    },
+    {
+      "domain_suffix": "traces.sr.roku.com"
+    },
+    {
+      "domain_suffix": "userdata.sr.roku.com"
+    },
+    {
+      "domain_suffix": "ads.staging.roku.com"
+    },
+    {
+      "domain_suffix": "wwwimg.staging.roku.com"
+    },
+    {
+      "domain_suffix": "customer-feedbacks.web.roku.com"
+    },
+    {
+      "domain_suffix": "methodofpay-ads.web.roku.com"
+    },
+    {
+      "domain_suffix": "pixel.web.roku.com"
+    },
+    {
+      "domain_suffix": "pixel.staging.web.roku.com"
+    },
+    {
+      "domain_suffix": "wwwimg.roku.com"
+    },
+    {
+      "domain_suffix": "h4g3z1-native.roku.web.app"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757147820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757189280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Sep 2025 08:37 UTC
-; Version: 2025.0906.0837.47
+; Last modified: 06 Sep 2025 20:08 UTC
+; Version: 2025.0906.2008.12
 ; Syntax: RPZ
-; Number of entries: 11462
+; Number of entries: 11468
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1688,6 +1688,8 @@ dns.edgeburnmedia.com CNAME .
 *.dns.edgeburnmedia.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2610,8 +2612,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -6386,6 +6386,8 @@ adguard-kartoffel.zernico.de CNAME .
 *.adguard-kartoffel.zernico.de CNAME .
 zproxy.de CNAME .
 *.zproxy.de CNAME .
+surfshark.deals CNAME .
+*.surfshark.deals CNAME .
 mabuktogel.degree CNAME .
 *.mabuktogel.degree CNAME .
 constitutional.design CNAME .
@@ -7078,6 +7080,8 @@ vpngermany.dzzz.info CNAME .
 *.vpngermany.dzzz.info CNAME .
 everyproxies.info CNAME .
 *.everyproxies.info CNAME .
+expressvpn.info CNAME .
+*.expressvpn.info CNAME .
 fastfreeproxy.info CNAME .
 *.fastfreeproxy.info CNAME .
 fasttime.info CNAME .
@@ -8380,8 +8384,6 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
 *.t9rke-5zq1m.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
@@ -11190,6 +11192,8 @@ nocensor.work CNAME .
 *.nocensor.work CNAME .
 theproxy.work CNAME .
 *.theproxy.work CNAME .
+expressvpn.works CNAME .
+*.expressvpn.works CNAME .
 incog.works CNAME .
 *.incog.works CNAME .
 dns.brahma.world CNAME .
@@ -11294,6 +11298,8 @@ agh.dshubham.xyz CNAME .
 *.agh.dshubham.xyz CNAME .
 hole.elbschloss.xyz CNAME .
 *.hole.elbschloss.xyz CNAME .
+expressvpn.xyz CNAME .
+*.expressvpn.xyz CNAME .
 fra1.eyecay.xyz CNAME .
 *.fra1.eyecay.xyz CNAME .
 dns.f97.xyz CNAME .

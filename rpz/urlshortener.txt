@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757113740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757187660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Sep 2025 23:09 UTC
-; Version: 2025.0905.2309.13
+; Last modified: 06 Sep 2025 19:41 UTC
+; Version: 2025.0906.1941.22
 ; Syntax: RPZ
-; Number of entries: 12682
+; Number of entries: 12692
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3134,6 +3134,8 @@ mysurl.com CNAME .
 *.mysurl.com CNAME .
 n66d.com CNAME .
 *.n66d.com CNAME .
+na2.com CNAME .
+*.na2.com CNAME .
 naik-terus.com CNAME .
 *.naik-terus.com CNAME .
 name.com CNAME .
@@ -3992,6 +3994,8 @@ urlli.com CNAME .
 *.urlli.com CNAME .
 urllimit.com CNAME .
 *.urllimit.com CNAME .
+urllinker.com CNAME .
+*.urllinker.com CNAME .
 urlner.com CNAME .
 *.urlner.com CNAME .
 urlnova.com CNAME .
@@ -4216,6 +4220,8 @@ yfrog.com CNAME .
 *.yfrog.com CNAME .
 yhqapp.com CNAME .
 *.yhqapp.com CNAME .
+ylinkshort.com CNAME .
+*.ylinkshort.com CNAME .
 yoalizer.com CNAME .
 *.yoalizer.com CNAME .
 yotpoclicks.com CNAME .
@@ -5876,6 +5882,8 @@ rusd.in CNAME .
 *.rusd.in CNAME .
 s4w.in CNAME .
 *.s4w.in CNAME .
+safeurl.in CNAME .
+*.safeurl.in CNAME .
 savg.in CNAME .
 *.savg.in CNAME .
 scts.in CNAME .
@@ -11994,6 +12002,8 @@ baid.us CNAME .
 *.baid.us CNAME .
 beeb.us CNAME .
 *.beeb.us CNAME .
+beif.us CNAME .
+*.beif.us CNAME .
 bitnew.us CNAME .
 *.bitnew.us CNAME .
 bofh.us CNAME .

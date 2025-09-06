@@ -1,0 +1,365 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": "browsercfg-drcn.cloud.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "ubacollect-drcn.cloud.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "ubacollect-drcn.cloud.dbankcloud.co"
+    },
+    {
+      "domain_suffix": "metrics-dre.data.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "metrics1.data.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "dnkeeper.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "dt.dbankcloud.ru"
+    },
+    {
+      "domain_suffix": "datacollector-dra.dt.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "datacollector-drcn.dt.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "datacollector-dre.dt.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "hisearch-dra.dt.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "hisearch-drcn.dt.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "hisearch-dre.dt.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "hisearch-drru.dt.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "metrics.dt.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "metrics-dra.dt.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "metrics-dre.dt.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "metrics1-drcn.dt.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "grs.dbankcloud.asia"
+    },
+    {
+      "domain_suffix": "grs.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "grs.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "grs.dbankcloud.eu"
+    },
+    {
+      "domain_suffix": "logservice1.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "adx-dra.op.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "adx-drcn.op.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "adx-dre.op.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "adx-drru.op.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "events-drcn.op.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "events-drcn.op.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "events-dre.op.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "dnkeeper.platform.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "grs.platform.dbankcloud.ru"
+    },
+    {
+      "domain_suffix": "logservice-dre.platform.dbankcloud.cn"
+    },
+    {
+      "domain_suffix": "openlocation-drcn.platform.dbankcloud.com"
+    },
+    {
+      "domain_suffix": "adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "adx-dra-op-hicloud-com-dra.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dra-op-hicloud-com-dra.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dre-op-hicloud-com-dre.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-op-hicloud-com-drcn.appacc.dbankedge.net"
+    },
+    {
+      "domain_suffix": "grs-dbankcloud-asia-dra.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "grs-dbankcloud-com-dra.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "grs-dbankcloud-com-dre.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-op-hicloud-com-drcn.appacc-region.dbankedge.net"
+    },
+    {
+      "domain_suffix": "grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "grs-dbankcloud-com-dra.appacc-region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "grs-dbankcloud-com-dre.appacc-region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "adx-dra-op-hicloud-com-dra.edge.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dra-op-dbankcloud-cn-dra.edge.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dra-op-hicloud-com-dra.edge.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "grs-dbankcloud-com-dra.edge.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "grs-dbankcloud-com-dre.edge.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "hisearch-dra-dt-dbankcloud-com-dra.edge.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "metrics1-data-hicloud-com.ge.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "0001-metrics1-data-hicloud-com.geac.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "metrics1-data-hicloud-com.gere.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dra-op-dbankcloud-cn-dra.region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "events-dra-op-dbankcloud-com-dra.region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "grs-dbankcloud-com-dra.region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "grs-dbankcloud-com-dre.region.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "grs-dbankcloud-com-drcn.wec.dbankedge.cn"
+    },
+    {
+      "domain_suffix": "adx-dre.op.dbankcloud.com.edgekey.net"
+    },
+    {
+      "domain_suffix": "data.hicloud.com"
+    },
+    {
+      "domain_suffix": "dnkeeper.hicloud.com"
+    },
+    {
+      "domain_suffix": "dt.hicloud.com"
+    },
+    {
+      "domain_suffix": "grs.hicloud.com"
+    },
+    {
+      "domain_suffix": "logbak.hicloud.com"
+    },
+    {
+      "domain_suffix": "logservice.hicloud.com"
+    },
+    {
+      "domain_suffix": "logservice1.hicloud.com"
+    },
+    {
+      "domain_suffix": "adx-dra.op.hicloud.com"
+    },
+    {
+      "domain_suffix": "adx-dre.op.hicloud.com"
+    },
+    {
+      "domain_suffix": "adx-drru.op.hicloud.com"
+    },
+    {
+      "domain_suffix": "events-dra.op.hicloud.com"
+    },
+    {
+      "domain_suffix": "events-dre.op.hicloud.com"
+    },
+    {
+      "domain_suffix": "logservice-dra.platform.hicloud.com"
+    },
+    {
+      "domain_suffix": "logservice-dre.platform.hicloud.com"
+    },
+    {
+      "domain_suffix": "dt.hihonorcloud.com"
+    },
+    {
+      "domain_suffix": "grs.hihonorcloud.com"
+    },
+    {
+      "domain_suffix": "honorsearch-dra.hiboard.hihonorcloud.com"
+    },
+    {
+      "domain_suffix": "honorsearch-drcn.hiboard.hihonorcloud.com"
+    },
+    {
+      "domain_suffix": "honorsearch-dre.hiboard.hihonorcloud.com"
+    },
+    {
+      "domain_suffix": "ads-drcn.platform.hihonorcloud.com"
+    },
+    {
+      "domain_suffix": "log-dra.platform.hihonorcloud.com"
+    },
+    {
+      "domain_suffix": "log-drcn.platform.hihonorcloud.com"
+    },
+    {
+      "domain_suffix": "log-dre.platform.hihonorcloud.com"
+    },
+    {
+      "domain_suffix": "log-drru.platform.hihonorcloud.com"
+    },
+    {
+      "domain_suffix": "ads.cloud.huawei.com"
+    },
+    {
+      "domain_suffix": "ads-drru.cloud.huawei.ru"
+    },
+    {
+      "domain_suffix": "rnd-aresocean-commercial.huawei.com"
+    },
+    {
+      "domain_suffix": "rnd-cbgpas01.huawei.com"
+    },
+    {
+      "domain_suffix": "uba.huaweicloud.com"
+    },
+    {
+      "domain_suffix": "nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com"
+    },
+    {
+      "domain_suffix": "nsp-logservice-hiview-p06-dra.obs.ap-southeast-3.myhuaweicloud.com"
+    },
+    {
+      "domain_suffix": "nsp-logservice-hiview-p07-dra.obs.ap-southeast-3.myhuaweicloud.com"
+    },
+    {
+      "domain_suffix": "nsp-logservice-hiview-p08-dra.obs.ap-southeast-3.myhuaweicloud.com"
+    },
+    {
+      "domain_suffix": "nsp-logservice-hiview-p40-drcn.obs.cn-north-2.myhuaweicloud.com"
+    },
+    {
+      "domain_suffix": "nsp-logservice-hiview-p41-drcn.obs.cn-north-2.myhuaweicloud.com"
+    },
+    {
+      "domain_suffix": "nsp-logservice-hiview-p43-drcn.obs.cn-north-2.myhuaweicloud.com"
+    },
+    {
+      "domain_suffix": "nsp-logservice-hiview-p50-drcn.obs.cn-north-2.myhuaweicloud.com"
+    },
+    {
+      "domain_suffix": "nsp-logservice-weardevice-p42-drcn.obs.cn-north-2.myhuaweicloud.com"
+    },
+    {
+      "domain_suffix": "nsp-logservice-weardevice-p51-drcn.obs.cn-north-2.myhuaweicloud.com"
+    },
+    {
+      "domain_suffix": "nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru"
+    },
+    {
+      "domain_suffix": "logserver.nzxcloud.cn"
+    },
+    {
+      "domain_suffix": "logservice.vmall.com"
+    },
+    {
+      "domain_suffix": "h4g3z1-native.huawei.web.app"
+    }
+  ]
+}

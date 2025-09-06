@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757147400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757188860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Sep 2025 08:30 UTC
-; Version: 2025.0906.0830.43
+; Last modified: 06 Sep 2025 20:01 UTC
+; Version: 2025.0906.2001.18
 ; Syntax: RPZ
-; Number of entries: 21662
+; Number of entries: 21692
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -363,6 +363,8 @@ bdupload.asia CNAME .
 *.bdupload.asia CNAME .
 cosmicscans.asia CNAME .
 *.cosmicscans.asia CNAME .
+donkey.asia CNAME .
+*.donkey.asia CNAME .
 filmpertutti.asia CNAME .
 *.filmpertutti.asia CNAME .
 juraganfilm.asia CNAME .
@@ -1533,6 +1535,8 @@ movievilla.cfd CNAME .
 *.movievilla.cfd CNAME .
 sharespark.cfd CNAME .
 *.sharespark.cfd CNAME .
+timstreams.cfd CNAME .
+*.timstreams.cfd CNAME .
 tuttostream.cfd CNAME .
 *.tuttostream.cfd CNAME .
 vpn1.cfd CNAME .
@@ -5509,6 +5513,8 @@ my-gamebox.com CNAME .
 *.my-gamebox.com CNAME .
 myabandonware.com CNAME .
 *.myabandonware.com CNAME .
+mybabele.com CNAME .
+*.mybabele.com CNAME .
 mybdix.com CNAME .
 *.mybdix.com CNAME .
 mybdplex.com CNAME .
@@ -9325,6 +9331,8 @@ tantifilm.help CNAME .
 *.tantifilm.help CNAME .
 vegamovies.help CNAME .
 *.vegamovies.help CNAME .
+wecat.help CNAME .
+*.wecat.help CNAME .
 streamingcommunity.hiphop CNAME .
 *.streamingcommunity.hiphop CNAME .
 fmovies.hn CNAME .
@@ -9419,6 +9427,8 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
+tracker-zhuqiy.dgj055.icu CNAME .
+*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
@@ -11257,6 +11267,8 @@ kinox.love CNAME .
 *.kinox.love CNAME .
 kisscartoon.love CNAME .
 *.kisscartoon.love CNAME .
+peace-and.love CNAME .
+*.peace-and.love CNAME .
 vider.love CNAME .
 *.vider.love CNAME .
 yesmovies.love CNAME .
@@ -17895,6 +17907,8 @@ vegamovies.sb CNAME .
 *.vegamovies.sb CNAME .
 123moviefree.sbs CNAME .
 *.123moviefree.sbs CNAME .
+buchkammer.sbs CNAME .
+*.buchkammer.sbs CNAME .
 cb01.sbs CNAME .
 *.cb01.sbs CNAME .
 dood.sbs CNAME .
@@ -18115,6 +18129,8 @@ streamingcommunity.shop CNAME .
 *.streamingcommunity.shop CNAME .
 tantifilm.shop CNAME .
 *.tantifilm.shop CNAME .
+udderlesscowswithmilk.shop CNAME .
+*.udderlesscowswithmilk.shop CNAME .
 vegamovies.shop CNAME .
 *.vegamovies.shop CNAME .
 yesmovies.shop CNAME .
@@ -18303,6 +18319,8 @@ streamkiste.site CNAME .
 *.streamkiste.site CNAME .
 sunnymovies.site CNAME .
 *.sunnymovies.site CNAME .
+timstreams.site CNAME .
+*.timstreams.site CNAME .
 topeuropix.site CNAME .
 *.topeuropix.site CNAME .
 torrent9.site CNAME .
@@ -18511,6 +18529,8 @@ guardaserie.store CNAME .
 *.guardaserie.store CNAME .
 tracker.healthcareindia.store CNAME .
 *.tracker.healthcareindia.store CNAME .
+kleanstorage.store CNAME .
+*.kleanstorage.store CNAME .
 lookmovie.store CNAME .
 *.lookmovie.store CNAME .
 moviecluphd.store CNAME .
@@ -19463,6 +19483,8 @@ bclearning.top CNAME .
 *.bclearning.top CNAME .
 bookaura.top CNAME .
 *.bookaura.top CNAME .
+boooooooooooog.top CNAME .
+*.boooooooooooog.top CNAME .
 btracker.top CNAME .
 *.btracker.top CNAME .
 buddyfly.top CNAME .
@@ -21263,6 +21285,8 @@ vegamovies.xin CNAME .
 *.066855.xyz CNAME .
 0902797.xyz CNAME .
 *.0902797.xyz CNAME .
+090600.xyz CNAME .
+*.090600.xyz CNAME .
 atrack-asia-s1.114913.xyz CNAME .
 *.atrack-asia-s1.114913.xyz CNAME .
 123movieonline.xyz CNAME .
@@ -21271,6 +21295,8 @@ atrack-asia-s1.114913.xyz CNAME .
 *.1337xto.xyz CNAME .
 20090910.xyz CNAME .
 *.20090910.xyz CNAME .
+2381280.xyz CNAME .
+*.2381280.xyz CNAME .
 23movies.xyz CNAME .
 *.23movies.xyz CNAME .
 250412.xyz CNAME .
@@ -21299,6 +21325,8 @@ bt.3kb.xyz CNAME .
 *.78964564.xyz CNAME .
 870726.xyz CNAME .
 *.870726.xyz CNAME .
+909190.xyz CNAME .
+*.909190.xyz CNAME .
 960303.xyz CNAME .
 *.960303.xyz CNAME .
 9993721.xyz CNAME .
@@ -21561,6 +21589,8 @@ openstream.thegrass.xyz CNAME .
 *.openstream.thegrass.xyz CNAME .
 timetowatch.xyz CNAME .
 *.timetowatch.xyz CNAME .
+timstreams.xyz CNAME .
+*.timstreams.xyz CNAME .
 t1.tokhmi.xyz CNAME .
 *.t1.tokhmi.xyz CNAME .
 tokis.xyz CNAME .

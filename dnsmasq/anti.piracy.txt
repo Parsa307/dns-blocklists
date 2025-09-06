@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Sep 2025 08:30 UTC
-# Version: 2025.0906.0830.43
+# Last modified: 06 Sep 2025 20:01 UTC
+# Version: 2025.0906.2001.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10831
+# Number of entries: 10846
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -26,6 +26,7 @@ local=/032312.xyz/
 local=/037hdmovie.com/
 local=/066855.xyz/
 local=/0902797.xyz/
+local=/090600.xyz/
 local=/0day.ro/
 local=/0dayddl.com/
 local=/0dayhome.net/
@@ -209,6 +210,7 @@ local=/20090910.xyz/
 local=/20links.com/
 local=/22-hd.com/
 local=/tracker.23794.top/
+local=/2381280.xyz/
 local=/23movies.xyz/
 local=/24-download.com/
 local=/24-downloads.com/
@@ -388,6 +390,7 @@ local=/8kun.top/
 local=/8millimeters.com/
 local=/8putlocker.com/
 local=/8wsm.com/
+local=/909190.xyz/
 local=/94hiphop.com/
 local=/960303.xyz/
 local=/9993721.xyz/
@@ -1473,6 +1476,7 @@ local=/booksrus.xyz/
 local=/booktracker.org/
 local=/boomep.com/
 local=/boommovie.org/
+local=/boooooooooooog.top/
 local=/boostfluence.com/
 local=/boot.lu/
 local=/boot.ml/
@@ -1570,6 +1574,7 @@ local=/btsow.online/
 local=/bttrove.org/
 local=/tracker.btzero.net/
 local=/btzone.org/
+local=/buchkammer.sbs/
 local=/buddycenters.shop/
 local=/buddyfly.top/
 local=/buffstream.io/
@@ -2489,6 +2494,7 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
+local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -2604,6 +2610,7 @@ local=/domaha.tv/
 local=/domahatv.com/
 local=/domahi.com/
 local=/domdata.ru/
+local=/donkey.asia/
 local=/donkey.to/
 local=/dontorrent.org/
 local=/dontorrents.com/
@@ -5141,6 +5148,7 @@ local=/kkiste.autos/
 local=/kkiste.boats/
 local=/kkiste.club/
 local=/kkooralives.com/
+local=/kleanstorage.store/
 local=/kleverig.eu/
 local=/klon.tv/
 local=/kludd.com/
@@ -6072,6 +6080,7 @@ local=/myanime.live/
 local=/myanonamouse.net/
 local=/myasiantv.to/
 local=/myauto.to/
+local=/mybabele.com/
 local=/mybadbits.org/
 local=/mybdix.com/
 local=/mybdplex.com/
@@ -6751,6 +6760,7 @@ local=/pdfdrive.to/
 local=/pdfmagaz.in/
 local=/pdfmagazines.club/
 local=/pdfroom.com/
+local=/peace-and.love/
 local=/peckservers.com/
 local=/peerfect.org/
 local=/peerportal.org/
@@ -8830,6 +8840,9 @@ local=/timenai.com/
 local=/timepassbd.com/
 local=/timepassbd.live/
 local=/timetowatch.xyz/
+local=/timstreams.cfd/
+local=/timstreams.site/
+local=/timstreams.xyz/
 local=/tiny-repacks.win/
 local=/tracker.tiny-vps.com/
 local=/tinyls.net/
@@ -9362,6 +9375,7 @@ local=/4rvard-warez.ucoz.ru/
 local=/dowm-movies.ucoz.net/
 local=/movi.ucoz.ro/
 local=/psyfp.ucoz.ru/
+local=/udderlesscowswithmilk.shop/
 local=/xbox.udp.at/
 local=/udush.com/
 local=/dashunika07.ueuo.com/
@@ -10337,6 +10351,7 @@ local=/webtor.io/
 local=/webtorrent.io/
 local=/tracker.webtorrent.dev/
 local=/webtorrents.com/
+local=/wecat.help/
 local=/weeabooter.com/
 local=/weebcentral.com/
 local=/dragonballsuperenvf.weebly.com/
