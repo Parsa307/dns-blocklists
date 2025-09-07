@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Sep 2025 12:19 UTC
-# Version: 2025.0907.1219.10
+# Last modified: 07 Sep 2025 20:16 UTC
+# Version: 2025.0907.2016.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5736
+# Number of entries: 5739
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -264,6 +264,7 @@ local=/ananoos.com/
 local=/anchorfree.net/
 local=/dns.andrewnw.xyz/
 local=/angle.goal.andrewshomelabs.com/
+local=/androvpn.com/
 local=/doh.angry.im/
 local=/animeproxy.net/
 local=/aniscartujo.com/
@@ -289,6 +290,7 @@ local=/anonymousvpn.info/
 local=/anonymousvpn.org/
 local=/anonymox.net/
 local=/anonymster.com/
+local=/anonymurl.biz/
 local=/anonypost.com/
 local=/anonyproxy.biz/
 local=/anonysurf.com/
@@ -325,6 +327,7 @@ local=/artclass.lol/
 local=/artclass.site/
 local=/dns.artikel10.org/
 local=/doh.asagiri.moe/
+local=/asheranztwitch.online/
 local=/dns.ashleyjackson.net/
 local=/survey.aspdebugger.com/
 local=/task.major.assholetenants.com/
@@ -420,6 +423,7 @@ local=/dns.beardic.cn/
 local=/bebasid.com/
 local=/bebra.ai/
 local=/justhost.bedro.cloud/
+local=/beecomf.xyz/
 local=/focus.ideas.beekerland.com/
 local=/beepassvpn.com/
 local=/beetvpn.com/
@@ -1321,7 +1325,6 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
-local=/gustamadh.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
@@ -1359,6 +1362,7 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -3339,7 +3343,6 @@ local=/tiger.dns.qwer.pw/
 local=/mahiro-9.1project.r-o-o-t.net/
 local=/resolver.r0cket.net/
 local=/r1bnc.com/
-local=/resolve2.r9x.cc/
 local=/ra4wvpn.com/
 local=/dns.rabbitdns.org/
 local=/family.rabbitdns.org/

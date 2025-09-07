@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757247060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757275740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Sep 2025 12:11 UTC
-; Version: 2025.0907.1211.22
+; Last modified: 07 Sep 2025 20:09 UTC
+; Version: 2025.0907.2009.55
 ; Syntax: RPZ
-; Number of entries: 21700
+; Number of entries: 21732
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -437,6 +437,8 @@ vegamovies.ax CNAME .
 *.vegamovies.ax CNAME .
 vegamovies.ba CNAME .
 *.vegamovies.ba CNAME .
+altadefinizione.baby CNAME .
+*.altadefinizione.baby CNAME .
 bollyflix.baby CNAME .
 *.bollyflix.baby CNAME .
 fmovies.baby CNAME .
@@ -859,6 +861,8 @@ streamingcommunity.boats CNAME .
 *.streamingcommunity.boats CNAME .
 streamingcommunityz.boats CNAME .
 *.streamingcommunityz.boats CNAME .
+altadefinizione.bond CNAME .
+*.altadefinizione.bond CNAME .
 guardaserie.bond CNAME .
 *.guardaserie.bond CNAME .
 mrunblock.bond CNAME .
@@ -1769,6 +1773,8 @@ agentfilm.club CNAME .
 *.agentfilm.club CNAME .
 altadefinizione.club CNAME .
 *.altadefinizione.club CNAME .
+altadefinizione01.club CNAME .
+*.altadefinizione01.club CNAME .
 androidoyun.club CNAME .
 *.androidoyun.club CNAME .
 animeon.club CNAME .
@@ -2573,6 +2579,8 @@ alphabetagamer.com CNAME .
 *.alphabetagamer.com CNAME .
 alphabroadway.com CNAME .
 *.alphabroadway.com CNAME .
+alphamediazone.com CNAME .
+*.alphamediazone.com CNAME .
 alphastress.com CNAME .
 *.alphastress.com CNAME .
 alt-torrent.com CNAME .
@@ -2727,6 +2735,8 @@ apkmine.com CNAME .
 *.apkmine.com CNAME .
 apkmirrorfull.com CNAME .
 *.apkmirrorfull.com CNAME .
+apkmod9.com CNAME .
+*.apkmod9.com CNAME .
 apkmodbrasil.com CNAME .
 *.apkmodbrasil.com CNAME .
 apkmodct.com CNAME .
@@ -9665,6 +9675,8 @@ kinogo.inc CNAME .
 *.kinogo.inc CNAME .
 abcvg.info CNAME .
 *.abcvg.info CNAME .
+afdah.info CNAME .
+*.afdah.info CNAME .
 allseek.info CNAME .
 *.allseek.info CNAME .
 altadefinizione.info CNAME .
@@ -10713,6 +10725,8 @@ yggtorrent.li CNAME .
 *.123movies4u.life CNAME .
 1movies.life CNAME .
 *.1movies.life CNAME .
+altadefinizione.life CNAME .
+*.altadefinizione.life CNAME .
 altadefinizione01.life CNAME .
 *.altadefinizione01.life CNAME .
 bypassed.life CNAME .
@@ -12391,6 +12405,8 @@ arabp2p.net CNAME .
 *.arabp2p.net CNAME .
 argenteam.net CNAME .
 *.argenteam.net CNAME .
+arishabd.net CNAME .
+*.arishabd.net CNAME .
 multiki.arjlover.net CNAME .
 *.multiki.arjlover.net CNAME .
 torrent.arjlover.net CNAME .
@@ -12409,6 +12425,8 @@ atrasisclash.net CNAME .
 *.atrasisclash.net CNAME .
 attackertv.net CNAME .
 *.attackertv.net CNAME .
+audiobookbay.net CNAME .
+*.audiobookbay.net CNAME .
 axemovies.net CNAME .
 *.axemovies.net CNAME .
 retracker.baikal-telecom.net CNAME .
@@ -12419,6 +12437,8 @@ baixarpremium.net CNAME .
 *.baixarpremium.net CNAME .
 balkan-torrent.net CNAME .
 *.balkan-torrent.net CNAME .
+baltracker.net CNAME .
+*.baltracker.net CNAME .
 torrents.bbccable.net CNAME .
 *.torrents.bbccable.net CNAME .
 bd-t.net CNAME .
@@ -14515,6 +14535,8 @@ altadefinizione-originale.online CNAME .
 *.altadefinizione-originale.online CNAME .
 altadefinizione01.online CNAME .
 *.altadefinizione01.online CNAME .
+assistirseriados.online CNAME .
+*.assistirseriados.online CNAME .
 assistirtvgratis.online CNAME .
 *.assistirtvgratis.online CNAME .
 attack-on-titan.online CNAME .
@@ -14737,6 +14759,8 @@ ac-market.org CNAME .
 *.ac-market.org CNAME .
 activationkeys.org CNAME .
 *.activationkeys.org CNAME .
+afdah.org CNAME .
+*.afdah.org CNAME .
 alexlan.org CNAME .
 *.alexlan.org CNAME .
 alldj.org CNAME .
@@ -14869,6 +14893,8 @@ bigtracker.org CNAME .
 *.bigtracker.org CNAME .
 bitcorea.org CNAME .
 *.bitcorea.org CNAME .
+bitenova.org CNAME .
+*.bitenova.org CNAME .
 bitfellas.org CNAME .
 *.bitfellas.org CNAME .
 bitgate.org CNAME .
@@ -18975,10 +19001,14 @@ avistaz.to CNAME .
 *.avistaz.to CNAME .
 azm.to CNAME .
 *.azm.to CNAME .
+bflix.to CNAME .
+*.bflix.to CNAME .
 bingewatch.to CNAME .
 *.bingewatch.to CNAME .
 bitsearch.to CNAME .
 *.bitsearch.to CNAME .
+alt.bitworld.to CNAME .
+*.alt.bitworld.to CNAME .
 blockbuster.to CNAME .
 *.blockbuster.to CNAME .
 boerse.to CNAME .
@@ -20689,6 +20719,8 @@ yesmovies.vin CNAME .
 *.100zhaocili.vip CNAME .
 altadefinizione.vip CNAME .
 *.altadefinizione.vip CNAME .
+apkmody.vip CNAME .
+*.apkmody.vip CNAME .
 app-valley.vip CNAME .
 *.app-valley.vip CNAME .
 babytorrent.vip CNAME .

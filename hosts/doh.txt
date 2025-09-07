@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Sep 2025 12:18 UTC
-# Version: 2025.0907.1218.37
+# Last modified: 07 Sep 2025 20:16 UTC
+# Version: 2025.0907.2016.14
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1636
+# Number of entries: 1635
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -639,7 +639,6 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver2.dyndnsinternetguide.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -649,6 +648,7 @@
 0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -1329,7 +1329,6 @@
 0.0.0.0 tiger.dns.qwer.pw
 0.0.0.0 resolver.r0cket.net
 0.0.0.0 r1bnc.com
-0.0.0.0 resolve2.r9x.cc
 0.0.0.0 dns.rabbitdns.org
 0.0.0.0 family.rabbitdns.org
 0.0.0.0 security.rabbitdns.org

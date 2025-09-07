@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757241120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757269740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Sep 2025 10:32 UTC
-; Version: 2025.0907.1032.34
+; Last modified: 07 Sep 2025 18:29 UTC
+; Version: 2025.0907.1829.30
 ; Syntax: RPZ
-; Number of entries: 12696
+; Number of entries: 12708
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4336,6 +4336,8 @@ x3.cx CNAME .
 *.x3.cx CNAME .
 url.cy CNAME .
 *.url.cy CNAME .
+ahpit.cyou CNAME .
+*.ahpit.cyou CNAME .
 linkmu.cyou CNAME .
 *.linkmu.cyou CNAME .
 shortly.cyou CNAME .
@@ -6996,6 +6998,8 @@ shorturl.kg CNAME .
 *.1mm.kr CNAME .
 acg.kr CNAME .
 *.acg.kr CNAME .
+adx.kr CNAME .
+*.adx.kr CNAME .
 alie.kr CNAME .
 *.alie.kr CNAME .
 asq.kr CNAME .
@@ -11398,6 +11402,8 @@ asap.to CNAME .
 *.asap.to CNAME .
 author.to CNAME .
 *.author.to CNAME .
+avenir.to CNAME .
+*.avenir.to CNAME .
 awy.to CNAME .
 *.awy.to CNAME .
 beam.to CNAME .
@@ -11408,6 +11414,8 @@ bhpho.to CNAME .
 *.bhpho.to CNAME .
 bitl.to CNAME .
 *.bitl.to CNAME .
+bitly.to CNAME .
+*.bitly.to CNAME .
 biv.to CNAME .
 *.biv.to CNAME .
 bloop.to CNAME .
@@ -12574,6 +12582,10 @@ akunjpvip.xyz CNAME .
 *.akunjpvip.xyz CNAME .
 alldomainwhois.xyz CNAME .
 *.alldomainwhois.xyz CNAME .
+answ.xyz CNAME .
+*.answ.xyz CNAME .
+becakrcg.xyz CNAME .
+*.becakrcg.xyz CNAME .
 bolagroup.xyz CNAME .
 *.bolagroup.xyz CNAME .
 clicai.xyz CNAME .
