@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757233440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757247060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Sep 2025 08:24 UTC
-; Version: 2025.0907.0824.29
+; Last modified: 07 Sep 2025 12:11 UTC
+; Version: 2025.0907.1211.22
 ; Syntax: RPZ
-; Number of entries: 21694
+; Number of entries: 21700
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -14507,6 +14507,8 @@ vegamovies.onl CNAME .
 *.123moviesme.online CNAME .
 1jour1film.online CNAME .
 *.1jour1film.online CNAME .
+aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
+*.aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
 altadefinizione.online CNAME .
 *.altadefinizione.online CNAME .
 altadefinizione-originale.online CNAME .
@@ -14729,6 +14731,8 @@ streamingcommunity.ooo CNAME .
 *.64dd.org CNAME .
 7tor.org CNAME .
 *.7tor.org CNAME .
+7track.org CNAME .
+*.7track.org CNAME .
 ac-market.org CNAME .
 *.ac-market.org CNAME .
 activationkeys.org CNAME .
@@ -18927,6 +18931,8 @@ wzone.6x.to CNAME .
 *.9anime.to CNAME .
 9animetv.to CNAME .
 *.9animetv.to CNAME .
+9pm.to CNAME .
+*.9pm.to CNAME .
 afdah.to CNAME .
 *.afdah.to CNAME .
 allmanga.to CNAME .

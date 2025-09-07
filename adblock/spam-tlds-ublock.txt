@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Sep 2025 22:54 UTC
-! Version: 2025.0905.2254.30
+! Last modified: 07 Sep 2025 10:17 UTC
+! Version: 2025.0907.1017.22
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -49,7 +49,7 @@
 ||capital^$doc,domain=~scalable.capital
 ||careers^$doc,domain=~commonspirit.careers
 ||casa^$doc,domain=~nabu.casa
-||cash^$doc
+||cash^$doc,domain=~doe.cash
 ||casino^$doc
 ||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~ptt.cc|~rapidcdn.cc|~rutracker.cc|~shottr.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~zcyph.cc
 ||center^$doc,domain=~mein-kunden.center|~oh.center|~priv.center|~relaxx.center
@@ -188,7 +188,7 @@
 ||okinawa^$doc
 ||ong^$doc
 ||onl^$doc,domain=~gc.onl
-||online^$doc,domain=~adguard-vpn.online|~argon2.online|~blink.online|~dancewave.online|~discuss.online|~eufh.online|~flexilead.online|~geoigarape.online|~instructions.online|~manuals.online|~open.online|~radarpayment.online|~randemretail.online|~ravendawn.online|~shueisha.online|~vmwesa.online
+||online^$doc,domain=~adguard-vpn.online|~argon2.online|~blink.online|~dancewave.online|~discuss.online|~eufh.online|~flexilead.online|~geoigarape.online|~instructions.online|~manuals.online|~open.online|~photostore24.online|~radarpayment.online|~randemretail.online|~ravendawn.online|~shueisha.online|~vmwesa.online
 ||ooo^$doc,domain=~term.ooo|~toast.ooo
 ||partners^$doc,domain=~stripe.partners|~xh.partners
 ||parts^$doc

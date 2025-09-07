@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Sep 2025 06:45 UTC
-# Version: 2025.0907.0645.24
+# Last modified: 07 Sep 2025 10:30 UTC
+# Version: 2025.0907.1030.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13608
+# Number of entries: 13609
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -68,6 +68,7 @@ local=/a-baustofflager.com/
 local=/a-markt.de/
 local=/a2j-baumarkt.com/
 local=/aachentag.com/
+local=/aacloth.shop/
 local=/ab-foliendesign.shop/
 local=/ab-spielhallen.com/
 local=/ababilhajjbd.com/

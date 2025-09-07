@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Sep 2025 08:24 UTC
-# Version: 2025.0907.0824.29
+# Last modified: 07 Sep 2025 12:11 UTC
+# Version: 2025.0907.1211.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10847
+# Number of entries: 10850
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -380,6 +380,7 @@ local=/7mag.net/
 local=/7movs.com/
 local=/7tor.org/
 local=/7torrents.cc/
+local=/7track.org/
 local=/7xstream.com/
 local=/7xtream.com/
 local=/870726.xyz/
@@ -403,6 +404,7 @@ local=/9divx.com/
 local=/9goal.tv/
 local=/9mod.com/
 local=/9movies.top/
+local=/9pm.to/
 local=/9xflix.golf/
 local=/bttrack.9you.com/
 local=/a1cyberlinkbd.com/
@@ -427,6 +429,7 @@ local=/tr.abiir.top/
 local=/tr.abir.ga/
 local=/abnctg.net/
 local=/abnzb.com/
+local=/aboutbeautifulgallopinghorsesinthegreenpasture.online/
 local=/abrokegamer.com/
 local=/abtorrents.com/
 local=/tracker.aburaya.live/

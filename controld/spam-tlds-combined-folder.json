@@ -1519,6 +1519,13 @@
       }
     },
     {
+      "PK": "doe.cash",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "doesmycode.work",
       "action": {
         "do": 1,
@@ -4336,6 +4343,13 @@
       "PK": "*.photos",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "photostore24.online",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
