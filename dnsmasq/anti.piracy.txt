@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Sep 2025 20:01 UTC
-# Version: 2025.0906.2001.18
+# Last modified: 07 Sep 2025 08:24 UTC
+# Version: 2025.0907.0824.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10846
+# Number of entries: 10847
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -28,6 +28,7 @@ local=/066855.xyz/
 local=/0902797.xyz/
 local=/090600.xyz/
 local=/0day.ro/
+local=/0daycn.net/
 local=/0dayddl.com/
 local=/0dayhome.net/
 local=/hichemtigsetorgy.0fees.net/
@@ -2494,7 +2495,6 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
-local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -4731,7 +4731,6 @@ local=/ns349743.ip-91-121-106.eu/
 local=/ipacrack.com/
 local=/ipalibrary.me/
 local=/ipboot.xyz/
-local=/speedtest.iperson.xyz/
 local=/tracker.iperson.xyz/
 local=/tracker.ipfsscan.io/
 local=/iphonebooks.info/
@@ -6728,7 +6727,6 @@ local=/tracker.parrotsec.org/
 local=/partidosenvivo.gratis/
 local=/partis.si/
 local=/passion-musique.net/
-local=/passpulse.net/
 local=/passthepopcorn.me/
 local=/passthepopcorn.org/
 local=/patalpuri.com/
@@ -7803,6 +7801,7 @@ local=/sflix2.to/
 local=/diva.sfsu.edu/
 local=/sganime.org/
 local=/sgnilo.wiki/
+local=/shaahid4u.net/
 local=/shabri.org/
 local=/shadow.lv/
 local=/tracker.shadowthein.net/
@@ -9393,6 +9392,7 @@ local=/uhdbits.org/
 local=/uhdmovies.cat/
 local=/uhdmovies.dad/
 local=/uhdmovies.fyi/
+local=/uhdmovies.tube/
 local=/uhdmovies.us/
 local=/uhdmv.org/
 local=/uhibo.com/
@@ -10510,6 +10510,7 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
+local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/

@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Sep 2025 19:41 UTC
-# Version: 2025.0906.1941.22
+# Last modified: 07 Sep 2025 06:47 UTC
+# Version: 2025.0907.0647.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6346
+# Number of entries: 6347
 #
 local=/0.gp/
 local=/00m.in/
@@ -31,6 +31,7 @@ local=/0a0.uk/
 local=/0bs.de/
 local=/0i.is/
 local=/0ln.io/
+local=/0o.lv/
 local=/0oj.cn/
 local=/0rl.cc/
 local=/0rz.tw/
