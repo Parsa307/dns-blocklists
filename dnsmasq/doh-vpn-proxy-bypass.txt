@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Sep 2025 20:16 UTC
-# Version: 2025.0907.2016.38
+# Last modified: 08 Sep 2025 08:36 UTC
+# Version: 2025.0908.0836.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5739
+# Number of entries: 5750
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -575,6 +575,7 @@ local=/dns.busold.ws/
 local=/dns.butterfly87.sbs/
 local=/bvpn.com/
 local=/byewall.com/
+local=/bypass.pw/
 local=/bypassable.com/
 local=/bypassed.wtf/
 local=/bypasser.us/
@@ -941,6 +942,7 @@ local=/dns1.conne.net/
 local=/dns.connect.fail/
 local=/connectionvpn.com/
 local=/constitutional.design/
+local=/dns.containerpi.com/
 local=/contassh.com/
 local=/contentabc.com/
 local=/dns.controld.com/
@@ -978,6 +980,7 @@ local=/crazyfastrace.lol/
 local=/crazyproxy.org/
 local=/crazysurfer.info/
 local=/createssh.com/
+local=/createssh.net/
 local=/criarssh.com/
 local=/crownproxy.com/
 local=/croxy.network/
@@ -1115,6 +1118,7 @@ local=/fdns2.dismail.de/
 local=/districtnewyork.com/
 local=/divalane.com/
 local=/divaloo.com/
+local=/coolgams.dk-condos.com/
 local=/kahoot.it.dmtr.ru/
 local=/easydomain.dnet.hu/
 local=/dns.expert/
@@ -1122,6 +1126,7 @@ local=/dns.google/
 local=/dns.pub/
 local=/dns.sb/
 local=/dns.watch/
+local=/deep-sea.dns.navy/
 local=/lawless-zone.dns.army/
 local=/wolf-zone.dns.army/
 local=/dns.dns-53.com/
@@ -1240,6 +1245,7 @@ local=/dns1.dnscrypt.ca/
 local=/do.dnscrypt.uk/
 local=/doh.dnscrypt.uk/
 local=/v.dnscrypt.uk/
+local=/dnsenc.com/
 local=/dnsforfamily.com/
 local=/dnsforge.de/
 local=/dnsguard.pub/
@@ -1310,6 +1316,7 @@ local=/huawaakiskokoa.duckdns.org/
 local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
+local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
 local=/blahaj.duia.us/
@@ -1325,6 +1332,8 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
+local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
@@ -1350,6 +1359,7 @@ local=/easyvpn.com/
 local=/easyvpn.zone/
 local=/ebookdz.com/
 local=/ebumna.net/
+local=/echous.info/
 local=/ecoweb-network.com/
 local=/ecxs.asia/
 local=/steves-lava-chicken.edah.us/
@@ -1512,6 +1522,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flashpull.com/
 local=/flashput.net/

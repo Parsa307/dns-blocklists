@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Sep 2025 20:16 UTC
-! Version: 2025.0907.2016.38
+! Last modified: 08 Sep 2025 08:36 UTC
+! Version: 2025.0908.0836.45
 ! Syntax: AdBlock
-! Number of entries: 5739
+! Number of entries: 5750
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -576,6 +576,7 @@
 ||dns.butterfly87.sbs^
 ||bvpn.com^
 ||byewall.com^
+||bypass.pw^
 ||bypassable.com^
 ||bypassed.wtf^
 ||bypasser.us^
@@ -942,6 +943,7 @@
 ||dns.connect.fail^
 ||connectionvpn.com^
 ||constitutional.design^
+||dns.containerpi.com^
 ||contassh.com^
 ||contentabc.com^
 ||dns.controld.com^
@@ -979,6 +981,7 @@
 ||crazyproxy.org^
 ||crazysurfer.info^
 ||createssh.com^
+||createssh.net^
 ||criarssh.com^
 ||crownproxy.com^
 ||croxy.network^
@@ -1116,6 +1119,7 @@
 ||districtnewyork.com^
 ||divalane.com^
 ||divaloo.com^
+||coolgams.dk-condos.com^
 ||kahoot.it.dmtr.ru^
 ||easydomain.dnet.hu^
 ||dns.expert^
@@ -1123,6 +1127,7 @@
 ||dns.pub^
 ||dns.sb^
 ||dns.watch^
+||deep-sea.dns.navy^
 ||lawless-zone.dns.army^
 ||wolf-zone.dns.army^
 ||dns.dns-53.com^
@@ -1241,6 +1246,7 @@
 ||do.dnscrypt.uk^
 ||doh.dnscrypt.uk^
 ||v.dnscrypt.uk^
+||dnsenc.com^
 ||dnsforfamily.com^
 ||dnsforge.de^
 ||dnsguard.pub^
@@ -1311,6 +1317,7 @@
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
+||punono.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
 ||blahaj.duia.us^
@@ -1326,6 +1333,8 @@
 ||ueni.dyndns.org^
 ||resolver2.dyndnsinternetguide.com^
 ||adbox-v9.dynipv6.de^
+||gustamadh.dynv6.net^
+||sagamihara.dynv6.net^
 ||t9rke-5zq1m.dynv6.net^
 ||dns.dynx.pro^
 ||vpn.dzarlax.dev^
@@ -1351,6 +1360,7 @@
 ||easyvpn.zone^
 ||ebookdz.com^
 ||ebumna.net^
+||echous.info^
 ||ecoweb-network.com^
 ||ecxs.asia^
 ||steves-lava-chicken.edah.us^
@@ -1513,6 +1523,7 @@
 ||fitnessdepotprices.com^
 ||chart.books.fivepals.com^
 ||fixproxy.com^
+||dns.fizz.studio^
 ||gothgirlsareawesome.flamex.hm^
 ||flashpull.com^
 ||flashput.net^

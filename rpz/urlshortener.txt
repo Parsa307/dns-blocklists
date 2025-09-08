@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757269740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757314200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Sep 2025 18:29 UTC
-; Version: 2025.0907.1829.30
+; Last modified: 08 Sep 2025 06:50 UTC
+; Version: 2025.0908.0650.33
 ; Syntax: RPZ
-; Number of entries: 12708
+; Number of entries: 12730
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2544,6 +2544,8 @@ flextrig.com CNAME .
 *.flextrig.com CNAME .
 flickerlink.com CNAME .
 *.flickerlink.com CNAME .
+flinkio.com CNAME .
+*.flinkio.com CNAME .
 flowcode.com CNAME .
 *.flowcode.com CNAME .
 flowhits.com CNAME .
@@ -3640,6 +3642,8 @@ snappyurl.com CNAME .
 *.snappyurl.com CNAME .
 snapylink.com CNAME .
 *.snapylink.com CNAME .
+sniplytics.com CNAME .
+*.sniplytics.com CNAME .
 snipmojo.com CNAME .
 *.snipmojo.com CNAME .
 snipqr.com CNAME .
@@ -5410,6 +5414,8 @@ tinyurl.hu CNAME .
 *.tinyurl.hu CNAME .
 zsirkacsa.hu CNAME .
 *.zsirkacsa.hu CNAME .
+cloudfare.icu CNAME .
+*.cloudfare.icu CNAME .
 linkin.icu CNAME .
 *.linkin.icu CNAME .
 oo0oo.icu CNAME .
@@ -6032,6 +6038,8 @@ chudaitrieuview.info CNAME .
 *.chudaitrieuview.info CNAME .
 cinecom.info CNAME .
 *.cinecom.info CNAME .
+coinpr.info CNAME .
+*.coinpr.info CNAME .
 cookcenter.info CNAME .
 *.cookcenter.info CNAME .
 dl-protect.info CNAME .
@@ -6276,6 +6284,8 @@ beree.io CNAME .
 *.beree.io CNAME .
 betaloop.io CNAME .
 *.betaloop.io CNAME .
+betterlinks.io CNAME .
+*.betterlinks.io CNAME .
 biotap.io CNAME .
 *.biotap.io CNAME .
 bsrw.io CNAME .
@@ -6580,6 +6590,8 @@ urlzip.io CNAME .
 *.urlzip.io CNAME .
 urt.io CNAME .
 *.urt.io CNAME .
+useclick.io CNAME .
+*.useclick.io CNAME .
 utm.io CNAME .
 *.utm.io CNAME .
 vipb.io CNAME .
@@ -7938,6 +7950,8 @@ daftarhoki.live CNAME .
 *.daftarhoki.live CNAME .
 daftarmpomax.live CNAME .
 *.daftarmpomax.live CNAME .
+delta.live CNAME .
+*.delta.live CNAME .
 ellastern.live CNAME .
 *.ellastern.live CNAME .
 euapoio.live CNAME .
@@ -8544,6 +8558,8 @@ etsy.me CNAME .
 *.etsy.me CNAME .
 eyq.me CNAME .
 *.eyq.me CNAME .
+ezbio.me CNAME .
+*.ezbio.me CNAME .
 ezbz.me CNAME .
 *.ezbz.me CNAME .
 ezclick.me CNAME .
@@ -9802,6 +9818,8 @@ capital.one CNAME .
 *.capital.one CNAME .
 cccc.one CNAME .
 *.cccc.one CNAME .
+cuk.one CNAME .
+*.cuk.one CNAME .
 d2ks.one CNAME .
 *.d2ks.one CNAME .
 dhe.one CNAME .
@@ -10932,6 +10950,8 @@ yau.sh CNAME .
 *.yau.sh CNAME .
 4l.shop CNAME .
 *.4l.shop CNAME .
+djarum88.shop CNAME .
+*.djarum88.shop CNAME .
 hoki108.shop CNAME .
 *.hoki108.shop CNAME .
 imo-call.shop CNAME .
@@ -11422,6 +11442,8 @@ bloop.to CNAME .
 *.bloop.to CNAME .
 bom.to CNAME .
 *.bom.to CNAME .
+brk.to CNAME .
+*.brk.to CNAME .
 browser.to CNAME .
 *.browser.to CNAME .
 c1.to CNAME .

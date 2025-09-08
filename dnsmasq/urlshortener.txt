@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Sep 2025 18:29 UTC
-# Version: 2025.0907.1829.30
+# Last modified: 08 Sep 2025 06:50 UTC
+# Version: 2025.0908.0650.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6354
+# Number of entries: 6365
 #
 local=/0.gp/
 local=/00m.in/
@@ -755,6 +755,7 @@ local=/bestshortlink.com/
 local=/betaloop.io/
 local=/beteshis.com/
 local=/beth.games/
+local=/betterlinks.io/
 local=/beurl.app/
 local=/bez.link/
 local=/bezlink.com/
@@ -933,6 +934,7 @@ local=/brightestbeginning.me/
 local=/brilink.me/
 local=/brisktopia.com/
 local=/briurl.com/
+local=/brk.to/
 local=/brndly.net/
 local=/brook.gs/
 local=/browsen.de/
@@ -1175,6 +1177,7 @@ local=/clktrack.com/
 local=/clmp.me/
 local=/clockurl.com/
 local=/clotplaynews.live/
+local=/cloudfare.icu/
 local=/cloudku.click/
 local=/cloudradar.net/
 local=/cloudshrinker.com/
@@ -1235,6 +1238,7 @@ local=/cofe.io/
 local=/coinbarlink.net/
 local=/coinbot.kr/
 local=/coinclix.co/
+local=/coinpr.info/
 local=/coinreal-us.com/
 local=/coki.me/
 local=/coklat.vip/
@@ -1308,6 +1312,7 @@ local=/ctr.sh/
 local=/ctse-registry.com/
 local=/ctx.ink/
 local=/cu7.co/
+local=/cuk.one/
 local=/cukbaray.com/
 local=/cultm.ac/
 local=/cuoinamdiedm.life/
@@ -1444,6 +1449,7 @@ local=/deli.bz/
 local=/deliverable.email/
 local=/dell.to/
 local=/deloi.tt/
+local=/delta.live/
 local=/dems.me/
 local=/desin.me/
 local=/wwww.destockdrive.com/
@@ -1487,6 +1493,7 @@ local=/discvr.co/
 local=/disq.us/
 local=/dive.pub/
 local=/divsly.com/
+local=/djarum88.shop/
 local=/djbanshi.net/
 local=/djp.li/
 local=/djurl.com/
@@ -1738,6 +1745,7 @@ local=/exploreosv.com/
 local=/exx.us/
 local=/eyq.me/
 local=/ez1.cc/
+local=/ezbio.me/
 local=/ezbz.me/
 local=/ezc.vc/
 local=/ezclick.me/
@@ -1827,6 +1835,7 @@ local=/flic.kr/
 local=/flickerlink.com/
 local=/flii.by/
 local=/flink.is/
+local=/flinkio.com/
 local=/flip.it/
 local=/fllw.link/
 local=/flomuz.io/
@@ -4854,6 +4863,7 @@ local=/snip.ly/
 local=/snip.ng/
 local=/snipi.io/
 local=/sniply.io/
+local=/sniplytics.com/
 local=/snipmojo.com/
 local=/snipp.dev/
 local=/snipqr.com/
@@ -5726,6 +5736,7 @@ local=/url.usacomment.com/
 local=/usanet.tv/
 local=/usat.ly/
 local=/use.my/
+local=/useclick.io/
 local=/uselinkwizard.com/
 local=/userlinks.in/
 local=/useshort.com/

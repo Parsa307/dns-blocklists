@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757276160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757320560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Sep 2025 20:16 UTC
-; Version: 2025.0907.2016.38
+; Last modified: 08 Sep 2025 08:36 UTC
+; Version: 2025.0908.0836.45
 ; Syntax: RPZ
-; Number of entries: 11478
+; Number of entries: 11500
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1486,6 +1486,8 @@ confirmedvpn.com CNAME .
 *.confirmedvpn.com CNAME .
 connectionvpn.com CNAME .
 *.connectionvpn.com CNAME .
+dns.containerpi.com CNAME .
+*.dns.containerpi.com CNAME .
 contassh.com CNAME .
 *.contassh.com CNAME .
 contentabc.com CNAME .
@@ -1598,6 +1600,8 @@ divalane.com CNAME .
 *.divalane.com CNAME .
 divaloo.com CNAME .
 *.divaloo.com CNAME .
+coolgams.dk-condos.com CNAME .
+*.coolgams.dk-condos.com CNAME .
 dns.dns-53.com CNAME .
 *.dns.dns-53.com CNAME .
 dns.dns-over-https.com CNAME .
@@ -1610,6 +1614,8 @@ ns2.recursive.dnsbycomodo.com CNAME .
 *.ns2.recursive.dnsbycomodo.com CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 *.2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
+dnsenc.com CNAME .
+*.dnsenc.com CNAME .
 dnsforfamily.com CNAME .
 *.dnsforfamily.com CNAME .
 doh.dnslify.com CNAME .
@@ -7080,6 +7086,8 @@ directoryproxy.info CNAME .
 *.directoryproxy.info CNAME .
 vpngermany.dzzz.info CNAME .
 *.vpngermany.dzzz.info CNAME .
+echous.info CNAME .
+*.echous.info CNAME .
 everyproxies.info CNAME .
 *.everyproxies.info CNAME .
 expressvpn.info CNAME .
@@ -7964,6 +7972,8 @@ dns.therifleman.name CNAME .
 *.dns.therifleman.name CNAME .
 unblocked.name CNAME .
 *.unblocked.name CNAME .
+deep-sea.dns.navy CNAME .
+*.deep-sea.dns.navy CNAME .
 dns.0x55.net CNAME .
 *.dns.0x55.net CNAME .
 123-proxy.net CNAME .
@@ -8352,6 +8362,8 @@ dot.cox.net CNAME .
 *.dot.cox.net CNAME .
 dohdot.coxlab.net CNAME .
 *.dohdot.coxlab.net CNAME .
+createssh.net CNAME .
+*.createssh.net CNAME .
 croxyproxy.net CNAME .
 *.croxyproxy.net CNAME .
 dns.crystalyx.net CNAME .
@@ -8390,6 +8402,10 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
+sagamihara.dynv6.net CNAME .
+*.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
 *.t9rke-5zq1m.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
@@ -9518,6 +9534,8 @@ krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
+punono.duckdns.org CNAME .
+*.punono.duckdns.org CNAME .
 tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
 tungdnsne.duckdns.org CNAME .
@@ -10284,6 +10302,8 @@ doh.totoro.pub CNAME .
 *.doh.totoro.pub CNAME .
 proxyduke.bingle.pw CNAME .
 *.proxyduke.bingle.pw CNAME .
+bypass.pw CNAME .
+*.bypass.pw CNAME .
 maths.ds6.pw CNAME .
 *.maths.ds6.pw CNAME .
 proxy.eti.pw CNAME .
@@ -10680,6 +10700,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
