@@ -157,12 +157,22 @@ cstat.g.apple.com
 
 # https://github.com/hagezi/dns-blocklists/issues/3599
 px-conf.perimeterx.net
+px-conf.px-cloud.net
+px-conf.px-cdn.net
+px-conf.pxchk.net
+px-conf.px-client.net
 
 # https://github.com/hagezi/dns-blocklists/issues/3521
-captcha.px-cdn.net
+captcha.perimeterx.net
 captcha.px-cloud.net
-client.px-cdn.net
+captcha.px-cdn.net
+captcha.pxchk.net
+captcha.px-client.net
+client.perimeterx.net
 client.px-cloud.net
+client.px-cdn.net
+client.pxchk.net
+client.px-client.net
 
 # Whatsapp Avatars, Helpcenter and Video effects
 graph.whatsapp.com

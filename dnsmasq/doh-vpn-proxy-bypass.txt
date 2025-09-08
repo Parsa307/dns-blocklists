@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Sep 2025 08:36 UTC
-# Version: 2025.0908.0836.45
+# Last modified: 08 Sep 2025 16:16 UTC
+# Version: 2025.0908.1616.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5750
+# Number of entries: 5755
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1028,7 +1028,6 @@ local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/dns.cybertonic.tech/
-local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -1472,7 +1471,9 @@ local=/fastfoxvpn.com/
 local=/fastfreeproxy.info/
 local=/nuclearvp.global.ssl.fastly.net/
 local=/fastp.org/
+local=/fastpro.info/
 local=/fastproxy.nl/
+local=/fastproxy.org/
 local=/fastproxynetwork.com/
 local=/fastssh.com/
 local=/fasttime.info/
@@ -1567,6 +1568,7 @@ local=/we-need-more.foxgateway.com/
 local=/listings.fpp.realty/
 local=/cosmogamy.fpr.net/
 local=/frandcomfort.us/
+local=/free-onlineproxy.com/
 local=/free-proxy.com/
 local=/free-proxy.cz/
 local=/free-proxy.xyz/
@@ -1631,6 +1633,7 @@ local=/freevpnplanet.com/
 local=/freevpnsoftware.net/
 local=/freewebproxy.eu/
 local=/freexite.com/
+local=/freeyouproxytube.com/
 local=/freeyoutube.net/
 local=/dns.freopc.fr/
 local=/dns.freyja.pw/
@@ -1766,6 +1769,7 @@ local=/google-public-dns-b.google.com/
 local=/dns-tunnel-check.googlezip.net/
 local=/tunnel.googlezip.net/
 local=/goosevpn.com/
+local=/goproxy.asia/
 local=/performance.gosami.xyz/
 local=/vpn.gosami.xyz/
 local=/goshadow.net/
@@ -2622,6 +2626,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/

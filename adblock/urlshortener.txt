@@ -12,10 +12,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 08 Sep 2025 06:50 UTC
-! Version: 2025.0908.0650.33
+! Last modified: 08 Sep 2025 14:29 UTC
+! Version: 2025.0908.1429.10
 ! Syntax: AdBlock
-! Number of entries: 6365
+! Number of entries: 6369
 !
 ||0.gp^
 ||00m.in^
@@ -1774,6 +1774,7 @@
 ||fadurl.com^
 ||fal.cn^
 ||fam.ag^
+||famousurl.com^
 ||famu.cc^
 ||fandan.co^
 ||fandom.link^
@@ -1838,6 +1839,7 @@
 ||flink.is^
 ||flinkio.com^
 ||flip.it^
+||fliplink.io^
 ||fllw.link^
 ||flomuz.io^
 ||flow.page^
@@ -2078,6 +2080,7 @@
 ||golink.us^
 ||golinker.in^
 ||golinkfy.io^
+||golnk.eu^
 ||goly.me^
 ||gomomento.co^
 ||goninja.live^
@@ -2135,6 +2138,7 @@
 ||grc.sc^
 ||grdt.ai^
 ||grem.io^
+||gresham.life^
 ||grk.am^
 ||grlu.us^
 ||grm.my^

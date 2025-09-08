@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757314200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757341740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Sep 2025 06:50 UTC
-; Version: 2025.0908.0650.33
+; Last modified: 08 Sep 2025 14:29 UTC
+; Version: 2025.0908.1429.10
 ; Syntax: RPZ
-; Number of entries: 12730
+; Number of entries: 12738
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2522,6 +2522,8 @@ f5yo.com CNAME .
 *.f5yo.com CNAME .
 fadurl.com CNAME .
 *.fadurl.com CNAME .
+famousurl.com CNAME .
+*.famousurl.com CNAME .
 fasttory.com CNAME .
 *.fasttory.com CNAME .
 faturl.com CNAME .
@@ -4804,6 +4806,8 @@ ftim.eu CNAME .
 *.ftim.eu CNAME .
 fwme.eu CNAME .
 *.fwme.eu CNAME .
+golnk.eu CNAME .
+*.golnk.eu CNAME .
 hepsipay.eu CNAME .
 *.hepsipay.eu CNAME .
 hstx.eu CNAME .
@@ -6330,6 +6334,8 @@ exe.io CNAME .
 *.exe.io CNAME .
 feji.io CNAME .
 *.feji.io CNAME .
+fliplink.io CNAME .
+*.fliplink.io CNAME .
 flomuz.io CNAME .
 *.flomuz.io CNAME .
 url-shortener.yc.fstrk.io CNAME .
@@ -7364,6 +7370,8 @@ dreamshigh.life CNAME .
 *.dreamshigh.life CNAME .
 fenditorosiatoter.life CNAME .
 *.fenditorosiatoter.life CNAME .
+gresham.life CNAME .
+*.gresham.life CNAME .
 heoiberico.life CNAME .
 *.heoiberico.life CNAME .
 heotoc.life CNAME .

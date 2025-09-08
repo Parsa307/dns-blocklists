@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757320560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757348160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Sep 2025 08:36 UTC
-; Version: 2025.0908.0836.45
+; Last modified: 08 Sep 2025 16:16 UTC
+; Version: 2025.0908.1616.04
 ; Syntax: RPZ
-; Number of entries: 11500
+; Number of entries: 11510
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -254,6 +254,8 @@ ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 freeproxy.asia CNAME .
 *.freeproxy.asia CNAME .
+goproxy.asia CNAME .
+*.goproxy.asia CNAME .
 kproxy.asia CNAME .
 *.kproxy.asia CNAME .
 mehide.asia CNAME .
@@ -1816,6 +1818,8 @@ stop-it-now-stop-it-now.foxgateway.com CNAME .
 *.stop-it-now-stop-it-now.foxgateway.com CNAME .
 we-need-more.foxgateway.com CNAME .
 *.we-need-more.foxgateway.com CNAME .
+free-onlineproxy.com CNAME .
+*.free-onlineproxy.com CNAME .
 free-proxy.com CNAME .
 *.free-proxy.com CNAME .
 free-proxyserver.com CNAME .
@@ -1872,6 +1876,8 @@ freevpnplanet.com CNAME .
 *.freevpnplanet.com CNAME .
 freexite.com CNAME .
 *.freexite.com CNAME .
+freeyouproxytube.com CNAME .
+*.freeyouproxytube.com CNAME .
 frootvpn.com CNAME .
 *.frootvpn.com CNAME .
 spot.fuchsargentina.com CNAME .
@@ -2620,6 +2626,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -6740,8 +6748,6 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
-cynntex.fun CNAME .
-*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -7094,6 +7100,8 @@ expressvpn.info CNAME .
 *.expressvpn.info CNAME .
 fastfreeproxy.info CNAME .
 *.fastfreeproxy.info CNAME .
+fastpro.info CNAME .
+*.fastpro.info CNAME .
 fasttime.info CNAME .
 *.fasttime.info CNAME .
 fbproxies.info CNAME .
@@ -9572,6 +9580,8 @@ dns.falkenthal.org CNAME .
 *.dns.falkenthal.org CNAME .
 fastp.org CNAME .
 *.fastp.org CNAME .
+fastproxy.org CNAME .
+*.fastproxy.org CNAME .
 audit.feedcube.org CNAME .
 *.audit.feedcube.org CNAME .
 fineproxy.org CNAME .
