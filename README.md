@@ -1,4 +1,4 @@
-## :zap: DNS Blocklists - Filters focusing in Adult Content & Removing falsely targeted websites based on [This](https://github.com/hagezi/dns-blocklists)!
+## :zap: DNS Blocklists - Filters focusing in Adult Content & Removing False Positive based on [This](https://github.com/hagezi/dns-blocklists)!
 
 ### :underage: **NSFW - Protects against adult content!** <a name="nsfw"></a>
 
