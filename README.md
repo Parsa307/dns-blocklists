@@ -4,13 +4,7 @@
 
 Blocks adult content.
 
-|             | Light | Normal | Pro | Pro++ | Ultimate |
-|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
-| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
-
-:green_circle: yes :yellow_square: partially :x: no
-
-**Entries:** 122558 compressed domains
+**Entries:** 122556 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
