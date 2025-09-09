@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757348160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757376420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Sep 2025 16:16 UTC
-; Version: 2025.0908.1616.04
+; Last modified: 09 Sep 2025 00:07 UTC
+; Version: 2025.0909.0007.48
 ; Syntax: RPZ
-; Number of entries: 11510
+; Number of entries: 11514
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1698,8 +1698,6 @@ dns.edgeburnmedia.com CNAME .
 *.dns.edgeburnmedia.com CNAME .
 edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2000,6 +1998,8 @@ guardian-vpn.com CNAME .
 *.guardian-vpn.com CNAME .
 guardianapp.com CNAME .
 *.guardianapp.com CNAME .
+dns.guardmydns.com CNAME .
+*.dns.guardmydns.com CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
 guavi.com CNAME .
@@ -2070,6 +2070,8 @@ hide-my-ip.com CNAME .
 *.hide-my-ip.com CNAME .
 hideallip.com CNAME .
 *.hideallip.com CNAME .
+hideandgo.com CNAME .
+*.hideandgo.com CNAME .
 hideapplication.com CNAME .
 *.hideapplication.com CNAME .
 hidebuzz.com CNAME .
@@ -2626,8 +2628,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -6748,6 +6748,8 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
+cynntex.fun CNAME .
+*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -7138,6 +7140,8 @@ homevpn.info CNAME .
 *.homevpn.info CNAME .
 httpdserver.info CNAME .
 *.httpdserver.info CNAME .
+cold.icyinferno.info CNAME .
+*.cold.icyinferno.info CNAME .
 hellotaka.iiiii.info CNAME .
 *.hellotaka.iiiii.info CNAME .
 interncloud.info CNAME .
@@ -9666,6 +9670,8 @@ hshh.org CNAME .
 *.hshh.org CNAME .
 math.hypernormal.org CNAME .
 *.math.hypernormal.org CNAME .
+crazygamers737.idigo.org CNAME .
+*.crazygamers737.idigo.org CNAME .
 ininja.org CNAME .
 *.ininja.org CNAME .
 app.edu.iownyour.org CNAME .
@@ -10710,8 +10716,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

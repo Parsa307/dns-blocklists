@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Sep 2025 16:16 UTC
-# Version: 2025.0908.1616.04
+# Last modified: 09 Sep 2025 00:07 UTC
+# Version: 2025.0909.0007.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5755
+# Number of entries: 5757
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1028,6 +1028,7 @@ local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/dns.cybertonic.tech/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -1371,7 +1372,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1523,7 +1523,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1800,6 +1799,7 @@ local=/dns.guard.io/
 local=/guardian-vpn.com/
 local=/guardianapp.com/
 local=/guardianvpn.net/
+local=/dns.guardmydns.com/
 local=/guardster.com/
 local=/guavi.com/
 local=/guestappearance.us/
@@ -1873,6 +1873,7 @@ local=/hide-me.org/
 local=/hide-my-ip.com/
 local=/hide-my-ip.org/
 local=/hideallip.com/
+local=/hideandgo.com/
 local=/hideapplication.com/
 local=/hidebuzz.com/
 local=/hidebuzz.me/
@@ -2006,10 +2007,12 @@ local=/icitek.com/
 local=/mask.icloud.com/
 local=/mask-h2.icloud.com/
 local=/icpsuawn1zy5amys.com/
+local=/cold.icyinferno.info/
 local=/tienpham.id.vn/
 local=/idcloak.com/
 local=/idealvpn.com/
 local=/curry.idemonch.cl/
+local=/crazygamers737.idigo.org/
 local=/idolproxy.com/
 local=/adguard.shuting.idv.tw/
 local=/remember.use.about-blank.cloaker.ignorelist.com/
@@ -2626,7 +2629,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/

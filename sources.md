@@ -283,8 +283,6 @@ https://raw.githubusercontent.com/ukrainianfilters/lists/main/ads/ads.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/combined/combined.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/privacy/privacy.txt
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-https://raw.githubusercontent.com/xRuffKez/BadHosts/refs/heads/main/badhosts.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-phishing-30day
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current.csv.gz
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv

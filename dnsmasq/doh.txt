@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Sep 2025 16:15 UTC
-# Version: 2025.0908.1615.38
+# Last modified: 09 Sep 2025 00:07 UTC
+# Version: 2025.0909.0007.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1480
+# Number of entries: 1479
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -310,6 +310,7 @@ local=/cubedns.com/
 local=/qual.cuprum.ru/
 local=/dns.cwlys.com/
 local=/dns.cybertonic.tech/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
 local=/dns.d4d.moe/
@@ -538,7 +539,6 @@ local=/doh.eddi.net/
 local=/dns.edgeburnmedia.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -583,7 +583,6 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
-local=/dns.fizz.studio/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
 local=/dns.flightspace.net/
@@ -643,6 +642,7 @@ local=/dns.green-ping.lol/
 local=/dnsblock.grisumedia.de/
 local=/dns.grqu.de/
 local=/dns.guard.io/
+local=/dns.guardmydns.com/
 local=/dns2.guidocioni.it/
 local=/dns.gutwe.in/
 local=/gztech.me/
@@ -938,7 +938,6 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/

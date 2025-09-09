@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Sep 2025 16:15 UTC
-# Version: 2025.0908.1615.38
+# Last modified: 09 Sep 2025 00:07 UTC
+# Version: 2025.0909.0007.21
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1640
+# Number of entries: 1639
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -380,6 +380,7 @@
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
 0.0.0.0 dns.cybertonic.tech
+0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
 0.0.0.0 dns.d4d.moe
@@ -651,7 +652,6 @@
 0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -696,7 +696,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
@@ -756,6 +755,7 @@
 0.0.0.0 dnsblock.grisumedia.de
 0.0.0.0 dns.grqu.de
 0.0.0.0 dns.guard.io
+0.0.0.0 dns.guardmydns.com
 0.0.0.0 dns2.guidocioni.it
 0.0.0.0 dns.gutwe.in
 0.0.0.0 gztech.me
@@ -1066,7 +1066,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net

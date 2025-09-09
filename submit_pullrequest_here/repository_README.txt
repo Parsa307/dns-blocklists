@@ -23,7 +23,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 7. [Fake](#fake) - Protects against internet scams, traps & fakes!
 8. [Pop-Up Ads](#popupads) - Protects against annoying and malicious pop-up ads!
 9. [Threat Intelligence Feeds](#tif) - Increases security significantly! (Recommended) : [Full](#tif) - [Medium](#tifmedium) - [Mini](#tifmini) - [IPs](#tifips)
-10. [Newly Registered Domains - NRD/DGA](#nrd) - Favoured by threat actors to launch malicious campaigns!
+10. [Newly Registered Domains - NRD](#nrd) - Favoured by threat actors to launch malicious campaigns!
 11. [DoH/VPN/TOR/Proxy Bypass](#bypass) - Prevent methods to bypass your DNS! : [Full](#bypass_all) - [DoH only](#bypass_dns) - [DoH IPs](#bypass_ips)
 12. [Safesearch not supported](#safesearch) - Prevent the use of search engines that do not support Safesearch!
 13. [Dynamic DNS](#dyndns) - Protects against the malicious use of dynamic DNS services!
@@ -40,6 +40,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 24. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
 25. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
 26. [Sources](sources.md)
+27. [Contact](#contact)
 
 ### :books: **Multi - Cleans the Internet and protects your privacy!** <a name="overview"></a>
 
@@ -371,19 +372,16 @@ IPv4 lists in [plain IP format](https://raw.githubusercontent.com/hagezi/dns-blo
 
 ---
 
-### :new: **Newly Registered Domains (NRD) - Domain Generation Algorithms (DGA)** <a name="nrd"></a>
+### :new: **Newly Registered Domains (NRD)** <a name="nrd"></a>
 
-A blocklist for blocking domains registered in the last 14 or 30 days (NRDs). Furthermore, separate lists of domains generated with DGA (Domain Generation Algorithms) are also offered, these domains are already included in the NRD lists.                    
-NRDs and DGAs are known to be favoured by threat actors to launch malicious campaigns.
-
-> [!IMPORTANT]
-> This is an external list that is created and maintained by [@xRuffKez](https://github.com/xRuffKez).
-
-**For the lists and further details visit the [corresponding repository](https://github.com/xRuffKez/NRD). The lists in various formats can be found [here](https://github.com/xRuffKez/NRD/tree/main/lists).**
-
+Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. However, relying on NRDs alone risks false positives since legitimate organizations also register new domains for branding or infrastructure.
+     
+The daily NRD data in plain domain format is stored in the [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) with filenames following the pattern `nrd_YYYY-MM-DD.txt`. Each file corresponds to a single day, and the last 31 days of data are available.     
+                       
 > [!TIP]
-> The NRDs per day data is stored in the [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) of my repository, with file names following the pattern `nerd_YYYY-MM-DD.txt`. Each file represents a single day, and data for the last 31 days is available in this format.
-> Daily NRDs can be used for advanced analyses, domain extraction based on specific patterns, or for generating custom NRD lists spanning defined time periods (e.g., 7, 14, 21, or 31 days).
+> Daily NRDs can be used for advanced analyses, domain extraction based on specific patterns, or for generating custom NRD lists spanning defined time periods (e.g., 7, 14, 21, or 31 days).              
+>                             
+> The [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) includes a Bash script named `merge_nrds_days.sh` for compiling NRD lists over a specified number of days. For example, to generate a 7-day NRD list, use the command: `merge_nrds_days.sh 7 /share /share/nrds-7-days.txt`
 
 ---
 
@@ -798,14 +796,6 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 | Pro plus + TIF | `https://dns.dnswarden.com/0000000000000000000000o` | `0000000000000000000000o.dns.dnswarden.com` |
 | Ultimate + TIF | `https://dns.dnswarden.com/0000000000000000000000804` | `0000000000000000000000804.dns.dnswarden.com` |
 
-#### :department_store: **DNSBunker (Germany) - free** <a name="schonetdns"></a>
-
-[DNSBunker (Germany)](https://dnsbunker.org/) uses my Multi Pro++ in combination with my TIF blocklist.
-
-| Blocklists | DNS-over-HTTPS | DNS-over-TLS/QUIC | 
-|:-----------|:---------------|:------------------|
-| Pro plus + TIF | `https://dnsbunker.org/dns-query` | `dnsbunker.org` | 
-
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 
 [OpenBLD.net](https://openbld.net/docs/get-started/third-party-filters/hagezi/) uses my Multi Pro in combination with the TIF blocklist.
@@ -877,3 +867,19 @@ Help and cooperation of any kind are welcome!
 [![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-en-color-5x1-2560x.png)](https://gafam.info)
 
 ---
+
+<div align="center">
+
+[![Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF.svg?style=for-the-badge&logo=Proton-Mail&logoColor=white)](mailto:hagezi@protonmail.com)
+[![Signal](https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/WlBfKuiT1S1GAGwDRpvIJErjM-C3IcjQUQ9HWLzeJKGKTfwlOGhEe7GQRSx05uX0)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/hagezi)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/hagezi)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white)](https://social.tchncs.de/@hagezi)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/hagezi.bsky.social)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/hagezi)
+
+</div>
+
+---
+
+<a name="contact"></a>

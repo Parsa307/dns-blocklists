@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757347680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757376000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Sep 2025 16:08 UTC
-; Version: 2025.0908.1608.55
+; Last modified: 09 Sep 2025 00:00 UTC
+; Version: 2025.0909.0000.53
 ; Syntax: RPZ
-; Number of entries: 21870
+; Number of entries: 21914
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -619,6 +619,8 @@ filmpertutti.bet CNAME .
 *.filmpertutti.bet CNAME .
 guardaserie.bet CNAME .
 *.guardaserie.bet CNAME .
+ilgeniodellostreaming.bet CNAME .
+*.ilgeniodellostreaming.bet CNAME .
 kinox.bet CNAME .
 *.kinox.bet CNAME .
 streamingcommunity.bet CNAME .
@@ -841,6 +843,8 @@ filmpertutti.blog CNAME .
 *.filmpertutti.blog CNAME .
 filmsenzalimiti.blog CNAME .
 *.filmsenzalimiti.blog CNAME .
+kinox.blog CNAME .
+*.kinox.blog CNAME .
 pelisplus.blog CNAME .
 *.pelisplus.blog CNAME .
 streamingcommunity.blog CNAME .
@@ -1699,6 +1703,8 @@ guardarefilm.click CNAME .
 *.guardarefilm.click CNAME .
 guardaserie01.click CNAME .
 *.guardaserie01.click CNAME .
+italia-film.click CNAME .
+*.italia-film.click CNAME .
 nextream.click CNAME .
 *.nextream.click CNAME .
 pelisflix20.click CNAME .
@@ -1969,6 +1975,8 @@ tracker.dm258.cn CNAME .
 *.tracker.dm258.cn CNAME .
 tracker.sjtu.edu.cn CNAME .
 *.tracker.sjtu.edu.cn CNAME .
+hdbits.cn CNAME .
+*.hdbits.cn CNAME .
 tracker.hiyj.cn CNAME .
 *.tracker.hiyj.cn CNAME .
 jshdtv.cn CNAME .
@@ -4735,6 +4743,8 @@ torrents.hikarinokiseki.com CNAME .
 *.torrents.hikarinokiseki.com CNAME .
 histreaming.com CNAME .
 *.histreaming.com CNAME .
+hit2k.com CNAME .
+*.hit2k.com CNAME .
 hitboss.com CNAME .
 *.hitboss.com CNAME .
 tracker.hitpt.com CNAME .
@@ -5011,6 +5021,8 @@ kavkisfile.com CNAME .
 *.kavkisfile.com CNAME .
 kawaiifu.com CNAME .
 *.kawaiifu.com CNAME .
+kawsarit.com CNAME .
+*.kawsarit.com CNAME .
 kayoanime.com CNAME .
 *.kayoanime.com CNAME .
 kedimanga.com CNAME .
@@ -8633,6 +8645,8 @@ hdme.eu CNAME .
 *.hdme.eu CNAME .
 hdonline.eu CNAME .
 *.hdonline.eu CNAME .
+ilgeniodellostreaming.eu CNAME .
+*.ilgeniodellostreaming.eu CNAME .
 indep.eu CNAME .
 *.indep.eu CNAME .
 47.ip-51-68-199.eu CNAME .
@@ -9125,6 +9139,8 @@ gidonlines.fun CNAME .
 *.gidonlines.fun CNAME .
 guardarefilm.fun CNAME .
 *.guardarefilm.fun CNAME .
+guardaserie.fun CNAME .
+*.guardaserie.fun CNAME .
 isohunt.fun CNAME .
 *.isohunt.fun CNAME .
 italiafilm.fun CNAME .
@@ -9273,6 +9289,8 @@ tracker.tritan.gg CNAME .
 *.tracker.tritan.gg CNAME .
 yesmovies.gg CNAME .
 *.yesmovies.gg CNAME .
+mkvcinemas.gift CNAME .
+*.mkvcinemas.gift CNAME .
 vegamovies.gift CNAME .
 *.vegamovies.gift CNAME .
 hdhub4u.gifts CNAME .
@@ -10575,6 +10593,8 @@ istole.it CNAME .
 *.istole.it CNAME .
 isuggeriti.it CNAME .
 *.isuggeriti.it CNAME .
+tracker.justseed.it CNAME .
+*.tracker.justseed.it CNAME .
 live-sport-tv.it CNAME .
 *.live-sport-tv.it CNAME .
 myflixer.it CNAME .
@@ -13217,6 +13237,8 @@ kinogo4ua.net CNAME .
 *.kinogo4ua.net CNAME .
 kinogruz.net CNAME .
 *.kinogruz.net CNAME .
+kinoindian.net CNAME .
+*.kinoindian.net CNAME .
 kinokong.net CNAME .
 *.kinokong.net CNAME .
 kinonadzor.net CNAME .
@@ -14607,8 +14629,6 @@ vegamovies.onl CNAME .
 *.123moviesme.online CNAME .
 1jour1film.online CNAME .
 *.1jour1film.online CNAME .
-aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
-*.aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
 altadefinizione.online CNAME .
 *.altadefinizione.online CNAME .
 altadefinizione-originale.online CNAME .
@@ -15465,6 +15485,8 @@ guardaserie.org CNAME .
 *.guardaserie.org CNAME .
 hadopeer.org CNAME .
 *.hadopeer.org CNAME .
+haitou.org CNAME .
+*.haitou.org CNAME .
 tracker.happyfappy.org CNAME .
 *.tracker.happyfappy.org CNAME .
 hd-space.org CNAME .
@@ -15513,6 +15535,8 @@ herobit.org CNAME .
 *.herobit.org CNAME .
 hhdmovies.org CNAME .
 *.hhdmovies.org CNAME .
+t1.hloli.org CNAME .
+*.t1.hloli.org CNAME .
 icybits.hopto.org CNAME .
 *.icybits.hopto.org CNAME .
 metal-torrents.hopto.org CNAME .
@@ -15547,6 +15571,8 @@ iplusfree.org CNAME .
 *.iplusfree.org CNAME .
 tracker.ipv6tracker.org CNAME .
 *.tracker.ipv6tracker.org CNAME .
+israbox-music.org CNAME .
+*.israbox-music.org CNAME .
 italia-film.org CNAME .
 *.italia-film.org CNAME .
 itmn.org CNAME .
@@ -16961,6 +16987,8 @@ goldhiphop.pro CNAME .
 *.goldhiphop.pro CNAME .
 gomoviz1.pro CNAME .
 *.gomoviz1.pro CNAME .
+gtorrent.pro CNAME .
+*.gtorrent.pro CNAME .
 guardaserietv.pro CNAME .
 *.guardaserietv.pro CNAME .
 happymod.pro CNAME .
@@ -19259,8 +19287,12 @@ gostream.to CNAME .
 *.gostream.to CNAME .
 gounlimited.to CNAME .
 *.gounlimited.to CNAME .
+gtdb.to CNAME .
+*.gtdb.to CNAME .
 gucken.to CNAME .
 *.gucken.to CNAME .
+gustatv.to CNAME .
+*.gustatv.to CNAME .
 h33t.to CNAME .
 *.h33t.to CNAME .
 hd-source.to CNAME .
@@ -19291,12 +19323,18 @@ huramovies.to CNAME .
 *.huramovies.to CNAME .
 hurawatchz.to CNAME .
 *.hurawatchz.to CNAME .
+ibit.to CNAME .
+*.ibit.to CNAME .
 ibooks.to CNAME .
 *.ibooks.to CNAME .
+ilgeniodellostreaming.to CNAME .
+*.ilgeniodellostreaming.to CNAME .
 isohunt.to CNAME .
 *.isohunt.to CNAME .
 isohunts.to CNAME .
 *.isohunts.to CNAME .
+iwatchfreestreams.to CNAME .
+*.iwatchfreestreams.to CNAME .
 kat.to CNAME .
 *.kat.to CNAME .
 katcr.to CNAME .
@@ -19691,6 +19729,8 @@ sparkle.ghostchu-services.top CNAME .
 *.sparkle.ghostchu-services.top CNAME .
 tracker.ghostchu-services.top CNAME .
 *.tracker.ghostchu-services.top CNAME .
+guardaserie.top CNAME .
+*.guardaserie.top CNAME .
 guardaserietv.top CNAME .
 *.guardaserietv.top CNAME .
 haikyuu.top CNAME .
@@ -20551,6 +20591,8 @@ filmstreaming.uk CNAME .
 *.filmstreaming.uk CNAME .
 gstream.uk CNAME .
 *.gstream.uk CNAME .
+api.ipv4online.uk CNAME .
+*.api.ipv4online.uk CNAME .
 kinogo.uk CNAME .
 *.kinogo.uk CNAME .
 cracks.me.uk CNAME .
@@ -21037,6 +21079,8 @@ fmovies.website CNAME .
 *.fmovies.website CNAME .
 fzmovies.website CNAME .
 *.fzmovies.website CNAME .
+guardaserie.website CNAME .
+*.guardaserie.website CNAME .
 instasave.website CNAME .
 *.instasave.website CNAME .
 piratebay.website CNAME .

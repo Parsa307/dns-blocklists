@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757341740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757370420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Sep 2025 14:29 UTC
-; Version: 2025.0908.1429.10
+; Last modified: 08 Sep 2025 22:27 UTC
+; Version: 2025.0908.2227.56
 ; Syntax: RPZ
-; Number of entries: 12738
+; Number of entries: 12760
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2654,6 +2654,8 @@ h-ref.com CNAME .
 *.h-ref.com CNAME .
 h2apz.com CNAME .
 *.h2apz.com CNAME .
+hadsucma.com CNAME .
+*.hadsucma.com CNAME .
 hammerthoritaly.com CNAME .
 *.hammerthoritaly.com CNAME .
 hangeulplay.com CNAME .
@@ -2744,6 +2746,8 @@ indvix.com CNAME .
 *.indvix.com CNAME .
 infy.com CNAME .
 *.infy.com CNAME .
+inshorten.com CNAME .
+*.inshorten.com CNAME .
 inshorturl.com CNAME .
 *.inshorturl.com CNAME .
 insighturl.com CNAME .
@@ -2932,6 +2936,8 @@ linkku-pl.com CNAME .
 *.linkku-pl.com CNAME .
 linkku-pn.com CNAME .
 *.linkku-pn.com CNAME .
+linkku-rp.com CNAME .
+*.linkku-rp.com CNAME .
 linkku-sd.com CNAME .
 *.linkku-sd.com CNAME .
 linkku-st.com CNAME .
@@ -5044,6 +5050,8 @@ wideo.fr CNAME .
 *.wideo.fr CNAME .
 ww7.fr CNAME .
 *.ww7.fr CNAME .
+xn--ka-uja.fr CNAME .
+*.xn--ka-uja.fr CNAME .
 yagoa.fr CNAME .
 *.yagoa.fr CNAME .
 z9.fr CNAME .
@@ -5546,6 +5554,8 @@ gettr.im CNAME .
 *.gettr.im CNAME .
 iii.im CNAME .
 *.iii.im CNAME .
+itm.im CNAME .
+*.itm.im CNAME .
 ity.im CNAME .
 *.ity.im CNAME .
 jug.im CNAME .
@@ -5768,6 +5778,8 @@ ilix.in CNAME .
 *.ilix.in CNAME .
 invy.in CNAME .
 *.invy.in CNAME .
+itiny.in CNAME .
+*.itiny.in CNAME .
 itiy.in CNAME .
 *.itiy.in CNAME .
 itly.in CNAME .
@@ -7372,6 +7384,8 @@ fenditorosiatoter.life CNAME .
 *.fenditorosiatoter.life CNAME .
 gresham.life CNAME .
 *.gresham.life CNAME .
+hellowork.life CNAME .
+*.hellowork.life CNAME .
 heoiberico.life CNAME .
 *.heoiberico.life CNAME .
 heotoc.life CNAME .
@@ -8658,6 +8672,8 @@ go.id.me CNAME .
 *.go.id.me CNAME .
 idmail.me CNAME .
 *.idmail.me CNAME .
+igit.me CNAME .
+*.igit.me CNAME .
 inds.me CNAME .
 *.inds.me CNAME .
 instaurl.me CNAME .
@@ -9046,6 +9062,8 @@ xerp.me CNAME .
 *.xerp.me CNAME .
 xib.me CNAME .
 *.xib.me CNAME .
+xn--ru-via.me CNAME .
+*.xn--ru-via.me CNAME .
 xpixl.me CNAME .
 *.xpixl.me CNAME .
 xt3.me CNAME .
@@ -11534,8 +11552,12 @@ inf.to CNAME .
 *.inf.to CNAME .
 inmusic.to CNAME .
 *.inmusic.to CNAME .
+inreply.to CNAME .
+*.inreply.to CNAME .
 jamp.to CNAME .
 *.jamp.to CNAME .
+jio.to CNAME .
+*.jio.to CNAME .
 kko.to CNAME .
 *.kko.to CNAME .
 hi.kktv.to CNAME .

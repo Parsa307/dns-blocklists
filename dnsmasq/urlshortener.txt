@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Sep 2025 14:29 UTC
-# Version: 2025.0908.1429.10
+# Last modified: 08 Sep 2025 22:27 UTC
+# Version: 2025.0908.2227.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6369
+# Number of entries: 6380
 #
 local=/0.gp/
 local=/00m.in/
@@ -2162,6 +2162,7 @@ local=/h2apz.com/
 local=/h3x.ir/
 local=/haa.su/
 local=/hab.cx/
+local=/hadsucma.com/
 local=/d.halent.cn/
 local=/hammerthoritaly.com/
 local=/han.gl/
@@ -2184,6 +2185,7 @@ local=/healthiermemphis.org/
 local=/heartofthenorthtours.link/
 local=/hec.su/
 local=/st.hellogil.com/
+local=/hellowork.life/
 local=/help-on.com/
 local=/app.helpline-app.com/
 local=/view.helpline-app.com/
@@ -2355,6 +2357,7 @@ local=/shlink-app.ifo.am/
 local=/ift.cx/
 local=/ift.tt/
 local=/ige.li/
+local=/igit.me/
 local=/iherb.co/
 local=/ihnpo.com/
 local=/ihor.se/
@@ -2414,8 +2417,10 @@ local=/inicio.link/
 local=/inkristal777.motorcycles/
 local=/inlnk.ru/
 local=/inmusic.to/
+local=/inreply.to/
 local=/insdr.life/
 local=/inshort.link/
+local=/inshorten.com/
 local=/inshorturl.com/
 local=/insig.ht/
 local=/insighturl.com/
@@ -2478,8 +2483,10 @@ local=/kutt.itarian.com/
 local=/itdad.info/
 local=/iterasi.net/
 local=/iti.bz/
+local=/itiny.in/
 local=/itiy.in/
 local=/itly.in/
+local=/itm.im/
 local=/itop.so/
 local=/itp24.com/
 local=/itrk.it/
@@ -2547,6 +2554,7 @@ local=/jif.li/
 local=/jii.li/
 local=/jijr.com/
 local=/jio.sh/
+local=/jio.to/
 local=/jiourl.com/
 local=/jitupro.com/
 local=/jitupro.org/
@@ -2950,6 +2958,7 @@ local=/linkku-kt.com/
 local=/linkku-ob.com/
 local=/linkku-pl.com/
 local=/linkku-pn.com/
+local=/linkku-rp.com/
 local=/linkku-sd.com/
 local=/linkku-st.com/
 local=/linkku-wt.com/
@@ -6135,8 +6144,10 @@ local=/xmlr.link/
 local=/xn--57h.ws/
 local=/xn--a-4ka.eu/
 local=/xn--k28h.tk/
+local=/xn--ka-uja.fr/
 local=/xn--krz-8na.de/
 local=/xn--ms8h.st/
+local=/xn--ru-via.me/
 local=/xn--s7y86k.jp/
 local=/xn--ugt.cc/
 local=/xn--ul-ksa.eu/
