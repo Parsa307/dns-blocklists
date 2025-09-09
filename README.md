@@ -14,4 +14,4 @@ Blocks adult content.
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt) |
+| Adblock | [GH](https://raw.githubusercontent.com/Parsa307/dns-blocklists/main/adblock/nsfw.txt) | uBlock Origin, Brave (only in aggressive mode), |
