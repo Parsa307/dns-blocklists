@@ -1,6 +1,5 @@
 # Format
 /adblock/*.txt linguist-language=adblock linguist-detectable
-/*.txt linguist-language=fundamental linguist-detectable
 
 # Auto detect text files and perform LF normalization
 * text=auto eol=lf
