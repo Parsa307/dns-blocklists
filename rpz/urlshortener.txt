@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757370420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757400480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Sep 2025 22:27 UTC
-; Version: 2025.0908.2227.56
+; Last modified: 09 Sep 2025 06:48 UTC
+; Version: 2025.0909.0648.15
 ; Syntax: RPZ
-; Number of entries: 12760
+; Number of entries: 12772
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2880,6 +2880,8 @@ linkallstar.com CNAME .
 *.linkallstar.com CNAME .
 linkalp.com CNAME .
 *.linkalp.com CNAME .
+linkasd.com CNAME .
+*.linkasd.com CNAME .
 linkbeton.com CNAME .
 *.linkbeton.com CNAME .
 linkbirdy.com CNAME .
@@ -3054,6 +3056,8 @@ mayaediciones.com CNAME .
 *.mayaediciones.com CNAME .
 mdcr1.com CNAME .
 *.mdcr1.com CNAME .
+mdklt.com CNAME .
+*.mdklt.com CNAME .
 mdmblz.com CNAME .
 *.mdmblz.com CNAME .
 me-qr.com CNAME .
@@ -3178,6 +3182,8 @@ ngnbrand.com CNAME .
 *.ngnbrand.com CNAME .
 ngrid.com CNAME .
 *.ngrid.com CNAME .
+nhbvi.com CNAME .
+*.nhbvi.com CNAME .
 nipnit.com CNAME .
 *.nipnit.com CNAME .
 nogfan.com CNAME .
@@ -6694,6 +6700,8 @@ khtm.ir CNAME .
 *.khtm.ir CNAME .
 l1k.ir CNAME .
 *.l1k.ir CNAME .
+l2o.ir CNAME .
+*.l2o.ir CNAME .
 ln24.ir CNAME .
 *.ln24.ir CNAME .
 lt5.ir CNAME .
@@ -9906,6 +9914,8 @@ dn303.online CNAME .
 *.dn303.online CNAME .
 jagoan-hosting.online CNAME .
 *.jagoan-hosting.online CNAME .
+kliks.online CNAME .
+*.kliks.online CNAME .
 kmcpwe.online CNAME .
 *.kmcpwe.online CNAME .
 medusa88.online CNAME .
@@ -12132,6 +12142,8 @@ kask.us CNAME .
 *.kask.us CNAME .
 kjd.us CNAME .
 *.kjd.us CNAME .
+kristal777.us CNAME .
+*.kristal777.us CNAME .
 kuty.us CNAME .
 *.kuty.us CNAME .
 linkpool.us CNAME .

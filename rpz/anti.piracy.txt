@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757376000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757406060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Sep 2025 00:00 UTC
-; Version: 2025.0909.0000.53
+; Last modified: 09 Sep 2025 08:21 UTC
+; Version: 2025.0909.0821.44
 ; Syntax: RPZ
-; Number of entries: 21914
+; Number of entries: 21966
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -519,6 +519,8 @@ greenbytes.net.bd CNAME .
 *.greenbytes.net.bd CNAME .
 movie.idsbangladesh.net.bd CNAME .
 *.movie.idsbangladesh.net.bd CNAME .
+ismart.net.bd CNAME .
+*.ismart.net.bd CNAME .
 www.kalponik.net.bd CNAME .
 *.www.kalponik.net.bd CNAME .
 okay.net.bd CNAME .
@@ -1335,6 +1337,8 @@ tp.m-team.cc CNAME .
 *.tp.m-team.cc CNAME .
 tracker.m-team.cc CNAME .
 *.tracker.m-team.cc CNAME .
+mmastreams.cc CNAME .
+*.mmastreams.cc CNAME .
 modradar.cc CNAME .
 *.modradar.cc CNAME .
 movcr.cc CNAME .
@@ -3799,6 +3803,8 @@ dhakamovie.com CNAME .
 *.dhakamovie.com CNAME .
 dhakasports.com CNAME .
 *.dhakasports.com CNAME .
+tracker.dhitechnical.com CNAME .
+*.tracker.dhitechnical.com CNAME .
 dht.dhtclub.com CNAME .
 *.dht.dhtclub.com CNAME .
 diamondsrooms.com CNAME .
@@ -5411,6 +5417,8 @@ mkvcage.com CNAME .
 *.mkvcage.com CNAME .
 mlbgamepass.com CNAME .
 *.mlbgamepass.com CNAME .
+mlbshow.com CNAME .
+*.mlbshow.com CNAME .
 mlcboard.com CNAME .
 *.mlcboard.com CNAME .
 mloads.com CNAME .
@@ -5421,6 +5429,8 @@ mma-torrents.com CNAME .
 *.mma-torrents.com CNAME .
 mmosite.com CNAME .
 *.mmosite.com CNAME .
+mmoviesjoy.com CNAME .
+*.mmoviesjoy.com CNAME .
 mobiplanet4m.com CNAME .
 *.mobiplanet4m.com CNAME .
 mod-yolo.com CNAME .
@@ -5481,6 +5491,8 @@ morpheustvhd.com CNAME .
 *.morpheustvhd.com CNAME .
 motivationalhacks.com CNAME .
 *.motivationalhacks.com CNAME .
+movie-torrentz.com CNAME .
+*.movie-torrentz.com CNAME .
 moviebeamz.com CNAME .
 *.moviebeamz.com CNAME .
 movieblogarea.com CNAME .
@@ -5723,6 +5735,8 @@ nglink.com CNAME .
 *.nglink.com CNAME .
 ngprovider.com CNAME .
 *.ngprovider.com CNAME .
+nhlbite.com CNAME .
+*.nhlbite.com CNAME .
 nightmarestresser.com CNAME .
 *.nightmarestresser.com CNAME .
 niktu.com CNAME .
@@ -9471,6 +9485,8 @@ diablotorrent.hu CNAME .
 *.diablotorrent.hu CNAME .
 impulsive.hu CNAME .
 *.impulsive.hu CNAME .
+moobs.hu CNAME .
+*.moobs.hu CNAME .
 moviesite.hu CNAME .
 *.moviesite.hu CNAME .
 ncore.hu CNAME .
@@ -9909,6 +9925,8 @@ legittorrents.info CNAME .
 *.legittorrents.info CNAME .
 lermangasonline.info CNAME .
 *.lermangasonline.info CNAME .
+limetorrents.info CNAME .
+*.limetorrents.info CNAME .
 lk21official.info CNAME .
 *.lk21official.info CNAME .
 lonkero.info CNAME .
@@ -10115,6 +10133,8 @@ nyaa.iss.ink CNAME .
 *.nyaa.iss.ink CNAME .
 kinox.ink CNAME .
 *.kinox.ink CNAME .
+megakino.ink CNAME .
+*.megakino.ink CNAME .
 pahe.ink CNAME .
 *.pahe.ink CNAME .
 pelisflix20.ink CNAME .
@@ -13457,6 +13477,10 @@ neobd.net CNAME .
 *.neobd.net CNAME .
 netcomisp.net CNAME .
 *.netcomisp.net CNAME .
+netstress.net CNAME .
+*.netstress.net CNAME .
+netvizmedia.net CNAME .
+*.netvizmedia.net CNAME .
 networkstresser.net CNAME .
 *.networkstresser.net CNAME .
 new-line.net CNAME .
@@ -15751,10 +15775,14 @@ mma-tracker.org CNAME .
 *.mma-tracker.org CNAME .
 mob.org CNAME .
 *.mob.org CNAME .
+mobilesites.org CNAME .
+*.mobilesites.org CNAME .
 mobilism.org CNAME .
 *.mobilism.org CNAME .
 mononoke-bt.org CNAME .
 *.mononoke-bt.org CNAME .
+monova.org CNAME .
+*.monova.org CNAME .
 moreigr.org CNAME .
 *.moreigr.org CNAME .
 moriyashrine.org CNAME .
@@ -15769,6 +15797,8 @@ movie4u.org CNAME .
 *.movie4u.org CNAME .
 moviefiles.org CNAME .
 *.moviefiles.org CNAME .
+moviefox.org CNAME .
+*.moviefox.org CNAME .
 movieheaven.org CNAME .
 *.movieheaven.org CNAME .
 movieparadise.org CNAME .
@@ -15813,6 +15843,8 @@ myspleen.org CNAME .
 *.myspleen.org CNAME .
 nattawat.org CNAME .
 *.nattawat.org CNAME .
+naturalbd.org CNAME .
+*.naturalbd.org CNAME .
 neoboard.org CNAME .
 *.neoboard.org CNAME .
 kpgtorrent.neocities.org CNAME .
@@ -18439,6 +18471,8 @@ tracker.lyretain.site CNAME .
 *.tracker.lyretain.site CNAME .
 m4ckd0ge-repacks.site CNAME .
 *.m4ckd0ge-repacks.site CNAME .
+melomovie.site CNAME .
+*.melomovie.site CNAME .
 mobiletvshows.site CNAME .
 *.mobiletvshows.site CNAME .
 modestme.site CNAME .
@@ -18451,6 +18485,8 @@ movierr.site CNAME .
 *.movierr.site CNAME .
 mp3flac.site CNAME .
 *.mp3flac.site CNAME .
+mp3juicemusic.site CNAME .
+*.mp3juicemusic.site CNAME .
 mp3juices.site CNAME .
 *.mp3juices.site CNAME .
 pelisflix20.site CNAME .
@@ -19359,6 +19395,8 @@ kinoz.to CNAME .
 *.kinoz.to CNAME .
 kisstvshow.to CNAME .
 *.kisstvshow.to CNAME .
+laden.to CNAME .
+*.laden.to CNAME .
 lesen.to CNAME .
 *.lesen.to CNAME .
 letsupload.to CNAME .
@@ -19385,12 +19423,18 @@ mangafire.to CNAME .
 *.mangafire.to CNAME .
 mazepa.to CNAME .
 *.mazepa.to CNAME .
+mega-stream.to CNAME .
+*.mega-stream.to CNAME .
+meteor-stresser.to CNAME .
+*.meteor-stresser.to CNAME .
 mflix.to CNAME .
 *.mflix.to CNAME .
 mlbstreams.to CNAME .
 *.mlbstreams.to CNAME .
 mobdro.to CNAME .
 *.mobdro.to CNAME .
+monova.to CNAME .
+*.monova.to CNAME .
 movie.to CNAME .
 *.movie.to CNAME .
 movie-blog.to CNAME .
@@ -19413,6 +19457,8 @@ moviestars.to CNAME .
 *.moviestars.to CNAME .
 movieworld.to CNAME .
 *.movieworld.to CNAME .
+mp3juice.to CNAME .
+*.mp3juice.to CNAME .
 mp3juices.to CNAME .
 *.mp3juices.to CNAME .
 mp3skulls.to CNAME .
@@ -20195,6 +20241,10 @@ m4uhd.tv CNAME .
 *.m4uhd.tv CNAME .
 mafiamedia.tv CNAME .
 *.mafiamedia.tv CNAME .
+mangakakalot.tv CNAME .
+*.mangakakalot.tv CNAME .
+manganelo.tv CNAME .
+*.manganelo.tv CNAME .
 mapple.tv CNAME .
 *.mapple.tv CNAME .
 megaflix.tv CNAME .
@@ -21723,6 +21773,8 @@ mythicalstress.xyz CNAME .
 *.mythicalstress.xyz CNAME .
 nbastreams.xyz CNAME .
 *.nbastreams.xyz CNAME .
+networkstress.xyz CNAME .
+*.networkstress.xyz CNAME .
 neuf.xyz CNAME .
 *.neuf.xyz CNAME .
 noblockaabbdd-xcktb.xyz CNAME .

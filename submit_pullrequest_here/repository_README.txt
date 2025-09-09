@@ -382,6 +382,9 @@ The daily NRD data in plain domain format is stored in the [share directory](htt
 > Daily NRDs can be used for advanced analyses, domain extraction based on specific patterns, or for generating custom NRD lists spanning defined time periods (e.g., 7, 14, 21, or 31 days).              
 >                             
 > The [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) includes a Bash script named `merge_nrds_days.sh` for compiling NRD lists over a specified number of days. For example, to generate a 7-day NRD list, use the command: `merge_nrds_days.sh 7 /share /share/nrds-7-days.txt`
+                
+> [!NOTE]
+> Plans are underway to provide combined Newly Registered Domain (NRD) lists for multiple time periods, including 7, 14, 21, and 31 days.
 
 ---
 

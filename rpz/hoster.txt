@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757370420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757400420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Sep 2025 22:27 UTC
-; Version: 2025.0908.2227.31
+; Last modified: 09 Sep 2025 06:47 UTC
+; Version: 2025.0909.0647.51
 ; Syntax: RPZ
-; Number of entries: 4254
+; Number of entries: 4256
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1407,6 +1407,8 @@ meilleurforum.com CNAME .
 *.meilleurforum.com CNAME .
 memoryislife.com CNAME .
 *.memoryislife.com CNAME .
+merchats.com CNAME .
+*.merchats.com CNAME .
 mforos.com CNAME .
 *.mforos.com CNAME .
 miarroba.com CNAME .

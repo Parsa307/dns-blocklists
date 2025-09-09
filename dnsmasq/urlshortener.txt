@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Sep 2025 22:27 UTC
-# Version: 2025.0908.2227.56
+# Last modified: 09 Sep 2025 06:48 UTC
+# Version: 2025.0909.0648.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6380
+# Number of entries: 6386
 #
 local=/0.gp/
 local=/00m.in/
@@ -2681,6 +2681,7 @@ local=/klickhier.at/
 local=/klik.best/
 local=/klik.gg/
 local=/klik.top/
+local=/kliks.online/
 local=/kliksaja.me/
 local=/kliksaya.co/
 local=/klink.red/
@@ -2715,6 +2716,7 @@ local=/kr.pe/
 local=/kr3w.de/
 local=/kratsi.cz/
 local=/krazy.la/
+local=/kristal777.us/
 local=/kro.kr/
 local=/krohne.link/
 local=/krpcgvm.wiki/
@@ -2757,6 +2759,7 @@ local=/l1nx.ai/
 local=/l24.im/
 local=/l2f.ca/
 local=/l2g.hu/
+local=/l2o.ir/
 local=/l338.co/
 local=/l8.nu/
 local=/l8r.it/
@@ -2891,6 +2894,7 @@ local=/linkaku.pro/
 local=/linkallstar.com/
 local=/linkalp.com/
 local=/linkapp.click/
+local=/linkasd.com/
 local=/linkasli.pro/
 local=/linkb.ee/
 local=/linkbear.me/
@@ -3270,6 +3274,7 @@ local=/mck.co/
 local=/mcni.it/
 local=/mcys.co/
 local=/mdcr1.com/
+local=/mdklt.com/
 local=/mdl.town/
 local=/mdl29.net/
 local=/mdmblz.com/
@@ -3600,6 +3605,7 @@ local=/ng.je/
 local=/nglink.id/
 local=/ngnbrand.com/
 local=/ngrid.com/
+local=/nhbvi.com/
 local=/nicou.ch/
 local=/nie.ge/
 local=/nig.gr/

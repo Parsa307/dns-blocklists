@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Sep 2025 22:27 UTC
-# Version: 2025.0908.2227.31
+# Last modified: 09 Sep 2025 06:47 UTC
+# Version: 2025.0909.0647.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2127
+# Number of entries: 2128
 #
 local=/000a.de/
 local=/000free.us/
@@ -1381,6 +1381,7 @@ local=/megabyet.net/
 local=/meilleurforum.com/
 local=/memoryislife.com/
 local=/menstudent.shop/
+local=/merchats.com/
 local=/mex.tl/
 local=/mforos.com/
 local=/miarroba.com/
