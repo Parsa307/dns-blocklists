@@ -14,5 +14,4 @@ Blocks adult content.
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nsfw.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nsfw.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
-| DNSMasq | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/nsfw.txt) |
+| Adblock | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt) |
