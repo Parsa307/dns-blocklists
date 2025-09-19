@@ -4,7 +4,7 @@
 
 Blocks adult content.
 
-**Entries:** 122555 compressed domains
+**Entries:** 122554 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
